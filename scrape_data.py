@@ -66,7 +66,7 @@ for ipage in range(5):
         name_list.append(item.text)
     
     for name in name_list:
-        print('currently processing: \"' + name + '\"')
+        print('  processing: \"' + name + '\"')
         sys.stdout.flush()
         
         # open file
