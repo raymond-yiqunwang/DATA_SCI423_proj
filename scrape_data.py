@@ -66,12 +66,15 @@ for ipage in range(5):
         name_list.append(item.text)
     
     for name in name_list:
-        print('  processing: \"' + name + '\"')
+        # preprocessing
+        fname = name.replace(" ", "_")
+        fname = fname.replace("/", "_")
+        fname = fname.replace(",", "")
+        if len(fname) > 200: fname = fname[:200]+"..." # in case length of file name exceeds Linux limit (255B)
+        print('  processing: \"' + fname + '\"')
         sys.stdout.flush()
         
         # open file
-        fname = name
-        if len(fname) > 240: fname = fname[:240] # in case length of file name exceeds Linux limit
         f = open("data/" + fname + ".csv", 'w')
         file_names.append(fname)
         
