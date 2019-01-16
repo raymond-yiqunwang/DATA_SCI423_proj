@@ -1,0 +1,21 @@
+,Metric,English,Comments
+Density ,7.86 g/cc,0.284 lb/in³,
+"Hardness, Brinell ",334,334,Estimated from Rockwell C value for Brinell test with 3000 kg load/10 mm diameter ball
+"Hardness, Rockwell C ",36,36,
+"Tensile Strength, Ultimate ",966 MPa,140000 psi,
+Elongation at Break ,15 %,15 %,
+"Carbon, C ",0.11 %,0.11 %,
+"Iron, Fe ",94 %,94 %,as balance
+"Molybdenum, Mo ",0.12 %,0.12 %,
+"Phosphorous, P ",0.013 %,0.013 %,
+"Sulfur, S ",0.013 %,0.013 %,
+"Hardness, Knoop ",363,363,Estimated from Rockwell C value.
+"Hardness, Vickers ",349,349,Estimated from Rockwell C value.
+"Tensile Strength, Yield ","897 MPa
+@Strain 0.200 %","130000 psi
+@Strain 0.200 %",
+Reduction of Area ,40 %,40 %,
+"Chromium, Cr ",1.2 %,1.2 %,
+"Manganese, Mn ",0.55 %,0.55 %,
+"Nickel, Ni ",3.3 %,3.3 %,
+"Silicon, Si ",0.25 %,0.25 %,

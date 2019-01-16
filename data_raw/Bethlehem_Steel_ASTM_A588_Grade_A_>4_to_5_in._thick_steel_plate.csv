@@ -1,0 +1,22 @@
+,Metric,English,Comments
+Density ,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
+"Hardness, Brinell ",139,139,based on conversion from tensile strength
+Tensile Strength at Break ,>= 462 MPa,>= 67000 psi,
+Elongation at Break ,>= 19 %,>= 19 %,"in 2"", > 24"" W"
+"Carbon, C ",<= 0.19 %,<= 0.19 %,
+"Copper, Cu ",0.25 - 0.40 %,0.25 - 0.40 %,
+"Manganese, Mn ",0.80 - 1.25 %,0.80 - 1.25 %,
+"Phosphorous, P ",<= 0.040 %,<= 0.040 %,
+"Sulfur, S ",<= 0.050 %,<= 0.050 %,
+"Hardness, Rockwell B ",76,76,based on conversion from tensile strength
+"Tensile Strength, Yield ",>= 317 MPa,>= 46000 psi,
+"Bend Radius, Minimum ",1.0 t,1.0 t,"≤3/4"" W; ASTM A6 PARA. S14"
+ ,1.5 t,1.5 t,">3/4 to 1"" W; ASTM A6 PARA. S14"
+ ,2.0 t,2.0 t,">1 to 1-1/2"" W; ASTM A6 PARA. S14"
+ ,2.5 t,2.5 t,">1-1/2 to 2"" W; ASTM A6 PARA. S14"
+ ,3.0 t,3.0 t,">2"" W; ASTM A6 PARA. S14"
+"Chromium, Cr ",0.40 - 0.65 %,0.40 - 0.65 %,
+"Iron, Fe ",>= 96.27 %,>= 96.27 %,
+"Nickel, Ni ",<= 0.40 %,<= 0.40 %,
+"Silicon, Si ",0.30 - 0.65 %,0.30 - 0.65 %,
+"Vanadium, V ",0.020 - 0.10 %,0.020 - 0.10 %,

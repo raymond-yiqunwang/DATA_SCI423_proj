@@ -1,0 +1,38 @@
+,Metric,English,Comments
+"Hardness, Brinell ",217,217,maximum hot rolled supplied
+ ,200 - 350,200 - 350,63 mm diameter. Core strength in hardened condition.
+ ,"300 - 405
+@Diameter 11.0 mm","300 - 405
+@Diameter 0.433 in","Core strength in hardened condition,"
+"Tensile Strength, Ultimate  ","690 - 980 MPa
+@Diameter 63.0 mm","100000 - 142000 psi
+@Diameter 2.48 in",Rm. Core strength in hardened condition.
+ ,"980 - 1320 MPa
+@Diameter 11.0 mm","142000 - 191000 psi
+@Diameter 0.433 in",Rm. Core strength in hardened condition.
+Elongation at Break ,>= 11 %,>= 11 %,63 mm diameter. Core strength in hardened condition.
+ ,">= 8.0 %
+@Diameter 11.0 mm",">= 8.0 %
+@Diameter 0.433 in","Core strength in hardened condition,"
+Impact Test ,30.0 J,22.1 ft-lb,63 mm diameter. Core strength in hardened condition.
+"Carbon, C ",0.15 %,0.15 %,
+"Iron, Fe ",96.6 %,96.6 %,
+"Molybdenum, Mo ",1.2 %,1.2 %,
+"Silicon, Si ",0.25 %,0.25 %,
+"Hardness, Rockwell C ",<= 25,<= 25,30 mm from the quenched end.
+ ,21 - 35,21 - 35,10 mm from the quenched end.
+ ,55,55,tempering temperature 300°C.
+ ,64,64,tempering temperature 100°C.
+"Tensile Strength, Yield  ",">= 440 MPa
+@Diameter 63.0 mm",">= 63800 psi
+@Diameter 2.48 in",Re. Core strength in hardened condition.
+ ,">= 640 MPa
+@Diameter 11.0 mm",">= 92800 psi
+@Diameter 0.433 in",Re. Core strength in hardened condition.
+Reduction of Area ,>= 30 %,>= 30 %,"63 mm diameter, Core strength in hardened condition,"
+ ,">= 30 %
+@Diameter 11.0 mm",">= 30 %
+@Diameter 0.433 in","Core strength in hardened condition,"
+"Chromium, Cr ",0.80 %,0.80 %,
+"Manganese, Mn ",0.90 %,0.90 %,
+"Nickel, Ni ",0.10 %,0.10 %,

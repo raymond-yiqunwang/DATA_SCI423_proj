@@ -1,0 +1,89 @@
+,Metric,English,Comments
+Density ,8.00 g/cc,0.289 lb/in³,
+"Hardness, Vickers ",160,160,
+"Tensile Strength, Yield ","400 MPa
+@Strain 0.200 %","58000 psi
+@Strain 0.200 %",MIG TIG
+ ,"340 MPa
+@Strain 0.200 %,
+Temperature 400 °C","49300 psi
+@Strain 0.200 %,
+Temperature 752 °F",
+ ,"400 MPa
+@Strain 0.200 %,
+Temperature 20.0 °C","58000 psi
+@Strain 0.200 %,
+Temperature 68.0 °F",
+Reduction of Area ,73 %,73 %,
+Charpy Impact ,80.0 J,59.0 ft-lb,MIG TIG
+ ,"50.0 J
+@Temperature -196 °C","36.9 ft-lb
+@Temperature -321 °F",
+ ,"150 J
+@Temperature 20.0 °C","111 ft-lb
+@Temperature 68.0 °F",
+"CTE, linear ","18.0 µm/m-°C
+@Temperature 20.0 - 400 °C","10.0 µin/in-°F
+@Temperature 68.0 - 752 °F",
+"Carbon, C ",0.030 %,0.030 %,AIM
+ ,0.030 %,0.030 %,MIG welding
+ ,0.030 %,0.030 %,SAW
+"Cobalt, Co ",<= 0.0500 %,<= 0.0500 %,AIM
+"Manganese, Mn ",0.90 %,0.90 %,SAW
+ ,1.2 %,1.2 %,MIG welding
+ ,1.3 %,1.3 %,AIM
+"Nickel, Ni ",9.5 %,9.5 %,AIM
+ ,9.5 %,9.5 %,MIG welding
+ ,9.5 %,9.5 %,SAW
+"Nitrogen, N ",0.050 %,0.050 %,MIG welding
+ ,0.050 %,0.050 %,SAW
+ ,<= 0.0700 %,<= 0.0700 %,AIM
+"Silicon, Si ",0.40 %,0.40 %,AIM
+ ,0.40 %,0.40 %,MIG welding
+ ,0.50 %,0.50 %,SAW
+"Tensile Strength, Ultimate ",600 MPa,87000 psi,MIG TIG
+ ,"560 MPa
+@Temperature 400 °C","81200 psi
+@Temperature 752 °F",
+ ,"610 MPa
+@Temperature 20.0 °C","88500 psi
+@Temperature 68.0 °F",
+Elongation at Break ,35 %,35 %,MIG TIG
+ ,"28 %
+@Temperature 400 °C","28 %
+@Temperature 752 °F",
+ ,"42 %
+@Temperature 20.0 °C","42 %
+@Temperature 68.0 °F",
+Creep Strength  ,"50.0 MPa
+@Temperature 700 °C","7250 psi
+@Temperature 1290 °F",
+ ,"135 MPa
+@Temperature 600 °C","19600 psi
+@Temperature 1110 °F",
+Thermal Conductivity  ,"13.0 W/m-K
+@Temperature 20.0 °C","90.2 BTU-in/hr-ft²-°F
+@Temperature 68.0 °F",
+ ,"14.0 W/m-K
+@Temperature 100 °C","97.2 BTU-in/hr-ft²-°F
+@Temperature 212 °F",
+ ,"16.0 W/m-K
+@Temperature 300 °C","111 BTU-in/hr-ft²-°F
+@Temperature 572 °F",
+ ,"18.0 W/m-K
+@Temperature 500 °C","125 BTU-in/hr-ft²-°F
+@Temperature 932 °F",
+"Chromium, Cr ",19 %,19 %,SAW
+ ,19.5 %,19.5 %,AIM
+ ,19.5 %,19.5 %,MIG welding
+"Copper, Cu ",<= 0.100 %,<= 0.100 %,
+"Molybdenum, Mo ",<= 0.300 %,<= 0.300 %,AIM
+"Niobium, Nb (Columbium, Cb) ",0.50 %,0.50 %,SAW
+ ,0.55 %,0.55 %,MIG welding
+ ,>= 12.0 %,>= 12.0 %,AIM
+"Phosphorous, P ",0.013 %,0.013 %,MIG welding
+ ,0.020 %,0.020 %,SAW
+ ,<= 0.0250 %,<= 0.0250 %,AIM
+"Sulfur, S ",0.013 %,0.013 %,MIG welding
+ ,0.013 %,0.013 %,SAW
+ ,<= 0.0150 %,<= 0.0150 %,AIM

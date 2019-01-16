@@ -1,0 +1,17 @@
+,Metric,English,Comments
+"Hardness, Brinell ",210,210,
+"Tensile Strength, Yield ",575 MPa,83400 psi,
+Charpy Impact  ,"55.0 J
+@Temperature 20.0 °C","40.6 ft-lb
+@Temperature 68.0 °F",
+ ,"55.0 J
+@Temperature -40.0 °C","40.6 ft-lb
+@Temperature -40.0 °F",
+"Carbon, C ",<= 0.0300 %,<= 0.0300 %,
+"Manganese, Mn ",0.80 %,0.80 %,
+"Nickel, Ni ",12 %,12 %,
+"Tensile Strength, Ultimate ",575 MPa,83400 psi,
+Elongation at Break ,37 %,37 %,
+"Chromium, Cr ",18 %,18 %,
+"Molybdenum, Mo ",2.8 %,2.8 %,
+"Silicon, Si ",0.80 %,0.80 %,

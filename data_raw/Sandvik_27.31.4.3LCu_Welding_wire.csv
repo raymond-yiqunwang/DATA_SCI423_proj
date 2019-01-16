@@ -1,0 +1,42 @@
+,Metric,English,Comments
+Density ,7.90 g/cc,0.285 lb/in³,
+"Hardness, Vickers ",160,160,
+"Tensile Strength, Yield ","360 MPa
+@Strain 0.200 %","52200 psi
+@Strain 0.200 %",
+Reduction of Area ,65 %,65 %,
+"CTE, linear ","17.0 µm/m-°C
+@Temperature 20.0 - 400 °C","9.44 µin/in-°F
+@Temperature 68.0 - 752 °F",
+"Carbon, C ",<= 0.0200 %,<= 0.0200 %,Fill
+ ,<= 0.0200 %,<= 0.0200 %,All-weld metal
+"Copper, Cu ",1.0 %,1.0 %,Fill
+ ,1.0 %,1.0 %,All-weld metal
+"Molybdenum, Mo ",3.5 %,3.5 %,Fill
+ ,3.5 %,3.5 %,All-weld metal
+"Phosphorous, P ",<= 0.0150 %,<= 0.0150 %,Fill
+ ,<= 0.0150 %,<= 0.0150 %,All-weld metal
+"Sulfur, S ",<= 0.0100 %,<= 0.0100 %,Fill
+ ,<= 0.0100 %,<= 0.0100 %,All-weld metal
+"Tensile Strength, Ultimate ",540 MPa,78300 psi,
+Elongation at Break ,35 %,35 %,
+Thermal Conductivity  ,"11.0 W/m-K
+@Temperature 20.0 °C","76.3 BTU-in/hr-ft²-°F
+@Temperature 68.0 °F",
+ ,"13.0 W/m-K
+@Temperature 100 °C","90.2 BTU-in/hr-ft²-°F
+@Temperature 212 °F",
+ ,"16.0 W/m-K
+@Temperature 300 °C","111 BTU-in/hr-ft²-°F
+@Temperature 572 °F",
+ ,"17.0 W/m-K
+@Temperature 500 °C","118 BTU-in/hr-ft²-°F
+@Temperature 932 °F",
+"Chromium, Cr ",27 %,27 %,Fill
+ ,27 %,27 %,All-weld metal
+"Manganese, Mn ",1.7 %,1.7 %,Fill
+ ,1.7 %,1.7 %,All-weld metal
+"Nickel, Ni ",31 %,31 %,Fill
+ ,31 %,31 %,All-weld metal
+"Silicon, Si ",<= 0.0200 %,<= 0.0200 %,Fill
+ ,0.15 %,0.15 %,All-weld metal

@@ -1,0 +1,26 @@
+,Metric,English,Comments
+"Tensile Strength, Ultimate ",650 MPa,94300 psi,
+Elongation at Break ,30 %,30 %,
+Charpy Impact ,70.0 J,51.6 ft-lb,
+"Carbon, C ",<= 0.0200 %,<= 0.0200 %,Filler metal
+ ,<= 0.0200 %,<= 0.0200 %,All-weld metal
+"Manganese, Mn ",1.5 %,1.5 %,Filler metal
+ ,1.6 %,1.6 %,All-weld metal
+"Nickel, Ni ",17 %,17 %,Filler metal
+ ,17 %,17 %,All-weld metal
+"Phosphorous, P ",<= 0.0250 %,<= 0.0250 %,Filler metal
+ ,<= 0.0250 %,<= 0.0250 %,All-weld metal
+"Sulfur, S ",<= 0.0150 %,<= 0.0150 %,Filler metal
+ ,<= 0.0150 %,<= 0.0150 %,All-weld metal
+"Tensile Strength, Yield ","450 MPa
+@Strain 0.200 %","65300 psi
+@Strain 0.200 %",
+Reduction of Area ,60 %,60 %,
+"Chromium, Cr ",24 %,24 %,All-weld metal
+ ,24.5 %,24.5 %,Filler metal
+"Molybdenum, Mo ",2.8 %,2.8 %,Filler metal
+ ,2.8 %,2.8 %,All-weld metal
+"Nitrogen, N ",0.12 %,0.12 %,All-weld metal
+ ,0.13 %,0.13 %,Filler metal
+"Silicon, Si ",0.40 %,0.40 %,Filler metal
+ ,0.40 %,0.40 %,All-weld metal

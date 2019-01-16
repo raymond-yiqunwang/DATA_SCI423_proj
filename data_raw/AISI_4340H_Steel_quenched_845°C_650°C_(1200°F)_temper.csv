@@ -1,0 +1,54 @@
+,Metric,English,Comments
+Density ,7.85 g/cc,0.284 lb/in³,
+"Hardness, Knoop ",311,311,Converted from Rockwell C hardness.
+"Hardness, Vickers ",301,301,Converted from Rockwell C hardness.
+Bulk Modulus ,159 GPa,23100 ksi,Estimated from elastic modulus
+Machinability ,50 %,50 %,annealed and cold drawn. Based on 100% machinability for AISI 1212 steel.
+Electrical Resistivity  ,"0.0000248 ohm-cm
+@Temperature 20.0 °C","0.0000248 ohm-cm
+@Temperature 68.0 °F",
+ ,"0.0000298 ohm-cm
+@Temperature 100 °C","0.0000298 ohm-cm
+@Temperature 212 °F",
+ ,"0.0000552 ohm-cm
+@Temperature 400 °C","0.0000552 ohm-cm
+@Temperature 752 °F",
+ ,"0.0000797 ohm-cm
+@Temperature 600 °C","0.0000797 ohm-cm
+@Temperature 1110 °F",
+"CTE, linear  ","10.4 µm/m-°C
+@Temperature 20.0 °C","5.78 µin/in-°F
+@Temperature 68.0 °F","specimen oil hardened, 630°C (1110°F) temper"
+ ,"11.2 µm/m-°C
+@Temperature 20.0 °C","6.22 µin/in-°F
+@Temperature 68.0 °F","specimen oil hardened, 630°C (1110°F) temper"
+ ,"12.4 µm/m-°C
+@Temperature 20.0 °C","6.89 µin/in-°F
+@Temperature 68.0 °F","specimen oil hardened, 630°C (1110°F) temper"
+ ,"12.4 µm/m-°C
+@Temperature 250 °C","6.89 µin/in-°F
+@Temperature 482 °F",
+ ,"13.6 µm/m-°C
+@Temperature 250 °C","7.56 µin/in-°F
+@Temperature 482 °F","specimen oil hardened, 630°C (1110°F) temper"
+ ,"13.7 µm/m-°C
+@Temperature 500 °C","7.61 µin/in-°F
+@Temperature 932 °F",
+ ,"14.3 µm/m-°C
+@Temperature 500 °C","7.94 µin/in-°F
+@Temperature 932 °F","specimen oil hardened, 630°C (1110°F) temper"
+Thermal Conductivity ,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
+"Carbon, C ",0.37 - 0.44 %,0.37 - 0.44 %,
+"Iron, Fe ",95.035 - 96.53 %,95.035 - 96.53 %,As remainder
+"Molybdenum, Mo ",0.20 - 0.30 %,0.20 - 0.30 %,
+"Phosphorous, P ",<= 0.035 %,<= 0.035 %,
+"Sulfur, S ",<= 0.040 %,<= 0.040 %,
+"Hardness, Rockwell C ",30,30,
+Modulus of Elasticity ,200 GPa,29000 ksi,AISI 4340
+Poissons Ratio ,0.29,0.29,Typical for steel
+Shear Modulus ,78.0 GPa,11300 ksi,Estimated from elastic modulus
+Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical 4000 series steel
+"Chromium, Cr ",0.65 - 0.95 %,0.65 - 0.95 %,
+"Manganese, Mn ",0.55 - 0.90 %,0.55 - 0.90 %,
+"Nickel, Ni ",1.55 - 2.0 %,1.55 - 2.0 %,
+"Silicon, Si ",0.15 - 0.30 %,0.15 - 0.30 %,

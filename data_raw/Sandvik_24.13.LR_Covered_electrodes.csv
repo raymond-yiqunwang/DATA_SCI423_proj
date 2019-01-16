@@ -1,0 +1,18 @@
+,Metric,English,Comments
+"Hardness, Brinell ",210,210,
+"Tensile Strength, Yield ","480 MPa
+@Strain 0.200 %","69600 psi
+@Strain 0.200 %",
+Charpy Impact  ,"50.0 J
+@Temperature -20.0 °C","36.9 ft-lb
+@Temperature -4.00 °F",
+ ,"55.0 J
+@Temperature 20.0 °C","40.6 ft-lb
+@Temperature 68.0 °F",
+"Carbon, C ",0.020 %,0.020 %,
+"Manganese, Mn ",0.80 %,0.80 %,
+"Silicon, Si ",1.0 %,1.0 %,
+"Tensile Strength, Ultimate ",560 MPa,81200 psi,
+Elongation at Break ,35 %,35 %,
+"Chromium, Cr ",23 %,23 %,
+"Nickel, Ni ",12.5 %,12.5 %,

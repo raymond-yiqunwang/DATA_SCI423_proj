@@ -1,0 +1,301 @@
+,Metric,English,Comments
+Density ,7.90 g/cc,0.285 lb/in³,
+"Hardness, Brinell ",<= 90.0,<= 90.0,Annealed
+"Tensile Strength, Yield  ",">= 40.0 MPa
+@Strain 1.00 %",">= 5800 psi
+@Strain 1.00 %",Annealed
+ ,">= 210 MPa
+@Strain 0.200 %",">= 30500 psi
+@Strain 0.200 %",Annealed
+ ,">= 600 MPa
+@Strain 0.200 %",">= 87000 psi
+@Strain 0.200 %",Cold worked
+ ,">= 95.0 MPa
+@Strain 0.200 %,
+Temperature 600 °C",">= 13800 psi
+@Strain 0.200 %,
+Temperature 1110 °F",
+ ,">= 100 MPa
+@Strain 0.200 %,
+Temperature 550 °C",">= 14500 psi
+@Strain 0.200 %,
+Temperature 1020 °F",
+ ,">= 105 MPa
+@Strain 0.200 %,
+Temperature 500 °C",">= 15200 psi
+@Strain 0.200 %,
+Temperature 932 °F",
+ ,">= 110 MPa
+@Strain 0.200 %,
+Temperature 450 °C",">= 16000 psi
+@Strain 0.200 %,
+Temperature 842 °F",
+ ,">= 115 MPa
+@Strain 0.200 %,
+Temperature 400 °C",">= 16700 psi
+@Strain 0.200 %,
+Temperature 752 °F",
+ ,">= 120 MPa
+@Strain 0.200 %,
+Temperature 350 °C",">= 17400 psi
+@Strain 0.200 %,
+Temperature 662 °F",
+ ,">= 120 MPa
+@Strain 1.00 %,
+Temperature 600 °C",">= 17400 psi
+@Strain 1.00 %,
+Temperature 1110 °F",
+ ,">= 125 MPa
+@Strain 0.200 %,
+Temperature 300 °C",">= 18100 psi
+@Strain 0.200 %,
+Temperature 572 °F",
+ ,">= 125 MPa
+@Strain 1.00 %,
+Temperature 550 °C",">= 18100 psi
+@Strain 1.00 %,
+Temperature 1020 °F",
+ ,">= 130 MPa
+@Strain 1.00 %,
+Temperature 500 °C",">= 18900 psi
+@Strain 1.00 %,
+Temperature 932 °F",
+ ,">= 130 MPa
+@Strain 0.200 %,
+Temperature 250 °C",">= 18900 psi
+@Strain 0.200 %,
+Temperature 482 °F",
+ ,">= 135 MPa
+@Strain 1.00 %,
+Temperature 450 °C",">= 19600 psi
+@Strain 1.00 %,
+Temperature 842 °F",
+ ,">= 140 MPa
+@Strain 0.200 %,
+Temperature 200 °C",">= 20300 psi
+@Strain 0.200 %,
+Temperature 392 °F",
+ ,">= 140 MPa
+@Strain 1.00 %,
+Temperature 400 °C",">= 20300 psi
+@Strain 1.00 %,
+Temperature 752 °F",
+ ,">= 145 MPa
+@Strain 1.00 %,
+Temperature 350 °C",">= 21000 psi
+@Strain 1.00 %,
+Temperature 662 °F",
+ ,">= 150 MPa
+@Strain 1.00 %,
+Temperature 300 °C",">= 21800 psi
+@Strain 1.00 %,
+Temperature 572 °F",
+ ,">= 150 MPa
+@Strain 0.200 %,
+Temperature 150 °C",">= 21800 psi
+@Strain 0.200 %,
+Temperature 302 °F",
+ ,">= 155 MPa
+@Strain 1.00 %,
+Temperature 250 °C",">= 22500 psi
+@Strain 1.00 %,
+Temperature 482 °F",
+ ,">= 165 MPa
+@Strain 1.00 %,
+Temperature 200 °C",">= 23900 psi
+@Strain 1.00 %,
+Temperature 392 °F",
+ ,">= 165 MPa
+@Strain 0.200 %,
+Temperature 100 °C",">= 23900 psi
+@Strain 0.200 %,
+Temperature 212 °F",
+ ,">= 175 MPa
+@Strain 1.00 %,
+Temperature 150 °C",">= 25400 psi
+@Strain 1.00 %,
+Temperature 302 °F",
+ ,">= 190 MPa
+@Strain 1.00 %,
+Temperature 100 °C",">= 27600 psi
+@Strain 1.00 %,
+Temperature 212 °F",
+ ,">= 190 MPa
+@Strain 0.200 %,
+Temperature 50.0 °C",">= 27600 psi
+@Strain 0.200 %,
+Temperature 122 °F",
+ ,">= 215 MPa
+@Strain 1.00 %,
+Temperature 50.0 °C",">= 31200 psi
+@Strain 1.00 %,
+Temperature 122 °F",
+Rupture Strength  ,"23.0 MPa
+@Temperature 700 °C,
+Time 3.60e+8 sec","3340 psi
+@Temperature 1290 °F,
+Time 100000 hour",
+ ,"33.0 MPa
+@Temperature 675 °C,
+Time 3.60e+8 sec","4790 psi
+@Temperature 1250 °F,
+Time 100000 hour",
+ ,"45.0 MPa
+@Temperature 650 °C,
+Time 3.60e+8 sec","6530 psi
+@Temperature 1200 °F,
+Time 100000 hour",
+ ,"48.0 MPa
+@Temperature 700 °C,
+Time 3.60e+7 sec","6960 psi
+@Temperature 1290 °F,
+Time 10000 hour",
+ ,"58.0 MPa
+@Temperature 625 °C,
+Time 3.60e+8 sec","8410 psi
+@Temperature 1160 °F,
+Time 100000 hour",
+ ,"64.0 MPa
+@Temperature 675 °C,
+Time 3.60e+7 sec","9280 psi
+@Temperature 1250 °F,
+Time 10000 hour",
+ ,"74.0 MPa
+@Temperature 600 °C,
+Time 3.60e+8 sec","10700 psi
+@Temperature 1110 °F,
+Time 100000 hour",
+ ,"79.0 MPa
+@Temperature 650 °C,
+Time 3.60e+7 sec","11500 psi
+@Temperature 1200 °F,
+Time 10000 hour",
+ ,"93.0 MPa
+@Temperature 575 °C,
+Time 3.60e+8 sec","13500 psi
+@Temperature 1070 °F,
+Time 100000 hour",
+ ,"100 MPa
+@Temperature 625 °C,
+Time 3.60e+7 sec","14500 psi
+@Temperature 1160 °F,
+Time 10000 hour",
+ ,"115 MPa
+@Temperature 550 °C,
+Time 3.60e+8 sec","16700 psi
+@Temperature 1020 °F,
+Time 100000 hour",
+ ,"122 MPa
+@Temperature 600 °C,
+Time 3.60e+7 sec","17700 psi
+@Temperature 1110 °F,
+Time 10000 hour",
+ ,"147 MPa
+@Temperature 575 °C,
+Time 3.60e+7 sec","21300 psi
+@Temperature 1070 °F,
+Time 10000 hour",
+ ,"195 MPa
+@Temperature 550 °C,
+Time 3.60e+7 sec","28300 psi
+@Temperature 1020 °F,
+Time 10000 hour",
+"CTE, linear  ","16.5 µm/m-°C
+@Temperature 30.0 - 100 °C","9.17 µin/in-°F
+@Temperature 86.0 - 212 °F",
+ ,"17.0 µm/m-°C
+@Temperature 30.0 - 200 °C","9.44 µin/in-°F
+@Temperature 86.0 - 392 °F",
+ ,"17.5 µm/m-°C
+@Temperature 30.0 - 300 °C","9.72 µin/in-°F
+@Temperature 86.0 - 572 °F",
+ ,"18.0 µm/m-°C
+@Temperature 30.0 - 400 °C","10.0 µin/in-°F
+@Temperature 86.0 - 752 °F",
+ ,"18.5 µm/m-°C
+@Temperature 30.0 - 500 °C","10.3 µin/in-°F
+@Temperature 86.0 - 932 °F",
+ ,"18.5 µm/m-°C
+@Temperature 30.0 - 600 °C","10.3 µin/in-°F
+@Temperature 86.0 - 1110 °F",
+ ,"19.0 µm/m-°C
+@Temperature 30.0 - 700 °C","10.6 µin/in-°F
+@Temperature 86.0 - 1290 °F",
+Thermal Conductivity  ,"15.0 W/m-K
+@Temperature 20.0 °C","104 BTU-in/hr-ft²-°F
+@Temperature 68.0 °F",
+ ,"16.0 W/m-K
+@Temperature 100 °C","111 BTU-in/hr-ft²-°F
+@Temperature 212 °F",
+ ,"18.0 W/m-K
+@Temperature 200 °C","125 BTU-in/hr-ft²-°F
+@Temperature 392 °F",
+ ,"20.0 W/m-K
+@Temperature 300 °C","139 BTU-in/hr-ft²-°F
+@Temperature 572 °F",
+ ,"22.0 W/m-K
+@Temperature 400 °C","153 BTU-in/hr-ft²-°F
+@Temperature 752 °F",
+ ,"23.0 W/m-K
+@Temperature 500 °C","160 BTU-in/hr-ft²-°F
+@Temperature 932 °F",
+ ,"25.0 W/m-K
+@Temperature 600 °C","174 BTU-in/hr-ft²-°F
+@Temperature 1110 °F",
+ ,"26.0 W/m-K
+@Temperature 700 °C","180 BTU-in/hr-ft²-°F
+@Temperature 1290 °F",
+"Carbon, C ",<= 0.0300 %,<= 0.0300 %,
+"Manganese, Mn ",1.3 %,1.3 %,
+"Phosphorous, P ",<= 0.0300 %,<= 0.0300 %,
+"Sulfur, S ",<= 0.0150 %,<= 0.0150 %,
+"Tensile Strength, Ultimate ",515 - 660 MPa,74700 - 95700 psi,Annealed
+ ,<= 700 MPa,<= 102000 psi,Cold worked
+Elongation at Break ,>= 35.0 %,>= 35.0 %,Annealed
+ ,>= 45.0 %,>= 45.0 %,"Annealed, Based on L = 5.65 ÖS where L is the original gauge length and S the original cross section area."
+ ,>= 48.0 %,>= 48.0 %,"Cold worked, Based on L = 5.65 ÖS where L is the original gauge length and S the original cross section area."
+Modulus of Elasticity  ,"165 GPa
+@Temperature 500 °C","23900 ksi
+@Temperature 932 °F",
+ ,"172 GPa
+@Temperature 400 °C","24900 ksi
+@Temperature 752 °F",
+ ,"179 GPa
+@Temperature 300 °C","26000 ksi
+@Temperature 572 °F",
+ ,"186 GPa
+@Temperature 200 °C","27000 ksi
+@Temperature 392 °F",
+ ,"194 GPa
+@Temperature 100 °C","28100 ksi
+@Temperature 212 °F",
+ ,"200 GPa
+@Temperature 20.0 °C","29000 ksi
+@Temperature 68.0 °F",
+Specific Heat Capacity  ,"0.475 J/g-°C
+@Temperature 20.0 °C","0.114 BTU/lb-°F
+@Temperature 68.0 °F",
+ ,"0.500 J/g-°C
+@Temperature 100 °C","0.120 BTU/lb-°F
+@Temperature 212 °F",
+ ,"0.530 J/g-°C
+@Temperature 200 °C","0.127 BTU/lb-°F
+@Temperature 392 °F",
+ ,"0.560 J/g-°C
+@Temperature 300 °C","0.134 BTU/lb-°F
+@Temperature 572 °F",
+ ,"0.580 J/g-°C
+@Temperature 400 °C","0.139 BTU/lb-°F
+@Temperature 752 °F",
+ ,"0.600 J/g-°C
+@Temperature 500 °C","0.143 BTU/lb-°F
+@Temperature 932 °F",
+ ,"0.615 J/g-°C
+@Temperature 600 °C","0.147 BTU/lb-°F
+@Temperature 1110 °F",
+ ,"0.625 J/g-°C
+@Temperature 700 °C","0.149 BTU/lb-°F
+@Temperature 1290 °F",
+"Chromium, Cr ",18.5 %,18.5 %,
+"Nickel, Ni ",10 %,10 %,
+"Silicon, Si ",0.50 %,0.50 %,
