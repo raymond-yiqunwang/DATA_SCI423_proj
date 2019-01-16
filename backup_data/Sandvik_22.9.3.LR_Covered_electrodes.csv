@@ -1,0 +1,22 @@
+,Metric,English,Comments
+"Tensile Strength, Ultimate ",700 MPa,102000 psi,
+Elongation at Break ,20 %,20 %,
+"Maximum Service Temperature, Air ",250 °C,482 °F,
+"Carbon, C ",<= 0.0300 %,<= 0.0300 %,
+"Manganese, Mn ",0.80 %,0.80 %,
+"Nickel, Ni ",9.0 %,9.0 %,
+"Phosphorous, P ",<= 0.0300 %,<= 0.0300 %,
+"Sulfur, S ",<= 0.0250 %,<= 0.0250 %,
+"Tensile Strength, Yield ","500 MPa
+@Strain 0.200 %","72500 psi
+@Strain 0.200 %",
+Charpy Impact  ,"40.0 J
+@Temperature -40.0 °C","29.5 ft-lb
+@Temperature -40.0 °F",
+ ,"48.0 J
+@Temperature 20.0 °C","35.4 ft-lb
+@Temperature 68.0 °F",
+"Chromium, Cr ",23 %,23 %,
+"Molybdenum, Mo ",3.0 %,3.0 %,
+"Nitrogen, N ",0.15 %,0.15 %,
+"Silicon, Si ",<= 0.900 %,<= 0.900 %,

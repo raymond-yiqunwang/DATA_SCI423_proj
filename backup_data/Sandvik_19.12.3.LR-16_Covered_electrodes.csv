@@ -1,0 +1,22 @@
+,Metric,English,Comments
+"Hardness, Brinell ",210,210,
+"Tensile Strength, Yield ","470 MPa
+@Strain 0.200 %","68200 psi
+@Strain 0.200 %",
+Impact Test  ,"40.0 J
+@Temperature -105 °C","29.5 ft-lb
+@Temperature -157 °F",
+ ,"60.0 J
+@Temperature -20.0 °C","44.3 ft-lb
+@Temperature -4.00 °F",
+ ,"70.0 J
+@Temperature 20.0 °C","51.6 ft-lb
+@Temperature 68.0 °F",
+"Carbon, C ",0.020 %,0.020 %,
+"Manganese, Mn ",2.0 %,2.0 %,
+"Nickel, Ni ",12 %,12 %,
+"Tensile Strength, Ultimate ",690 MPa,100000 psi,Rm
+Elongation at Break ,35 %,35 %,
+"Chromium, Cr ",18.5 %,18.5 %,
+"Molybdenum, Mo ",2.8 %,2.8 %,
+"Silicon, Si ",0.60 %,0.60 %,

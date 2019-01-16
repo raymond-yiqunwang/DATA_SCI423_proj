@@ -1,0 +1,50 @@
+,Metric,English,Comments
+Density ,7.90 g/cc,0.285 lb/in³,
+"Hardness, Vickers ",240,240,MIG and TIG
+"Tensile Strength, Yield  ","600 MPa
+@Strain 0.200 %","87000 psi
+@Strain 0.200 %",MIG and TIG
+ ,"650 MPa
+@Strain 0.200 %","94300 psi
+@Strain 0.200 %","SAW, FLUX 15W"
+Charpy Impact  ,"85.0 J
+@Temperature -20.0 °C","62.7 ft-lb
+@Temperature -4.00 °F","SAW, FLUX 15W"
+ ,"90.0 J
+@Temperature 20.0 °C","66.4 ft-lb
+@Temperature 68.0 °F","SAW, FLUX 15W"
+ ,"100 J
+@Temperature -20.0 °C","73.8 ft-lb
+@Temperature -4.00 °F",MIG and TIG
+ ,"160 J
+@Temperature 20.0 °C","118 ft-lb
+@Temperature 68.0 °F",MIG and TIG
+"CTE, linear ","14.5 µm/m-°C
+@Temperature 20.0 - 400 °C","8.06 µin/in-°F
+@Temperature 68.0 - 752 °F",
+"Carbon, C ",<= 0.0200 %,<= 0.0200 %,Filler metal
+ ,<= 0.0200 %,<= 0.0200 %,MIG
+ ,<= 0.0200 %,<= 0.0200 %,SAW
+"Manganese, Mn ",1.2 %,1.2 %,SAW
+ ,1.5 %,1.5 %,MIG
+ ,1.6 %,1.6 %,Filler metal
+"Phosphorous, P ",<= 0.0200 %,<= 0.0200 %,Filler metal
+ ,<= 0.0200 %,<= 0.0200 %,MIG
+ ,<= 0.0250 %,<= 0.0250 %,SAW
+"Sulfur, S ",<= 0.0150 %,<= 0.0150 %,Filler metal
+ ,<= 0.0150 %,<= 0.0150 %,MIG
+ ,<= 0.0150 %,<= 0.0150 %,SAW
+"Tensile Strength, Ultimate ",750 MPa,109000 psi,MIG and TIG
+ ,770 MPa,112000 psi,"SAW, FLUX 15W"
+Elongation at Break ,33 %,33 %,"SAW, FLUX 15W"
+ ,36 %,36 %,MIG and TIG
+Thermal Conductivity ,16.0 W/m-K,111 BTU-in/hr-ft²-°F,
+"Chromium, Cr ",22.5 %,22.5 %,SAW
+ ,23 %,23 %,Filler metal
+ ,23 %,23 %,MIG
+"Nickel, Ni ",0.14 %,0.14 %,MIG
+ ,0.15 %,0.15 %,SAW
+ ,0.16 %,0.16 %,Filler metal
+"Silicon, Si ",0.50 %,0.50 %,Filler metal
+ ,0.50 %,0.50 %,MIG
+ ,0.70 %,0.70 %,SAW

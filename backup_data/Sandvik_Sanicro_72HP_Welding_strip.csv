@@ -1,0 +1,15 @@
+,Metric,English,Comments
+"Carbon, C ",<= 0.0300 %,<= 0.0300 %,Strip electrode
+ ,<= 0.0300 %,<= 0.0300 %,Overlay
+"Iron, Fe ",<= 1.00 %,<= 1.00 %,Strip electrode
+ ,<= 1.50 %,<= 1.50 %,Overlay
+"Nickel, Ni ",>= 70.0 %,>= 70.0 %,Overlay
+ ,72 %,72 %,Strip electrode
+"Phosphorous, P ",<= 0.0100 %,<= 0.0100 %,Strip electrode
+"Sulfur, S ",<= 0.0100 %,<= 0.0100 %,Strip electrode
+"Chromium, Cr ",19.0 - 20.0 %,19.0 - 20.0 %,Overlay
+ ,20 %,20 %,Strip electrode
+"Manganese, Mn ",3.0 %,3.0 %,Strip electrode
+"Niobium, Nb (Columbium, Cb) ",2.00 - 2.50 %,2.00 - 2.50 %,Overlay
+ ,2.6 %,2.6 %,Strip electrode
+"Silicon, Si ",0.10 %,0.10 %,Strip electrode

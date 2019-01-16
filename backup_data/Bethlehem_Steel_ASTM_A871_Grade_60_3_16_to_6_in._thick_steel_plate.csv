@@ -1,0 +1,25 @@
+,Metric,English,Comments
+Density ,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
+"Hardness, Brinell ",159,159,based on conversion from tensile strength
+Tensile Strength at Break ,>= 517 MPa,>= 75000 psi,
+Elongation at Break ,>= 16 %,>= 16 %,"in 8"""
+ ,>= 18 %,>= 18 %,"in 2"""
+"Carbon, C ",<= 0.20 %,<= 0.20 %,
+"Copper, Cu ",<= 0.50 %,<= 0.50 %,
+"Manganese, Mn ",<= 1.5 %,<= 1.5 %,
+"Nickel, Ni ",<= 0.50 %,<= 0.50 %,
+"Phosphorous, P ",<= 0.035 %,<= 0.035 %,
+"Sulfur, S ",<= 0.040 %,<= 0.040 %,
+"Hardness, Rockwell B ",83,83,based on conversion from tensile strength
+"Tensile Strength, Yield ",>= 414 MPa,>= 60000 psi,
+"Bend Radius, Minimum ",1.5 t,1.5 t,"≤3/4"" W; ASTM A6 PARA. S14"
+ ,2.5 t,2.5 t,">3/4 to 1"" W; ASTM A6 PARA. S14"
+ ,3.0 t,3.0 t,">1 to 1-1/2"" W; ASTM A6 PARA. S14"
+ ,3.5 t,3.5 t,">1-1/2 to 2"" W; ASTM A6 PARA. S14"
+ ,4.0 t,4.0 t,">2"" W; ASTM A6 PARA. S14"
+"Chromium, Cr ",<= 0.70 %,<= 0.70 %,
+"Iron, Fe ",>= 95.635 %,>= 95.635 %,
+"Molybdenum, Mo ",<= 0.10 %,<= 0.10 %,
+"Niobium, Nb (Columbium, Cb) ",<= 0.050 %,<= 0.050 %,
+"Silicon, Si ",<= 0.64 %,<= 0.64 %,
+"Vanadium, V ",<= 0.10 %,<= 0.10 %,

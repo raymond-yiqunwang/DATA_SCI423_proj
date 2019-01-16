@@ -1,0 +1,25 @@
+,Metric,English,Comments
+Specific Gravity ,7.86 g/cc,7.86 g/cc,
+"Hardness, Rockwell C ",62,62,"Air Cooled from 760°C, 30 minutes"
+ ,63.5,63.5,"Air Cooled from 788°C, 30 minutes"
+ ,63.5,63.5,"Air Cooled from 843°C, 30 minutes"
+Machinability ,75 %,75 %,1% Carbon Steel
+"CTE, linear  ","11.81 µm/m-°C
+@Temperature 21.0 - 149 °C","6.561 µin/in-°F
+@Temperature 69.8 - 300 °F",
+ ,"14.36 µm/m-°C
+@Temperature 21.0 - 538 °C","7.978 µin/in-°F
+@Temperature 69.8 - 1000 °F",
+Processing Temperature ,719 °C,1330 °F,Critical Temperaure Ac1
+"Carbon, C ",0.70 %,0.70 %,
+"Iron, Fe ",96.35 %,96.35 %,
+"Nickel, Ni ",1.4 %,1.4 %,
+Density ,7.86 g/cc,0.284 lb/in³,
+Modulus of Elasticity ,207 GPa,30000 ksi,
+Charpy Impact ,1.36 J,1.00 ft-lb,V-Notch; Oil Quenched from 816°C for 4 hours; 150°C Temper Temperature
+ ,4.75 J,3.50 ft-lb,V-Notch; Oil Quenched from 816°C for 4 hours; 205°C Temper Temperature
+ ,6.78 J,5.00 ft-lb,V-Notch; Oil Quenched from 816°C for 4 hours; 316°C Temper Temperature
+Thermal Conductivity ,34.6 W/m-K,240 BTU-in/hr-ft²-°F,
+"Chromium, Cr ",0.70 %,0.70 %,
+"Manganese, Mn ",0.60 %,0.60 %,
+"Silicon, Si ",0.25 %,0.25 %,

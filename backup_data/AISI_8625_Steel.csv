@@ -1,0 +1,26 @@
+,Metric,English,Comments
+Density ,7.85 g/cc,0.284 lb/in³,
+"Hardness, Brinell ",179 - 223,179 - 223,annealed and cold drawn.
+"Hardness, Rockwell B ",93,93,Converted from Brinell
+"Hardness, Vickers ",211,211,Converted from Brinell
+Bulk Modulus ,160 GPa,23200 ksi,Typical for steel.
+Machinability ,60 %,60 %,annealed and cold drawn. Based on AISI 1212 steel as 100% machinability.
+Electrical Resistivity ,"0.0000300 ohm-cm
+@Temperature 50.0 °C","0.0000300 ohm-cm
+@Temperature 122 °F",condition of specimen unknown
+Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical steel
+"Carbon, C ",0.23 - 0.28 %,0.23 - 0.28 %,
+"Iron, Fe ",96.895 - 97.97 %,96.895 - 97.97 %,As remainder
+"Molybdenum, Mo ",0.15 - 0.25 %,0.15 - 0.25 %,
+"Phosphorous, P ",<= 0.035 %,<= 0.035 %,
+"Sulfur, S ",<= 0.040 %,<= 0.040 %,
+"Hardness, Knoop ",223,223,Converted from Brinell
+"Hardness, Rockwell C ",13,13,"Converted from Brinell hardness. Value below normal HRC range, for comparison only."
+Modulus of Elasticity ,205 GPa,29700 ksi,Typical for steel
+Poissons Ratio ,0.29,0.29,Calculated
+Shear Modulus ,80.0 GPa,11600 ksi,Typical for steel.
+Thermal Conductivity ,46.6 W/m-K,323 BTU-in/hr-ft²-°F,Typical steel
+"Chromium, Cr ",0.40 - 0.60 %,0.40 - 0.60 %,
+"Manganese, Mn ",0.70 - 0.90 %,0.70 - 0.90 %,
+"Nickel, Ni ",0.40 - 0.70 %,0.40 - 0.70 %,
+"Silicon, Si ",0.15 - 0.30 %,0.15 - 0.30 %,

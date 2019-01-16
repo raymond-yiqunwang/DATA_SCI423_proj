@@ -1,0 +1,15 @@
+,Metric,English,Comments
+"Carbon, C ",<= 0.33 %,<= 0.33 %,
+"Copper, Cu ",<= 0.35 %,<= 0.35 %,
+"Iron, Fe ",>= 96.7 %,>= 96.7 %,As Remainder
+"Molybdenum, Mo ",<= 0.060 %,<= 0.060 %,
+"Nitrogen, N ",<= 0.0050 %,<= 0.0050 %,
+"Phosphorous, P ",<= 0.0080 %,<= 0.0080 %,
+"Sulfur, S ",<= 0.0080 %,<= 0.0080 %,
+"Chromium, Cr ",1.0 %,1.0 %,
+"Hydrogen, H ",<= 0.0025 %,<= 0.0025 %,
+"Manganese, Mn ",0.80 %,0.80 %,
+"Nickel, Ni ",0.25 %,0.25 %,
+"Oxygen, O ",<= 0.0025 %,<= 0.0025 %,
+"Silicon, Si ",0.30 %,0.30 %,
+"Vanadium, V ",0.20 %,0.20 %,

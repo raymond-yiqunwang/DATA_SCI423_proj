@@ -1,0 +1,127 @@
+,Metric,English,Comments
+Density  ,"7.67 g/cc
+@Temperature 399 °C","0.277 lb/in³
+@Temperature 750 °F",Hardened and tempered to 310 HB
+ ,"7.75 g/cc
+@Temperature 199 °C","0.280 lb/in³
+@Temperature 390 °F",Hardened and tempered to 310 HB
+ ,"7.81 g/cc
+@Temperature 20.0 °C","0.282 lb/in³
+@Temperature 68.0 °F",Hardened and tempered to 310 HB
+"Hardness, Brinell ",277 - 332,277 - 332,as supplied
+ ,"340
+@Treatment Temp. 650 °C","340
+@Treatment Temp. 1200 °F",Tempered for 2 hr
+ ,"380
+@Treatment Temp. 600 °C","380
+@Treatment Temp. 1110 °F",Tempered for 2 hr
+"Hardness, Vickers  ","650
+@Treatment Temp. 525 °C","650
+@Treatment Temp. 977 °F",Nitriding in ammonia gas
+ ,"700
+@Treatment Temp. 570 °C","700
+@Treatment Temp. 1060 °F",Tufftriding (Tenifer process)
+"Tensile Strength, Yield  ","627 MPa
+@Temperature 399 °C","91000 psi
+@Temperature 750 °F","Round bar 1"" diameter, 310 HB"
+ ,"752 MPa
+@Temperature 199 °C","109000 psi
+@Temperature 390 °F","Round bar 1"" diameter, 310 HB"
+ ,"800 MPa
+@Temperature 20.0 °C","116000 psi
+@Temperature 68.0 °F","Round bar 1"" diameter, 310 HB"
+Reduction of Area  ,"60 %
+@Temperature 20.0 °C","60 %
+@Temperature 68.0 °F",
+ ,"63 %
+@Temperature 199 °C","63 %
+@Temperature 390 °F",
+ ,"65 %
+@Temperature 399 °C","65 %
+@Temperature 750 °F",
+Charpy Impact  ,"50.2 J
+@Temperature 20.0 °C","37.0 ft-lb
+@Temperature 68.0 °F","Round bar 1"" diameter, 310 HB"
+ ,"55.6 J
+@Temperature 199 °C","41.0 ft-lb
+@Temperature 390 °F","Round bar 1"" diameter, 310 HB"
+ ,"65.1 J
+@Temperature 399 °C","48.0 ft-lb
+@Temperature 750 °F","Round bar 1"" diameter, 310 HB"
+"CTE, linear  ","12.6 µm/m-°C
+@Temperature 20.0 - 199 °C","7.00 µin/in-°F
+@Temperature 68.0 - 390 °F",
+ ,"13.5 µm/m-°C
+@Temperature 20.0 - 399 °C","7.50 µin/in-°F
+@Temperature 68.0 - 750 °F",
+Thermal Conductivity  ,"29.1 W/m-K
+@Temperature 20.0 °C","202 BTU-in/hr-ft²-°F
+@Temperature 68.0 °F",
+ ,"29.5 W/m-K
+@Temperature 199 °C","205 BTU-in/hr-ft²-°F
+@Temperature 390 °F",
+ ,"31.1 W/m-K
+@Temperature 399 °C","216 BTU-in/hr-ft²-°F
+@Temperature 750 °F",
+"Carbon, C ",0.31 %,0.31 %,
+"Iron, Fe ",96.122 %,96.122 %,As Balance
+"Molybdenum, Mo ",0.41 %,0.41 %,
+"Silicon, Si ",0.40 %,0.40 %,
+"Hardness, Rockwell C  ","45
+@Treatment Temp. 500 °C","45
+@Treatment Temp. 932 °F",Tempered for 2 hr
+ ,"47
+@Treatment Temp. 400 °C","47
+@Treatment Temp. 752 °F",Tempered for 2 hr
+ ,"49
+@Treatment Temp. 300 °C","49
+@Treatment Temp. 572 °F",Tempered for 2 hr
+ ,"52
+@Treatment Temp. 180 °C","52
+@Treatment Temp. 356 °F",Tempered for 2 hr
+ ,"52
+@Treatment Temp. 200 °C","52
+@Treatment Temp. 392 °F",Tempered for 2 hr
+ ,"55
+@Treatment Temp. 300 °C","55
+@Treatment Temp. 572 °F","Hardened for 2 hr, then Tempered"
+ ,"59
+@Treatment Temp. 200 °C","59
+@Treatment Temp. 392 °F","Hardened for 2 hr, then Tempered"
+ ,"60
+@Treatment Temp. 180 °C","60
+@Treatment Temp. 356 °F","Hardened for 2 hr, then Tempered"
+"Tensile Strength, Ultimate  ","793 MPa
+@Temperature 399 °C","115000 psi
+@Temperature 750 °F","Round bar 1"" diameter, 310 HB"
+ ,"951 MPa
+@Temperature 199 °C","138000 psi
+@Temperature 390 °F","Round bar 1"" diameter, 310 HB"
+ ,"1010 MPa
+@Temperature 20.0 °C","146000 psi
+@Temperature 68.0 °F","Round bar 1"" diameter, 310 HB"
+Elongation at Yield  ,"20 %
+@Temperature 20.0 °C","20 %
+@Temperature 68.0 °F","in 2"""
+ ,"22 %
+@Temperature 199 °C","22 %
+@Temperature 390 °F","in 2"""
+ ,"25 %
+@Temperature 399 °C","25 %
+@Temperature 750 °F","in 2"""
+Modulus of Elasticity  ,"185 GPa
+@Temperature 399 °C","26800 ksi
+@Temperature 750 °F",
+ ,"200 GPa
+@Temperature 199 °C","29000 ksi
+@Temperature 390 °F",
+ ,"205 GPa
+@Temperature 20.0 °C","29700 ksi
+@Temperature 68.0 °F",
+Specific Heat Capacity ,"0.460 J/g-°C
+@Temperature 20.0 °C","0.110 BTU/lb-°F
+@Temperature 68.0 °F",
+"Chromium, Cr ",1.2 %,1.2 %,
+"Manganese, Mn ",0.75 %,0.75 %,
+"Nickel, Ni ",0.80 %,0.80 %,
+"Sulfur, S ",0.0080 %,0.0080 %,

@@ -1,0 +1,54 @@
+,Metric,English,Comments
+Density ,7.90 g/cc,0.285 lb/in³,
+"Hardness, Vickers ",180,180,MIG and TIG
+"Tensile Strength, Yield  ","400 MPa
+@Strain 0.200 %","58000 psi
+@Strain 0.200 %",TIG and MIG
+ ,"400 MPa
+@Strain 0.200 %","58000 psi
+@Strain 0.200 %","SAW, FLUX 15W"
+Charpy Impact ,90.0 J,66.4 ft-lb,"SAW, FLUX 15W"
+ ,110 J,81.1 ft-lb,TIG and MIG
+"CTE, linear ","18.0 µm/m-°C
+@Temperature 20.0 - 400 °C","10.0 µin/in-°F
+@Temperature 68.0 - 752 °F",
+"Carbon, C ",<= 0.0200 %,<= 0.0200 %,Filler Metal
+ ,<= 0.0200 %,<= 0.0200 %,MIG
+ ,<= 0.0200 %,<= 0.0200 %,SAW
+"Manganese, Mn ",1.2 %,1.2 %,SAW
+ ,2.0 %,2.0 %,Filler Metal
+ ,2.0 %,2.0 %,MIG
+"Niobium, Nb (Columbium, Cb) ",0.70 %,0.70 %,SAW
+ ,0.75 %,0.75 %,MIG
+ ,0.80 %,0.80 %,Filler Metal
+"Silicon, Si ",0.30 %,0.30 %,Filler Metal
+ ,0.30 %,0.30 %,MIG
+ ,0.30 %,0.30 %,SAW
+"Tensile Strength, Ultimate ",600 MPa,87000 psi,TIG and MIG
+ ,600 MPa,87000 psi,"SAW, FLUX 15W"
+Elongation at Break ,35 %,35 %,TIG and MIG
+ ,35 %,35 %,"SAW, FLUX 15W"
+Thermal Conductivity  ,"14.0 W/m-K
+@Temperature 20.0 °C","97.2 BTU-in/hr-ft²-°F
+@Temperature 68.0 °F",
+ ,"15.0 W/m-K
+@Temperature 100 °C","104 BTU-in/hr-ft²-°F
+@Temperature 212 °F",
+ ,"17.0 W/m-K
+@Temperature 300 °C","118 BTU-in/hr-ft²-°F
+@Temperature 572 °F",
+ ,"18.0 W/m-K
+@Temperature 500 °C","125 BTU-in/hr-ft²-°F
+@Temperature 932 °F",
+"Chromium, Cr ",23.5 %,23.5 %,MIG
+ ,23.5 %,23.5 %,SAW
+ ,24 %,24 %,Filler Metal
+"Nickel, Ni ",12 %,12 %,MIG
+ ,12 %,12 %,SAW
+ ,12.5 %,12.5 %,Filler Metal
+"Phosphorous, P ",<= 0.0200 %,<= 0.0200 %,Filler Metal
+ ,<= 0.0200 %,<= 0.0200 %,MIG
+ ,<= 0.0250 %,<= 0.0250 %,SAW
+"Sulfur, S ",<= 0.0150 %,<= 0.0150 %,Filler Metal
+ ,<= 0.0150 %,<= 0.0150 %,MIG
+ ,<= 0.0150 %,<= 0.0150 %,SAW

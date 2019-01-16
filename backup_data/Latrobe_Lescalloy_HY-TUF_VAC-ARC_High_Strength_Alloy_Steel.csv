@@ -1,0 +1,21 @@
+,Metric,English,Comments
+Density ,7.78 g/cc,0.281 lb/in³,
+"Hardness, Rockwell C ",45,45,"1"" from quench end; Jominy End Quench Hardenability"
+ ,47,47,"1/2"" from quenched end; Jominy End Quench Hardenability"
+ ,47,47,"1/8"" from quenched end; Jominy End Quench Hardenability"
+"Tensile Strength, Yield ",1276 MPa,185100 psi,
+Reduction of Area ,30 %,30 %,
+"CTE, linear ","11.3 µm/m-°C
+@Temperature 18.0 - 93.0 °C","6.28 µin/in-°F
+@Temperature 64.4 - 199 °F",
+"Carbon, C ",0.25 %,0.25 %,
+"Iron, Fe ",94.4 %,94.4 %,
+"Molybdenum, Mo ",0.40 %,0.40 %,
+"Silicon, Si ",1.5 %,1.5 %,
+"Tensile Strength, Ultimate ",1520 MPa,220000 psi,
+Elongation at Break ,5.0 %,5.0 %,
+Fracture Toughness ,>= 110 MPa-m½,>= 100 ksi-in½,
+Thermal Conductivity ,37.49 W/m-K,260.2 BTU-in/hr-ft²-°F,
+"Chromium, Cr ",0.30 %,0.30 %,
+"Manganese, Mn ",1.35 %,1.35 %,
+"Nickel, Ni ",1.8 %,1.8 %,

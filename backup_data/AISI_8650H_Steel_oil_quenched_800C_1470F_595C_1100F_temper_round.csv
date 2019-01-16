@@ -1,0 +1,115 @@
+,Metric,English,Comments
+Density ,7.85 g/cc,0.284 lb/in³,
+"Hardness, Brinell  ","255
+@Diameter 102 mm","255
+@Diameter 4.00 in",
+ ,"293
+@Diameter 50.8 mm","293
+@Diameter 2.00 in",
+ ,"311
+@Diameter 25.4 mm","311
+@Diameter 1.00 in",
+ ,"321
+@Diameter 12.7 mm","321
+@Diameter 0.500 in",
+"Hardness, Rockwell B  ","98
+@Diameter 102 mm","98
+@Diameter 4.00 in",Converted from Brinell
+ ,"99
+@Diameter 12.7 mm","99
+@Diameter 0.500 in",Converted from Brinell
+ ,"99
+@Diameter 25.4 mm","99
+@Diameter 1.00 in",Converted from Brinell
+ ,"99
+@Diameter 50.8 mm","99
+@Diameter 2.00 in",Converted from Brinell
+"Hardness, Vickers  ","269
+@Diameter 102 mm","269
+@Diameter 4.00 in",Converted from Brinell
+ ,"309
+@Diameter 50.8 mm","309
+@Diameter 2.00 in",Converted from Brinell
+ ,"329
+@Diameter 25.4 mm","329
+@Diameter 1.00 in",Converted from Brinell
+ ,"339
+@Diameter 12.7 mm","339
+@Diameter 0.500 in",Converted from Brinell
+"Tensile Strength, Yield  ","675 MPa
+@Diameter 102 mm","97900 psi
+@Diameter 4.00 in",
+ ,"903 MPa
+@Diameter 50.8 mm","131000 psi
+@Diameter 2.00 in",
+ ,"986 MPa
+@Diameter 25.4 mm","143000 psi
+@Diameter 1.00 in",
+ ,"1040 MPa
+@Diameter 12.7 mm","151000 psi
+@Diameter 0.500 in",
+Modulus of Elasticity ,205 GPa,29700 ksi,Typical for steel
+Poissons Ratio ,0.29,0.29,Calculated
+Shear Modulus ,80.0 GPa,11600 ksi,Typical for steel.
+Electrical Resistivity ,0.0000234 ohm-cm,0.0000234 ohm-cm,Typical steel
+Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical steel
+"Carbon, C ",0.47 - 0.54 %,0.47 - 0.54 %,
+"Iron, Fe ",96.33 - 97.83 %,96.33 - 97.83 %,As remainder
+"Molybdenum, Mo ",0.15 - 0.25 %,0.15 - 0.25 %,
+"Phosphorous, P ",<= 0.035 %,<= 0.035 %,
+"Sulfur, S ",<= 0.045 %,<= 0.045 %,
+"Hardness, Knoop  ","279
+@Diameter 102 mm","279
+@Diameter 4.00 in",Converted from Brinell
+ ,"319
+@Diameter 50.8 mm","319
+@Diameter 2.00 in",Converted from Brinell
+ ,"338
+@Diameter 25.4 mm","338
+@Diameter 1.00 in",Converted from Brinell
+ ,"348
+@Diameter 12.7 mm","348
+@Diameter 0.500 in",Converted from Brinell
+"Hardness, Rockwell C  ","25
+@Diameter 102 mm","25
+@Diameter 4.00 in",Converted from Brinell
+ ,"31
+@Diameter 50.8 mm","31
+@Diameter 2.00 in",Converted from Brinell
+ ,"34
+@Diameter 25.4 mm","34
+@Diameter 1.00 in",Converted from Brinell
+ ,"35
+@Diameter 12.7 mm","35
+@Diameter 0.500 in",Converted from Brinell
+"Tensile Strength, Ultimate  ","869 MPa
+@Diameter 102 mm","126000 psi
+@Diameter 4.00 in",
+ ,"1000 MPa
+@Diameter 50.8 mm","145000 psi
+@Diameter 2.00 in",
+ ,"1060 MPa
+@Diameter 12.7 mm","154000 psi
+@Diameter 0.500 in",
+ ,"1060 MPa
+@Diameter 25.4 mm","154000 psi
+@Diameter 1.00 in",
+Elongation at Break  ,"17.7 %
+@Diameter 25.4 mm","17.7 %
+@Diameter 1.00 in",in 50 mm
+ ,"17.8 %
+@Diameter 12.7 mm","17.8 %
+@Diameter 0.500 in",in 50 mm
+ ,"20 %
+@Diameter 50.8 mm","20 %
+@Diameter 2.00 in",in 50 mm
+ ,"22 %
+@Diameter 102 mm","22 %
+@Diameter 4.00 in",in 50 mm
+Bulk Modulus ,160 GPa,23200 ksi,Typical for steel.
+Machinability ,60 %,60 %,annealed and cold drawn. Based on 100% machinability for AISI 1212 steel.
+Thermal Conductivity ,46.6 W/m-K,323 BTU-in/hr-ft²-°F,Typical steel
+"Chromium, Cr ",0.35 - 0.65 %,0.35 - 0.65 %,
+"Manganese, Mn ",0.70 - 1.05 %,0.70 - 1.05 %,
+"Nickel, Ni ",0.35 - 0.75 %,0.35 - 0.75 %,
+"Silicon, Si ",0.15 - 0.35 %,0.15 - 0.35 %,

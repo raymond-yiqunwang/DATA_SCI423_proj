@@ -1,0 +1,16 @@
+,Metric,English,Comments
+"Tensile Strength, Ultimate ",550 MPa,79800 psi,
+Elongation at Break ,35 %,35 %,
+"Carbon, C ",<= 0.0250 %,<= 0.0250 %,
+"Copper, Cu ",1.5 %,1.5 %,
+"Molybdenum, Mo ",4.7 %,4.7 %,
+"Phosphorous, P ",<= 0.0250 %,<= 0.0250 %,
+"Sulfur, S ",<= 0.0200 %,<= 0.0200 %,
+"Tensile Strength, Yield ","350 MPa
+@Strain 0.200 %","50800 psi
+@Strain 0.200 %",
+Charpy Impact ,65.0 J,47.9 ft-lb,
+"Chromium, Cr ",20 %,20 %,
+"Manganese, Mn ",1.0 %,1.0 %,
+"Nickel, Ni ",25 %,25 %,
+"Silicon, Si ",0.90 %,0.90 %,

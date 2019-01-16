@@ -1,0 +1,22 @@
+,Metric,English,Comments
+Density ,7.75 g/cc,0.280 lb/in³,
+"Tensile Strength, Ultimate ",1310 MPa,190000 psi,
+Elongation at Break ,12 %,12 %,
+Modulus of Elasticity ,190 GPa,27600 ksi,
+Processing Temperature ,166 °C,331 °F,Critical Temperaure Mf
+ ,327 °C,621 °F,Critical Temperaure Ms
+ ,624 °C,1160 °F,Critical Temperaure Ac1
+ ,793 °C,1460 °F,Critical Temperaure Ac3
+"Carbon, C ",0.13 %,0.13 %,
+"Cobalt, Co ",8.0 %,8.0 %,
+"Manganese, Mn ",0.10 %,0.10 %,
+"Nickel, Ni ",10 %,10 %,
+"Tensile Strength, Yield ",1207 MPa,175100 psi,
+Reduction of Area ,60 %,60 %,
+Charpy Impact ,"68.0 J
+@Temperature -17.8 °C","50.2 ft-lb
+@Temperature 0.000 °F",V-notch
+"Chromium, Cr ",2.0 %,2.0 %,
+"Iron, Fe ",78.72 %,78.72 %,
+"Molybdenum, Mo ",1.0 %,1.0 %,
+"Silicon, Si ",0.050 %,0.050 %,

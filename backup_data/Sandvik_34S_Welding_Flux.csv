@@ -1,0 +1,23 @@
+,Metric,English,Comments
+"Tensile Strength, Ultimate ",580 MPa,84100 psi,Strip electrode: Sandvik 24.13.LQ
+ ,600 MPa,87000 psi,Strip electrode: Sandvik 19.9.LQ
+Elongation at Break ,43 %,43 %,Strip electrode: Sandvik 24.13.LQ
+ ,47 %,47 %,Strip electrode: Sandvik 19.9.LQ
+"Carbon, C ",0.020 %,0.020 %,Strip electrode: Sandvik 19.9.LQ
+ ,0.020 %,0.020 %,Strip electrode: Sandvik 24.13.LQ
+"Manganese, Mn ",1.3 %,1.3 %,Strip electrode: Sandvik 19.9.LQ
+ ,1.3 %,1.3 %,Strip electrode: Sandvik 24.13.LQ
+"Nickel, Ni ",9.2 %,9.2 %,Strip electrode: Sandvik 19.9.LQ
+ ,12.1 %,12.1 %,Strip electrode: Sandvik 24.13.LQ
+"Tensile Strength, Yield  ","420 MPa
+@Strain 0.200 %","60900 psi
+@Strain 0.200 %",Strip electrode: Sandvik 19.9.LQ
+ ,"430 MPa
+@Strain 0.200 %","62400 psi
+@Strain 0.200 %",Strip electrode: Sandvik 24.13.LQ
+"Chromium, Cr ",20.5 %,20.5 %,Strip electrode: Sandvik 19.9.LQ
+ ,20.5 %,20.5 %,Strip electrode: Sandvik 24.13.LQ
+"Molybdenum, Mo ",0.10 %,0.10 %,Strip electrode: Sandvik 19.9.LQ
+ ,0.10 %,0.10 %,Strip electrode: Sandvik 24.13.LQ
+"Silicon, Si ",0.80 %,0.80 %,Strip electrode: Sandvik 19.9.LQ
+ ,0.80 %,0.80 %,Strip electrode: Sandvik 24.13.LQ

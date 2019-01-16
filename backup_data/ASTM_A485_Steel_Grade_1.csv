@@ -1,0 +1,21 @@
+,Metric,English,Comments
+Density ,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
+"Hardness, Rockwell C ",46,46,ASTM A255-10
+Bulk Modulus ,160 GPa,23200 ksi,Typical for Steel
+Shear Modulus ,80.0 GPa,11600 ksi,Typical for Steel
+Electrical Resistivity ,0.0000170 ohm-cm,0.0000170 ohm-cm,Typical Carbon Steel
+"CTE, linear ",12.0 µm/m-°C,6.67 µin/in-°F,Typical Carbon Steel
+Thermal Conductivity ,52.0 W/m-K,361 BTU-in/hr-ft²-°F,Typical Carbon Steel
+"Carbon, C ",0.90 - 1.05 %,0.90 - 1.05 %,
+"Copper, Cu ",0.35 %,0.35 %,
+"Manganese, Mn ",0.95 - 1.25 %,0.95 - 1.25 %,
+"Nickel, Ni ",0.25 %,0.25 %,
+"Silicon, Si ",0.45 - 0.75 %,0.45 - 0.75 %,
+Modulus of Elasticity ,200 GPa,29000 ksi,Typical Carbon Steel
+Poissons Ratio ,0.29,0.29,Typical Carbon Steel
+Specific Heat Capacity ,0.470 J/g-°C,0.112 BTU/lb-°F,Typical Carbon Steel
+"Chromium, Cr ",0.90 - 1.2 %,0.90 - 1.2 %,
+"Iron, Fe ",95.6 %,95.6 %,as balance
+"Molybdenum, Mo ",<= 0.10 %,<= 0.10 %,
+"Phosphorous, P ",<= 0.025 %,<= 0.025 %,
+"Sulfur, S ",<= 0.025 %,<= 0.025 %,

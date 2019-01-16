@@ -1,0 +1,40 @@
+,Metric,English,Comments
+Density ,7.78 g/cc,0.281 lb/in³,hardness of 40 HRC
+ ,"7.67 g/cc
+@Temperature 399 °C","0.277 lb/in³
+@Temperature 750 °F",hardness of 40 HRC
+ ,"7.72 g/cc
+@Temperature 199 °C","0.279 lb/in³
+@Temperature 390 °F",hardness of 40 HRC
+"Hardness, Brinell ",<= 250,<= 250,Soft annealed
+ ,330 - 400,330 - 400,"Hardened and tempered (36-43 HRC, 1100-1350 Nmm2)"
+"CTE, linear  ","13.1 µm/m-°C
+@Temperature 20.0 - 199 °C","7.30 µin/in-°F
+@Temperature 68.0 - 390 °F",hardness of 40 HRC
+ ,"13.9 µm/m-°C
+@Temperature 3.33 - 399 °C","7.70 µin/in-°F
+@Temperature 38.0 - 750 °F",hardness of 40 HRC
+"Carbon, C ",0.55 %,0.55 %,
+"Iron, Fe ",95.05 %,95.05 %,As Balance
+"Molybdenum, Mo ",0.50 %,0.50 %,
+"Silicon, Si ",0.30 %,0.30 %,
+Modulus of Elasticity ,215 GPa,31200 ksi,(hardness of 40 HRC)
+ ,"185 GPa
+@Temperature 399 °C","26800 ksi
+@Temperature 750 °F",hardness of 40 HRC
+ ,"202 GPa
+@Temperature 199 °C","29300 ksi
+@Temperature 390 °F",hardness of 40 HRC
+Thermal Conductivity  ,"36.0 W/m-K
+@Temperature 20.0 °C","250 BTU-in/hr-ft²-°F
+@Temperature 68.0 °F",hardness of 40 HRC
+ ,"36.5 W/m-K
+@Temperature 199 °C","253 BTU-in/hr-ft²-°F
+@Temperature 390 °F",hardness of 40 HRC
+ ,"36.8 W/m-K
+@Temperature 399 °C","255 BTU-in/hr-ft²-°F
+@Temperature 750 °F",hardness of 40 HRC
+"Chromium, Cr ",1.1 %,1.1 %,
+"Manganese, Mn ",0.70 %,0.70 %,
+"Nickel, Ni ",1.7 %,1.7 %,
+"Vanadium, V ",0.10 %,0.10 %,
