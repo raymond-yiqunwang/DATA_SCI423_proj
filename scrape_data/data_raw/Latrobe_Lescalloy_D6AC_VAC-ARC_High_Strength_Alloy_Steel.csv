@@ -1,27 +1,27 @@
 ,Metric,English,Comments
-Density ,7.86 g/cc,0.284 lb/in³,
-"Hardness, Rockwell C ",36,36,650°C Temper
+Density,7.86 g/cc,0.284 lb/in³,
+"Hardness, Rockwell C",36,36,650°C Temper
  ,46,46,510°C Temper Temperature
  ,53,53,316°C Temper Temperature
-"Tensile Strength, Yield ",1345 MPa,195100 psi,510°C Temper Temperature
+"Tensile Strength, Yield",1345 MPa,195100 psi,510°C Temper Temperature
  ,1724 MPa,250000 psi,316°C Temper Temperature
-Reduction of Area ,23 %,23 %,316°C Temper Temperature
+Reduction of Area,23 %,23 %,316°C Temper Temperature
  ,25 %,25 %,510°C Temper Temperature
-Machinability ,50 - 55 %,50 - 55 %,AISI B1112 Screw Stock
-"CTE, linear  ","13.16 µm/m-°C @Temperature 38.0 - 93.0 °C","7.311 µin/in-°F @Temperature 100 - 199 °F",
+Machinability,50 - 55 %,50 - 55 %,AISI B1112 Screw Stock
+"CTE, linear","13.16 µm/m-°C @Temperature 38.0 - 93.0 °C","7.311 µin/in-°F @Temperature 100 - 199 °F",
  ,"16.1 µm/m-°C @Temperature 316 - 704 °C","8.95 µin/in-°F @Temperature 601 - 1300 °F",
-"Carbon, C ",0.46 %,0.46 %,
-"Iron, Fe ",95.74 %,95.74 %,
-"Molybdenum, Mo ",1.0 %,1.0 %,
-"Silicon, Si ",0.25 %,0.25 %,
-"Tensile Strength, Ultimate ",1570 MPa,228000 psi,510°C Temper Temperature
+"Carbon, C",0.46 %,0.46 %,
+"Iron, Fe",95.74 %,95.74 %,
+"Molybdenum, Mo",1.0 %,1.0 %,
+"Silicon, Si",0.25 %,0.25 %,
+"Tensile Strength, Ultimate",1570 MPa,228000 psi,510°C Temper Temperature
  ,1930 MPa,280000 psi,316°C Temper Temperature
-Elongation at Break ,7.0 %,7.0 %,316°C Temper Temperature
+Elongation at Break,7.0 %,7.0 %,316°C Temper Temperature
  ,7.0 %,7.0 %,510°C Temper Temperature
-Modulus of Elasticity ,210 GPa,30500 ksi,
+Modulus of Elasticity,210 GPa,30500 ksi,
  ,"76.5 GPa @Temperature 649 °C","11100 ksi @Temperature 1200 °F",
  ,"163 GPa @Temperature 427 °C","23700 ksi @Temperature 801 °F",
-"Chromium, Cr ",1.1 %,1.1 %,
-"Manganese, Mn ",0.75 %,0.75 %,
-"Nickel, Ni ",0.60 %,0.60 %,
-"Vanadium, V ",0.10 %,0.10 %,
+"Chromium, Cr",1.1 %,1.1 %,
+"Manganese, Mn",0.75 %,0.75 %,
+"Nickel, Ni",0.60 %,0.60 %,
+"Vanadium, V",0.10 %,0.10 %,

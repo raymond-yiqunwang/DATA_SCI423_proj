@@ -1,22 +1,22 @@
 ,Metric,English,Comments
-Density ,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
-"Tensile Strength, Ultimate ",530 - 670 MPa,76900 - 97200 psi,
-Elongation at Break ,20 %,20 %,in 50mm
-Bulk Modulus ,160 GPa,23200 ksi,Typical for Steel
-Shear Modulus ,80.0 GPa,11600 ksi,Typical for Steel
-Electrical Resistivity ,0.0000170 ohm-cm,0.0000170 ohm-cm,Typical Carbon Steel
-"CTE, linear ",12.0 µm/m-°C,6.67 µin/in-°F,Typical Carbon Steel
-Thermal Conductivity ,52.0 W/m-K,361 BTU-in/hr-ft²-°F,Typical Carbon Steel
+Density,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
+"Tensile Strength, Ultimate",530 - 670 MPa,76900 - 97200 psi,
+Elongation at Break,20 %,20 %,in 50mm
+Bulk Modulus,160 GPa,23200 ksi,Typical for Steel
+Shear Modulus,80.0 GPa,11600 ksi,Typical for Steel
+Electrical Resistivity,0.0000170 ohm-cm,0.0000170 ohm-cm,Typical Carbon Steel
+"CTE, linear",12.0 µm/m-°C,6.67 µin/in-°F,Typical Carbon Steel
+Thermal Conductivity,52.0 W/m-K,361 BTU-in/hr-ft²-°F,Typical Carbon Steel
 "Aluminum, Al ",0.060 %,0.060 %,
-"Chromium, Cr ",0.90 - 1.2 %,0.90 - 1.2 %,
-"Manganese, Mn ",0.45 - 0.75 %,0.45 - 0.75 %,
-"Phosphorous, P ",0.035 %,0.035 %,
-"Sulfur, S ",0.015 %,0.015 %,
-"Tensile Strength, Yield ",450 MPa,65300 psi,
-Modulus of Elasticity ,200 GPa,29000 ksi,Typical Carbon Steel
-Poissons Ratio ,0.29,0.29,Typical Carbon Steel
-Specific Heat Capacity ,0.470 J/g-°C,0.112 BTU/lb-°F,Typical Carbon Steel
-"Carbon, C ",0.12 %,0.12 %,
-"Iron, Fe ",96.67 %,96.67 %,as balance
-"Nickel, Ni ",0.90 - 1.2 %,0.90 - 1.2 %,
-"Silicon, Si ",0.40 %,0.40 %,
+"Chromium, Cr",0.90 - 1.2 %,0.90 - 1.2 %,
+"Manganese, Mn",0.45 - 0.75 %,0.45 - 0.75 %,
+"Phosphorous, P",0.035 %,0.035 %,
+"Sulfur, S",0.015 %,0.015 %,
+"Tensile Strength, Yield",450 MPa,65300 psi,
+Modulus of Elasticity,200 GPa,29000 ksi,Typical Carbon Steel
+Poissons Ratio,0.29,0.29,Typical Carbon Steel
+Specific Heat Capacity,0.470 J/g-°C,0.112 BTU/lb-°F,Typical Carbon Steel
+"Carbon, C",0.12 %,0.12 %,
+"Iron, Fe",96.67 %,96.67 %,as balance
+"Nickel, Ni",0.90 - 1.2 %,0.90 - 1.2 %,
+"Silicon, Si",0.40 %,0.40 %,

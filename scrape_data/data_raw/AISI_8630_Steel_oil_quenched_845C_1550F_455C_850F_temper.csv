@@ -1,53 +1,53 @@
 ,Metric,English,Comments
-Density ,7.85 g/cc,0.284 lb/in³,
-"Hardness, Knoop ",318,318,Converted from Vickers hardness.
+Density,7.85 g/cc,0.284 lb/in³,
+"Hardness, Knoop",318,318,Converted from Vickers hardness.
  ,"349 @Temperature -78.0 °C","349 @Temperature -108 °F",Converted from Vickers hardness
  ,"395 @Temperature -195 °C","395 @Temperature -319 °F",Converted from Vickers hardness
-"Hardness, Vickers ",302,302,
+"Hardness, Vickers",302,302,
  ,"332 @Temperature -78.0 °C","332 @Temperature -108 °F",
  ,"376 @Temperature -195 °C","376 @Temperature -319 °F",
-"Tensile Strength, Yield ","841 MPa @Strain 0.200 %","122000 psi @Strain 0.200 %",
+"Tensile Strength, Yield","841 MPa @Strain 0.200 %","122000 psi @Strain 0.200 %",
  ,"876 MPa @Strain 0.200 %,
 Temperature -78.0 °C","127000 psi @Strain 0.200 %,
 Temperature -108 °F",
  ,"1145 MPa @Strain 0.200 %,
 Temperature -195 °C","166100 psi @Strain 0.200 %,
 Temperature -319 °F",
-Modulus of Elasticity ,205 GPa,29700 ksi,
+Modulus of Elasticity,205 GPa,29700 ksi,
  ,"214 GPa @Temperature -78.0 °C","31000 ksi @Temperature -108 °F",
  ,"223 GPa @Temperature -195 °C","32300 ksi @Temperature -319 °F",
-Poissons Ratio ,0.30,0.30,Calculated
-Machinability ,70 %,70 %,annealed and cold drawn. Based on AISI 1212 steel as 100% machinability.
-Electrical Resistivity ,0.0000234 ohm-cm,0.0000234 ohm-cm,Typical steel
-"CTE, linear  ","11.2 µm/m-°C @Temperature 21.0 - 100 °C","6.22 µin/in-°F @Temperature 69.8 - 212 °F",
+Poissons Ratio,0.30,0.30,Calculated
+Machinability,70 %,70 %,annealed and cold drawn. Based on AISI 1212 steel as 100% machinability.
+Electrical Resistivity,0.0000234 ohm-cm,0.0000234 ohm-cm,Typical steel
+"CTE, linear","11.2 µm/m-°C @Temperature 21.0 - 100 °C","6.22 µin/in-°F @Temperature 69.8 - 212 °F",
  ,"12.2 µm/m-°C @Temperature 21.0 - 200 °C","6.78 µin/in-°F @Temperature 69.8 - 392 °F",
  ,"14.0 µm/m-°C @Temperature 21.0 - 500 °C","7.78 µin/in-°F @Temperature 69.8 - 932 °F",
-Thermal Conductivity ,46.6 W/m-K,323 BTU-in/hr-ft²-°F,Typical steel
-"Carbon, C ",0.28 - 0.33 %,0.28 - 0.33 %,
-"Iron, Fe ",96.745 - 98.02 %,96.745 - 98.02 %,As remainder
-"Molybdenum, Mo ",0.15 - 0.25 %,0.15 - 0.25 %,
-"Phosphorous, P ",<= 0.035 %,<= 0.035 %,
-"Sulfur, S ",<= 0.040 %,<= 0.040 %,
-"Hardness, Rockwell C ",30,30,Converted from Vickers hardness.
+Thermal Conductivity,46.6 W/m-K,323 BTU-in/hr-ft²-°F,Typical steel
+"Carbon, C",0.28 - 0.33 %,0.28 - 0.33 %,
+"Iron, Fe",96.745 - 98.02 %,96.745 - 98.02 %,As remainder
+"Molybdenum, Mo",0.15 - 0.25 %,0.15 - 0.25 %,
+"Phosphorous, P",<= 0.035 %,<= 0.035 %,
+"Sulfur, S",<= 0.040 %,<= 0.040 %,
+"Hardness, Rockwell C",30,30,Converted from Vickers hardness.
  ,"34 @Temperature -78.0 °C","34 @Temperature -108 °F",Converted from Vickers hardness
  ,"39 @Temperature -195 °C","39 @Temperature -319 °F",Converted from Vickers hardness
-"Tensile Strength, Ultimate ",979 MPa,142000 psi,
+"Tensile Strength, Ultimate",979 MPa,142000 psi,
  ,"1060 MPa @Temperature -78.0 °C","154000 psi @Temperature -108 °F",
  ,"1325 MPa @Temperature -195 °C","192200 psi @Temperature -319 °F",
-Elongation at Break ,16 %,16 %,in 50 mm
+Elongation at Break,16 %,16 %,in 50 mm
  ,"12 % @Temperature -195 °C","12 % @Temperature -319 °F",in 50 mm
  ,"17 % @Temperature -78.0 °C","17 % @Temperature -108 °F",in 50 mm
-Bulk Modulus ,160 GPa,23200 ksi,Typical for steel
+Bulk Modulus,160 GPa,23200 ksi,Typical for steel
 Fatigue Strength ,205 MPa,29700 psi,Notched Limit
  ,485 MPa,70300 psi,Unnotched Limit
  ,"240 MPa @Temperature -195 °C","34800 psi @Temperature -319 °F",Notched Limit
  ,"550 MPa @Temperature -78.0 °C","79800 psi @Temperature -108 °F",Unnotched Limit
  ,"862 MPa @Temperature -195 °C","125000 psi @Temperature -319 °F",Unnotched Limit
-Shear Modulus ,79.0 GPa,11500 ksi,Estimated from elastic modulus
+Shear Modulus,79.0 GPa,11500 ksi,Estimated from elastic modulus
  ,"82.0 GPa @Temperature -78.0 °C","11900 ksi @Temperature -108 °F",Estimated from elastic modulus
  ,"85.8 GPa @Temperature -195 °C","12400 ksi @Temperature -319 °F",Estimated from elastic modulus
-Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical steel
-"Chromium, Cr ",0.40 - 0.60 %,0.40 - 0.60 %,
-"Manganese, Mn ",0.65 - 0.95 %,0.65 - 0.95 %,
-"Nickel, Ni ",0.35 - 0.75 %,0.35 - 0.75 %,
-"Silicon, Si ",0.15 - 0.30 %,0.15 - 0.30 %,
+Specific Heat Capacity,0.475 J/g-°C,0.114 BTU/lb-°F,Typical steel
+"Chromium, Cr",0.40 - 0.60 %,0.40 - 0.60 %,
+"Manganese, Mn",0.65 - 0.95 %,0.65 - 0.95 %,
+"Nickel, Ni",0.35 - 0.75 %,0.35 - 0.75 %,
+"Silicon, Si",0.15 - 0.30 %,0.15 - 0.30 %,

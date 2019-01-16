@@ -1,5 +1,5 @@
 ,Metric,English,Comments
-"Tensile Strength, Ultimate ",800 MPa,116000 psi,"0% CW, 45 Silver CSA"
+"Tensile Strength, Ultimate",800 MPa,116000 psi,"0% CW, 45 Silver CSA"
  ,870 MPa,126000 psi,"0% CW, 40 Silver CSA"
  ,940 MPa,136000 psi,"0% CW, 35 Silver CSA"
  ,1010 MPa,146000 psi,"0% CW, 30 Silver CSA"
@@ -30,14 +30,14 @@
  ,1635 MPa,237100 psi,"50% CW, 25 Silver CSA"
  ,1695 MPa,245800 psi,"60% CW, 25 Silver CSA"
 "Boron, B ",<= 0.0150 %,<= 0.0150 %,
-"Chromium, Cr ",19.0 - 21.0 %,19.0 - 21.0 %,
-"Iron, Fe ",1.0 %,1.0 %,
-"Molybdenum, Mo ",9.00 - 10.5 %,9.00 - 10.5 %,
-"Phosphorous, P ",<= 0.0150 %,<= 0.0150 %,
-"Sulfur, S ",<= 0.0100 %,<= 0.0100 %,
-"Carbon, C ",<= 0.0250 %,<= 0.0250 %,
+"Chromium, Cr",19.0 - 21.0 %,19.0 - 21.0 %,
+"Iron, Fe",1.0 %,1.0 %,
+"Molybdenum, Mo",9.00 - 10.5 %,9.00 - 10.5 %,
+"Phosphorous, P",<= 0.0150 %,<= 0.0150 %,
+"Sulfur, S",<= 0.0100 %,<= 0.0100 %,
+"Carbon, C",<= 0.0250 %,<= 0.0250 %,
 "Cobalt, Co ",29.13 - 36.7 %,29.13 - 36.7 %,
-"Manganese, Mn ",0.15 %,0.15 %,
-"Nickel, Ni ",33.0 - 37.0 %,33.0 - 37.0 %,
-"Silicon, Si ",0.15 %,0.15 %,
+"Manganese, Mn",0.15 %,0.15 %,
+"Nickel, Ni",33.0 - 37.0 %,33.0 - 37.0 %,
+"Silicon, Si",0.15 %,0.15 %,
 "Titanium, Ti ",1.0 %,1.0 %,

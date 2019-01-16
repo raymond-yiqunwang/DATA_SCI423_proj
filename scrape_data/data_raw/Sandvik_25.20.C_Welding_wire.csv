@@ -1,39 +1,39 @@
 ,Metric,English,Comments
-Density ,7.80 g/cc,0.282 lb/in,
-"Hardness, Vickers ",160,160,
-"Tensile Strength, Yield  ","250 MPa @Strain 0.200 %,
+Density,7.80 g/cc,0.282 lb/in,
+"Hardness, Vickers",160,160,
+"Tensile Strength, Yield","250 MPa @Strain 0.200 %,
 Temperature 400 C","36300 psi @Strain 0.200 %,
 Temperature 752 F",
  ,"390 MPa @Strain 0.200 %,
 Temperature 20.0 C","56600 psi @Strain 0.200 %,
 Temperature 68.0 F",
-Reduction of Area ,64 %,64 %,
-"CTE, linear ","19.7 m/m-C @Temperature 20.0 - 400 C","10.9 in/in-F @Temperature 68.0 - 752 F",
-"Carbon, C ",0.10 %,0.10 %,All-weld metal
+Reduction of Area,64 %,64 %,
+"CTE, linear","19.7 m/m-C @Temperature 20.0 - 400 C","10.9 in/in-F @Temperature 68.0 - 752 F",
+"Carbon, C",0.10 %,0.10 %,All-weld metal
  ,0.12 %,0.12 %,AIM
-"Copper, Cu ",<= 0.300 %,<= 0.300 %,AIM
-"Molybdenum, Mo ",<= 0.300 %,<= 0.300 %,AIM
+"Copper, Cu",<= 0.300 %,<= 0.300 %,AIM
+"Molybdenum, Mo",<= 0.300 %,<= 0.300 %,AIM
 "Nitrogen, N ",0.050 %,0.050 %,All-weld metal
  ,<= 0.0600 %,<= 0.0600 %,AIM
-"Silicon, Si ",0.30 %,0.30 %,AIM
+"Silicon, Si",0.30 %,0.30 %,AIM
  ,0.30 %,0.30 %,All-weld metal
-"Tensile Strength, Ultimate  ","490 MPa @Temperature 400 C","71100 psi @Temperature 752 F",
+"Tensile Strength, Ultimate","490 MPa @Temperature 400 C","71100 psi @Temperature 752 F",
  ,"590 MPa @Temperature 20.0 C","85600 psi @Temperature 68.0 F",
-Elongation at Break  ,"26 % @Temperature 400 C","26 % @Temperature 752 F",
+Elongation at Break,"26 % @Temperature 400 C","26 % @Temperature 752 F",
  ,"38 % @Temperature 20.0 C","38 % @Temperature 68.0 F",
-Charpy Impact  ,"60.0 J @Temperature -196 C","44.3 ft-lb @Temperature -321 F",
+Charpy Impact,"60.0 J @Temperature -196 C","44.3 ft-lb @Temperature -321 F",
  ,"130 J @Temperature 20.0 C","95.9 ft-lb @Temperature 68.0 F",
-Thermal Conductivity  ,"12.0 W/m-K @Temperature 20.0 C","83.3 BTU-in/hr-ft-F @Temperature 68.0 F",
+Thermal Conductivity,"12.0 W/m-K @Temperature 20.0 C","83.3 BTU-in/hr-ft-F @Temperature 68.0 F",
  ,"13.0 W/m-K @Temperature 100 C","90.2 BTU-in/hr-ft-F @Temperature 212 F",
  ,"15.0 W/m-K @Temperature 300 C","104 BTU-in/hr-ft-F @Temperature 572 F",
  ,"17.0 W/m-K @Temperature 500 C","118 BTU-in/hr-ft-F @Temperature 932 F",
-"Chromium, Cr ",25 %,25 %,All-weld metal
+"Chromium, Cr",25 %,25 %,All-weld metal
  ,26 %,26 %,AIM
-"Manganese, Mn ",1.7 %,1.7 %,All-weld metal
+"Manganese, Mn",1.7 %,1.7 %,All-weld metal
  ,1.8 %,1.8 %,AIM
-"Nickel, Ni ",20 %,20 %,All-weld metal
+"Nickel, Ni",20 %,20 %,All-weld metal
  ,21 %,21 %,AIM
-"Phosphorous, P ",0.012 %,0.012 %,All-weld metal
+"Phosphorous, P",0.012 %,0.012 %,All-weld metal
  ,<= 0.0150 %,<= 0.0150 %,AIM
-"Sulfur, S ",0.010 %,0.010 %,All-weld metal
+"Sulfur, S",0.010 %,0.010 %,All-weld metal
  ,<= 0.0150 %,<= 0.0150 %,AIM

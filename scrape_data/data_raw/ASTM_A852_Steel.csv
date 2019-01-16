@@ -1,23 +1,23 @@
 ,Metric,English,Comments
-Density ,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
-"Tensile Strength, Ultimate ",620 - 760 MPa,89900 - 110000 psi,
-Elongation at Break ,>= 19 %,>= 19 %,in 50 mm
-Bulk Modulus ,160 GPa,23200 ksi,Typical for Steel
-Shear Modulus ,80.0 GPa,11600 ksi,Typical for Steel
-Electrical Resistivity ,0.0000170 ohm-cm,0.0000170 ohm-cm,Typical Carbon Steel
-"CTE, linear ",12.0 µm/m-°C,6.67 µin/in-°F,Typical Carbon Steel
-Thermal Conductivity ,52.0 W/m-K,361 BTU-in/hr-ft²-°F,Typical Carbon Steel
-"Carbon, C ",<= 0.19 %,<= 0.19 %,
-"Copper, Cu ",0.20 - 0.40 %,0.20 - 0.40 %,
-"Manganese, Mn ",0.80 - 1.35 %,0.80 - 1.35 %,
-"Phosphorous, P ",<= 0.040 %,<= 0.040 %,
-"Sulfur, S ",<= 0.050 %,<= 0.050 %,
-"Tensile Strength, Yield ",485 MPa,70300 psi,
-Modulus of Elasticity ,200 GPa,29000 ksi,Typical Carbon Steel
-Poissons Ratio ,0.29,0.29,Typical Carbon Steel
-Specific Heat Capacity ,0.470 J/g-°C,0.112 BTU/lb-°F,Typical Carbon Steel
-"Chromium, Cr ",0.40 - 0.70 %,0.40 - 0.70 %,
-"Iron, Fe ",96.95 %,96.95 %,as balance
-"Nickel, Ni ",0.50 %,0.50 %,
-"Silicon, Si ",0.20 - 0.65 %,0.20 - 0.65 %,
-"Vanadium, V ",0.020 - 0.10 %,0.020 - 0.10 %,
+Density,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
+"Tensile Strength, Ultimate",620 - 760 MPa,89900 - 110000 psi,
+Elongation at Break,>= 19 %,>= 19 %,in 50 mm
+Bulk Modulus,160 GPa,23200 ksi,Typical for Steel
+Shear Modulus,80.0 GPa,11600 ksi,Typical for Steel
+Electrical Resistivity,0.0000170 ohm-cm,0.0000170 ohm-cm,Typical Carbon Steel
+"CTE, linear",12.0 µm/m-°C,6.67 µin/in-°F,Typical Carbon Steel
+Thermal Conductivity,52.0 W/m-K,361 BTU-in/hr-ft²-°F,Typical Carbon Steel
+"Carbon, C",<= 0.19 %,<= 0.19 %,
+"Copper, Cu",0.20 - 0.40 %,0.20 - 0.40 %,
+"Manganese, Mn",0.80 - 1.35 %,0.80 - 1.35 %,
+"Phosphorous, P",<= 0.040 %,<= 0.040 %,
+"Sulfur, S",<= 0.050 %,<= 0.050 %,
+"Tensile Strength, Yield",485 MPa,70300 psi,
+Modulus of Elasticity,200 GPa,29000 ksi,Typical Carbon Steel
+Poissons Ratio,0.29,0.29,Typical Carbon Steel
+Specific Heat Capacity,0.470 J/g-°C,0.112 BTU/lb-°F,Typical Carbon Steel
+"Chromium, Cr",0.40 - 0.70 %,0.40 - 0.70 %,
+"Iron, Fe",96.95 %,96.95 %,as balance
+"Nickel, Ni",0.50 %,0.50 %,
+"Silicon, Si",0.20 - 0.65 %,0.20 - 0.65 %,
+"Vanadium, V",0.020 - 0.10 %,0.020 - 0.10 %,

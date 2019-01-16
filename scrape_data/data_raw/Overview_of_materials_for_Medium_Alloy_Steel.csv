@@ -1,29 +1,29 @@
 ,Metric,English,Comments
-Density ,6.60 - 7.86 g/cc,0.238 - 0.284 lb/in³,Average value: 7.76 g/cc Grade Count:24
-"Hardness, Knoop ",228 - 682,228 - 682,Average value: 491 Grade Count:8
-"Hardness, Vickers ",219 - 661,219 - 661,Average value: 474 Grade Count:8
-"Tensile Strength, Yield ",203 - 2000 MPa,29500 - 290000 psi,Average value: 805 MPa Grade Count:21
-Modulus of Elasticity ,200 - 207 GPa,29000 - 30000 ksi,Average value: 201 GPa Grade Count:14
-Poissons Ratio ,0.29,0.29,Average value: 0.290 Grade Count:11
-Electrical Resistivity ,0.0000170 - 0.0000650 ohm-cm,0.0000170 - 0.0000650 ohm-cm,Average value: 0.0000210 ohm-cm Grade Count:12
-"CTE, linear ",10.6 - 14.7 µm/m-°C,5.89 - 8.17 µin/in-°F,Average value: 12.3 µm/m-°C Grade Count:22
-Thermal Conductivity ,52.0 W/m-K,361 BTU-in/hr-ft²-°F,Average value: 52.0 W/m-K Grade Count:11
+Density,6.60 - 7.86 g/cc,0.238 - 0.284 lb/in³,Average value: 7.76 g/cc Grade Count:24
+"Hardness, Knoop",228 - 682,228 - 682,Average value: 491 Grade Count:8
+"Hardness, Vickers",219 - 661,219 - 661,Average value: 474 Grade Count:8
+"Tensile Strength, Yield",203 - 2000 MPa,29500 - 290000 psi,Average value: 805 MPa Grade Count:21
+Modulus of Elasticity,200 - 207 GPa,29000 - 30000 ksi,Average value: 201 GPa Grade Count:14
+Poissons Ratio,0.29,0.29,Average value: 0.290 Grade Count:11
+Electrical Resistivity,0.0000170 - 0.0000650 ohm-cm,0.0000170 - 0.0000650 ohm-cm,Average value: 0.0000210 ohm-cm Grade Count:12
+"CTE, linear",10.6 - 14.7 µm/m-°C,5.89 - 8.17 µin/in-°F,Average value: 12.3 µm/m-°C Grade Count:22
+Thermal Conductivity,52.0 W/m-K,361 BTU-in/hr-ft²-°F,Average value: 52.0 W/m-K Grade Count:11
 Processing Temperature ,175 - 955 °C,347 - 1750 °F,Average value: 631 °C Grade Count:10
-"Carbon, C ",0.0600 - 1.00 %,0.0600 - 1.00 %,Average value: 0.359 % Grade Count:27
-"Iron, Fe ",84.0 - 97.6 %,84.0 - 97.6 %,Average value: 93.0 % Grade Count:27
-"Molybdenum, Mo ",0.300 - 1.30 %,0.300 - 1.30 %,Average value: 0.674 % Grade Count:23
-"Phosphorous, P ",0.0200 - 0.0400 %,0.0200 - 0.0400 %,Average value: 0.0308 % Grade Count:19
-"Sulfur, S ",0.0100 - 0.0400 %,0.0100 - 0.0400 %,Average value: 0.0300 % Grade Count:19
+"Carbon, C",0.0600 - 1.00 %,0.0600 - 1.00 %,Average value: 0.359 % Grade Count:27
+"Iron, Fe",84.0 - 97.6 %,84.0 - 97.6 %,Average value: 93.0 % Grade Count:27
+"Molybdenum, Mo",0.300 - 1.30 %,0.300 - 1.30 %,Average value: 0.674 % Grade Count:23
+"Phosphorous, P",0.0200 - 0.0400 %,0.0200 - 0.0400 %,Average value: 0.0308 % Grade Count:19
+"Sulfur, S",0.0100 - 0.0400 %,0.0100 - 0.0400 %,Average value: 0.0300 % Grade Count:19
 Particle Size ,6.70 - 12.0 µm,6.70 - 12.0 µm,Average value: 9.27 µm Grade Count:4
-"Hardness, Rockwell C ",15.0 - 70.0,15.0 - 70.0,Average value: 49.1 Grade Count:11
-"Tensile Strength, Ultimate ",372 - 2310 MPa,54000 - 335000 psi,Average value: 1060 MPa Grade Count:21
-Elongation at Break ,7.00 - 30.0 %,7.00 - 30.0 %,Average value: 17.7 % Grade Count:20
-Bulk Modulus ,160 GPa,23200 ksi,Average value: 160 GPa Grade Count:19
-Shear Modulus ,80.0 GPa,11600 ksi,Average value: 80.0 GPa Grade Count:19
-Specific Heat Capacity ,0.470 J/g-°C,0.112 BTU/lb-°F,Average value: 0.470 J/g-°C Grade Count:11
+"Hardness, Rockwell C",15.0 - 70.0,15.0 - 70.0,Average value: 49.1 Grade Count:11
+"Tensile Strength, Ultimate",372 - 2310 MPa,54000 - 335000 psi,Average value: 1060 MPa Grade Count:21
+Elongation at Break,7.00 - 30.0 %,7.00 - 30.0 %,Average value: 17.7 % Grade Count:20
+Bulk Modulus,160 GPa,23200 ksi,Average value: 160 GPa Grade Count:19
+Shear Modulus,80.0 GPa,11600 ksi,Average value: 80.0 GPa Grade Count:19
+Specific Heat Capacity,0.470 J/g-°C,0.112 BTU/lb-°F,Average value: 0.470 J/g-°C Grade Count:11
 Annealing Temperature ,760 - 815 °C,1400 - 1500 °F,Average value: 787 °C Grade Count:8
-"Chromium, Cr ",0.350 - 14.0 %,0.350 - 14.0 %,Average value: 4.93 % Grade Count:16
-"Manganese, Mn ",0.250 - 2.00 %,0.250 - 2.00 %,Average value: 0.600 % Grade Count:26
-"Nickel, Ni ",0.300 - 9.50 %,0.300 - 9.50 %,Average value: 4.07 % Grade Count:9
-"Silicon, Si ",0.150 - 2.00 %,0.150 - 2.00 %,Average value: 0.898 % Grade Count:26
-"Vanadium, V ",0.180 - 0.500 %,0.180 - 0.500 %,Average value: 0.398 % Grade Count:15
+"Chromium, Cr",0.350 - 14.0 %,0.350 - 14.0 %,Average value: 4.93 % Grade Count:16
+"Manganese, Mn",0.250 - 2.00 %,0.250 - 2.00 %,Average value: 0.600 % Grade Count:26
+"Nickel, Ni",0.300 - 9.50 %,0.300 - 9.50 %,Average value: 4.07 % Grade Count:9
+"Silicon, Si",0.150 - 2.00 %,0.150 - 2.00 %,Average value: 0.898 % Grade Count:26
+"Vanadium, V",0.180 - 0.500 %,0.180 - 0.500 %,Average value: 0.398 % Grade Count:15

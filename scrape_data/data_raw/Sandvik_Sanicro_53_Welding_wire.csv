@@ -1,30 +1,30 @@
 ,Metric,English,Comments
-"Hardness, Vickers ",260,260,
-"Tensile Strength, Yield ","510 MPa @Strain 0.200 %","74000 psi @Strain 0.200 %",
-Reduction of Area ,42 %,42 %,
+"Hardness, Vickers",260,260,
+"Tensile Strength, Yield","510 MPa @Strain 0.200 %","74000 psi @Strain 0.200 %",
+Reduction of Area,42 %,42 %,
 "Aluminum, Al ",1.0 %,1.0 %,Filler metal
-"Chromium, Cr ",22.5 %,22.5 %,Filler metal
+"Chromium, Cr",22.5 %,22.5 %,Filler metal
  ,22.5 %,22.5 %,All-weld metal
-"Iron, Fe ",0.50 %,0.50 %,All-weld metal
+"Iron, Fe",0.50 %,0.50 %,All-weld metal
  ,<= 1.00 %,<= 1.00 %,Filler metal
-"Molybdenum, Mo ",9.0 %,9.0 %,Filler metal
+"Molybdenum, Mo",9.0 %,9.0 %,Filler metal
  ,9.0 %,9.0 %,All-weld metal
-"Phosphorous, P ",<= 0.0100 %,<= 0.0100 %,Filler metal
-"Sulfur, S ",<= 0.0100 %,<= 0.0100 %,Filler metal
+"Phosphorous, P",<= 0.0100 %,<= 0.0100 %,Filler metal
+"Sulfur, S",<= 0.0100 %,<= 0.0100 %,Filler metal
 "Tungsten, W ",<= 0.100 %,<= 0.100 %,All-weld metal
  ,<= 0.500 %,<= 0.500 %,Filler metal
-"Tensile Strength, Ultimate ",770 MPa,112000 psi,
-Elongation at Break ,37 %,37 %,
-Charpy Impact  ,"105 J @Temperature -196 C","77.4 ft-lb @Temperature -321 F",
+"Tensile Strength, Ultimate",770 MPa,112000 psi,
+Elongation at Break,37 %,37 %,
+Charpy Impact,"105 J @Temperature -196 C","77.4 ft-lb @Temperature -321 F",
  ,"130 J @Temperature 20.0 C","95.9 ft-lb @Temperature 68.0 F",
-"Carbon, C ",0.060 %,0.060 %,All-weld metal
+"Carbon, C",0.060 %,0.060 %,All-weld metal
  ,0.080 %,0.080 %,Filler metal
 "Cobalt, Co ",11.5 %,11.5 %,All-weld metal
  ,12 %,12 %,Filler metal
-"Manganese, Mn ",0.040 %,0.040 %,All-weld metal
+"Manganese, Mn",0.040 %,0.040 %,All-weld metal
  ,<= 1.00 %,<= 1.00 %,Filler metal
-"Nickel, Ni ",53.5 %,53.5 %,Filler metal
+"Nickel, Ni",53.5 %,53.5 %,Filler metal
  ,55 %,55 %,All-weld metal
-"Silicon, Si ",0.20 %,0.20 %,All-weld metal
+"Silicon, Si",0.20 %,0.20 %,All-weld metal
  ,<= 1.00 %,<= 1.00 %,Filler metal
 "Titanium, Ti ",<= 0.600 %,<= 0.600 %,Filler metal

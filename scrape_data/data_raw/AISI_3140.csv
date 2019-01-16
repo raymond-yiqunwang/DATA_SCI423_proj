@@ -1,14 +1,14 @@
 ,Metric,English,Comments
-Density ,7.85 g/cc,0.284 lb/in³,ASTM D792
-"Tensile Strength, Ultimate ",790 MPa,115000 psi,ASTM D638
-Elongation at Break ,25 %,25 %,ASTM D638
-"Carbon, C ",0.38 - 0.43 %,0.38 - 0.43 %,
-"Iron, Fe ",96.1 - 97.1 %,96.1 - 97.1 %,as balance
-"Nickel, Ni ",1.1 - 1.4 %,1.1 - 1.4 %,
-"Silicon, Si ",0.15 - 0.35 %,0.15 - 0.35 %,
-"Tensile Strength, Yield ",520 MPa,75400 psi,ASTM D638
-Machinability ,55 %,55 %,as compared to AISI 1112 steel with a machinability rating of 100.
-"Chromium, Cr ",0.55 - 0.75 %,0.55 - 0.75 %,
-"Manganese, Mn ",0.70 - 0.90 %,0.70 - 0.90 %,
-"Phosphorous, P ",<= 0.040 %,<= 0.040 %,
-"Sulfur, S ",<= 0.040 %,<= 0.040 %,
+Density,7.85 g/cc,0.284 lb/in³,ASTM D792
+"Tensile Strength, Ultimate",790 MPa,115000 psi,ASTM D638
+Elongation at Break,25 %,25 %,ASTM D638
+"Carbon, C",0.38 - 0.43 %,0.38 - 0.43 %,
+"Iron, Fe",96.1 - 97.1 %,96.1 - 97.1 %,as balance
+"Nickel, Ni",1.1 - 1.4 %,1.1 - 1.4 %,
+"Silicon, Si",0.15 - 0.35 %,0.15 - 0.35 %,
+"Tensile Strength, Yield",520 MPa,75400 psi,ASTM D638
+Machinability,55 %,55 %,as compared to AISI 1112 steel with a machinability rating of 100.
+"Chromium, Cr",0.55 - 0.75 %,0.55 - 0.75 %,
+"Manganese, Mn",0.70 - 0.90 %,0.70 - 0.90 %,
+"Phosphorous, P",<= 0.040 %,<= 0.040 %,
+"Sulfur, S",<= 0.040 %,<= 0.040 %,

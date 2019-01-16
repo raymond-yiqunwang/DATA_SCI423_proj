@@ -1,38 +1,38 @@
 ,Metric,English,Comments
-Density ,7.85 g/cc,0.284 lb/in³,
-"Hardness, Brinell ",363,363,
-"Hardness, Rockwell B ",100,100,Converted from Brinell
-"Hardness, Vickers ",384,384,Converted from Brinell
-"Tensile Strength, Yield ",1165 MPa,169000 psi,
-Reduction of Area ,45 %,45 %,
-Bulk Modulus ,159 GPa,23100 ksi,Estimated from elastic modulus
-Machinability ,50 %,50 %,annealed and cold drawn. Based on 100% machinability for AISI 1212 steel.
-Electrical Resistivity  ,"0.0000248 ohm-cm @Temperature 20.0 °C","0.0000248 ohm-cm @Temperature 68.0 °F",
+Density,7.85 g/cc,0.284 lb/in³,
+"Hardness, Brinell",363,363,
+"Hardness, Rockwell B",100,100,Converted from Brinell
+"Hardness, Vickers",384,384,Converted from Brinell
+"Tensile Strength, Yield",1165 MPa,169000 psi,
+Reduction of Area,45 %,45 %,
+Bulk Modulus,159 GPa,23100 ksi,Estimated from elastic modulus
+Machinability,50 %,50 %,annealed and cold drawn. Based on 100% machinability for AISI 1212 steel.
+Electrical Resistivity,"0.0000248 ohm-cm @Temperature 20.0 °C","0.0000248 ohm-cm @Temperature 68.0 °F",
  ,"0.0000298 ohm-cm @Temperature 100 °C","0.0000298 ohm-cm @Temperature 212 °F",
  ,"0.0000552 ohm-cm @Temperature 400 °C","0.0000552 ohm-cm @Temperature 752 °F",
  ,"0.0000797 ohm-cm @Temperature 600 °C","0.0000797 ohm-cm @Temperature 1110 °F",
-"CTE, linear  ","12.3 µm/m-°C @Temperature 20.0 °C","6.83 µin/in-°F @Temperature 68.0 °F","specimen oil hardened, 600°C (1110°F) temper"
+"CTE, linear","12.3 µm/m-°C @Temperature 20.0 °C","6.83 µin/in-°F @Temperature 68.0 °F","specimen oil hardened, 600°C (1110°F) temper"
  ,"12.6 µm/m-°C @Temperature 21.0 - 260 °C","7.00 µin/in-°F @Temperature 69.8 - 500 °F","1.88% Ni, normalized and tempered"
  ,"12.7 µm/m-°C @Temperature 20.0 °C","7.06 µin/in-°F @Temperature 68.0 °F","specimen oil hardened, 600°C (1110°F) temper"
  ,"13.7 µm/m-°C @Temperature 250 °C","7.61 µin/in-°F @Temperature 482 °F","specimen oil hardened, 600°C (1110°F) temper"
  ,"13.7 µm/m-°C @Temperature 21.0 - 540 °C","7.61 µin/in-°F @Temperature 69.8 - 1000 °F","1.88% Ni, normalized and tempered"
  ,"13.9 µm/m-°C @Temperature 21.0 - 540 °C","7.72 µin/in-°F @Temperature 69.8 - 1000 °F","1.90% Ni, quenched, tempered"
  ,"14.5 µm/m-°C @Temperature 500 °C","8.06 µin/in-°F @Temperature 932 °F","specimen oil hardened, 600°C (1110°F) temper"
-Thermal Conductivity ,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
-"Carbon, C ",0.37 - 0.43 %,0.37 - 0.43 %,
-"Iron, Fe ",95.195 - 96.33 %,95.195 - 96.33 %,As remainder
-"Molybdenum, Mo ",0.20 - 0.30 %,0.20 - 0.30 %,
-"Phosphorous, P ",<= 0.035 %,<= 0.035 %,
-"Sulfur, S ",<= 0.040 %,<= 0.040 %,
-"Hardness, Knoop ",392,392,Converted from Brinell
-"Hardness, Rockwell C ",40,40,Converted from Brinell
-"Tensile Strength, Ultimate ",1255 MPa,182000 psi,
-Elongation at Break ,13.7 %,13.7 %,
-Modulus of Elasticity ,200 GPa,29000 ksi,
-Poissons Ratio ,0.29,0.29,Typical for steel
-Shear Modulus ,78.0 GPa,11300 ksi,Estimated from elastic modulus
-Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical 4000 series steel
-"Chromium, Cr ",0.70 - 0.90 %,0.70 - 0.90 %,
-"Manganese, Mn ",0.60 - 0.80 %,0.60 - 0.80 %,
-"Nickel, Ni ",1.65 - 2.0 %,1.65 - 2.0 %,
-"Silicon, Si ",0.15 - 0.30 %,0.15 - 0.30 %,
+Thermal Conductivity,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
+"Carbon, C",0.37 - 0.43 %,0.37 - 0.43 %,
+"Iron, Fe",95.195 - 96.33 %,95.195 - 96.33 %,As remainder
+"Molybdenum, Mo",0.20 - 0.30 %,0.20 - 0.30 %,
+"Phosphorous, P",<= 0.035 %,<= 0.035 %,
+"Sulfur, S",<= 0.040 %,<= 0.040 %,
+"Hardness, Knoop",392,392,Converted from Brinell
+"Hardness, Rockwell C",40,40,Converted from Brinell
+"Tensile Strength, Ultimate",1255 MPa,182000 psi,
+Elongation at Break,13.7 %,13.7 %,
+Modulus of Elasticity,200 GPa,29000 ksi,
+Poissons Ratio,0.29,0.29,Typical for steel
+Shear Modulus,78.0 GPa,11300 ksi,Estimated from elastic modulus
+Specific Heat Capacity,0.475 J/g-°C,0.114 BTU/lb-°F,Typical 4000 series steel
+"Chromium, Cr",0.70 - 0.90 %,0.70 - 0.90 %,
+"Manganese, Mn",0.60 - 0.80 %,0.60 - 0.80 %,
+"Nickel, Ni",1.65 - 2.0 %,1.65 - 2.0 %,
+"Silicon, Si",0.15 - 0.30 %,0.15 - 0.30 %,

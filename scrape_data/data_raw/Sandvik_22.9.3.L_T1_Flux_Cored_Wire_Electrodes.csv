@@ -1,15 +1,15 @@
 ,Metric,English,Comments
-"Tensile Strength, Ultimate ",820 MPa,119000 psi,Rm
+"Tensile Strength, Ultimate",820 MPa,119000 psi,Rm
  ,825 MPa,120000 psi,"Rm, Using CO 100%"
-Elongation at Break ,25 %,25 %,
+Elongation at Break,25 %,25 %,
  ,32 %,32 %,Using CO 100%
-"Carbon, C ",0.030 %,0.030 %,
-"Manganese, Mn ",1.15 %,1.15 %,
-"Nickel, Ni ",0.16 %,0.16 %,
-"Tensile Strength, Yield  ","614 MPa @Strain 0.200 %","89100 psi @Strain 0.200 %",Using CO 100%
+"Carbon, C",0.030 %,0.030 %,
+"Manganese, Mn",1.15 %,1.15 %,
+"Nickel, Ni",0.16 %,0.16 %,
+"Tensile Strength, Yield","614 MPa @Strain 0.200 %","89100 psi @Strain 0.200 %",Using CO 100%
  ,"650 MPa @Strain 0.200 %","94300 psi @Strain 0.200 %",
-Charpy Impact  ,"49.0 J @Temperature -40.0 °C","36.1 ft-lb @Temperature -40.0 °F",Using CO 100%
+Charpy Impact,"49.0 J @Temperature -40.0 °C","36.1 ft-lb @Temperature -40.0 °F",Using CO 100%
  ,"49.0 J @Temperature -40.0 °C","36.1 ft-lb @Temperature -40.0 °F",
-"Chromium, Cr ",22.9 %,22.9 %,
-"Molybdenum, Mo ",3.2 %,3.2 %,
-"Silicon, Si ",0.47 %,0.47 %,
+"Chromium, Cr",22.9 %,22.9 %,
+"Molybdenum, Mo",3.2 %,3.2 %,
+"Silicon, Si",0.47 %,0.47 %,

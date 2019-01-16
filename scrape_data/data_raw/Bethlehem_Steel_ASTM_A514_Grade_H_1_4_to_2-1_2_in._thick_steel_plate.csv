@@ -1,20 +1,20 @@
 ,Metric,English,Comments
-Density ,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
-"Hardness, Brinell ",229 - 264,229 - 264,based on conversion from tensile strength
+Density,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
+"Hardness, Brinell",229 - 264,229 - 264,based on conversion from tensile strength
 Tensile Strength at Break ,758 - 896 MPa,110000 - 130000 psi,
-Elongation at Break ,>= 18 %,>= 18 %,"in 2"""
+Elongation at Break,>= 18 %,>= 18 %,"in 2"""
 "Boron, B ",0.0010 - 0.0050 %,0.0010 - 0.0050 %,
-"Chromium, Cr ",0.40 - 0.65 %,0.40 - 0.65 %,
-"Manganese, Mn ",0.95 - 1.3 %,0.95 - 1.3 %,
-"Nickel, Ni ",0.30 - 0.70 %,0.30 - 0.70 %,
-"Silicon, Si ",0.20 - 0.35 %,0.20 - 0.35 %,
-"Vanadium, V ",0.030 - 0.080 %,0.030 - 0.080 %,
-"Hardness, Rockwell C ",20 - 28,20 - 28,
-"Tensile Strength, Yield ",>= 689 MPa,>= 100000 psi,
+"Chromium, Cr",0.40 - 0.65 %,0.40 - 0.65 %,
+"Manganese, Mn",0.95 - 1.3 %,0.95 - 1.3 %,
+"Nickel, Ni",0.30 - 0.70 %,0.30 - 0.70 %,
+"Silicon, Si",0.20 - 0.35 %,0.20 - 0.35 %,
+"Vanadium, V",0.030 - 0.080 %,0.030 - 0.080 %,
+"Hardness, Rockwell C",20 - 28,20 - 28,
+"Tensile Strength, Yield",>= 689 MPa,>= 100000 psi,
 "Bend Radius, Minimum ",2.0 t,2.0 t,"≤1"" W; ASTM A6 PARA. S14"
  ,3.0 t,3.0 t,">1 to 2"" W; ASTM A6 PARA. S14"
-"Carbon, C ",0.12 - 0.21 %,0.12 - 0.21 %,
-"Iron, Fe ",>= 96.335 %,>= 96.335 %,
-"Molybdenum, Mo ",0.20 - 0.30 %,0.20 - 0.30 %,
-"Phosphorous, P ",<= 0.035 %,<= 0.035 %,
-"Sulfur, S ",<= 0.035 %,<= 0.035 %,
+"Carbon, C",0.12 - 0.21 %,0.12 - 0.21 %,
+"Iron, Fe",>= 96.335 %,>= 96.335 %,
+"Molybdenum, Mo",0.20 - 0.30 %,0.20 - 0.30 %,
+"Phosphorous, P",<= 0.035 %,<= 0.035 %,
+"Sulfur, S",<= 0.035 %,<= 0.035 %,

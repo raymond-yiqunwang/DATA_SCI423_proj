@@ -1,18 +1,18 @@
 ,Metric,English,Comments
-Density ,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
-"Tensile Strength, Ultimate ",620 MPa,89900 psi,
-Elongation at Break ,20 %,20 %,in 50 mm
-Shear Modulus ,80.0 GPa,11600 ksi,Typical for steel
-"Carbon, C ",<= 0.070 %,<= 0.070 %,
-"Copper, Cu ",1.15 %,1.15 %,
-"Manganese, Mn ",0.55 %,0.55 %,
-"Nickel, Ni ",0.85 %,0.85 %,
-"Phosphorous, P ",<= 0.025 %,<= 0.025 %,
-"Sulfur, S ",<= 0.025 %,<= 0.025 %,
-"Tensile Strength, Yield ",585 MPa,84800 psi,
-Bulk Modulus ,160 GPa,23200 ksi,Typical for steel
-"Chromium, Cr ",0.75 %,0.75 %,
-"Iron, Fe ",96 %,96 %,
-"Molybdenum, Mo ",0.20 %,0.20 %,
+Density,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
+"Tensile Strength, Ultimate",620 MPa,89900 psi,
+Elongation at Break,20 %,20 %,in 50 mm
+Shear Modulus,80.0 GPa,11600 ksi,Typical for steel
+"Carbon, C",<= 0.070 %,<= 0.070 %,
+"Copper, Cu",1.15 %,1.15 %,
+"Manganese, Mn",0.55 %,0.55 %,
+"Nickel, Ni",0.85 %,0.85 %,
+"Phosphorous, P",<= 0.025 %,<= 0.025 %,
+"Sulfur, S",<= 0.025 %,<= 0.025 %,
+"Tensile Strength, Yield",585 MPa,84800 psi,
+Bulk Modulus,160 GPa,23200 ksi,Typical for steel
+"Chromium, Cr",0.75 %,0.75 %,
+"Iron, Fe",96 %,96 %,
+"Molybdenum, Mo",0.20 %,0.20 %,
 "Niobium, Nb (Columbium, Cb) ",>= 0.020 %,>= 0.020 %,
-"Silicon, Si ",<= 0.40 %,<= 0.40 %,
+"Silicon, Si",<= 0.40 %,<= 0.40 %,

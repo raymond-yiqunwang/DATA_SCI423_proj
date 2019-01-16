@@ -1,17 +1,17 @@
 ,Metric,English,Comments
-"Hardness, Brinell ",331,331,In Core
-"Tensile Strength, Ultimate ",1070 MPa,155000 psi,In Core
-Elongation at Break ,15.5 %,15.5 %,"in 2"""
-Machinability ,40 %,40 %,B-1112 Steels
-"Carbon, C ",0.10 %,0.10 %,
-"Iron, Fe ",94.58 %,94.58 %,
-"Molybdenum, Mo ",0.12 %,0.12 %,
-"Silicon, Si ",0.25 %,0.25 %,
-"Hardness, Rockwell C ",36,36,"5/8"" from quench end; Jominy End Quench Hardenability"
+"Hardness, Brinell",331,331,In Core
+"Tensile Strength, Ultimate",1070 MPa,155000 psi,In Core
+Elongation at Break,15.5 %,15.5 %,"in 2"""
+Machinability,40 %,40 %,B-1112 Steels
+"Carbon, C",0.10 %,0.10 %,
+"Iron, Fe",94.58 %,94.58 %,
+"Molybdenum, Mo",0.12 %,0.12 %,
+"Silicon, Si",0.25 %,0.25 %,
+"Hardness, Rockwell C",36,36,"5/8"" from quench end; Jominy End Quench Hardenability"
  ,37,37,"1/2"" from quenched end; Jominy End Quench Hardenability"
  ,39,39,"1/8"" from quenched end; Jominy End Quench Hardenability"
-"Tensile Strength, Yield ",896 MPa,130000 psi,
-Reduction of Area ,52 %,52 %,
-"Chromium, Cr ",1.2 %,1.2 %,
-"Manganese, Mn ",0.50 %,0.50 %,
-"Nickel, Ni ",3.25 %,3.25 %,
+"Tensile Strength, Yield",896 MPa,130000 psi,
+Reduction of Area,52 %,52 %,
+"Chromium, Cr",1.2 %,1.2 %,
+"Manganese, Mn",0.50 %,0.50 %,
+"Nickel, Ni",3.25 %,3.25 %,

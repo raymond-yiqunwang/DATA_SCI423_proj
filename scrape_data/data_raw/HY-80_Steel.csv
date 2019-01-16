@@ -1,19 +1,19 @@
 ,Metric,English,Comments
-Density ,7.75 g/cc,0.280 lb/in³,
-"Tensile Strength, Yield ",>= 552 MPa,>= 80000 psi,
-Modulus of Elasticity ,205 GPa,29700 ksi,Typical of steel
-Shear Modulus ,80.0 GPa,11600 ksi,Typical of steel
-"Carbon, C ",0.12 - 0.18 %,0.12 - 0.18 %,
-"Copper, Cu ",<= 0.25 %,<= 0.25 %,
-"Manganese, Mn ",0.10 - 0.40 %,0.10 - 0.40 %,
-"Nickel, Ni ",2.0 - 3.25 %,2.0 - 3.25 %,
-"Silicon, Si ",0.15 - 0.35 %,0.15 - 0.35 %,
+Density,7.75 g/cc,0.280 lb/in³,
+"Tensile Strength, Yield",>= 552 MPa,>= 80000 psi,
+Modulus of Elasticity,205 GPa,29700 ksi,Typical of steel
+Shear Modulus,80.0 GPa,11600 ksi,Typical of steel
+"Carbon, C",0.12 - 0.18 %,0.12 - 0.18 %,
+"Copper, Cu",<= 0.25 %,<= 0.25 %,
+"Manganese, Mn",0.10 - 0.40 %,0.10 - 0.40 %,
+"Nickel, Ni",2.0 - 3.25 %,2.0 - 3.25 %,
+"Silicon, Si",0.15 - 0.35 %,0.15 - 0.35 %,
 "Titanium, Ti ",<= 0.020 %,<= 0.020 %,
-Elongation at Break ,17 - 20 %,17 - 20 %,
-Poissons Ratio ,0.28,0.28,Calculated
-"Chromium, Cr ",1.0 - 1.8 %,1.0 - 1.8 %,
-"Iron, Fe ",93.1 - 96.4 %,93.1 - 96.4 %,As Balance
-"Molybdenum, Mo ",0.20 - 0.60 %,0.20 - 0.60 %,
-"Phosphorous, P ",<= 0.025 %,<= 0.025 %,
-"Sulfur, S ",<= 0.025 %,<= 0.025 %,
-"Vanadium, V ",<= 0.030 %,<= 0.030 %,
+Elongation at Break,17 - 20 %,17 - 20 %,
+Poissons Ratio,0.28,0.28,Calculated
+"Chromium, Cr",1.0 - 1.8 %,1.0 - 1.8 %,
+"Iron, Fe",93.1 - 96.4 %,93.1 - 96.4 %,As Balance
+"Molybdenum, Mo",0.20 - 0.60 %,0.20 - 0.60 %,
+"Phosphorous, P",<= 0.025 %,<= 0.025 %,
+"Sulfur, S",<= 0.025 %,<= 0.025 %,
+"Vanadium, V",<= 0.030 %,<= 0.030 %,

@@ -1,7 +1,7 @@
 ,Metric,English,Comments
-"Carbon, C ",<= 0.0300 %,<= 0.0300 %,
-"Iron, Fe ",0.30 %,0.30 %,
-"Nickel, Ni ",96.2 %,96.2 %,
-"Chromium, Cr ",1.6 %,1.6 %,
-"Manganese, Mn ",1.5 %,1.5 %,
-"Silicon, Si ",0.55 %,0.55 %,
+"Carbon, C",<= 0.0300 %,<= 0.0300 %,
+"Iron, Fe",0.30 %,0.30 %,
+"Nickel, Ni",96.2 %,96.2 %,
+"Chromium, Cr",1.6 %,1.6 %,
+"Manganese, Mn",1.5 %,1.5 %,
+"Silicon, Si",0.55 %,0.55 %,

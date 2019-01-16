@@ -1,11 +1,11 @@
 ,Metric,English,Comments
-Density ,7.83 g/cc,0.283 lb/in³,
-"Hardness, Brinell ",143 - 163,143 - 163,
-"Carbon, C ",0.20 %,0.20 %,
-"Iron, Fe ",97.45 %,97.45 %,as balance
-"Molybdenum, Mo ",0.20 %,0.20 %,
-"Silicon, Si ",0.30 %,0.30 %,
-Modulus of Elasticity ,207 GPa,30000 ksi,
-"Chromium, Cr ",0.50 %,0.50 %,
-"Manganese, Mn ",0.80 %,0.80 %,
-"Nickel, Ni ",0.55 %,0.55 %,
+Density,7.83 g/cc,0.283 lb/in³,
+"Hardness, Brinell",143 - 163,143 - 163,
+"Carbon, C",0.20 %,0.20 %,
+"Iron, Fe",97.45 %,97.45 %,as balance
+"Molybdenum, Mo",0.20 %,0.20 %,
+"Silicon, Si",0.30 %,0.30 %,
+Modulus of Elasticity,207 GPa,30000 ksi,
+"Chromium, Cr",0.50 %,0.50 %,
+"Manganese, Mn",0.80 %,0.80 %,
+"Nickel, Ni",0.55 %,0.55 %,

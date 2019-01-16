@@ -1,20 +1,20 @@
 ,Metric,English,Comments
-"Hardness, Rockwell C ",29,29,"Core, At 1650°F, oil quench, tempered at 1200°F"
+"Hardness, Rockwell C",29,29,"Core, At 1650°F, oil quench, tempered at 1200°F"
  ,41,41,"Core, A+ age at 975°C for 20 hours"
-"Tensile Strength, Yield ",1172 MPa,170000 psi,A+ age at 975°C for 20 hours
+"Tensile Strength, Yield",1172 MPa,170000 psi,A+ age at 975°C for 20 hours
  ,"793 MPa @Temperature 899 °C","115000 psi @Temperature 1650 °F","oil quench, tempered at 1200°F"
-Reduction of Area ,50 %,50 %,A+ age at 975°C for 20 hours
+Reduction of Area,50 %,50 %,A+ age at 975°C for 20 hours
  ,"59 % @Temperature 899 °C","59 % @Temperature 1650 °F","after oil quench, tempered at 1200°F"
 "Aluminum, Al ",1.25 %,1.25 %,
-"Chromium, Cr ",1.15 %,1.15 %,
-"Manganese, Mn ",0.60 %,0.60 %,
-"Nickel, Ni ",3.5 %,3.5 %,
-"Tensile Strength, Ultimate ",910 MPa,132000 psi,"At 1650°F, oil quench, tempered at 1200°F"
+"Chromium, Cr",1.15 %,1.15 %,
+"Manganese, Mn",0.60 %,0.60 %,
+"Nickel, Ni",3.5 %,3.5 %,
+"Tensile Strength, Ultimate",910 MPa,132000 psi,"At 1650°F, oil quench, tempered at 1200°F"
  ,1240 MPa,180000 psi,A+ age at 975°C for 20 hours
-Elongation at Break ,16 %,16 %,A+ age at 975°C for 20 hours
+Elongation at Break,16 %,16 %,A+ age at 975°C for 20 hours
  ,"22 % @Temperature 899 °C","22 % @Temperature 1650 °F",sample was oil quenched and tempered at 1200°F
-Charpy Impact ,16.3 J,12.0 ft-lb,48 Aging at 504°C
-"Carbon, C ",0.24 %,0.24 %,
-"Iron, Fe ",92.71 %,92.71 %,
-"Molybdenum, Mo ",0.25 %,0.25 %,
-"Silicon, Si ",0.30 %,0.30 %,
+Charpy Impact,16.3 J,12.0 ft-lb,48 Aging at 504°C
+"Carbon, C",0.24 %,0.24 %,
+"Iron, Fe",92.71 %,92.71 %,
+"Molybdenum, Mo",0.25 %,0.25 %,
+"Silicon, Si",0.30 %,0.30 %,

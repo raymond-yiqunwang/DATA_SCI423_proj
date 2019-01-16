@@ -1,11 +1,11 @@
 ,Metric,English,Comments
-"Carbon, C ",<= 0.10 %,<= 0.10 %,
-"Copper, Cu ",<= 0.35 %,<= 0.35 %,
-"Manganese, Mn ",<= 0.60 %,<= 0.60 %,
-"Nickel, Ni ",<= 0.60 %,<= 0.60 %,
-"Silicon, Si ",0.50 %,0.50 %,
-"Chromium, Cr ",5.5 %,5.5 %,
-"Iron, Fe ",93.5 %,93.5 %,As Remainder
-"Molybdenum, Mo ",0.50 %,0.50 %,
-"Phosphorous, P ",<= 0.030 %,<= 0.030 %,
-"Sulfur, S ",<= 0.030 %,<= 0.030 %,
+"Carbon, C",<= 0.10 %,<= 0.10 %,
+"Copper, Cu",<= 0.35 %,<= 0.35 %,
+"Manganese, Mn",<= 0.60 %,<= 0.60 %,
+"Nickel, Ni",<= 0.60 %,<= 0.60 %,
+"Silicon, Si",0.50 %,0.50 %,
+"Chromium, Cr",5.5 %,5.5 %,
+"Iron, Fe",93.5 %,93.5 %,As Remainder
+"Molybdenum, Mo",0.50 %,0.50 %,
+"Phosphorous, P",<= 0.030 %,<= 0.030 %,
+"Sulfur, S",<= 0.030 %,<= 0.030 %,

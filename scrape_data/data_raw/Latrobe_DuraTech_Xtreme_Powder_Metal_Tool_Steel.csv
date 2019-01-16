@@ -1,20 +1,20 @@
 ,Metric,English,Comments
 Specific Gravity ,7.80 g/cc,7.80 g/cc,
-"Hardness, Rockwell C ",61.5,61.5,Oil Quenched from 1066°C; 30 minutes
+"Hardness, Rockwell C",61.5,61.5,Oil Quenched from 1066°C; 30 minutes
  ,63.5,63.5,Oil Quenched from 1093°C; 15 minutes
-Machinability ,65 - 70 %,65 - 70 %,1% Carbon Steel
-"CTE, linear  ","11.97 µm/m-°C @Temperature 38.0 - 427 °C","6.650 µin/in-°F @Temperature 100 - 801 °F",
+Machinability,65 - 70 %,65 - 70 %,1% Carbon Steel
+"CTE, linear","11.97 µm/m-°C @Temperature 38.0 - 427 °C","6.650 µin/in-°F @Temperature 100 - 801 °F",
  ,"12.71 µm/m-°C @Temperature 38.0 - 649 °C","7.061 µin/in-°F @Temperature 100 - 1200 °F",
-"Carbon, C ",0.55 %,0.55 %,
-"Iron, Fe ",88.79 %,88.79 %,
-"Molybdenum, Mo ",4.25 %,4.25 %,
-"Silicon, Si ",0.50 %,0.50 %,
-"Vanadium, V ",1.0 %,1.0 %,
-Density ,7.81 g/cc,0.282 lb/in³,
-Modulus of Elasticity ,207 GPa,30000 ksi,
+"Carbon, C",0.55 %,0.55 %,
+"Iron, Fe",88.79 %,88.79 %,
+"Molybdenum, Mo",4.25 %,4.25 %,
+"Silicon, Si",0.50 %,0.50 %,
+"Vanadium, V",1.0 %,1.0 %,
+Density,7.81 g/cc,0.282 lb/in³,
+Modulus of Elasticity,207 GPa,30000 ksi,
 Izod Impact Unnotched ,94.9 J,70.0 ft-lb,Oil Quenched from 1080°C
  ,169 J,125 ft-lb,Oil Quenched from 1080°C
-"Chromium, Cr ",4.0 %,4.0 %,
-"Manganese, Mn ",0.40 %,0.40 %,
-"Nickel, Ni ",0.50 %,0.50 %,
-"Sulfur, S ",0.010 %,0.010 %,
+"Chromium, Cr",4.0 %,4.0 %,
+"Manganese, Mn",0.40 %,0.40 %,
+"Nickel, Ni",0.50 %,0.50 %,
+"Sulfur, S",0.010 %,0.010 %,

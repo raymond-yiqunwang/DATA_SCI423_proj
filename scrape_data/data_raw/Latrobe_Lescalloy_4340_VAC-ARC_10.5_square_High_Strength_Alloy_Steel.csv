@@ -1,18 +1,18 @@
 ,Metric,English,Comments
-Density ,7.83 g/cc,0.283 lb/in³,
-"Hardness, Rockwell C ",48 - 58,48 - 58,"1"" from quenched end"
-"Tensile Strength, Yield ",1035 MPa,150100 psi,593°C Temper Temperature
-Reduction of Area ,60 %,60 %,593°C Temper Temperature
-"CTE, linear  ","11.3 µm/m-°C @Temperature 18.0 - 93.0 °C","6.28 µin/in-°F @Temperature 64.4 - 199 °F",
+Density,7.83 g/cc,0.283 lb/in³,
+"Hardness, Rockwell C",48 - 58,48 - 58,"1"" from quenched end"
+"Tensile Strength, Yield",1035 MPa,150100 psi,593°C Temper Temperature
+Reduction of Area,60 %,60 %,593°C Temper Temperature
+"CTE, linear","11.3 µm/m-°C @Temperature 18.0 - 93.0 °C","6.28 µin/in-°F @Temperature 64.4 - 199 °F",
  ,"14.6 µm/m-°C @Temperature 18.0 - 648 °C","8.11 µin/in-°F @Temperature 64.4 - 1200 °F",
-Thermal Conductivity ,37.48 W/m-K,260.1 BTU-in/hr-ft²-°F,
-"Carbon, C ",0.40 %,0.40 %,
-"Iron, Fe ",95.7 %,95.7 %,
-"Molybdenum, Mo ",0.25 %,0.25 %,
-"Silicon, Si ",0.30 %,0.30 %,
-"Tensile Strength, Ultimate ",1140 MPa,165000 psi,593°C Temper Temperature
-Elongation at Break ,18 %,18 %,593°C Temper Temperature
-Specific Heat Capacity ,0.448 J/g-°C,0.107 BTU/lb-°F,
-"Chromium, Cr ",0.80 %,0.80 %,
-"Manganese, Mn ",0.75 %,0.75 %,
-"Nickel, Ni ",1.8 %,1.8 %,
+Thermal Conductivity,37.48 W/m-K,260.1 BTU-in/hr-ft²-°F,
+"Carbon, C",0.40 %,0.40 %,
+"Iron, Fe",95.7 %,95.7 %,
+"Molybdenum, Mo",0.25 %,0.25 %,
+"Silicon, Si",0.30 %,0.30 %,
+"Tensile Strength, Ultimate",1140 MPa,165000 psi,593°C Temper Temperature
+Elongation at Break,18 %,18 %,593°C Temper Temperature
+Specific Heat Capacity,0.448 J/g-°C,0.107 BTU/lb-°F,
+"Chromium, Cr",0.80 %,0.80 %,
+"Manganese, Mn",0.75 %,0.75 %,
+"Nickel, Ni",1.8 %,1.8 %,

@@ -1,30 +1,30 @@
 ,Metric,English,Comments
-Density ,8.00 g/cc,0.289 lb/in,
-"Hardness, Vickers ",150,150,
-"Tensile Strength, Yield ","280 MPa @Strain 0.200 %","40600 psi @Strain 0.200 %",
-Reduction of Area ,57 %,57 %,
-"CTE, linear ","16.7 m/m-C @Temperature 20.0 - 400 C","9.28 in/in-F @Temperature 68.0 - 752 F",
-"Carbon, C ",<= 0.0200 %,<= 0.0200 %,Filler metal
+Density,8.00 g/cc,0.289 lb/in,
+"Hardness, Vickers",150,150,
+"Tensile Strength, Yield","280 MPa @Strain 0.200 %","40600 psi @Strain 0.200 %",
+Reduction of Area,57 %,57 %,
+"CTE, linear","16.7 m/m-C @Temperature 20.0 - 400 C","9.28 in/in-F @Temperature 68.0 - 752 F",
+"Carbon, C",<= 0.0200 %,<= 0.0200 %,Filler metal
  ,<= 0.0200 %,<= 0.0200 %,All-weld metal
 "Cobalt, Co ",<= 0.200 %,<= 0.200 %,Filler metal
-"Manganese, Mn ",1.6 %,1.6 %,All-weld metal
+"Manganese, Mn",1.6 %,1.6 %,All-weld metal
  ,1.8 %,1.8 %,Filler metal
-"Nickel, Ni ",20 %,20 %,Filler metal
+"Nickel, Ni",20 %,20 %,Filler metal
  ,20 %,20 %,All-weld metal
-"Silicon, Si ",0.20 %,0.20 %,Filler metal
+"Silicon, Si",0.20 %,0.20 %,Filler metal
  ,0.20 %,0.20 %,All-weld metal
-"Tensile Strength, Ultimate ",590 MPa,85600 psi,
-Elongation at Break ,37 %,37 %,
-Charpy Impact ,"150 J @Temperature -196 C","111 ft-lb @Temperature -321 F",
-Thermal Conductivity  ,"14.0 W/m-K @Temperature 20.0 C","97.2 BTU-in/hr-ft-F @Temperature 68.0 F",
+"Tensile Strength, Ultimate",590 MPa,85600 psi,
+Elongation at Break,37 %,37 %,
+Charpy Impact,"150 J @Temperature -196 C","111 ft-lb @Temperature -321 F",
+Thermal Conductivity,"14.0 W/m-K @Temperature 20.0 C","97.2 BTU-in/hr-ft-F @Temperature 68.0 F",
  ,"15.0 W/m-K @Temperature 100 C","104 BTU-in/hr-ft-F @Temperature 212 F",
  ,"17.0 W/m-K @Temperature 300 C","118 BTU-in/hr-ft-F @Temperature 572 F",
  ,"19.0 W/m-K @Temperature 500 C","132 BTU-in/hr-ft-F @Temperature 932 F",
-"Chromium, Cr ",24 %,24 %,Filler metal
+"Chromium, Cr",24 %,24 %,Filler metal
  ,24 %,24 %,All-weld metal
-"Copper, Cu ",<= 0.100 %,<= 0.100 %,Filler metal
-"Molybdenum, Mo ",<= 0.300 %,<= 0.300 %,Filler metal
-"Phosphorous, P ",<= 0.0200 %,<= 0.0200 %,Filler metal
+"Copper, Cu",<= 0.100 %,<= 0.100 %,Filler metal
+"Molybdenum, Mo",<= 0.300 %,<= 0.300 %,Filler metal
+"Phosphorous, P",<= 0.0200 %,<= 0.0200 %,Filler metal
  ,<= 0.0200 %,<= 0.0200 %,All-weld metal
-"Sulfur, S ",<= 0.0150 %,<= 0.0150 %,Filler metal
+"Sulfur, S",<= 0.0150 %,<= 0.0150 %,Filler metal
  ,<= 0.0150 %,<= 0.0150 %,All-weld metal

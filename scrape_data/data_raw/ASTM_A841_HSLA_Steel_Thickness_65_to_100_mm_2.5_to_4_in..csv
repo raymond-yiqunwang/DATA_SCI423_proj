@@ -1,22 +1,22 @@
 ,Metric,English,Comments
-Density ,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
+Density,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
 Tensile Strength at Break ,448 - 586 MPa,65000 - 85000 psi,Minimum; Varies with size and form
-Elongation at Break ,>= 18 %,>= 18 %,in 200 mm (8 in.); Varies with size and form
+Elongation at Break,>= 18 %,>= 18 %,in 200 mm (8 in.); Varies with size and form
  ,>= 22 %,>= 22 %,in 50 mm (2 in.); Varies with size and form
-Poissons Ratio ,0.28,0.28,Calculated
+Poissons Ratio,0.28,0.28,Calculated
 "Aluminum, Al ",<= 0.020 %,<= 0.020 %,
-"Chromium, Cr ",<= 0.25 %,<= 0.25 %,
-"Iron, Fe ",>= 96.6 %,>= 96.6 %,As Balance
-"Molybdenum, Mo ",<= 0.080 %,<= 0.080 %,
+"Chromium, Cr",<= 0.25 %,<= 0.25 %,
+"Iron, Fe",>= 96.6 %,>= 96.6 %,As Balance
+"Molybdenum, Mo",<= 0.080 %,<= 0.080 %,
 "Niobium, Nb (Columbium, Cb) ",<= 0.030 %,<= 0.030 %,
-"Silicon, Si ",0.15 - 0.50 %,0.15 - 0.50 %,
-"Vanadium, V ",<= 0.060 %,<= 0.060 %,
-"Tensile Strength, Yield ",>= 310 MPa,>= 45000 psi,Varies with size and form
-Modulus of Elasticity ,205 GPa,29700 ksi,Typical of steel
-Shear Modulus ,80.0 GPa,11600 ksi,Typical of steel
-"Carbon, C ",<= 0.20 %,<= 0.20 %,
-"Copper, Cu ",<= 0.35 %,<= 0.35 %,
-"Manganese, Mn ",0.70 - 1.6 %,0.70 - 1.6 %,may vary with thickness and carbon content
-"Nickel, Ni ",<= 0.25 %,<= 0.25 %,
-"Phosphorous, P ",<= 0.040 %,<= 0.040 %,
-"Sulfur, S ",<= 0.030 %,<= 0.030 %,
+"Silicon, Si",0.15 - 0.50 %,0.15 - 0.50 %,
+"Vanadium, V",<= 0.060 %,<= 0.060 %,
+"Tensile Strength, Yield",>= 310 MPa,>= 45000 psi,Varies with size and form
+Modulus of Elasticity,205 GPa,29700 ksi,Typical of steel
+Shear Modulus,80.0 GPa,11600 ksi,Typical of steel
+"Carbon, C",<= 0.20 %,<= 0.20 %,
+"Copper, Cu",<= 0.35 %,<= 0.35 %,
+"Manganese, Mn",0.70 - 1.6 %,0.70 - 1.6 %,may vary with thickness and carbon content
+"Nickel, Ni",<= 0.25 %,<= 0.25 %,
+"Phosphorous, P",<= 0.040 %,<= 0.040 %,
+"Sulfur, S",<= 0.030 %,<= 0.030 %,

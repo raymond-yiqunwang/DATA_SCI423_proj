@@ -1,39 +1,39 @@
 ,Metric,English,Comments
-Density ,7.90 g/cc,0.285 lb/in,
-"Tensile Strength, Ultimate ",860 MPa,125000 psi,SAW
+Density,7.90 g/cc,0.285 lb/in,
+"Tensile Strength, Ultimate",860 MPa,125000 psi,SAW
  ,880 MPa,128000 psi,TIG
-Elongation at Break ,25 %,25 %,TIG
+Elongation at Break,25 %,25 %,TIG
  ,25 %,25 %,SAW
-"CTE, linear ","14.5 m/m-C @Temperature 20.0 - 400 C","8.06 in/in-F @Temperature 68.0 - 752 F",
-"Carbon, C ",>= 0.0200 %,>= 0.0200 %,SAW
+"CTE, linear","14.5 m/m-C @Temperature 20.0 - 400 C","8.06 in/in-F @Temperature 68.0 - 752 F",
+"Carbon, C",>= 0.0200 %,>= 0.0200 %,SAW
  ,<= 0.0250 %,<= 0.0250 %,Filler Metal
  ,<= 0.0250 %,<= 0.0250 %,TIG
-"Manganese, Mn ",0.80 %,0.80 %,SAW
+"Manganese, Mn",0.80 %,0.80 %,SAW
  ,1.0 %,1.0 %,Filler Metal
  ,1.0 %,1.0 %,TIG
-"Nickel, Ni ",6.8 %,6.8 %,TIG
+"Nickel, Ni",6.8 %,6.8 %,TIG
  ,6.8 %,6.8 %,SAW
  ,7.0 %,7.0 %,Filler Metal
-"Phosphorous, P ",<= 0.0200 %,<= 0.0200 %,Filler Metal
+"Phosphorous, P",<= 0.0200 %,<= 0.0200 %,Filler Metal
  ,<= 0.0200 %,<= 0.0200 %,TIG
  ,<= 0.0200 %,<= 0.0200 %,SAW
-"Sulfur, S ",<= 0.0150 %,<= 0.0150 %,Filler Metal
+"Sulfur, S",<= 0.0150 %,<= 0.0150 %,Filler Metal
  ,<= 0.0150 %,<= 0.0150 %,TIG
  ,<= 0.0150 %,<= 0.0150 %,SAW
-"Tensile Strength, Yield  ","660 MPa @Strain 0.200 %","95700 psi @Strain 0.200 %",SAW
+"Tensile Strength, Yield","660 MPa @Strain 0.200 %","95700 psi @Strain 0.200 %",SAW
  ,"670 MPa @Strain 0.200 %","97200 psi @Strain 0.200 %",TIG
-Charpy Impact ,115 J,84.8 ft-lb,SAW
+Charpy Impact,115 J,84.8 ft-lb,SAW
  ,150 J,111 ft-lb,TIG
-Thermal Conductivity ,16.0 W/m-K,111 BTU-in/hr-ft-F,
-"Chromium, Cr ",28.5 %,28.5 %,SAW
+Thermal Conductivity,16.0 W/m-K,111 BTU-in/hr-ft-F,
+"Chromium, Cr",28.5 %,28.5 %,SAW
  ,29 %,29 %,Filler Metal
  ,29 %,29 %,TIG
-"Molybdenum, Mo ",2.3 %,2.3 %,TIG
+"Molybdenum, Mo",2.3 %,2.3 %,TIG
  ,2.3 %,2.3 %,SAW
  ,2.4 %,2.4 %,Filler Metal
 "Nitrogen, N ",0.32 %,0.32 %,SAW
  ,0.35 %,0.35 %,TIG
  ,0.36 %,0.36 %,Filler Metal
-"Silicon, Si ",0.40 %,0.40 %,Filler Metal
+"Silicon, Si",0.40 %,0.40 %,Filler Metal
  ,0.40 %,0.40 %,TIG
  ,0.60 %,0.60 %,SAW

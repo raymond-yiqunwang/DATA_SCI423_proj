@@ -1,17 +1,17 @@
 ,Metric,English,Comments
-"Hardness, Brinell ",500,500,
-"Tensile Strength, Yield ","1400 MPa @Strain 0.200 %","203000 psi @Strain 0.200 %",
-Charpy Impact  ,"8.00 - 16.0 J @Temperature -20.0 °C","5.90 - 11.8 ft-lb @Temperature -4.00 °F",Transverse
+"Hardness, Brinell",500,500,
+"Tensile Strength, Yield","1400 MPa @Strain 0.200 %","203000 psi @Strain 0.200 %",
+Charpy Impact,"8.00 - 16.0 J @Temperature -20.0 °C","5.90 - 11.8 ft-lb @Temperature -4.00 °F",Transverse
  ,"10.0 - 20.0 J @Temperature -20.0 °C","7.38 - 14.8 ft-lb @Temperature -4.00 °F",Longitudinal
 "Boron, B ",0.0020 %,0.0020 %,
-"Chromium, Cr ",1.2 %,1.2 %,
-"Manganese, Mn ",0.40 %,0.40 %,
-"Nickel, Ni ",0.35 %,0.35 %,
-"Silicon, Si ",0.35 %,0.35 %,
+"Chromium, Cr",1.2 %,1.2 %,
+"Manganese, Mn",0.40 %,0.40 %,
+"Nickel, Ni",0.35 %,0.35 %,
+"Silicon, Si",0.35 %,0.35 %,
 Tensile Strength at Break ,1640 MPa,238000 psi,
-Elongation at Break ,14 %,14 %,in 50 mm GL
-"Carbon, C ",0.32 %,0.32 %,
-"Iron, Fe ",97 %,97 %,As Balance
-"Molybdenum, Mo ",0.30 %,0.30 %,
-"Phosphorous, P ",0.025 %,0.025 %,
-"Sulfur, S ",0.0050 %,0.0050 %,
+Elongation at Break,14 %,14 %,in 50 mm GL
+"Carbon, C",0.32 %,0.32 %,
+"Iron, Fe",97 %,97 %,As Balance
+"Molybdenum, Mo",0.30 %,0.30 %,
+"Phosphorous, P",0.025 %,0.025 %,
+"Sulfur, S",0.0050 %,0.0050 %,

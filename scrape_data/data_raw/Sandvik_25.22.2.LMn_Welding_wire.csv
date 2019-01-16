@@ -1,39 +1,39 @@
 ,Metric,English,Comments
-Density ,7.90 g/cc,0.285 lb/in,
-"Hardness, Vickers ",170,170,
-"Tensile Strength, Yield  ","225 MPa @Strain 0.200 %,
+Density,7.90 g/cc,0.285 lb/in,
+"Hardness, Vickers",170,170,
+"Tensile Strength, Yield","225 MPa @Strain 0.200 %,
 Temperature 400 C","32600 psi @Strain 0.200 %,
 Temperature 752 F",
  ,"335 MPa @Strain 0.200 %,
 Temperature 20.0 C","48600 psi @Strain 0.200 %,
 Temperature 68.0 F",
-Reduction of Area ,58 %,58 %,
-"CTE, linear ","18.0 m/m-C @Temperature 20.0 - 400 C","10.0 in/in-F @Temperature 68.0 - 752 F",
-"Carbon, C ",<= 0.0200 %,<= 0.0200 %,Filler metal
+Reduction of Area,58 %,58 %,
+"CTE, linear","18.0 m/m-C @Temperature 20.0 - 400 C","10.0 in/in-F @Temperature 68.0 - 752 F",
+"Carbon, C",<= 0.0200 %,<= 0.0200 %,Filler metal
  ,<= 0.0200 %,<= 0.0200 %,All-weld metal
-"Manganese, Mn ",4.0 %,4.0 %,All-weld metal
+"Manganese, Mn",4.0 %,4.0 %,All-weld metal
  ,4.5 %,4.5 %,Filler metal
-"Nickel, Ni ",21.5 %,21.5 %,All-weld metal
+"Nickel, Ni",21.5 %,21.5 %,All-weld metal
  ,22 %,22 %,Filler metal
-"Phosphorous, P ",<= 0.0150 %,<= 0.0150 %,Filler metal
+"Phosphorous, P",<= 0.0150 %,<= 0.0150 %,Filler metal
  ,<= 0.0150 %,<= 0.0150 %,All-weld metal
-"Sulfur, S ",<= 0.0150 %,<= 0.0150 %,Filler metal
+"Sulfur, S",<= 0.0150 %,<= 0.0150 %,Filler metal
  ,<= 0.0150 %,<= 0.0150 %,All-weld metal
-"Tensile Strength, Ultimate  ","410 MPa @Temperature 400 C","59500 psi @Temperature 752 F",
+"Tensile Strength, Ultimate","410 MPa @Temperature 400 C","59500 psi @Temperature 752 F",
  ,"575 MPa @Temperature 20.0 C","83400 psi @Temperature 68.0 F",
-Elongation at Break  ,"29 % @Temperature 400 C","29 % @Temperature 752 F",
+Elongation at Break,"29 % @Temperature 400 C","29 % @Temperature 752 F",
  ,"42 % @Temperature 20.0 C","42 % @Temperature 68.0 F",
-Charpy Impact  ,"100 J @Temperature -196 C","73.8 ft-lb @Temperature -321 F",
+Charpy Impact,"100 J @Temperature -196 C","73.8 ft-lb @Temperature -321 F",
  ,"120 J @Temperature 20.0 C","88.5 ft-lb @Temperature 68.0 F",
-Thermal Conductivity  ,"14.0 W/m-K @Temperature 20.0 C","97.2 BTU-in/hr-ft-F @Temperature 68.0 F",
+Thermal Conductivity,"14.0 W/m-K @Temperature 20.0 C","97.2 BTU-in/hr-ft-F @Temperature 68.0 F",
  ,"15.0 W/m-K @Temperature 100 C","104 BTU-in/hr-ft-F @Temperature 212 F",
  ,"17.0 W/m-K @Temperature 300 C","118 BTU-in/hr-ft-F @Temperature 572 F",
  ,"19.0 W/m-K @Temperature 500 C","132 BTU-in/hr-ft-F @Temperature 932 F",
-"Chromium, Cr ",24.5 %,24.5 %,All-weld metal
+"Chromium, Cr",24.5 %,24.5 %,All-weld metal
  ,25 %,25 %,Filler metal
-"Molybdenum, Mo ",<= 2.10 %,<= 2.10 %,Filler metal
+"Molybdenum, Mo",<= 2.10 %,<= 2.10 %,Filler metal
  ,<= 2.10 %,<= 2.10 %,All-weld metal
 "Nitrogen, N ",0.11 %,0.11 %,All-weld metal
  ,0.13 %,0.13 %,AIM
-"Silicon, Si ",0.10 %,0.10 %,All-weld metal
+"Silicon, Si",0.10 %,0.10 %,All-weld metal
  ,<= 0.200 %,<= 0.200 %,Filler metal

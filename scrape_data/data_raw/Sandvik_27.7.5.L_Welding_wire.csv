@@ -1,29 +1,29 @@
 ,Metric,English,Comments
-"Hardness, Vickers ",300,300,
-"Tensile Strength, Yield ","690 MPa @Strain 0.200 %","100000 psi @Strain 0.200 %",
-Charpy Impact  ,"47.0 J @Temperature -60.0 C","34.7 ft-lb @Temperature -76.0 F",
+"Hardness, Vickers",300,300,
+"Tensile Strength, Yield","690 MPa @Strain 0.200 %","100000 psi @Strain 0.200 %",
+Charpy Impact,"47.0 J @Temperature -60.0 C","34.7 ft-lb @Temperature -76.0 F",
  ,"58.0 J @Temperature -50.0 C","42.8 ft-lb @Temperature -58.0 F",
  ,"106 J @Temperature -30.0 C","78.2 ft-lb @Temperature -22.0 F",
  ,"190 J @Temperature 20.0 C","140 ft-lb @Temperature 68.0 F",
-"Carbon, C ",<= 0.0200 %,<= 0.0200 %,Filler material
+"Carbon, C",<= 0.0200 %,<= 0.0200 %,Filler material
  ,<= 0.0200 %,<= 0.0200 %,All-weld metal
 "Cobalt, Co ",1.0 %,1.0 %,Filler material
  ,1.0 %,1.0 %,All-weld metal
-"Molybdenum, Mo ",5.0 %,5.0 %,Filler material
+"Molybdenum, Mo",5.0 %,5.0 %,Filler material
  ,5.0 %,5.0 %,All-weld metal
 "Nitrogen, N ",0.30 %,0.30 %,All-weld metal
  ,0.40 %,0.40 %,Filler material
-"Silicon, Si ",0.30 %,0.30 %,Filler material
+"Silicon, Si",0.30 %,0.30 %,Filler material
  ,0.30 %,0.30 %,All-weld metal
-"Tensile Strength, Ultimate ",890 MPa,129000 psi,
-Elongation at Break ,25 %,25 %,
-"Chromium, Cr ",27 %,27 %,Filler material
+"Tensile Strength, Ultimate",890 MPa,129000 psi,
+Elongation at Break,25 %,25 %,
+"Chromium, Cr",27 %,27 %,Filler material
  ,27 %,27 %,All-weld metal
-"Manganese, Mn ",1.0 %,1.0 %,Filler material
+"Manganese, Mn",1.0 %,1.0 %,Filler material
  ,1.0 %,1.0 %,All-weld metal
-"Nickel, Ni ",6.5 %,6.5 %,Filler material
+"Nickel, Ni",6.5 %,6.5 %,Filler material
  ,6.5 %,6.5 %,All-weld metal
-"Phosphorous, P ",<= 0.0200 %,<= 0.0200 %,Filler material
+"Phosphorous, P",<= 0.0200 %,<= 0.0200 %,Filler material
  ,<= 0.0200 %,<= 0.0200 %,All-weld metal
-"Sulfur, S ",<= 0.0150 %,<= 0.0150 %,Filler material
+"Sulfur, S",<= 0.0150 %,<= 0.0150 %,Filler material
  ,<= 0.0150 %,<= 0.0150 %,All-weld metal

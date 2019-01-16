@@ -1,22 +1,22 @@
 ,Metric,English,Comments
-Density ,7.75 g/cc,0.280 lb/in³,
+Density,7.75 g/cc,0.280 lb/in³,
 Tensile Strength at Break ,>= 517 MPa,>= 75000 psi,Varies with size and form
-Elongation at Break ,>= 16 %,>= 16 %,in 200 mm (8 in.); Varies with size and form
+Elongation at Break,>= 16 %,>= 16 %,in 200 mm (8 in.); Varies with size and form
  ,>= 18 %,>= 18 %,in 50 mm (2 in.); Varies with size and form
-Poissons Ratio ,0.28,0.28,Calculated
-"Carbon, C ",<= 0.20 %,<= 0.20 %,
-"Copper, Cu ",<= 1.0 %,<= 1.0 %,
-"Manganese, Mn ",<= 1.5 %,<= 1.5 %,
-"Nickel, Ni ",<= 1.25 %,<= 1.25 %,
-"Silicon, Si ",<= 0.90 %,<= 0.90 %,
+Poissons Ratio,0.28,0.28,Calculated
+"Carbon, C",<= 0.20 %,<= 0.20 %,
+"Copper, Cu",<= 1.0 %,<= 1.0 %,
+"Manganese, Mn",<= 1.5 %,<= 1.5 %,
+"Nickel, Ni",<= 1.25 %,<= 1.25 %,
+"Silicon, Si",<= 0.90 %,<= 0.90 %,
 "Titanium, Ti ",<= 0.050 %,<= 0.050 %,
 "Zirconium, Zr ",<= 0.15 %,<= 0.15 %,
-"Tensile Strength, Yield ",>= 414 MPa,>= 60000 psi,Varies with size and form
-Modulus of Elasticity ,205 GPa,29700 ksi,Typical of steel
-Shear Modulus ,80.0 GPa,11600 ksi,Typical of steel
-"Chromium, Cr ",<= 0.90 %,<= 0.90 %,
-"Iron, Fe ",>= 93.6 %,>= 93.6 %,As Balance
-"Molybdenum, Mo ",<= 0.25 %,<= 0.25 %,
+"Tensile Strength, Yield",>= 414 MPa,>= 60000 psi,Varies with size and form
+Modulus of Elasticity,205 GPa,29700 ksi,Typical of steel
+Shear Modulus,80.0 GPa,11600 ksi,Typical of steel
+"Chromium, Cr",<= 0.90 %,<= 0.90 %,
+"Iron, Fe",>= 93.6 %,>= 93.6 %,As Balance
+"Molybdenum, Mo",<= 0.25 %,<= 0.25 %,
 "Niobium, Nb (Columbium, Cb) ",<= 0.050 %,<= 0.050 %,
-"Sulfur, S ",<= 0.050 %,<= 0.050 %,
-"Vanadium, V ",<= 0.10 %,<= 0.10 %,
+"Sulfur, S",<= 0.050 %,<= 0.050 %,
+"Vanadium, V",<= 0.10 %,<= 0.10 %,

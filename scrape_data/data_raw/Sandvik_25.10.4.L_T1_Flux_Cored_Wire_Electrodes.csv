@@ -1,11 +1,11 @@
 ,Metric,English,Comments
-"Tensile Strength, Ultimate ",900 MPa,131000 psi,"Rm, Using Ar 75%/CO2 25%"
-Elongation at Break ,25 %,25 %,Using Ar 75%/CO2 25%
-"Carbon, C ",0.030 %,0.030 %,
-"Manganese, Mn ",0.90 %,0.90 %,
-"Nickel, Ni ",0.25 %,0.25 %,
-"Tensile Strength, Yield ","690 MPa @Strain 0.200 %","100000 psi @Strain 0.200 %",Using Ar 75%/CO2 25%
-Charpy Impact ,"43.0 J @Temperature -20.0 °C","31.7 ft-lb @Temperature -4.00 °F",Using Ar 75%/CO2 25%
-"Chromium, Cr ",25 %,25 %,
-"Molybdenum, Mo ",4.0 %,4.0 %,
-"Silicon, Si ",0.60 %,0.60 %,
+"Tensile Strength, Ultimate",900 MPa,131000 psi,"Rm, Using Ar 75%/CO2 25%"
+Elongation at Break,25 %,25 %,Using Ar 75%/CO2 25%
+"Carbon, C",0.030 %,0.030 %,
+"Manganese, Mn",0.90 %,0.90 %,
+"Nickel, Ni",0.25 %,0.25 %,
+"Tensile Strength, Yield","690 MPa @Strain 0.200 %","100000 psi @Strain 0.200 %",Using Ar 75%/CO2 25%
+Charpy Impact,"43.0 J @Temperature -20.0 °C","31.7 ft-lb @Temperature -4.00 °F",Using Ar 75%/CO2 25%
+"Chromium, Cr",25 %,25 %,
+"Molybdenum, Mo",4.0 %,4.0 %,
+"Silicon, Si",0.60 %,0.60 %,

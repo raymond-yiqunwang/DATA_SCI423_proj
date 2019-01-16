@@ -1,34 +1,34 @@
 ,Metric,English,Comments
-Density ,7.85 g/cc,0.284 lb/in³,
-"Hardness, Brinell ",285,285,
-"Hardness, Rockwell B ",99,99,Converted from Brinell
-"Hardness, Vickers ",301,301,Converted from Brinell
-"Tensile Strength, Yield ",938 MPa,136000 psi,
-Reduction of Area ,59.3 %,59.3 %,
-Bulk Modulus ,159 GPa,23100 ksi,Estimated from elastic modulus
-Machinability ,50 %,50 %,annealed and cold drawn. Based on 100% machinability for AISI 1212 steel.
-Electrical Resistivity  ,"0.0000248 ohm-cm @Temperature 20.0 °C","0.0000248 ohm-cm @Temperature 68.0 °F",
+Density,7.85 g/cc,0.284 lb/in³,
+"Hardness, Brinell",285,285,
+"Hardness, Rockwell B",99,99,Converted from Brinell
+"Hardness, Vickers",301,301,Converted from Brinell
+"Tensile Strength, Yield",938 MPa,136000 psi,
+Reduction of Area,59.3 %,59.3 %,
+Bulk Modulus,159 GPa,23100 ksi,Estimated from elastic modulus
+Machinability,50 %,50 %,annealed and cold drawn. Based on 100% machinability for AISI 1212 steel.
+Electrical Resistivity,"0.0000248 ohm-cm @Temperature 20.0 °C","0.0000248 ohm-cm @Temperature 68.0 °F",
  ,"0.0000298 ohm-cm @Temperature 100 °C","0.0000298 ohm-cm @Temperature 212 °F",
  ,"0.0000552 ohm-cm @Temperature 400 °C","0.0000552 ohm-cm @Temperature 752 °F",
  ,"0.0000797 ohm-cm @Temperature 600 °C","0.0000797 ohm-cm @Temperature 1110 °F",
-"CTE, linear  ","11.3 µm/m-°C @Temperature -70.0 - 20.0 °C","6.28 µin/in-°F @Temperature -94.0 - 68.0 °F","Austenitized 870°C (1600°F), 545°C (1010°F) temper for 2 hrs."
+"CTE, linear","11.3 µm/m-°C @Temperature -70.0 - 20.0 °C","6.28 µin/in-°F @Temperature -94.0 - 68.0 °F","Austenitized 870°C (1600°F), 545°C (1010°F) temper for 2 hrs."
  ,"12.4 µm/m-°C @Temperature 21.0 - 260 °C","6.89 µin/in-°F @Temperature 69.8 - 500 °F","Austenitized 870°C (1600°F), 545°C (1010°F) temper for 2 hrs."
  ,"13.7 µm/m-°C @Temperature 500 °C","7.61 µin/in-°F @Temperature 932 °F","austenitized at 870°C (1600°F), 545°C (1010°F) temper for 2 hours"
-Thermal Conductivity ,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
-"Carbon, C ",0.37 - 0.44 %,0.37 - 0.44 %,
-"Iron, Fe ",95.015 - 96.48 %,95.015 - 96.48 %,As remainder
-"Molybdenum, Mo ",0.20 - 0.30 %,0.20 - 0.30 %,
-"Phosphorous, P ",<= 0.025 %,<= 0.025 %,
-"Sulfur, S ",<= 0.020 %,<= 0.020 %,
-"Hardness, Knoop ",311,311,Converted from Brinell
-"Hardness, Rockwell C ",30,30,Converted from Brinell
-"Tensile Strength, Ultimate ",1000 MPa,145000 psi,
-Elongation at Break ,20 %,20 %,in 50 mm
-Modulus of Elasticity ,200 GPa,29000 ksi,AISI 4340
-Poissons Ratio ,0.29,0.29,Typical for steel
-Shear Modulus ,78.0 GPa,11300 ksi,Estimated from elastic modulus
-Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical 4000 series steel
-"Chromium, Cr ",0.65 - 0.95 %,0.65 - 0.95 %,
-"Manganese, Mn ",0.60 - 0.95 %,0.60 - 0.95 %,
-"Nickel, Ni ",1.55 - 2.0 %,1.55 - 2.0 %,
-"Silicon, Si ",0.15 - 0.30 %,0.15 - 0.30 %,
+Thermal Conductivity,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
+"Carbon, C",0.37 - 0.44 %,0.37 - 0.44 %,
+"Iron, Fe",95.015 - 96.48 %,95.015 - 96.48 %,As remainder
+"Molybdenum, Mo",0.20 - 0.30 %,0.20 - 0.30 %,
+"Phosphorous, P",<= 0.025 %,<= 0.025 %,
+"Sulfur, S",<= 0.020 %,<= 0.020 %,
+"Hardness, Knoop",311,311,Converted from Brinell
+"Hardness, Rockwell C",30,30,Converted from Brinell
+"Tensile Strength, Ultimate",1000 MPa,145000 psi,
+Elongation at Break,20 %,20 %,in 50 mm
+Modulus of Elasticity,200 GPa,29000 ksi,AISI 4340
+Poissons Ratio,0.29,0.29,Typical for steel
+Shear Modulus,78.0 GPa,11300 ksi,Estimated from elastic modulus
+Specific Heat Capacity,0.475 J/g-°C,0.114 BTU/lb-°F,Typical 4000 series steel
+"Chromium, Cr",0.65 - 0.95 %,0.65 - 0.95 %,
+"Manganese, Mn",0.60 - 0.95 %,0.60 - 0.95 %,
+"Nickel, Ni",1.55 - 2.0 %,1.55 - 2.0 %,
+"Silicon, Si",0.15 - 0.30 %,0.15 - 0.30 %,

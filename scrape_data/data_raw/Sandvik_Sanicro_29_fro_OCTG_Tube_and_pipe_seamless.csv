@@ -1,50 +1,50 @@
 ,Metric,English,Comments
-Density ,8.00 g/cc,0.289 lb/in,
-"Hardness, Rockwell C ",<= 35.0,<= 35.0,Sanicro 29-110
+Density,8.00 g/cc,0.289 lb/in,
+"Hardness, Rockwell C",<= 35.0,<= 35.0,Sanicro 29-110
  ,<= 37.0,<= 37.0,Sanicro 29-125
-"Tensile Strength, Yield  ","760 - 965 MPa @Strain 0.200 %","110000 - 140000 psi @Strain 0.200 %",Sanicro 29-110
+"Tensile Strength, Yield","760 - 965 MPa @Strain 0.200 %","110000 - 140000 psi @Strain 0.200 %",Sanicro 29-110
  ,"860 - 1035 MPa @Strain 0.200 %","125000 - 150100 psi @Strain 0.200 %",Sanicro 29-125
-Modulus of Elasticity  ,"174 GPa @Temperature 300 C","25200 ksi @Temperature 572 F",
+Modulus of Elasticity,"174 GPa @Temperature 300 C","25200 ksi @Temperature 572 F",
  ,"182 GPa @Temperature 200 C","26400 ksi @Temperature 392 F",
  ,"190 GPa @Temperature 100 C","27600 ksi @Temperature 212 F",
  ,"195 GPa @Temperature 20.0 C","28300 ksi @Temperature 68.0 F",
-Electrical Resistivity  ,"0.0000100 ohm-cm @Temperature 150 C","0.0000100 ohm-cm @Temperature 302 F",
+Electrical Resistivity,"0.0000100 ohm-cm @Temperature 150 C","0.0000100 ohm-cm @Temperature 302 F",
  ,"0.0000100 ohm-cm @Temperature 200 C","0.0000100 ohm-cm @Temperature 392 F",
  ,"0.0000101 ohm-cm @Temperature 20.0 C","0.0000101 ohm-cm @Temperature 68.0 F",
  ,"0.0000101 ohm-cm @Temperature 100 C","0.0000101 ohm-cm @Temperature 212 F",
  ,"0.0000104 ohm-cm @Temperature 250 C","0.0000104 ohm-cm @Temperature 482 F",
  ,"0.0000111 ohm-cm @Temperature 300 C","0.0000111 ohm-cm @Temperature 572 F",
-"CTE, linear  ","13.0 m/m-C @Temperature 30.0 - 50.0 C","7.22 in/in-F @Temperature 86.0 - 122 F",
+"CTE, linear","13.0 m/m-C @Temperature 30.0 - 50.0 C","7.22 in/in-F @Temperature 86.0 - 122 F",
  ,"14.5 m/m-C @Temperature 30.0 - 100 C","8.06 in/in-F @Temperature 86.0 - 212 F",
  ,"15.0 m/m-C @Temperature 30.0 - 150 C","8.33 in/in-F @Temperature 86.0 - 302 F",
  ,"15.0 m/m-C @Temperature 30.0 - 200 C","8.33 in/in-F @Temperature 86.0 - 392 F",
  ,"15.0 m/m-C @Temperature 30.0 - 250 C","8.33 in/in-F @Temperature 86.0 - 482 F",
  ,"15.0 m/m-C @Temperature 30.0 - 300 C","8.33 in/in-F @Temperature 86.0 - 572 F",
-Thermal Conductivity  ,"11.0 W/m-K @Temperature 20.0 C","76.3 BTU-in/hr-ft-F @Temperature 68.0 F",
+Thermal Conductivity,"11.0 W/m-K @Temperature 20.0 C","76.3 BTU-in/hr-ft-F @Temperature 68.0 F",
  ,"11.0 W/m-K @Temperature 50.0 C","76.3 BTU-in/hr-ft-F @Temperature 122 F",
  ,"12.0 W/m-K @Temperature 100 C","83.3 BTU-in/hr-ft-F @Temperature 212 F",
  ,"13.0 W/m-K @Temperature 150 C","90.2 BTU-in/hr-ft-F @Temperature 302 F",
  ,"14.0 W/m-K @Temperature 200 C","97.2 BTU-in/hr-ft-F @Temperature 392 F",
  ,"15.0 W/m-K @Temperature 250 C","104 BTU-in/hr-ft-F @Temperature 482 F",
  ,"16.0 W/m-K @Temperature 300 C","111 BTU-in/hr-ft-F @Temperature 572 F",
-"Carbon, C ",<= 0.0200 %,<= 0.0200 %,
-"Copper, Cu ",1.0 %,1.0 %,
-"Molybdenum, Mo ",4.4 %,4.4 %,
-"Phosphorous, P ",<= 0.0250 %,<= 0.0250 %,
-"Sulfur, S ",<= 0.0150 %,<= 0.0150 %,
-"Tensile Strength, Ultimate ",>= 795 MPa,>= 115000 psi,Sanicro 29-110
+"Carbon, C",<= 0.0200 %,<= 0.0200 %,
+"Copper, Cu",1.0 %,1.0 %,
+"Molybdenum, Mo",4.4 %,4.4 %,
+"Phosphorous, P",<= 0.0250 %,<= 0.0250 %,
+"Sulfur, S",<= 0.0150 %,<= 0.0150 %,
+"Tensile Strength, Ultimate",>= 795 MPa,>= 115000 psi,Sanicro 29-110
  ,>= 895 MPa,>= 130000 psi,Sanicro 29-125
-Elongation at Break ,>= 10.0 %,>= 10.0 %,Sanicro 29-125
+Elongation at Break,>= 10.0 %,>= 10.0 %,Sanicro 29-125
  ,>= 11.0 %,>= 11.0 %,Sanicro 29-110
-Poissons Ratio ,0.30,0.30,
-Specific Heat Capacity  ,"0.460 J/g-C @Temperature 20.0 C","0.110 BTU/lb-F @Temperature 68.0 F",
+Poissons Ratio,0.30,0.30,
+Specific Heat Capacity,"0.460 J/g-C @Temperature 20.0 C","0.110 BTU/lb-F @Temperature 68.0 F",
  ,"0.465 J/g-C @Temperature 50.0 C","0.111 BTU/lb-F @Temperature 122 F",
  ,"0.480 J/g-C @Temperature 100 C","0.115 BTU/lb-F @Temperature 212 F",
  ,"0.490 J/g-C @Temperature 150 C","0.117 BTU/lb-F @Temperature 302 F",
  ,"0.495 J/g-C @Temperature 200 C","0.118 BTU/lb-F @Temperature 392 F",
  ,"0.505 J/g-C @Temperature 250 C","0.121 BTU/lb-F @Temperature 482 F",
  ,"0.515 J/g-C @Temperature 300 C","0.123 BTU/lb-F @Temperature 572 F",
-"Chromium, Cr ",27 %,27 %,
-"Manganese, Mn ",<= 2.50 %,<= 2.50 %,
-"Nickel, Ni ",31.5 %,31.5 %,
-"Silicon, Si ",<= 1.00 %,<= 1.00 %,
+"Chromium, Cr",27 %,27 %,
+"Manganese, Mn",<= 2.50 %,<= 2.50 %,
+"Nickel, Ni",31.5 %,31.5 %,
+"Silicon, Si",<= 1.00 %,<= 1.00 %,

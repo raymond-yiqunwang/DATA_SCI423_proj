@@ -1,35 +1,35 @@
 ,Metric,English,Comments
-Density ,7.75 - 7.85 g/cc,0.280 - 0.284 lb/in³,Average value: 7.85 g/cc Grade Count:601
-"Hardness, Brinell ",121 - 578,121 - 578,Average value: 280 Grade Count:561
-"Hardness, Rockwell B ",68.0 - 112,68.0 - 112,Average value: 96.3 Grade Count:533
-"Hardness, Vickers ",36.0 - 1140,36.0 - 1140,Average value: 307 Grade Count:580
-"Tensile Strength, Yield ",275 - 1860 MPa,39900 - 270000 psi,Average value: 747 MPa Grade Count:535
-Reduction of Area ,16.0 - 74.4 %,16.0 - 74.4 %,Average value: 54.9 % Grade Count:448
+Density,7.75 - 7.85 g/cc,0.280 - 0.284 lb/in³,Average value: 7.85 g/cc Grade Count:601
+"Hardness, Brinell",121 - 578,121 - 578,Average value: 280 Grade Count:561
+"Hardness, Rockwell B",68.0 - 112,68.0 - 112,Average value: 96.3 Grade Count:533
+"Hardness, Vickers",36.0 - 1140,36.0 - 1140,Average value: 307 Grade Count:580
+"Tensile Strength, Yield",275 - 1860 MPa,39900 - 270000 psi,Average value: 747 MPa Grade Count:535
+Reduction of Area,16.0 - 74.4 %,16.0 - 74.4 %,Average value: 54.9 % Grade Count:448
 Compressive Yield Strength ,1650 - 1800 MPa,239000 - 260000 psi,Average value: 1700 MPa Grade Count:12
-Poissons Ratio ,0.270 - 0.300,0.270 - 0.300,Average value: 0.290 Grade Count:592
+Poissons Ratio,0.270 - 0.300,0.270 - 0.300,Average value: 0.290 Grade Count:592
 Fracture Toughness ,33.0 - 115 MPa-m½,30.0 - 105 ksi-in½,Average value: 67.3 MPa-m½ Grade Count:6
-Shear Modulus ,74.0 - 82.0 GPa,10700 - 11900 ksi,Average value: 79.7 GPa Grade Count:592
-Charpy Impact ,15.0 - 94.9 J,11.1 - 70.0 ft-lb,Average value: 42.7 J Grade Count:7
-Electrical Resistivity ,0.0000170 - 0.0000263 ohm-cm,0.0000170 - 0.0000263 ohm-cm,Average value: 0.0000241 ohm-cm Grade Count:570
-"CTE, linear ",10.4 - 14.6 µm/m-°C,5.78 - 8.11 µin/in-°F,Average value: 12.7 µm/m-°C Grade Count:222
-Thermal Conductivity ,42.6 - 52.0 W/m-K,296 - 361 BTU-in/hr-ft²-°F,Average value: 44.3 W/m-K Grade Count:531
-"Carbon, C ",0.0500 - 1.29 %,0.0500 - 1.29 %,Average value: 0.299 % Grade Count:615
-"Iron, Fe ",91.9 - 98.9 %,91.9 - 98.9 %,Average value: 96.9 % Grade Count:615
-"Molybdenum, Mo ",0.0800 - 0.750 %,0.0800 - 0.750 %,Average value: 0.256 % Grade Count:612
-"Phosphorous, P ",0.0200 - 0.0400 %,0.0200 - 0.0400 %,Average value: 0.0341 % Grade Count:596
-"Sulfur, S ",0.0200 - 0.400 %,0.0200 - 0.400 %,Average value: 0.0387 % Grade Count:599
+Shear Modulus,74.0 - 82.0 GPa,10700 - 11900 ksi,Average value: 79.7 GPa Grade Count:592
+Charpy Impact,15.0 - 94.9 J,11.1 - 70.0 ft-lb,Average value: 42.7 J Grade Count:7
+Electrical Resistivity,0.0000170 - 0.0000263 ohm-cm,0.0000170 - 0.0000263 ohm-cm,Average value: 0.0000241 ohm-cm Grade Count:570
+"CTE, linear",10.4 - 14.6 µm/m-°C,5.78 - 8.11 µin/in-°F,Average value: 12.7 µm/m-°C Grade Count:222
+Thermal Conductivity,42.6 - 52.0 W/m-K,296 - 361 BTU-in/hr-ft²-°F,Average value: 44.3 W/m-K Grade Count:531
+"Carbon, C",0.0500 - 1.29 %,0.0500 - 1.29 %,Average value: 0.299 % Grade Count:615
+"Iron, Fe",91.9 - 98.9 %,91.9 - 98.9 %,Average value: 96.9 % Grade Count:615
+"Molybdenum, Mo",0.0800 - 0.750 %,0.0800 - 0.750 %,Average value: 0.256 % Grade Count:612
+"Phosphorous, P",0.0200 - 0.0400 %,0.0200 - 0.0400 %,Average value: 0.0341 % Grade Count:596
+"Sulfur, S",0.0200 - 0.400 %,0.0200 - 0.400 %,Average value: 0.0387 % Grade Count:599
 Particle Size ,6.70 - 12.0 µm,6.70 - 12.0 µm,Average value: 9.27 µm Grade Count:12
-"Hardness, Knoop ",140 - 616,140 - 616,Average value: 309 Grade Count:578
-"Hardness, Rockwell C ",10.0 - 62.5,10.0 - 62.5,Average value: 30.3 Grade Count:529
-"Tensile Strength, Ultimate ",450 - 1970 MPa,65300 - 285000 psi,Average value: 977 MPa Grade Count:537
-Elongation at Break ,8.00 - 34.0 %,8.00 - 34.0 %,Average value: 19.2 % Grade Count:533
-Modulus of Elasticity ,192 - 213 GPa,27800 - 30900 ksi,Average value: 204 GPa Grade Count:597
-Bulk Modulus ,152 - 170 GPa,22000 - 24700 ksi,Average value: 160 GPa Grade Count:590
+"Hardness, Knoop",140 - 616,140 - 616,Average value: 309 Grade Count:578
+"Hardness, Rockwell C",10.0 - 62.5,10.0 - 62.5,Average value: 30.3 Grade Count:529
+"Tensile Strength, Ultimate",450 - 1970 MPa,65300 - 285000 psi,Average value: 977 MPa Grade Count:537
+Elongation at Break,8.00 - 34.0 %,8.00 - 34.0 %,Average value: 19.2 % Grade Count:533
+Modulus of Elasticity,192 - 213 GPa,27800 - 30900 ksi,Average value: 204 GPa Grade Count:597
+Bulk Modulus,152 - 170 GPa,22000 - 24700 ksi,Average value: 160 GPa Grade Count:590
 Fatigue Strength ,138 - 772 MPa,20000 - 112000 psi,Average value: 528 MPa Grade Count:11
-Machinability ,50.0 - 75.0 %,50.0 - 75.0 %,Average value: 59.7 % Grade Count:562
+Machinability,50.0 - 75.0 %,50.0 - 75.0 %,Average value: 59.7 % Grade Count:562
 Izod Impact ,9.00 - 138 J,6.64 - 102 ft-lb,Average value: 63.6 J Grade Count:68
-Specific Heat Capacity ,0.470 - 0.477 J/g-°C,0.112 - 0.114 BTU/lb-°F,Average value: 0.475 J/g-°C Grade Count:483
-"Chromium, Cr ",0.300 - 3.30 %,0.300 - 3.30 %,Average value: 0.800 % Grade Count:380
-"Manganese, Mn ",0.300 - 3.00 %,0.300 - 3.00 %,Average value: 0.707 % Grade Count:614
-"Nickel, Ni ",0.650 - 3.80 %,0.650 - 3.80 %,Average value: 2.17 % Grade Count:314
-"Silicon, Si ",0.150 - 1.05 %,0.150 - 1.05 %,Average value: 0.240 % Grade Count:615
+Specific Heat Capacity,0.470 - 0.477 J/g-°C,0.112 - 0.114 BTU/lb-°F,Average value: 0.475 J/g-°C Grade Count:483
+"Chromium, Cr",0.300 - 3.30 %,0.300 - 3.30 %,Average value: 0.800 % Grade Count:380
+"Manganese, Mn",0.300 - 3.00 %,0.300 - 3.00 %,Average value: 0.707 % Grade Count:614
+"Nickel, Ni",0.650 - 3.80 %,0.650 - 3.80 %,Average value: 2.17 % Grade Count:314
+"Silicon, Si",0.150 - 1.05 %,0.150 - 1.05 %,Average value: 0.240 % Grade Count:615

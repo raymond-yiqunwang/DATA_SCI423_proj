@@ -1,31 +1,31 @@
 ,Metric,English,Comments
-Density ,7.90 g/cc,0.285 lb/in,
-"Hardness, Vickers ",202,202,
-"Tensile Strength, Yield ","410 MPa @Strain 0.200 %","59500 psi @Strain 0.200 %",
-Charpy Impact ,163 J,120 ft-lb,
-"CTE, linear ","17.6 m/m-C @Temperature 20.0 - 400 C","9.78 in/in-F @Temperature 68.0 - 752 F",
-"Carbon, C ",0.040 %,0.040 %,Filler material
+Density,7.90 g/cc,0.285 lb/in,
+"Hardness, Vickers",202,202,
+"Tensile Strength, Yield","410 MPa @Strain 0.200 %","59500 psi @Strain 0.200 %",
+Charpy Impact,163 J,120 ft-lb,
+"CTE, linear","17.6 m/m-C @Temperature 20.0 - 400 C","9.78 in/in-F @Temperature 68.0 - 752 F",
+"Carbon, C",0.040 %,0.040 %,Filler material
  ,<= 0.0400 %,<= 0.0400 %,All-weld metal
-"Manganese, Mn ",0.50 %,0.50 %,Filler material
+"Manganese, Mn",0.50 %,0.50 %,Filler material
  ,7.7 %,7.7 %,All-weld metal
 "Nitrogen, N ",0.15 %,0.15 %,Filler material
  ,0.15 %,0.15 %,All-weld metal
-"Silicon, Si ",0.60 %,0.60 %,All-weld metal
+"Silicon, Si",0.60 %,0.60 %,All-weld metal
  ,0.70 %,0.70 %,Filler material
-"Tensile Strength, Ultimate ",600 MPa,87000 psi,
-Elongation at Break ,33 %,33 %,
-Thermal Conductivity  ,"11.0 W/m-K @Temperature 20.0 C","76.3 BTU-in/hr-ft-F @Temperature 68.0 F",
+"Tensile Strength, Ultimate",600 MPa,87000 psi,
+Elongation at Break,33 %,33 %,
+Thermal Conductivity,"11.0 W/m-K @Temperature 20.0 C","76.3 BTU-in/hr-ft-F @Temperature 68.0 F",
  ,"13.0 W/m-K @Temperature 100 C","90.2 BTU-in/hr-ft-F @Temperature 212 F",
  ,"17.0 W/m-K @Temperature 300 C","118 BTU-in/hr-ft-F @Temperature 572 F",
  ,"20.0 W/m-K @Temperature 500 C","139 BTU-in/hr-ft-F @Temperature 932 F",
  ,"23.0 W/m-K @Temperature 700 C","160 BTU-in/hr-ft-F @Temperature 1290 F",
  ,"26.0 W/m-K @Temperature 900 C","180 BTU-in/hr-ft-F @Temperature 1650 F",
  ,"29.0 W/m-K @Temperature 1100 C","201 BTU-in/hr-ft-F @Temperature 2010 F",
-"Chromium, Cr ",27.5 %,27.5 %,Filler material
+"Chromium, Cr",27.5 %,27.5 %,Filler material
  ,27.5 %,27.5 %,All-weld metal
-"Nickel, Ni ",35 %,35 %,Filler material
+"Nickel, Ni",35 %,35 %,Filler material
  ,35 %,35 %,All-weld metal
-"Phosphorous, P ",<= 0.0200 %,<= 0.0200 %,Filler material
+"Phosphorous, P",<= 0.0200 %,<= 0.0200 %,Filler material
  ,<= 0.0200 %,<= 0.0200 %,All-weld metal
-"Sulfur, S ",<= 0.0100 %,<= 0.0100 %,Filler material
+"Sulfur, S",<= 0.0100 %,<= 0.0100 %,Filler material
  ,<= 0.0100 %,<= 0.0100 %,All-weld metal

@@ -1,18 +1,18 @@
 ,Metric,English,Comments
-Density ,7.85 g/cc,0.284 lb/in³,
-"Hardness, Brinell ",179 - 229,179 - 229,annealed and cold drawn. (AISI 8637)
-Poissons Ratio ,0.29,0.29,Typical for steel
-Electrical Resistivity ,0.0000234 ohm-cm,0.0000234 ohm-cm,Typical steel
-Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical steel
-"Carbon, C ",0.35 - 0.43 %,0.35 - 0.43 %,
-"Iron, Fe ",96.100 - 97.5 %,96.100 - 97.5 %,As remainder
-"Molybdenum, Mo ",0.15 - 0.25 %,0.15 - 0.25 %,
-"Phosphorous, P ",<= 0.035 %,<= 0.035 %,
-"Sulfur, S ",<= 0.035 %,<= 0.035 %,
-Modulus of Elasticity ,205 GPa,29700 ksi,Typical for steel
-Shear Modulus ,80.0 GPa,11600 ksi,Typical for steel
-Thermal Conductivity ,46.6 W/m-K,323 BTU-in/hr-ft²-°F,Typical steel
-"Chromium, Cr ",0.60 - 1.0 %,0.60 - 1.0 %,
-"Manganese, Mn ",0.50 - 0.80 %,0.50 - 0.80 %,
-"Nickel, Ni ",0.70 - 1.0 %,0.70 - 1.0 %,
-"Silicon, Si ",0.15 - 0.35 %,0.15 - 0.35 %,
+Density,7.85 g/cc,0.284 lb/in³,
+"Hardness, Brinell",179 - 229,179 - 229,annealed and cold drawn. (AISI 8637)
+Poissons Ratio,0.29,0.29,Typical for steel
+Electrical Resistivity,0.0000234 ohm-cm,0.0000234 ohm-cm,Typical steel
+Specific Heat Capacity,0.475 J/g-°C,0.114 BTU/lb-°F,Typical steel
+"Carbon, C",0.35 - 0.43 %,0.35 - 0.43 %,
+"Iron, Fe",96.100 - 97.5 %,96.100 - 97.5 %,As remainder
+"Molybdenum, Mo",0.15 - 0.25 %,0.15 - 0.25 %,
+"Phosphorous, P",<= 0.035 %,<= 0.035 %,
+"Sulfur, S",<= 0.035 %,<= 0.035 %,
+Modulus of Elasticity,205 GPa,29700 ksi,Typical for steel
+Shear Modulus,80.0 GPa,11600 ksi,Typical for steel
+Thermal Conductivity,46.6 W/m-K,323 BTU-in/hr-ft²-°F,Typical steel
+"Chromium, Cr",0.60 - 1.0 %,0.60 - 1.0 %,
+"Manganese, Mn",0.50 - 0.80 %,0.50 - 0.80 %,
+"Nickel, Ni",0.70 - 1.0 %,0.70 - 1.0 %,
+"Silicon, Si",0.15 - 0.35 %,0.15 - 0.35 %,

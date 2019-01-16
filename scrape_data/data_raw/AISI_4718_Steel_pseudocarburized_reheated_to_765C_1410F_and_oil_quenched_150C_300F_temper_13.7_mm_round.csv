@@ -1,28 +1,28 @@
 ,Metric,English,Comments
-Density ,7.85 g/cc,0.284 lb/in³,
-"Hardness, Brinell ",341,341,
-"Hardness, Rockwell B ",99,99,Converted from Brinell
-"Hardness, Vickers ",361,361,Converted from Brinell
-"Tensile Strength, Yield ",735 MPa,107000 psi,
-Reduction of Area ,32.4 %,32.4 %,
-Bulk Modulus ,160 GPa,23200 ksi,Typical for steel.
-Machinability ,60 %,60 %,
-Electrical Resistivity ,0.0000245 ohm-cm,0.0000245 ohm-cm,Typical 4000 series steel
-Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical 4000 series steel
-"Carbon, C ",0.16 - 0.21 %,0.16 - 0.21 %,
-"Iron, Fe ",96.31 - 97.39 %,96.31 - 97.39 %,As remainder
-"Molybdenum, Mo ",0.30 - 0.40 %,0.30 - 0.40 %,
-"Phosphorous, P ",<= 0.040 %,<= 0.040 %,
-"Sulfur, S ",<= 0.040 %,<= 0.040 %,
-"Hardness, Knoop ",369,369,Converted from Brinell
-"Hardness, Rockwell C ",37,37,Converted from Brinell
-"Tensile Strength, Ultimate ",1131 MPa,164000 psi,
-Elongation at Break ,9.6 %,9.6 %,
-Modulus of Elasticity ,205 GPa,29700 ksi,Typical for steel
-Poissons Ratio ,0.29,0.29,Calculated
-Shear Modulus ,80.0 GPa,11600 ksi,Typical for steel
-Thermal Conductivity ,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
-"Chromium, Cr ",0.35 - 0.55 %,0.35 - 0.55 %,
-"Manganese, Mn ",0.70 - 0.90 %,0.70 - 0.90 %,
-"Nickel, Ni ",0.90 - 1.2 %,0.90 - 1.2 %,
-"Silicon, Si ",0.20 - 0.35 %,0.20 - 0.35 %,
+Density,7.85 g/cc,0.284 lb/in³,
+"Hardness, Brinell",341,341,
+"Hardness, Rockwell B",99,99,Converted from Brinell
+"Hardness, Vickers",361,361,Converted from Brinell
+"Tensile Strength, Yield",735 MPa,107000 psi,
+Reduction of Area,32.4 %,32.4 %,
+Bulk Modulus,160 GPa,23200 ksi,Typical for steel.
+Machinability,60 %,60 %,
+Electrical Resistivity,0.0000245 ohm-cm,0.0000245 ohm-cm,Typical 4000 series steel
+Specific Heat Capacity,0.475 J/g-°C,0.114 BTU/lb-°F,Typical 4000 series steel
+"Carbon, C",0.16 - 0.21 %,0.16 - 0.21 %,
+"Iron, Fe",96.31 - 97.39 %,96.31 - 97.39 %,As remainder
+"Molybdenum, Mo",0.30 - 0.40 %,0.30 - 0.40 %,
+"Phosphorous, P",<= 0.040 %,<= 0.040 %,
+"Sulfur, S",<= 0.040 %,<= 0.040 %,
+"Hardness, Knoop",369,369,Converted from Brinell
+"Hardness, Rockwell C",37,37,Converted from Brinell
+"Tensile Strength, Ultimate",1131 MPa,164000 psi,
+Elongation at Break,9.6 %,9.6 %,
+Modulus of Elasticity,205 GPa,29700 ksi,Typical for steel
+Poissons Ratio,0.29,0.29,Calculated
+Shear Modulus,80.0 GPa,11600 ksi,Typical for steel
+Thermal Conductivity,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
+"Chromium, Cr",0.35 - 0.55 %,0.35 - 0.55 %,
+"Manganese, Mn",0.70 - 0.90 %,0.70 - 0.90 %,
+"Nickel, Ni",0.90 - 1.2 %,0.90 - 1.2 %,
+"Silicon, Si",0.20 - 0.35 %,0.20 - 0.35 %,

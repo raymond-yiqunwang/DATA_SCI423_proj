@@ -1,21 +1,21 @@
 ,Metric,English,Comments
-Density ,7.86 g/cc,0.284 lb/in³,
-Modulus of Elasticity ,203 GPa,29500 ksi,
-Charpy Impact ,"30.0 - 50.0 J @Temperature -17.8 °C","22.1 - 36.9 ft-lb @Temperature 0.000 °F",
-"CTE, linear  ","11.2 µm/m-°C @Temperature 21.0 - 204 °C","6.22 µin/in-°F @Temperature 69.8 - 399 °F",
+Density,7.86 g/cc,0.284 lb/in³,
+Modulus of Elasticity,203 GPa,29500 ksi,
+Charpy Impact,"30.0 - 50.0 J @Temperature -17.8 °C","22.1 - 36.9 ft-lb @Temperature 0.000 °F",
+"CTE, linear","11.2 µm/m-°C @Temperature 21.0 - 204 °C","6.22 µin/in-°F @Temperature 69.8 - 399 °F",
  ,"12.0 µm/m-°C @Temperature 21.0 - 427 °C","6.67 µin/in-°F @Temperature 69.8 - 801 °F",
 Transformation Temperature ,215 °C,419 °F,Martensitic Finish
  ,332 °C,630 °F,Martensitic Start
 Processing Temperature ,738 °C,1360 °F,Critical Temperature Core Ac1
  ,960 °C,1760 °F,Critical Temperature Core Ac3
-"Carbon, C ",0.13 %,0.13 %,
-"Iron, Fe ",86.37 %,86.37 %,
-"Molybdenum, Mo ",4.25 %,4.25 %,
-"Silicon, Si ",0.20 %,0.20 %,
+"Carbon, C",0.13 %,0.13 %,
+"Iron, Fe",86.37 %,86.37 %,
+"Molybdenum, Mo",4.25 %,4.25 %,
+"Silicon, Si",0.20 %,0.20 %,
 Fracture Toughness ,31.9 - 36.3 MPa-m½,29.0 - 33.0 ksi-in½,cracks originating in case; case depth 0.30 to 0.35 in.
  ,41.8 - 49.4 MPa-m½,38.0 - 45.0 ksi-in½,cracks originating in core
 "Maximum Service Temperature, Air ",316 °C,600 °F,
-"Chromium, Cr ",4.2 %,4.2 %,
-"Manganese, Mn ",0.25 %,0.25 %,
-"Nickel, Ni ",3.4 %,3.4 %,
-"Vanadium, V ",1.2 %,1.2 %,
+"Chromium, Cr",4.2 %,4.2 %,
+"Manganese, Mn",0.25 %,0.25 %,
+"Nickel, Ni",3.4 %,3.4 %,
+"Vanadium, V",1.2 %,1.2 %,

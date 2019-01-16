@@ -1,20 +1,20 @@
 ,Metric,English,Comments
-"Hardness, Rockwell C ",35,35,Core between 70°F and 600°F
+"Hardness, Rockwell C",35,35,Core between 70°F and 600°F
  ,55,55,Case at 600°C
-"Tensile Strength, Yield ",965 MPa,140000 psi,
-Reduction of Area ,63.5 %,63.5 %,
-"CTE, linear  ","11.26 µm/m-°C @Temperature 24.0 - 93.0 °C","6.256 µin/in-°F @Temperature 75.2 - 199 °F",
+"Tensile Strength, Yield",965 MPa,140000 psi,
+Reduction of Area,63.5 %,63.5 %,
+"CTE, linear","11.26 µm/m-°C @Temperature 24.0 - 93.0 °C","6.256 µin/in-°F @Temperature 75.2 - 199 °F",
  ,"12.25 µm/m-°C @Temperature 24.0 - 316 °C","6.806 µin/in-°F @Temperature 75.2 - 601 °F",
  ,"13.05 µm/m-°C @Temperature 24.0 - 538 °C","7.250 µin/in-°F @Temperature 75.2 - 1000 °F",
-"Carbon, C ",0.11 %,0.11 %,
-"Copper, Cu ",2.0 %,2.0 %,
-"Manganese, Mn ",0.40 %,0.40 %,
-"Nickel, Ni ",2.0 %,2.0 %,
-"Vanadium, V ",0.10 %,0.10 %,
-"Tensile Strength, Ultimate ",1170 MPa,170000 psi,
-Elongation at Break ,16 %,16 %,"in 2"""
-Charpy Impact ,118 - 129 J,87.0 - 95.1 ft-lb,V-Notch
-"Chromium, Cr ",1.0 %,1.0 %,
-"Iron, Fe ",90.24 %,90.24 %,
-"Molybdenum, Mo ",3.25 %,3.25 %,
-"Silicon, Si ",0.90 %,0.90 %,
+"Carbon, C",0.11 %,0.11 %,
+"Copper, Cu",2.0 %,2.0 %,
+"Manganese, Mn",0.40 %,0.40 %,
+"Nickel, Ni",2.0 %,2.0 %,
+"Vanadium, V",0.10 %,0.10 %,
+"Tensile Strength, Ultimate",1170 MPa,170000 psi,
+Elongation at Break,16 %,16 %,"in 2"""
+Charpy Impact,118 - 129 J,87.0 - 95.1 ft-lb,V-Notch
+"Chromium, Cr",1.0 %,1.0 %,
+"Iron, Fe",90.24 %,90.24 %,
+"Molybdenum, Mo",3.25 %,3.25 %,
+"Silicon, Si",0.90 %,0.90 %,

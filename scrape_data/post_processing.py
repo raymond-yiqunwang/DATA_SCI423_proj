@@ -16,3 +16,15 @@ for filename in os.listdir("./data_raw"):
     f = open("./data_raw/"+filename, 'w')
     f.write(new_cont)
     f.close()
+import os
+
+str1 = "Charpy Impact "
+str2 = "Charpy Impact"
+
+# fix feature name problems
+for filename in os.listdir("./data_raw"):
+    content = open("./data_raw/"+filename, errors='ignore').read()
+    new_cont = content.replace(str1, str2)
+    f = open("./data_raw/"+filename, 'w')
+    f.write(new_cont)
+    f.close()

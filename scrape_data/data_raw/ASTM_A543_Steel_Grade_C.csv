@@ -1,17 +1,17 @@
 ,Metric,English,Comments
-Density ,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
+Density,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
 Tensile Strength at Break ,621 - 931 MPa,90000 - 135000 psi,Minimum; varies with thickness
-Modulus of Elasticity ,205 GPa,29700 ksi,Typical of steel
-Shear Modulus ,80.0 GPa,11600 ksi,Typical of steel
-"Carbon, C ",<= 0.23 %,<= 0.23 %,
-"Iron, Fe ",93.3 - 95.9 %,93.3 - 95.9 %,As Balance
-"Molybdenum, Mo ",0.45 - 0.60 %,0.45 - 0.60 %,
-"Phosphorous, P ",<= 0.020 %,<= 0.020 %,
-"Sulfur, S ",<= 0.020 %,<= 0.020 %,
-"Tensile Strength, Yield ",483 - 689 MPa,70000 - 100000 psi,Minimum; varies with thickness
-Poissons Ratio ,0.28,0.28,Calculated
-"Chromium, Cr ",1.2 - 1.5 %,1.2 - 1.5 %,
-"Manganese, Mn ",<= 0.40 %,<= 0.40 %,
-"Nickel, Ni ",2.25 - 3.5 %,2.25 - 3.5 %,
-"Silicon, Si ",0.20 - 0.40 %,0.20 - 0.40 %,
-"Vanadium, V ",<= 0.030 %,<= 0.030 %,
+Modulus of Elasticity,205 GPa,29700 ksi,Typical of steel
+Shear Modulus,80.0 GPa,11600 ksi,Typical of steel
+"Carbon, C",<= 0.23 %,<= 0.23 %,
+"Iron, Fe",93.3 - 95.9 %,93.3 - 95.9 %,As Balance
+"Molybdenum, Mo",0.45 - 0.60 %,0.45 - 0.60 %,
+"Phosphorous, P",<= 0.020 %,<= 0.020 %,
+"Sulfur, S",<= 0.020 %,<= 0.020 %,
+"Tensile Strength, Yield",483 - 689 MPa,70000 - 100000 psi,Minimum; varies with thickness
+Poissons Ratio,0.28,0.28,Calculated
+"Chromium, Cr",1.2 - 1.5 %,1.2 - 1.5 %,
+"Manganese, Mn",<= 0.40 %,<= 0.40 %,
+"Nickel, Ni",2.25 - 3.5 %,2.25 - 3.5 %,
+"Silicon, Si",0.20 - 0.40 %,0.20 - 0.40 %,
+"Vanadium, V",<= 0.030 %,<= 0.030 %,

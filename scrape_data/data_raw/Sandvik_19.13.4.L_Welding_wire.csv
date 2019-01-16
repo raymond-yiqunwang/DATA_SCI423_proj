@@ -1,39 +1,39 @@
 ,Metric,English,Comments
-Density ,8.00 g/cc,0.289 lb/in,
-"Hardness, Vickers ",160,160,
-"Tensile Strength, Yield  ","290 MPa @Strain 0.200 %,
+Density,8.00 g/cc,0.289 lb/in,
+"Hardness, Vickers",160,160,
+"Tensile Strength, Yield","290 MPa @Strain 0.200 %,
 Temperature 400 C","42100 psi @Strain 0.200 %,
 Temperature 752 F",
  ,"380 MPa @Strain 0.200 %,
 Temperature 20.0 C","55100 psi @Strain 0.200 %,
 Temperature 68.0 F",
-Reduction of Area ,70 %,70 %,
-Thermal Conductivity  ,"15.0 W/m-K @Temperature 20.0 C","104 BTU-in/hr-ft-F @Temperature 68.0 F",
+Reduction of Area,70 %,70 %,
+Thermal Conductivity,"15.0 W/m-K @Temperature 20.0 C","104 BTU-in/hr-ft-F @Temperature 68.0 F",
  ,"15.0 W/m-K @Temperature 100 C","104 BTU-in/hr-ft-F @Temperature 212 F",
  ,"19.0 W/m-K @Temperature 300 C","132 BTU-in/hr-ft-F @Temperature 572 F",
  ,"21.0 W/m-K @Temperature 500 C","146 BTU-in/hr-ft-F @Temperature 932 F",
-"Carbon, C ",<= 0.0200 %,<= 0.0200 %,Aim
+"Carbon, C",<= 0.0200 %,<= 0.0200 %,Aim
  ,0.020 %,0.020 %,Weld metal
 "Cobalt, Co ",<= 0.200 %,<= 0.200 %,AIM
-"Manganese, Mn ",1.7 %,1.7 %,Weld metal
+"Manganese, Mn",1.7 %,1.7 %,Weld metal
  ,1.8 %,1.8 %,Aim
-"Nickel, Ni ",13 %,13 %,Weld metal
+"Nickel, Ni",13 %,13 %,Weld metal
  ,13.5 %,13.5 %,Aim
-"Phosphorous, P ",0.010 %,0.010 %,Weld metal
+"Phosphorous, P",0.010 %,0.010 %,Weld metal
  ,<= 0.0150 %,<= 0.0150 %,Aim
-"Sulfur, S ",0.012 %,0.012 %,Weld metal
+"Sulfur, S",0.012 %,0.012 %,Weld metal
  ,<= 0.0150 %,<= 0.0150 %,Aim
-"Tensile Strength, Ultimate  ","460 MPa @Temperature 400 C","66700 psi @Temperature 752 F",
+"Tensile Strength, Ultimate","460 MPa @Temperature 400 C","66700 psi @Temperature 752 F",
  ,"600 MPa @Temperature 20.0 C","87000 psi @Temperature 68.0 F",
-Elongation at Break  ,"28 % @Temperature 400 C","28 % @Temperature 752 F",
+Elongation at Break,"28 % @Temperature 400 C","28 % @Temperature 752 F",
  ,"42 % @Temperature 20.0 C","42 % @Temperature 68.0 F",
-Charpy Impact ,"140 J @Temperature 20.0 C","103 ft-lb @Temperature 68.0 F",
-"Chromium, Cr ",18.5 %,18.5 %,Weld metal
+Charpy Impact,"140 J @Temperature 20.0 C","103 ft-lb @Temperature 68.0 F",
+"Chromium, Cr",18.5 %,18.5 %,Weld metal
  ,19 %,19 %,Aim
-"Copper, Cu ",<= 0.100 %,<= 0.100 %,AIM
-"Molybdenum, Mo ",3.5 %,3.5 %,Weld metal
+"Copper, Cu",<= 0.100 %,<= 0.100 %,AIM
+"Molybdenum, Mo",3.5 %,3.5 %,Weld metal
  ,3.6 %,3.6 %,Aim
 "Nitrogen, N ",0.050 %,0.050 %,Weld metal
  ,<= 0.0600 %,<= 0.0600 %,Aim
-"Silicon, Si ",0.40 %,0.40 %,Aim
+"Silicon, Si",0.40 %,0.40 %,Aim
  ,0.40 %,0.40 %,Weld metal

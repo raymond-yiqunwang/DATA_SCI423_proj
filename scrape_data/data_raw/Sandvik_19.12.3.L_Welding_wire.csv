@@ -1,51 +1,51 @@
 ,Metric,English,Comments
-"Hardness, Vickers ",160,160,
-"Tensile Strength, Yield ","390 MPa @Strain 0.200 %","56600 psi @Strain 0.200 %",SAW typical for non heat treated weld metal using flux 15W
+"Hardness, Vickers",160,160,
+"Tensile Strength, Yield","390 MPa @Strain 0.200 %","56600 psi @Strain 0.200 %",SAW typical for non heat treated weld metal using flux 15W
  ,"290 MPa @Strain 0.200 %,
 Temperature 400 °C","42100 psi @Strain 0.200 %,
 Temperature 752 °F",
  ,"410 MPa @Strain 0.200 %,
 Temperature 20.0 °C","59500 psi @Strain 0.200 %,
 Temperature 68.0 °F",
-Reduction of Area ,40 %,40 %,
-Thermal Conductivity  ,"15.0 W/m-K @Temperature 20.0 °C","104 BTU-in/hr-ft²-°F @Temperature 68.0 °F",
+Reduction of Area,40 %,40 %,
+Thermal Conductivity,"15.0 W/m-K @Temperature 20.0 °C","104 BTU-in/hr-ft²-°F @Temperature 68.0 °F",
  ,"16.0 W/m-K @Temperature 100 °C","111 BTU-in/hr-ft²-°F @Temperature 212 °F",
  ,"19.0 W/m-K @Temperature 300 °C","132 BTU-in/hr-ft²-°F @Temperature 572 °F",
  ,"20.0 W/m-K @Temperature 500 °C","139 BTU-in/hr-ft²-°F @Temperature 932 °F",
-"Carbon, C ",0.015 %,0.015 %,All-Weld metal
+"Carbon, C",0.015 %,0.015 %,All-Weld metal
  ,0.018 %,0.018 %,Note 1
  ,<= 0.0200 %,<= 0.0200 %,AIM
-"Manganese, Mn ",1.5 %,1.5 %,Note 1
+"Manganese, Mn",1.5 %,1.5 %,Note 1
  ,1.8 %,1.8 %,AIM
  ,1.8 %,1.8 %,All-Weld metal
-"Nickel, Ni ",12 %,12 %,All-Weld metal
+"Nickel, Ni",12 %,12 %,All-Weld metal
  ,12 %,12 %,Note 1
  ,12.5 %,12.5 %,AIM
-"Phosphorous, P ",0.012 %,0.012 %,All-Weld metal
+"Phosphorous, P",0.012 %,0.012 %,All-Weld metal
  ,0.023 %,0.023 %,Note 1
  ,<= 0.0250 %,<= 0.0250 %,AIM
-"Sulfur, S ",<= 0.0150 %,<= 0.0150 %,AIM
+"Sulfur, S",<= 0.0150 %,<= 0.0150 %,AIM
  ,0.10 %,0.10 %,All-Weld metal
  ,0.11 %,0.11 %,Note 1
-"Tensile Strength, Ultimate ",580 MPa,84100 psi,SAW typical for non heat treated weld metal using flux 15W
+"Tensile Strength, Ultimate",580 MPa,84100 psi,SAW typical for non heat treated weld metal using flux 15W
  ,"470 MPa @Temperature 400 °C","68200 psi @Temperature 752 °F",
  ,"610 MPa @Temperature 20.0 °C","88500 psi @Temperature 68.0 °F",
-Elongation at Break ,35 %,35 %,SAW typical for non heat treated weld metal using flux 15W
+Elongation at Break,35 %,35 %,SAW typical for non heat treated weld metal using flux 15W
  ,"26 % @Temperature 400 °C","26 % @Temperature 752 °F",
  ,"35 % @Temperature 20.0 °C","35 % @Temperature 68.0 °F",
-Charpy Impact ,60.0 J,44.3 ft-lb,SAW typical for non heat treated weld metal using flux 15W
+Charpy Impact,60.0 J,44.3 ft-lb,SAW typical for non heat treated weld metal using flux 15W
  ,"50.0 J @Temperature -196 °C","36.9 ft-lb @Temperature -321 °F",
  ,"110 J @Temperature 20.0 °C","81.1 ft-lb @Temperature 68.0 °F",
 "Maximum Service Temperature, Air ",400 °C,752 °F,
-"Chromium, Cr ",18 %,18 %,Note 1
+"Chromium, Cr",18 %,18 %,Note 1
  ,18.5 %,18.5 %,AIM
  ,18.5 %,18.5 %,All-Weld metal
-"Molybdenum, Mo ",2.6 %,2.6 %,AIM
+"Molybdenum, Mo",2.6 %,2.6 %,AIM
  ,2.6 %,2.6 %,All-Weld metal
  ,2.6 %,2.6 %,Note 1
 "Nitrogen, N ",0.050 %,0.050 %,
  ,0.060 %,0.060 %,
  ,<= 0.0600 %,<= 0.0600 %,
-"Silicon, Si ",0.30 %,0.30 %,All-Weld metal
+"Silicon, Si",0.30 %,0.30 %,All-Weld metal
  ,0.40 %,0.40 %,AIM
  ,0.50 %,0.50 %,Note 1

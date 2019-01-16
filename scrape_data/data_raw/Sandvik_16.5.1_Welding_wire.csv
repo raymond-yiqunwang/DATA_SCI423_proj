@@ -1,33 +1,33 @@
 ,Metric,English,Comments
-"Tensile Strength, Ultimate ",850 MPa,123000 psi,TIG after post weld heat treatment at 590°C for 4 hrs
+"Tensile Strength, Ultimate",850 MPa,123000 psi,TIG after post weld heat treatment at 590°C for 4 hrs
  ,850 MPa,123000 psi,SAW after post weld heat treatment at 590°C for 4 hrs
-Elongation at Break ,20 %,20 %,SAW after post weld heat treatment at 590°C for 4 hrs
+Elongation at Break,20 %,20 %,SAW after post weld heat treatment at 590°C for 4 hrs
  ,22 %,22 %,TIG after post weld heat treatment at 590°C for 4 hrs
-"Carbon, C ",0.017 %,0.017 %,All-Weld metal
+"Carbon, C",0.017 %,0.017 %,All-Weld metal
  ,<= 0.0200 %,<= 0.0200 %,AIM
  ,0.020 %,0.020 %,Note 1
-"Manganese, Mn ",0.90 %,0.90 %,Note 1
+"Manganese, Mn",0.90 %,0.90 %,Note 1
  ,1.4 %,1.4 %,All-Weld metal
  ,1.4 %,1.4 %,AIM
-"Nickel, Ni ",5.5 %,5.5 %,Note 1
+"Nickel, Ni",5.5 %,5.5 %,Note 1
  ,5.5 %,5.5 %,All-Weld metal
  ,5.5 %,5.5 %,AIM
-"Silicon, Si ",0.40 %,0.40 %,All-Weld metal
+"Silicon, Si",0.40 %,0.40 %,All-Weld metal
  ,0.40 %,0.40 %,AIM
  ,0.70 %,0.70 %,Note 1
-"Tensile Strength, Yield  ","470 MPa @Strain 0.200 %","68200 psi @Strain 0.200 %",TIG after post weld heat treatment at 590°C for 4 hrs
+"Tensile Strength, Yield","470 MPa @Strain 0.200 %","68200 psi @Strain 0.200 %",TIG after post weld heat treatment at 590°C for 4 hrs
  ,"490 MPa @Strain 0.200 %","71100 psi @Strain 0.200 %",SAW after post weld heat treatment at 590°C for 4 hrs
-Charpy Impact ,40.0 J,29.5 ft-lb,SAW after post weld heat treatment at 590°C for 4 hrs
+Charpy Impact,40.0 J,29.5 ft-lb,SAW after post weld heat treatment at 590°C for 4 hrs
  ,80.0 J,59.0 ft-lb,TIG after post weld heat treatment at 590°C for 4 hrs
-"Chromium, Cr ",16 %,16 %,Note 1
+"Chromium, Cr",16 %,16 %,Note 1
  ,16 %,16 %,All-Weld metal
  ,16 %,16 %,AIM
-"Molybdenum, Mo ",1.0 %,1.0 %,Note 1
+"Molybdenum, Mo",1.0 %,1.0 %,Note 1
  ,1.0 %,1.0 %,All-Weld metal
  ,1.0 %,1.0 %,AIM
-"Phosphorous, P ",0.020 %,0.020 %,All-Weld metal
+"Phosphorous, P",0.020 %,0.020 %,All-Weld metal
  ,<= 0.0250 %,<= 0.0250 %,AIM
  ,0.025 %,0.025 %,Note 1
-"Sulfur, S ",0.012 %,0.012 %,Note 1
+"Sulfur, S",0.012 %,0.012 %,Note 1
  ,0.012 %,0.012 %,All-Weld metal
  ,<= 0.0150 %,<= 0.0150 %,AIM

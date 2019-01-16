@@ -1,38 +1,38 @@
 ,Metric,English,Comments
-Density ,7.85 g/cc,0.284 lb/in³,
-"Tensile Strength, Ultimate ",1595 MPa,231300 psi,
+Density,7.85 g/cc,0.284 lb/in³,
+"Tensile Strength, Ultimate",1595 MPa,231300 psi,
  ,"1985 MPa @Temperature -195 °C","287900 psi @Temperature -319 °F",
-Elongation at Break ,12 %,12 %,in 50 mm
+Elongation at Break,12 %,12 %,in 50 mm
  ,"4.0 % @Temperature -195 °C","4.0 % @Temperature -319 °F",in 50 mm
-Modulus of Elasticity ,212 GPa,30700 ksi,
-Poissons Ratio ,0.30,0.30,Calculated
-Machinability ,50 %,50 %,annealed and cold drawn. Based on 100% machinability for AISI 1212 steel.
-Electrical Resistivity  ,"0.0000248 ohm-cm @Temperature 20.0 °C","0.0000248 ohm-cm @Temperature 68.0 °F",
+Modulus of Elasticity,212 GPa,30700 ksi,
+Poissons Ratio,0.30,0.30,Calculated
+Machinability,50 %,50 %,annealed and cold drawn. Based on 100% machinability for AISI 1212 steel.
+Electrical Resistivity,"0.0000248 ohm-cm @Temperature 20.0 °C","0.0000248 ohm-cm @Temperature 68.0 °F",
  ,"0.0000298 ohm-cm @Temperature 100 °C","0.0000298 ohm-cm @Temperature 212 °F",
  ,"0.0000552 ohm-cm @Temperature 400 °C","0.0000552 ohm-cm @Temperature 752 °F",
  ,"0.0000797 ohm-cm @Temperature 600 °C","0.0000797 ohm-cm @Temperature 1110 °F",
-"CTE, linear  ","11.3 µm/m-°C @Temperature -70.0 - 20.0 °C","6.28 µin/in-°F @Temperature -94.0 - 68.0 °F","Austenitized 870°C (1600°F), 545°C (1010°F) temper for 2 hrs."
+"CTE, linear","11.3 µm/m-°C @Temperature -70.0 - 20.0 °C","6.28 µin/in-°F @Temperature -94.0 - 68.0 °F","Austenitized 870°C (1600°F), 545°C (1010°F) temper for 2 hrs."
  ,"12.4 µm/m-°C @Temperature 21.0 - 260 °C","6.89 µin/in-°F @Temperature 69.8 - 500 °F","Austenitized 870°C (1600°F), 545°C (1010°F) temper for 2 hrs."
  ,"13.7 µm/m-°C @Temperature 500 °C","7.61 µin/in-°F @Temperature 932 °F","austenitized at 870°C (1600°F), 545°C (1010°F) temper for 2 hours"
-Thermal Conductivity ,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
-"Carbon, C ",0.37 - 0.44 %,0.37 - 0.44 %,
-"Iron, Fe ",95.015 - 96.48 %,95.015 - 96.48 %,As remainder
-"Molybdenum, Mo ",0.20 - 0.30 %,0.20 - 0.30 %,
-"Phosphorous, P ",<= 0.025 %,<= 0.025 %,
-"Sulfur, S ",<= 0.020 %,<= 0.020 %,
-"Tensile Strength, Yield ",1475 MPa,213900 psi,
+Thermal Conductivity,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
+"Carbon, C",0.37 - 0.44 %,0.37 - 0.44 %,
+"Iron, Fe",95.015 - 96.48 %,95.015 - 96.48 %,As remainder
+"Molybdenum, Mo",0.20 - 0.30 %,0.20 - 0.30 %,
+"Phosphorous, P",<= 0.025 %,<= 0.025 %,
+"Sulfur, S",<= 0.020 %,<= 0.020 %,
+"Tensile Strength, Yield",1475 MPa,213900 psi,
  ,"1840 MPa @Temperature -195 °C","267000 psi @Temperature -319 °F",
-Reduction of Area ,46 %,46 %,
+Reduction of Area,46 %,46 %,
  ,"11 % @Temperature -195 °C","11 % @Temperature -319 °F",
-Bulk Modulus ,160 GPa,23200 ksi,Typical for steel.
+Bulk Modulus,160 GPa,23200 ksi,Typical for steel.
 Fatigue Strength ,338 MPa,49000 psi,Notched Limit
  ,614 MPa,89100 psi,Unnotched Limit
  ,"248 MPa @Temperature -195 °C","36000 psi @Temperature -319 °F",Notched Limit
  ,"841 MPa @Temperature -195 °C","122000 psi @Temperature -319 °F",Unnotched Limit
-Shear Modulus ,81.5 GPa,11800 ksi,Estimated from elastic modulus
+Shear Modulus,81.5 GPa,11800 ksi,Estimated from elastic modulus
  ,"82.0 GPa @Temperature -195 °C","11900 ksi @Temperature -319 °F",Estimated from elastic modulus
-Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical 4000 series steel
-"Chromium, Cr ",0.65 - 0.95 %,0.65 - 0.95 %,
-"Manganese, Mn ",0.60 - 0.95 %,0.60 - 0.95 %,
-"Nickel, Ni ",1.55 - 2.0 %,1.55 - 2.0 %,
-"Silicon, Si ",0.15 - 0.30 %,0.15 - 0.30 %,
+Specific Heat Capacity,0.475 J/g-°C,0.114 BTU/lb-°F,Typical 4000 series steel
+"Chromium, Cr",0.65 - 0.95 %,0.65 - 0.95 %,
+"Manganese, Mn",0.60 - 0.95 %,0.60 - 0.95 %,
+"Nickel, Ni",1.55 - 2.0 %,1.55 - 2.0 %,
+"Silicon, Si",0.15 - 0.30 %,0.15 - 0.30 %,

@@ -1,10 +1,10 @@
 ,Metric,English,Comments
-"Carbon, C ",0.15 %,0.15 %,
-"Iron, Fe ",97 %,97 %,As Balance
-"Molybdenum, Mo ",0.25 %,0.25 %,
-"Phosphorous, P ",<= 0.0300 %,<= 0.0300 %,
-"Sulfur, S ",<= 0.0300 %,<= 0.0300 %,
-"Chromium, Cr ",1.0 %,1.0 %,
-"Manganese, Mn ",0.70 %,0.70 %,
-"Nickel, Ni ",0.25 %,0.25 %,
-"Silicon, Si ",0.25 %,0.25 %,
+"Carbon, C",0.15 %,0.15 %,
+"Iron, Fe",97 %,97 %,As Balance
+"Molybdenum, Mo",0.25 %,0.25 %,
+"Phosphorous, P",<= 0.0300 %,<= 0.0300 %,
+"Sulfur, S",<= 0.0300 %,<= 0.0300 %,
+"Chromium, Cr",1.0 %,1.0 %,
+"Manganese, Mn",0.70 %,0.70 %,
+"Nickel, Ni",0.25 %,0.25 %,
+"Silicon, Si",0.25 %,0.25 %,

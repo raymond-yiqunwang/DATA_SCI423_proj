@@ -1,6 +1,6 @@
 ,Metric,English,Comments
-"Hardness, Vickers ",160,160,
-"Tensile Strength, Yield  ","290 MPa @Strain 0.200 %,
+"Hardness, Vickers",160,160,
+"Tensile Strength, Yield","290 MPa @Strain 0.200 %,
 Temperature 400 °C","42100 psi @Strain 0.200 %,
 Temperature 752 °F",
  ,"390 MPa @Strain 0.200 %,
@@ -9,45 +9,45 @@ Temperature 68.0 °F",SAW - typical for non-heat treated weld metal using flux 1
  ,"390 MPa @Strain 0.200 %,
 Temperature 20.0 °C","56600 psi @Strain 0.200 %,
 Temperature 68.0 °F",
-Reduction of Area ,56 %,56 %,
-Thermal Conductivity  ,"15.0 W/m-K @Temperature 20.0 °C","104 BTU-in/hr-ft²-°F @Temperature 68.0 °F",
+Reduction of Area,56 %,56 %,
+Thermal Conductivity,"15.0 W/m-K @Temperature 20.0 °C","104 BTU-in/hr-ft²-°F @Temperature 68.0 °F",
  ,"16.0 W/m-K @Temperature 100 °C","111 BTU-in/hr-ft²-°F @Temperature 212 °F",
  ,"19.0 W/m-K @Temperature 300 °C","132 BTU-in/hr-ft²-°F @Temperature 572 °F",
  ,"21.0 W/m-K @Temperature 500 °C","146 BTU-in/hr-ft²-°F @Temperature 932 °F",
-"Carbon, C ",0.020 %,0.020 %,welding with a shielding gas of Ar + 2%O2
+"Carbon, C",0.020 %,0.020 %,welding with a shielding gas of Ar + 2%O2
  ,0.020 %,0.020 %,"non-heat treated all weld metal made by SAW, Flux 15W/35W"
  ,<= 0.0230 %,<= 0.0230 %,
-"Manganese, Mn ",1.2 %,1.2 %,"non-heat treated all weld metal made by SAW, Flux 15W/35W"
+"Manganese, Mn",1.2 %,1.2 %,"non-heat treated all weld metal made by SAW, Flux 15W/35W"
  ,1.7 %,1.7 %,welding with a shielding gas of Ar + 2%O2
  ,7.8 %,7.8 %,
-"Nickel, Ni ",10 %,10 %,welding with a shielding gas of Ar + 2%O2
+"Nickel, Ni",10 %,10 %,welding with a shielding gas of Ar + 2%O2
  ,10 %,10 %,"non-heat treated all weld metal made by SAW, Flux 15W/35W"
  ,10.6 %,10.6 %,
-"Phosphorous, P ",0.020 %,0.020 %,welding with a shielding gas of Ar + 2%O2
+"Phosphorous, P",0.020 %,0.020 %,welding with a shielding gas of Ar + 2%O2
  ,0.025 %,0.025 %,"non-heat treated all weld metal made by SAW, Flux 15W/35W"
  ,<= 0.0250 %,<= 0.0250 %,
-"Sulfur, S ",0.010 %,0.010 %,welding with a shielding gas of Ar + 2%O2
+"Sulfur, S",0.010 %,0.010 %,welding with a shielding gas of Ar + 2%O2
  ,0.011 %,0.011 %,"non-heat treated all weld metal made by SAW, Flux 15W/35W"
  ,<= 0.0140 %,<= 0.0140 %,
-"Tensile Strength, Ultimate  ","440 MPa @Temperature 400 °C","63800 psi @Temperature 752 °F",
+"Tensile Strength, Ultimate","440 MPa @Temperature 400 °C","63800 psi @Temperature 752 °F",
  ,"560 MPa @Temperature 20.0 °C","81200 psi @Temperature 68.0 °F",SAW - typical for non-heat treated weld metal using flux 15W
  ,"600 MPa @Temperature 20.0 °C","87000 psi @Temperature 68.0 °F",
-Elongation at Break  ,"25 % @Temperature 400 °C","25 % @Temperature 752 °F",
+Elongation at Break,"25 % @Temperature 400 °C","25 % @Temperature 752 °F",
  ,"35 % @Temperature 20.0 °C","35 % @Temperature 68.0 °F",SAW - typical for non-heat treated weld metal using flux 15W
  ,"35 % @Temperature 20.0 °C","35 % @Temperature 68.0 °F",
-Charpy Impact  ,"60.0 J @Temperature -196 °C","44.3 ft-lb @Temperature -321 °F",
+Charpy Impact,"60.0 J @Temperature -196 °C","44.3 ft-lb @Temperature -321 °F",
  ,"90.0 J @Temperature 20.0 °C","66.4 ft-lb @Temperature 68.0 °F",SAW - typical for non-heat treated weld metal using flux 15W
  ,"135 J @Temperature 20.0 °C","99.6 ft-lb @Temperature 68.0 °F",
 "Minimum Service Temperature, Air ",-269 °C,-452 °F,
-"Chromium, Cr ",19.3 %,19.3 %,"non-heat treated all weld metal made by SAW, Flux 15W/35W"
+"Chromium, Cr",19.3 %,19.3 %,"non-heat treated all weld metal made by SAW, Flux 15W/35W"
  ,19.8 %,19.8 %,
  ,19.8 %,19.8 %,welding with a shielding gas of Ar + 2%O2
-"Molybdenum, Mo ",0.15 %,0.15 %,welding with a shielding gas of Ar + 2%O2
+"Molybdenum, Mo",0.15 %,0.15 %,welding with a shielding gas of Ar + 2%O2
  ,0.15 %,0.15 %,"non-heat treated all weld metal made by SAW, Flux 15W/35W"
  ,<= 0.300 %,<= 0.300 %,
 "Nitrogen, N ",0.080 %,0.080 %,welding with a shielding gas of Ar + 2%O2
  ,0.090 %,0.090 %,"non-heat treated all weld metal made by SAW, Flux 15W/35W"
  ,<= 0.100 %,<= 0.100 %,
-"Silicon, Si ",0.30 %,0.30 %,welding with a shielding gas of Ar + 2%O2
+"Silicon, Si",0.30 %,0.30 %,welding with a shielding gas of Ar + 2%O2
  ,0.40 %,0.40 %,
  ,0.60 %,0.60 %,"non-heat treated all weld metal made by SAW, Flux 15W/35W"

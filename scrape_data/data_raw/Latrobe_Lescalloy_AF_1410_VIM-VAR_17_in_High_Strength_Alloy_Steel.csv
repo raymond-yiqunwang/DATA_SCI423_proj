@@ -1,23 +1,23 @@
 ,Metric,English,Comments
-Density ,7.83 g/cc,0.283 lb/in³,
-"Tensile Strength, Ultimate ",1680 MPa,243000 psi,Transverse
+Density,7.83 g/cc,0.283 lb/in³,
+"Tensile Strength, Ultimate",1680 MPa,243000 psi,Transverse
  ,1680 MPa,244000 psi,Longitudinal
-Elongation at Break ,16 %,16 %,Transverse
+Elongation at Break,16 %,16 %,Transverse
  ,17 %,17 %,Longitudinal
-Modulus of Elasticity ,203 GPa,29400 ksi,
+Modulus of Elasticity,203 GPa,29400 ksi,
 Processing Temperature ,168 °C,334 °F,Martensitic Finish
  ,336 °C,637 °F,Martensitic Start
-"Carbon, C ",0.15 %,0.15 %,
+"Carbon, C",0.15 %,0.15 %,
 "Cobalt, Co ",14 %,14 %,
-"Manganese, Mn ",0.10 %,0.10 %,
-"Nickel, Ni ",10 %,10 %,
-"Tensile Strength, Yield ",1524 MPa,221000 psi,Transverse
+"Manganese, Mn",0.10 %,0.10 %,
+"Nickel, Ni",10 %,10 %,
+"Tensile Strength, Yield",1524 MPa,221000 psi,Transverse
  ,1544 MPa,223900 psi,Longitudinal
-Reduction of Area ,66 %,66 %,Transverse
+Reduction of Area,66 %,66 %,Transverse
  ,73 %,73 %,Longitudinal
-Charpy Impact ,71.0 J,52.4 ft-lb,"V-Notch, Transverse"
+Charpy Impact,71.0 J,52.4 ft-lb,"V-Notch, Transverse"
  ,81.0 J,59.7 ft-lb,"V-Notch, Longitudinal"
-"Chromium, Cr ",2.0 %,2.0 %,
-"Iron, Fe ",72.65 %,72.65 %,
-"Molybdenum, Mo ",1.0 %,1.0 %,
-"Silicon, Si ",0.10 %,0.10 %,
+"Chromium, Cr",2.0 %,2.0 %,
+"Iron, Fe",72.65 %,72.65 %,
+"Molybdenum, Mo",1.0 %,1.0 %,
+"Silicon, Si",0.10 %,0.10 %,

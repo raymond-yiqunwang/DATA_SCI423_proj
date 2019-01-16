@@ -1,43 +1,43 @@
 ,Metric,English,Comments
-Density ,8.00 g/cc,0.289 lb/in,
-"Hardness, Vickers ",225,225,
-"Tensile Strength, Yield  ","320 MPa @Strain 0.200 %,
+Density,8.00 g/cc,0.289 lb/in,
+"Hardness, Vickers",225,225,
+"Tensile Strength, Yield","320 MPa @Strain 0.200 %,
 Temperature 400 C","46400 psi @Strain 0.200 %,
 Temperature 752 F",
  ,"400 MPa @Strain 0.200 %,
 Temperature 20.0 C","58000 psi @Strain 0.200 %,
 Temperature 68.0 F",
-Reduction of Area  ,"50 % @Temperature 400 C","50 % @Temperature 752 F",
+Reduction of Area,"50 % @Temperature 400 C","50 % @Temperature 752 F",
  ,"61 % @Temperature 20.0 C","61 % @Temperature 68.0 F",
-"CTE, linear ","18.0 m/m-C @Temperature 20.0 - 400 C","10.0 in/in-F @Temperature 68.0 - 752 F",
-"Carbon, C ",0.040 %,0.040 %,AIM
+"CTE, linear","18.0 m/m-C @Temperature 20.0 - 400 C","10.0 in/in-F @Temperature 68.0 - 752 F",
+"Carbon, C",0.040 %,0.040 %,AIM
  ,0.040 %,0.040 %,All-Weld Metal
 "Cobalt, Co ",<= 0.200 %,<= 0.200 %,AIM
-"Manganese, Mn ",1.2 %,1.2 %,AIM
+"Manganese, Mn",1.2 %,1.2 %,AIM
  ,1.2 %,1.2 %,All-Weld Metal
-"Nickel, Ni ",10 %,10 %,AIM
+"Nickel, Ni",10 %,10 %,AIM
  ,10 %,10 %,All-Weld Metal
 "Nitrogen, N ",0.050 %,0.050 %,All-Weld Metal
  ,<= 0.0600 %,<= 0.0600 %,AIM
-"Silicon, Si ",0.80 %,0.80 %,All-Weld Metal
+"Silicon, Si",0.80 %,0.80 %,All-Weld Metal
  ,0.90 %,0.90 %,AIM
-"Tensile Strength, Ultimate  ","470 MPa @Temperature 400 C","68200 psi @Temperature 752 F",
+"Tensile Strength, Ultimate","470 MPa @Temperature 400 C","68200 psi @Temperature 752 F",
  ,"610 MPa @Temperature 20.0 C","88500 psi @Temperature 68.0 F",
-Elongation at Break  ,"23 % @Temperature 400 C","23 % @Temperature 752 F",
+Elongation at Break,"23 % @Temperature 400 C","23 % @Temperature 752 F",
  ,"35 % @Temperature 20.0 C","35 % @Temperature 68.0 F",
-Charpy Impact  ,"60.0 J @Temperature -196 C","44.3 ft-lb @Temperature -321 F",
+Charpy Impact,"60.0 J @Temperature -196 C","44.3 ft-lb @Temperature -321 F",
  ,"110 J @Temperature 20.0 C","81.1 ft-lb @Temperature 68.0 F",
-Thermal Conductivity  ,"13.0 W/m-K @Temperature 20.0 C","90.2 BTU-in/hr-ft-F @Temperature 68.0 F",
+Thermal Conductivity,"13.0 W/m-K @Temperature 20.0 C","90.2 BTU-in/hr-ft-F @Temperature 68.0 F",
  ,"14.0 W/m-K @Temperature 100 C","97.2 BTU-in/hr-ft-F @Temperature 212 F",
  ,"16.0 W/m-K @Temperature 200 C","111 BTU-in/hr-ft-F @Temperature 392 F",
  ,"18.0 W/m-K @Temperature 500 C","125 BTU-in/hr-ft-F @Temperature 932 F",
-"Chromium, Cr ",19 %,19 %,All-Weld Metal
+"Chromium, Cr",19 %,19 %,All-Weld Metal
  ,19.5 %,19.5 %,AIM
-"Copper, Cu ",<= 0.200 %,<= 0.200 %,AIM
-"Molybdenum, Mo ",<= 0.500 %,<= 0.500 %,AIM
+"Copper, Cu",<= 0.200 %,<= 0.200 %,AIM
+"Molybdenum, Mo",<= 0.500 %,<= 0.500 %,AIM
 "Niobium, Nb (Columbium, Cb) ",0.50 %,0.50 %,All-Weld Metal
  ,>= 0.600 %,>= 0.600 %,AIM
-"Phosphorous, P ",0.013 %,0.013 %,All-Weld Metal
+"Phosphorous, P",0.013 %,0.013 %,All-Weld Metal
  ,<= 0.0250 %,<= 0.0250 %,AIM
-"Sulfur, S ",0.010 %,0.010 %,All-Weld Metal
+"Sulfur, S",0.010 %,0.010 %,All-Weld Metal
  ,<= 0.0150 %,<= 0.0150 %,AIM

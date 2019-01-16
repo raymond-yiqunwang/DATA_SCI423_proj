@@ -1,26 +1,26 @@
 ,Metric,English,Comments
-Density ,7.85 g/cc,0.284 lb/in³,
-"Hardness, Brinell ",264,264,
-"Hardness, Rockwell B ",98,98,Converted from Brinell
-"Hardness, Vickers ",278,278,Converted from Brinell
-"Tensile Strength, Yield ",690 MPa,100000 psi,
-Modulus of Elasticity ,205 GPa,29700 ksi,Typical for steel
-Poissons Ratio ,0.29,0.29,Calculated
-Specific Heat Capacity ,0.452 J/g-°C,0.108 BTU/lb-°F,
+Density,7.85 g/cc,0.284 lb/in³,
+"Hardness, Brinell",264,264,
+"Hardness, Rockwell B",98,98,Converted from Brinell
+"Hardness, Vickers",278,278,Converted from Brinell
+"Tensile Strength, Yield",690 MPa,100000 psi,
+Modulus of Elasticity,205 GPa,29700 ksi,Typical for steel
+Poissons Ratio,0.29,0.29,Calculated
+Specific Heat Capacity,0.452 J/g-°C,0.108 BTU/lb-°F,
 "Boron, B ",0.0010 - 0.0050 %,0.0010 - 0.0050 %,
-"Chromium, Cr ",0.85 - 1.2 %,0.85 - 1.2 %,
-"Manganese, Mn ",0.45 - 0.70 %,0.45 - 0.70 %,
-"Nickel, Ni ",1.2 - 1.5 %,1.2 - 1.5 %,
-"Silicon, Si ",0.20 - 0.35 %,0.20 - 0.35 %,
-"Hardness, Knoop ",289,289,
-"Hardness, Rockwell C ",26,26,Converted from Brinell
-"Tensile Strength, Ultimate ",828 MPa,120000 psi,
-Elongation at Break ,18 %,18 %,
-Bulk Modulus ,160 GPa,23200 ksi,Typical for steel.
-Shear Modulus ,80.0 GPa,11600 ksi,Typical for steel.
-Thermal Conductivity ,46.6 W/m-K,323 BTU-in/hr-ft²-°F,Typical steel
-"Carbon, C ",0.12 - 0.21 %,0.12 - 0.21 %,
-"Iron, Fe ",96 %,96 %,as balance
-"Molybdenum, Mo ",0.45 - 0.60 %,0.45 - 0.60 %,
-"Phosphorous, P ",<= 0.035 %,<= 0.035 %,
-"Sulfur, S ",<= 0.040 %,<= 0.040 %,
+"Chromium, Cr",0.85 - 1.2 %,0.85 - 1.2 %,
+"Manganese, Mn",0.45 - 0.70 %,0.45 - 0.70 %,
+"Nickel, Ni",1.2 - 1.5 %,1.2 - 1.5 %,
+"Silicon, Si",0.20 - 0.35 %,0.20 - 0.35 %,
+"Hardness, Knoop",289,289,
+"Hardness, Rockwell C",26,26,Converted from Brinell
+"Tensile Strength, Ultimate",828 MPa,120000 psi,
+Elongation at Break,18 %,18 %,
+Bulk Modulus,160 GPa,23200 ksi,Typical for steel.
+Shear Modulus,80.0 GPa,11600 ksi,Typical for steel.
+Thermal Conductivity,46.6 W/m-K,323 BTU-in/hr-ft²-°F,Typical steel
+"Carbon, C",0.12 - 0.21 %,0.12 - 0.21 %,
+"Iron, Fe",96 %,96 %,as balance
+"Molybdenum, Mo",0.45 - 0.60 %,0.45 - 0.60 %,
+"Phosphorous, P",<= 0.035 %,<= 0.035 %,
+"Sulfur, S",<= 0.040 %,<= 0.040 %,

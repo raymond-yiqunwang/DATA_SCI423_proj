@@ -1,16 +1,16 @@
 ,Metric,English,Comments
-"Hardness, Brinell ",500,500,
-"Tensile Strength, Yield ","1400 MPa @Strain 0.200 %","203000 psi @Strain 0.200 %",
-Charpy Impact ,35.0 J,25.8 ft-lb,"Longitudinal, (10mmx10mm)"
+"Hardness, Brinell",500,500,
+"Tensile Strength, Yield","1400 MPa @Strain 0.200 %","203000 psi @Strain 0.200 %",
+Charpy Impact,35.0 J,25.8 ft-lb,"Longitudinal, (10mmx10mm)"
 "Boron, B ",0.0010 %,0.0010 %,
-"Chromium, Cr ",1.0 %,1.0 %,
-"Manganese, Mn ",0.30 %,0.30 %,
-"Nickel, Ni ",0.20 %,0.20 %,
-"Silicon, Si ",0.30 %,0.30 %,
+"Chromium, Cr",1.0 %,1.0 %,
+"Manganese, Mn",0.30 %,0.30 %,
+"Nickel, Ni",0.20 %,0.20 %,
+"Silicon, Si",0.30 %,0.30 %,
 Tensile Strength at Break ,1640 MPa,238000 psi,
-Elongation at Break ,10 %,10 %,in 50 mm GL
-"Carbon, C ",0.29 %,0.29 %,
-"Iron, Fe ",97.6 %,97.6 %,As Balance
-"Molybdenum, Mo ",0.25 %,0.25 %,
-"Phosphorous, P ",0.015 %,0.015 %,
-"Sulfur, S ",0.0030 %,0.0030 %,
+Elongation at Break,10 %,10 %,in 50 mm GL
+"Carbon, C",0.29 %,0.29 %,
+"Iron, Fe",97.6 %,97.6 %,As Balance
+"Molybdenum, Mo",0.25 %,0.25 %,
+"Phosphorous, P",0.015 %,0.015 %,
+"Sulfur, S",0.0030 %,0.0030 %,

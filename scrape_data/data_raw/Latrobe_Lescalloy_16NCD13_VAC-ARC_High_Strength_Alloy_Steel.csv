@@ -1,22 +1,22 @@
 ,Metric,English,Comments
-"Hardness, Rockwell C ",33.5,33.5,"1"" from quench end; Jominy End Quench Hardenability"
+"Hardness, Rockwell C",33.5,33.5,"1"" from quench end; Jominy End Quench Hardenability"
  ,40,40,"1/2"" from quenched end; Jominy End Quench Hardenability"
  ,41.5,41.5,"1/8"" from quenched end; Jominy End Quench Hardenability"
-"Tensile Strength, Yield ",931 MPa,135000 psi,621°C Temper Temperature
+"Tensile Strength, Yield",931 MPa,135000 psi,621°C Temper Temperature
  ,1103 MPa,160000 psi,177°C Temper Temperature
  ,"931 MPa @Strain 0.200 %","135000 psi @Strain 0.200 %",496°C Temper Temperature
-Charpy Impact ,33.9 J,25.0 ft-lb,496°C Temper Temperature
+Charpy Impact,33.9 J,25.0 ft-lb,496°C Temper Temperature
  ,94.9 J,70.0 ft-lb,621°C Temper Temperature
-"Carbon, C ",0.15 %,0.15 %,
-"Iron, Fe ",94.6 %,94.6 %,
-"Molybdenum, Mo ",0.25 %,0.25 %,
-"Silicon, Si ",0.25 %,0.25 %,
-"Tensile Strength, Ultimate ",827 MPa,120000 psi,621°C Temper Temperature
+"Carbon, C",0.15 %,0.15 %,
+"Iron, Fe",94.6 %,94.6 %,
+"Molybdenum, Mo",0.25 %,0.25 %,
+"Silicon, Si",0.25 %,0.25 %,
+"Tensile Strength, Ultimate",827 MPa,120000 psi,621°C Temper Temperature
  ,1100 MPa,160000 psi,496°C Temper Temperature
  ,1380 MPa,200000 psi,177°C Temper Temperature
-Elongation at Break ,13 %,13 %,in 5D; 177°C Temper Temperature
+Elongation at Break,13 %,13 %,in 5D; 177°C Temper Temperature
  ,16 %,16 %,in 5D; 496°C Temper Temperature
  ,23 %,23 %,in 5D; 621°C Temper Temperature
-"Chromium, Cr ",1.0 %,1.0 %,
-"Manganese, Mn ",0.50 %,0.50 %,
-"Nickel, Ni ",3.25 %,3.25 %,
+"Chromium, Cr",1.0 %,1.0 %,
+"Manganese, Mn",0.50 %,0.50 %,
+"Nickel, Ni",3.25 %,3.25 %,

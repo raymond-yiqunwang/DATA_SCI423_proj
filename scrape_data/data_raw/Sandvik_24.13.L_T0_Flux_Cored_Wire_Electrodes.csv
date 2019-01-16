@@ -1,14 +1,14 @@
 ,Metric,English,Comments
-"Tensile Strength, Ultimate ",545 MPa,79000 psi,"Rm, Using CO 100%"
+"Tensile Strength, Ultimate",545 MPa,79000 psi,"Rm, Using CO 100%"
  ,600 MPa,87000 psi,Rm
-Elongation at Break ,35 %,35 %,
+Elongation at Break,35 %,35 %,
  ,38 %,38 %,Using CO 100%
-"Carbon, C ",0.031 %,0.031 %,
-"Manganese, Mn ",1.45 %,1.45 %,
-"Silicon, Si ",0.72 %,0.72 %,
-"Tensile Strength, Yield  ","410 MPa @Strain 0.200 %","59500 psi @Strain 0.200 %",Using CO 100%
+"Carbon, C",0.031 %,0.031 %,
+"Manganese, Mn",1.45 %,1.45 %,
+"Silicon, Si",0.72 %,0.72 %,
+"Tensile Strength, Yield","410 MPa @Strain 0.200 %","59500 psi @Strain 0.200 %",Using CO 100%
  ,"480 MPa @Strain 0.200 %","69600 psi @Strain 0.200 %",
-Charpy Impact  ,"57.0 J @Temperature -20.0 °C","42.0 ft-lb @Temperature -4.00 °F",
+Charpy Impact,"57.0 J @Temperature -20.0 °C","42.0 ft-lb @Temperature -4.00 °F",
  ,"57.0 J @Temperature -20.0 °C","42.0 ft-lb @Temperature -4.00 °F",Using CO 100%
-"Chromium, Cr ",24.5 %,24.5 %,
-"Nickel, Ni ",12.9 %,12.9 %,
+"Chromium, Cr",24.5 %,24.5 %,
+"Nickel, Ni",12.9 %,12.9 %,

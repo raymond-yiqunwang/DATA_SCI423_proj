@@ -1,26 +1,26 @@
 ,Metric,English,Comments
-Density ,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
-"Tensile Strength, Ultimate ",585 - 760 MPa,84800 - 110000 psi,
-Elongation at Break ,18 %,18 %,in 50mm
-Bulk Modulus ,160 GPa,23200 ksi,Typical for Steel
-Shear Modulus ,80.0 GPa,11600 ksi,Typical for Steel
-Electrical Resistivity ,0.0000170 ohm-cm,0.0000170 ohm-cm,Typical Carbon Steel
-"CTE, linear ",12.0 µm/m-°C,6.67 µin/in-°F,Typical Carbon Steel
-Thermal Conductivity ,52.0 W/m-K,361 BTU-in/hr-ft²-°F,Typical Carbon Steel
+Density,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
+"Tensile Strength, Ultimate",585 - 760 MPa,84800 - 110000 psi,
+Elongation at Break,18 %,18 %,in 50mm
+Bulk Modulus,160 GPa,23200 ksi,Typical for Steel
+Shear Modulus,80.0 GPa,11600 ksi,Typical for Steel
+Electrical Resistivity,0.0000170 ohm-cm,0.0000170 ohm-cm,Typical Carbon Steel
+"CTE, linear",12.0 µm/m-°C,6.67 µin/in-°F,Typical Carbon Steel
+Thermal Conductivity,52.0 W/m-K,361 BTU-in/hr-ft²-°F,Typical Carbon Steel
 "Aluminum, Al ",0.040 %,0.040 %,
-"Chromium, Cr ",8.0 - 9.5 %,8.0 - 9.5 %,
-"Manganese, Mn ",0.30 - 0.60 %,0.30 - 0.60 %,
-"Nickel, Ni ",0.40 %,0.40 %,
+"Chromium, Cr",8.0 - 9.5 %,8.0 - 9.5 %,
+"Manganese, Mn",0.30 - 0.60 %,0.30 - 0.60 %,
+"Nickel, Ni",0.40 %,0.40 %,
 "Nitrogen, N ",0.030 - 0.070 %,0.030 - 0.070 %,
-"Silicon, Si ",0.20 - 0.50 %,0.20 - 0.50 %,
-"Vanadium, V ",0.18 - 0.25 %,0.18 - 0.25 %,
-"Tensile Strength, Yield ",415 MPa,60200 psi,
-Modulus of Elasticity ,200 GPa,29000 ksi,Typical Carbon Steel
-Poissons Ratio ,0.29,0.29,Typical Carbon Steel
-Specific Heat Capacity ,0.470 J/g-°C,0.112 BTU/lb-°F,Typical Carbon Steel
-"Carbon, C ",0.080 - 0.12 %,0.080 - 0.12 %,
-"Iron, Fe ",88.585 %,88.585 %,as balance
-"Molybdenum, Mo ",0.85 - 1.05 %,0.85 - 1.05 %,
+"Silicon, Si",0.20 - 0.50 %,0.20 - 0.50 %,
+"Vanadium, V",0.18 - 0.25 %,0.18 - 0.25 %,
+"Tensile Strength, Yield",415 MPa,60200 psi,
+Modulus of Elasticity,200 GPa,29000 ksi,Typical Carbon Steel
+Poissons Ratio,0.29,0.29,Typical Carbon Steel
+Specific Heat Capacity,0.470 J/g-°C,0.112 BTU/lb-°F,Typical Carbon Steel
+"Carbon, C",0.080 - 0.12 %,0.080 - 0.12 %,
+"Iron, Fe",88.585 %,88.585 %,as balance
+"Molybdenum, Mo",0.85 - 1.05 %,0.85 - 1.05 %,
 "Niobium, Nb (Columbium, Cb) ",0.060 - 0.10 %,0.060 - 0.10 %,
-"Phosphorous, P ",0.020 %,0.020 %,
-"Sulfur, S ",0.010 %,0.010 %,
+"Phosphorous, P",0.020 %,0.020 %,
+"Sulfur, S",0.010 %,0.010 %,
