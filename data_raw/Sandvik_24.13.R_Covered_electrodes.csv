@@ -1,0 +1,13 @@
+,Metric,English,Comments
+"Hardness, Brinell ",210,210,
+"Tensile Strength, Yield ","393 MPa
+@Strain 0.200 %","57000 psi
+@Strain 0.200 %",
+Impact Test ,55.0 J,40.6 ft-lb,
+"Carbon, C ",0.070 %,0.070 %,
+"Manganese, Mn ",2.0 %,2.0 %,
+"Silicon, Si ",0.60 %,0.60 %,
+"Tensile Strength, Ultimate ",593 MPa,86000 psi,Rm
+Elongation at Break ,35 %,35 %,
+"Chromium, Cr ",24 %,24 %,
+"Nickel, Ni ",13 %,13 %,

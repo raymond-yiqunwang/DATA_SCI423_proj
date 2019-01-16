@@ -1,0 +1,22 @@
+,Metric,English,Comments
+Bulk Density ,8.94 g/cc,0.323 lb/in³,Value supplied by MatWeb
+"Hardness, Vickers ",55,55,
+"Tensile Strength, Yield ","520 MPa
+@Strain 0.200 %","75400 psi
+@Strain 0.200 %",
+Impact Test ,"55.0 J
+@Temperature -196 °C","40.6 ft-lb
+@Temperature -321 °F",
+"Carbon, C ",<= 0.0200 %,<= 0.0200 %,
+"Cobalt, Co ",0.050 %,0.050 %,
+"Manganese, Mn ",0.30 %,0.30 %,
+"Nickel, Ni ",56 %,56 %,
+"Tungsten, W ",3.5 %,3.5 %,
+Density ,8.94 g/cc,0.323 lb/in³,Based on UNS number
+"Tensile Strength, Ultimate ",780 MPa,113000 psi,Rm
+Elongation at Break ,30 %,30 %,
+"Chromium, Cr ",15 %,15 %,
+"Iron, Fe ",5.0 %,5.0 %,
+"Molybdenum, Mo ",16 %,16 %,
+"Silicon, Si ",0.20 %,0.20 %,
+"Vanadium, V ",0.10 %,0.10 %,

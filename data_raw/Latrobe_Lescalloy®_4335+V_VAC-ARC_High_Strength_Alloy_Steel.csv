@@ -1,0 +1,31 @@
+,Metric,English,Comments
+Density ,7.83 g/cc,0.283 lb/in³,
+"Hardness, Rockwell C ",56,56,"1"" from quench end; Jominy End Quench Hardenability"
+ ,56.5,56.5,"1/2"" from quenched end; Jominy End Quench Hardenability"
+ ,58,58,"1/8"" from quenched end; Jominy End Quench Hardenability"
+"Tensile Strength, Yield  ","1378 MPa
+@Strain 0.200 %","199900 psi
+@Strain 0.200 %",700°F Temper Temperature
+ ,"1448 MPa
+@Strain 0.200 %","210000 psi
+@Strain 0.200 %",460°F Temper Temperature
+Reduction of Area ,30 %,30 %,460°F Temper Temperature
+ ,35 %,35 %,700°F Temper Temperature
+"CTE, linear ","11.34 µm/m-°C
+@Temperature -17.8 - 648 °C","6.300 µin/in-°F
+@Temperature -0.0400 - 1200 °F",
+"Carbon, C ",0.35 %,0.35 %,
+"Iron, Fe ",95.2 %,95.2 %,
+"Molybdenum, Mo ",0.35 %,0.35 %,
+"Silicon, Si ",0.50 %,0.50 %,
+"Tensile Strength, Ultimate ",931 MPa,135000 psi,1200°F Temper
+ ,1520 MPa,220000 psi,700°F Temper Temperature
+ ,1760 MPa,255000 psi,460°F Temper Temperature
+Elongation at Break ,8.0 %,8.0 %,460°F Temper
+ ,9.0 %,9.0 %,700°F Temper Temperature
+ ,16 %,16 %,1200°F Temper
+Thermal Conductivity ,37.46 W/m-K,260.0 BTU-in/hr-ft²-°F,
+"Chromium, Cr ",0.80 %,0.80 %,
+"Manganese, Mn ",0.75 %,0.75 %,
+"Nickel, Ni ",1.85 %,1.85 %,
+"Vanadium, V ",0.20 %,0.20 %,

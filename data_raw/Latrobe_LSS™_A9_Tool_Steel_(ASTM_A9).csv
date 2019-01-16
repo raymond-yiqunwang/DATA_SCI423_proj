@@ -1,0 +1,22 @@
+,Metric,English,Comments
+Specific Gravity ,7.78 g/cc,7.78 g/cc,
+"Hardness, Rockwell C ",40,40,"Air Cooled from 996°, 624°C Temper Temperature"
+ ,57,57,"Air Cooled from 996°, 149°C Temper Temperature"
+ ,58,58,"Air Cooled from 996°, 449°C Temper Temperature"
+Machinability ,65 - 70 %,65 - 70 %,1% Carbon Steel
+"CTE, linear  ","11.97 µm/m-°C
+@Temperature 38.0 - 427 °C","6.650 µin/in-°F
+@Temperature 100 - 801 °F",
+ ,"12.71 µm/m-°C
+@Temperature 38.0 - 649 °C","7.061 µin/in-°F
+@Temperature 100 - 1200 °F",
+"Carbon, C ",0.50 %,0.50 %,
+"Iron, Fe ",88.9 %,88.9 %,
+"Molybdenum, Mo ",1.55 %,1.55 %,
+"Silicon, Si ",1.05 %,1.05 %,
+Density ,7.78 g/cc,0.281 lb/in³,
+Modulus of Elasticity ,207 GPa,30000 ksi,
+"Chromium, Cr ",5.15 %,5.15 %,
+"Manganese, Mn ",0.35 %,0.35 %,
+"Nickel, Ni ",1.5 %,1.5 %,
+"Vanadium, V ",1.0 %,1.0 %,

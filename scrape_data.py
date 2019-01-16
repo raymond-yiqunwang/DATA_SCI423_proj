@@ -15,21 +15,21 @@ import os
 # navigate to target website
 options = webdriver.ChromeOptions()
 options.add_argument("headless") # comment this for visualization
-#driver_path = os.getcwd() + "/chromedriver-linux"
-driver_path = os.getcwd() + "/chromedriver-mac"
+driver_path = os.getcwd() + "/chromedriver-linux" # google-chrome driver for Linux systems
+#driver_path = os.getcwd() + "/chromedriver-mac" # google-chrome driver for macOS
 driver = webdriver.Chrome(executable_path=driver_path, chrome_options=options)
 driver.get("http://www.matweb.com/index.aspx")
 
 # user login, less likely to be blocked
-#driver.find_element_by_link_text("LOG IN").click()
-#time.sleep(2)
-#username = driver.find_element_by_id("ctl00_ContentMain_txtUserID")
-#username.send_keys("raymond931118@gmail.com")
-#passwd =  driver.find_element_by_id("ctl00_ContentMain_txtPassword")
-#passwd.send_keys("abcd1234")
-#time.sleep(0.5)
-#driver.find_element_by_xpath("//input[@src='/images/buttons/btnLogin.gif']").click()
-#time.sleep(3)
+driver.find_element_by_link_text("LOG IN").click()
+time.sleep(2)
+username = driver.find_element_by_id("ctl00_ContentMain_txtUserID")
+username.send_keys("USERNAME")
+passwd =  driver.find_element_by_id("ctl00_ContentMain_txtPassword")
+passwd.send_keys("PASSWD")
+time.sleep(0.5)
+driver.find_element_by_xpath("//input[@src='/images/buttons/btnLogin.gif']").click()
+time.sleep(3)
 
 # Alloy composition
 driver.find_element_by_link_text("Alloy Composition").click()
@@ -126,3 +126,4 @@ for ipage in range(npages):
 
 # quit chrome driver
 driver.quit()
+
