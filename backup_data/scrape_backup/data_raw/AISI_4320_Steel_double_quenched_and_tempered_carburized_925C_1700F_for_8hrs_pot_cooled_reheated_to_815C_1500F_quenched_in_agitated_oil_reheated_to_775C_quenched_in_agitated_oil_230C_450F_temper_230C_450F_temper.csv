@@ -1,0 +1,31 @@
+,Metric,English,Comments
+Density ,7.85 g/cc,0.284 lb/in³,
+"Hardness, Brinell ",293,293,
+"Hardness, Rockwell B ",99,99,Converted from Brinell
+"Hardness, Vickers ",309,309,Converted from Brinell
+"Tensile Strength, Yield ",650 MPa,94300 psi,
+Reduction of Area ,56.3 %,56.3 %,
+Bulk Modulus ,160 GPa,23200 ksi,Typical for steels.
+Machinability ,60 %,60 %,annealed and cold drawn. Based on 100% machinability for AISI 1212 steel.
+Electrical Resistivity ,0.0000245 ohm-cm,0.0000245 ohm-cm,Typical 4000 series steel
+"CTE, linear ","11.3 µm/m-°C
+@Temperature -18.0 - 95.0 °C","6.28 µin/in-°F
+@Temperature -0.400 - 203 °F",condition of specimen unknown
+Thermal Conductivity ,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
+"Carbon, C ",0.17 - 0.22 %,0.17 - 0.22 %,
+"Iron, Fe ",95.855 - 96.98 %,95.855 - 96.98 %,As remainder
+"Molybdenum, Mo ",0.20 - 0.30 %,0.20 - 0.30 %,
+"Phosphorous, P ",<= 0.035 %,<= 0.035 %,
+"Sulfur, S ",<= 0.040 %,<= 0.040 %,
+"Hardness, Knoop ",319,319,Converted from Brinell
+"Hardness, Rockwell C ",59,59,Case hardness
+"Tensile Strength, Ultimate ",1005 MPa,145800 psi,
+Elongation at Break ,21.8 %,21.8 %,in 50 mm
+Modulus of Elasticity ,205 GPa,29700 ksi,Typical for steel
+Poissons Ratio ,0.29,0.29,Calculated
+Shear Modulus ,80.0 GPa,11600 ksi,Typical for steels.
+Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical 4000 series steel
+"Chromium, Cr ",0.40 - 0.60 %,0.40 - 0.60 %,
+"Manganese, Mn ",0.45 - 0.65 %,0.45 - 0.65 %,
+"Nickel, Ni ",1.65 - 2.0 %,1.65 - 2.0 %,
+"Silicon, Si ",0.15 - 0.30 %,0.15 - 0.30 %,

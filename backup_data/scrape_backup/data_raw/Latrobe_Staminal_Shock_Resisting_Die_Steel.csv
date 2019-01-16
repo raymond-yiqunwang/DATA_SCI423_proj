@@ -1,0 +1,36 @@
+,Metric,English,Comments
+"Hardness, Rockwell C ",36,36,Oil Quenched from 871°C; 649°C Temper Temperature
+ ,45,45,Oil Quenched from 871°C; 538°C Temper Temperature
+ ,49,49,Oil Quenched from 871°C; 427°C Temper Temperature
+ ,54,54,Oil Quenched from 871°C; 316°C Temper Temperature
+ ,56,56,Oil Quenched from 871°C; 204°C Temper Temperature
+"Tensile Strength, Yield ",1140 MPa,165000 psi,Oil Quenched from 871°C; 649°C Temper Temperature
+ ,1345 MPa,195100 psi,Oil Quenched from 871°C; 538°C Temper Temperature
+ ,1515 MPa,219700 psi,Oil Quenched from 871°C; 427°C Temper Temperature
+ ,1620 MPa,235000 psi,Oil Quenched from 871°C; 316°C Temper Temperature
+ ,1670 MPa,242000 psi,Oil Quenched from 871°C; 204°C Temper Temperature
+Reduction of Area ,20 %,20 %,Oil Quenched from 871°C; 204°C Temper Temperature
+ ,25 %,25 %,Oil Quenched from 871°C; 316°C Temper Temperature
+ ,27 %,27 %,Oil Quenched from 871°C; 427°C Temper Temperature
+ ,28 %,28 %,Oil Quenched from 871°C; 538°C Temper Temperature
+ ,35 %,35 %,Oil Quenched from 871°C; 649°C Temper Temperature
+"Carbon, C ",0.55 %,0.55 %,
+"Iron, Fe ",93.87 %,93.87 %,
+"Molybdenum, Mo ",0.45 %,0.45 %,
+"Silicon, Si ",1.0 %,1.0 %,
+"Tensile Strength, Ultimate ",1310 MPa,190000 psi,Oil Quenched from 871°C; 649°C Temper Temperature
+ ,1520 MPa,220000 psi,Oil Quenched from 871°C; 538°C Temper Temperature
+ ,1690 MPa,245000 psi,Oil Quenched from 871°C; 427°C Temper Temperature
+ ,1860 MPa,270000 psi,Oil Quenched from 871°C; 316°C Temper Temperature
+ ,1970 MPa,285000 psi,Oil Quenched from 871°C; 204°C Temper Temperature
+Elongation at Break ,5.0 %,5.0 %,"in 2""; Oil Quenched from 871°C; 204°C Temper Temperature"
+ ,11 %,11 %,"in 2""; Oil Quenched from 871°C; 316°C Temper Temperature"
+ ,12 %,12 %,"in 2""; Oil Quenched from 871°C; 427°C Temper Temperature"
+ ,13 %,13 %,"in 2""; Oil Quenched from 871°C; 538°C Temper Temperature"
+ ,15 %,15 %,"in 2""; Oil Quenched from 871°C; 649°C Temper Temperature"
+Charpy Impact ,13.0 J,9.59 ft-lb,103°C Temper Temperature
+ ,24.0 J,17.7 ft-lb,
+"Chromium, Cr ",0.40 %,0.40 %,
+"Manganese, Mn ",0.90 %,0.90 %,
+"Nickel, Ni ",2.7 %,2.7 %,
+"Vanadium, V ",0.13 %,0.13 %,

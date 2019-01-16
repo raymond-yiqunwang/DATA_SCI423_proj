@@ -1,0 +1,23 @@
+,Metric,English,Comments
+Density ,7.83 g/cc,0.283 lb/in³,
+"Hardness, Rockwell C ",47,47,316°C Temper Temperature
+ ,50,50,282°C Temper Temperature
+"Tensile Strength, Yield ",1331 MPa,193000 psi,316°C Temper Temperature
+ ,1345 MPa,195100 psi,282°C Temper Temperature
+Reduction of Area ,47 %,47 %,282°C Temper Temperature
+ ,47 %,47 %,316°C Temper Temperature
+Specific Heat Capacity ,0.669 J/g-°C,0.160 BTU/lb-°F,
+"Carbon, C ",0.30 %,0.30 %,
+"Iron, Fe ",95.43 %,95.43 %,
+"Molybdenum, Mo ",0.40 %,0.40 %,
+"Silicon, Si ",0.30 %,0.30 %,
+"Tensile Strength, Ultimate ",1550 MPa,225000 psi,316°C Temper Temperature
+ ,1620 MPa,235000 psi,282°C Temper Temperature
+Elongation at Break ,11 %,11 %,282°C Temper Temperature
+ ,11 %,11 %,316°C Temper Temperature
+Notched Tensile Strength ,2048 MPa,297000 psi,Kt7; 316°C Temper Temperature
+ ,2083 MPa,302100 psi,Kt7; 282°C Temper Temperature
+"Chromium, Cr ",0.85 %,0.85 %,
+"Manganese, Mn ",0.85 %,0.85 %,
+"Nickel, Ni ",1.8 %,1.8 %,
+"Vanadium, V ",0.070 %,0.070 %,

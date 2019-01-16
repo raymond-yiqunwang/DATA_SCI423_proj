@@ -1,0 +1,50 @@
+,Metric,English,Comments
+Density ,7.50 - 8.08 g/cc,0.271 - 0.292 lb/in³,Average value: 7.84 g/cc Grade Count:1721
+"Hardness, Brinell ",121 - 578,121 - 578,Average value: 276 Grade Count:1289
+"Hardness, Rockwell B ",45.0 - 112,45.0 - 112,Average value: 96.2 Grade Count:1213
+"Hardness, Vickers ",36.0 - 661,36.0 - 661,Average value: 298 Grade Count:1280
+"Tensile Strength, Yield ",110 - 2400 MPa,16000 - 347000 psi,Average value: 711 MPa Grade Count:1579
+Elongation at Yield ,1.00 - 40.0 %,1.00 - 40.0 %,Average value: 16.9 % Grade Count:4
+Modulus of Elasticity ,183 - 213 GPa,26500 - 30900 ksi,Average value: 203 GPa Grade Count:1524
+Bulk Modulus ,152 - 170 GPa,22000 - 24700 ksi,Average value: 160 GPa Grade Count:1498
+Fatigue Strength ,138 - 772 MPa,20000 - 112000 psi,Average value: 472 MPa Grade Count:17
+Machinability ,40.0 - 75.0 %,40.0 - 75.0 %,Average value: 59.8 % Grade Count:1219
+Izod Impact ,9.00 - 138 J,6.64 - 102 ft-lb,Average value: 57.5 J Grade Count:132
+"Charpy Impact, Unnotched ",39.3 - 176 J,29.0 - 130 ft-lb,Average value: 82.0 J Grade Count:8
+Electrical Resistivity ,0.0000170 - 0.000142 ohm-cm,0.0000170 - 0.000142 ohm-cm,Average value: 0.0000230 ohm-cm Grade Count:1427
+"CTE, linear ",10.1 - 14.9 µm/m-°C,5.61 - 8.28 µin/in-°F,Average value: 12.6 µm/m-°C Grade Count:677
+Thermal Conductivity ,25.3 - 93.0 W/m-K,176 - 645 BTU-in/hr-ft²-°F,Average value: 46.4 W/m-K Grade Count:1366
+"Aluminum, Al ",0.0100 - 1.20 %,0.0100 - 1.20 %,Average value: 0.124 % Grade Count:72
+"Carbon, C ",0.0300 - 1.29 %,0.0300 - 1.29 %,Average value: 0.302 % Grade Count:1705
+"Cobalt, Co ",3.75 - 12.0 %,3.75 - 12.0 %,Average value: 8.60 % Grade Count:50
+"Hydrogen, H ",0.00100 - 0.00250 %,0.00100 - 0.00250 %,Average value: 0.00200 % Grade Count:3
+"Manganese, Mn ",0.100 - 3.00 %,0.100 - 3.00 %,Average value: 0.815 % Grade Count:1696
+Nb + V ,0.0200 - 0.150 %,0.0200 - 0.150 %,Average value: 0.124 % Grade Count:5
+"Niobium, Nb (Columbium, Cb) ",0.00500 - 0.150 %,0.00500 - 0.150 %,Average value: 0.0428 % Grade Count:92
+"Oxygen, O ",0.00250 - 0.100 %,0.00250 - 0.100 %,Average value: 0.0627 % Grade Count:7
+"Silicon, Si ",0.0100 - 2.20 %,0.0100 - 2.20 %,Average value: 0.282 % Grade Count:1688
+"Titanium, Ti ",0.0100 - 1.40 %,0.0100 - 1.40 %,Average value: 0.392 % Grade Count:77
+"Zirconium, Zr ",0.0100 - 0.150 %,0.0100 - 0.150 %,Average value: 0.0295 % Grade Count:59
+Particle Size ,6.70 - 12.0 µm,6.70 - 12.0 µm,Average value: 9.27 µm Grade Count:20
+"Hardness, Knoop ",140 - 682,140 - 682,Average value: 308 Grade Count:1268
+"Hardness, Rockwell C ",10.0 - 66.0,10.0 - 66.0,Average value: 30.2 Grade Count:1170
+"Tensile Strength, Ultimate ",180 - 2730 MPa,26100 - 396000 psi,Average value: 988 MPa Grade Count:1581
+Elongation at Break ,1.00 - 37.0 %,1.00 - 37.0 %,Average value: 18.5 % Grade Count:1560
+Reduction of Area ,3.00 - 75.0 %,3.00 - 75.0 %,Average value: 53.1 % Grade Count:616
+Compressive Yield Strength ,1650 - 1800 MPa,239000 - 260000 psi,Average value: 1700 MPa Grade Count:12
+Poissons Ratio ,0.270 - 0.300,0.270 - 0.300,Average value: 0.290 Grade Count:1508
+Fracture Toughness ,15.4 - 143 MPa-m½,14.0 - 130 ksi-in½,Average value: 73.7 MPa-m½ Grade Count:15
+Shear Modulus ,70.0 - 82.0 GPa,10200 - 11900 ksi,Average value: 79.7 GPa Grade Count:1554
+Charpy Impact ,15.0 - 339 J,11.1 - 250 ft-lb,Average value: 56.3 J Grade Count:15
+"Bend Radius, Minimum ",0.000 - 4.00 t,0.000 - 4.00 t,Average value: 1.65 t Grade Count:101
+Specific Heat Capacity ,0.448 - 0.669 J/g-°C,0.107 - 0.160 BTU/lb-°F,Average value: 0.475 J/g-°C Grade Count:1295
+"Boron, B ",0.000500 - 0.00600 %,0.000500 - 0.00600 %,Average value: 0.00232 % Grade Count:221
+"Chromium, Cr ",0.130 - 5.50 %,0.130 - 5.50 %,Average value: 0.783 % Grade Count:1192
+"Copper, Cu ",0.100 - 1.50 %,0.100 - 1.50 %,Average value: 0.495 % Grade Count:112
+"Iron, Fe ",63.0 - 100 %,63.0 - 100 %,Average value: 96.2 % Grade Count:1754
+"Molybdenum, Mo ",0.0600 - 4.80 %,0.0600 - 4.80 %,Average value: 0.419 % Grade Count:1223
+"Nickel, Ni ",0.150 - 18.5 %,0.150 - 18.5 %,Average value: 2.34 % Grade Count:904
+"Nitrogen, N ",0.00100 - 0.0300 %,0.00100 - 0.0300 %,Average value: 0.0178 % Grade Count:18
+"Phosphorous, P ",0.00100 - 0.150 %,0.00100 - 0.150 %,Average value: 0.0331 % Grade Count:1619
+"Sulfur, S ",0.00100 - 0.400 %,0.00100 - 0.400 %,Average value: 0.0372 % Grade Count:1653
+"Vanadium, V ",0.00500 - 0.300 %,0.00500 - 0.300 %,Average value: 0.104 % Grade Count:171

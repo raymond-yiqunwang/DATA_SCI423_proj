@@ -1,0 +1,26 @@
+,Metric,English,Comments
+Density ,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
+"Tensile Strength, Ultimate ",490 - 620 MPa,71100 - 89900 psi,
+Elongation at Break ,19 %,19 %,in 200 mm
+ ,22 %,22 %,in 50 mm
+Bulk Modulus ,160 GPa,23200 ksi,Typical for Steel
+Shear Modulus ,80.0 GPa,11600 ksi,Typical for Steel
+Electrical Resistivity ,0.0000170 ohm-cm,0.0000170 ohm-cm,Typical Carbon Steel
+"CTE, linear ",12.0 µm/m-°C,6.67 µin/in-°F,Typical Carbon Steel
+Thermal Conductivity ,52.0 W/m-K,361 BTU-in/hr-ft²-°F,Typical Carbon Steel
+"Carbon, C ",<= 0.18 %,<= 0.18 %,
+"Copper, Cu ",0.35 %,0.35 %,
+"Manganese, Mn ",0.90 - 1.6 %,0.90 - 1.6 %,
+"Nickel, Ni ",0.40 %,0.40 %,
+"Phosphorous, P ",<= 0.040 %,<= 0.040 %,
+"Sulfur, S ",<= 0.040 %,<= 0.040 %,
+"Tensile Strength, Yield ",350 MPa,50800 psi,
+Modulus of Elasticity ,200 GPa,29000 ksi,Typical Carbon Steel
+Poissons Ratio ,0.29,0.29,Typical Carbon Steel
+Specific Heat Capacity ,0.470 J/g-°C,0.112 BTU/lb-°F,Typical Carbon Steel
+"Chromium, Cr ",0.25 %,0.25 %,
+"Iron, Fe ",97.09 %,97.09 %,as balance
+"Molybdenum, Mo ",0.080 %,0.080 %,
+"Niobium, Nb (Columbium, Cb) ",0.050 %,0.050 %,
+"Silicon, Si ",0.10 - 0.50 %,0.10 - 0.50 %,
+"Vanadium, V ",0.10 %,0.10 %,

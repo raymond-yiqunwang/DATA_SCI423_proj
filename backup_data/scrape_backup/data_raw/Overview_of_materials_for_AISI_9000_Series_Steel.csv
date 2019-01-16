@@ -1,0 +1,30 @@
+,Metric,English,Comments
+Density ,7.75 - 7.87 g/cc,0.280 - 0.284 lb/in³,Average value: 7.85 g/cc Grade Count:91
+"Hardness, Brinell ",163 - 514,163 - 514,Average value: 304 Grade Count:87
+"Hardness, Rockwell B ",89.0 - 100,89.0 - 100,Average value: 98.7 Grade Count:83
+"Hardness, Vickers ",192 - 397,192 - 397,Average value: 321 Grade Count:84
+"Tensile Strength, Yield ",440 - 1560 MPa,63800 - 226000 psi,Average value: 799 MPa Grade Count:83
+Modulus of Elasticity ,200 - 209 GPa,29000 - 30300 ksi,Average value: 200 GPa Grade Count:89
+Poissons Ratio ,0.270 - 0.300,0.270 - 0.300,Average value: 0.290 Grade Count:89
+Shear Modulus ,78.0 - 82.0 GPa,11300 - 11900 ksi,Average value: 79.9 GPa Grade Count:90
+Electrical Resistivity ,0.0000170 - 0.0000174 ohm-cm,0.0000170 - 0.0000174 ohm-cm,Average value: 0.0000174 ohm-cm Grade Count:88
+"CTE, linear ",11.5 - 14.6 µm/m-°C,6.39 - 8.11 µin/in-°F,Average value: 11.6 µm/m-°C Grade Count:89
+Thermal Conductivity ,46.8 - 52.0 W/m-K,325 - 361 BTU-in/hr-ft²-°F,Average value: 51.8 W/m-K Grade Count:89
+"Boron, B ",0.000500 - 0.00300 %,0.000500 - 0.00300 %,Average value: 0.00175 % Grade Count:4
+"Chromium, Cr ",0.250 - 1.45 %,0.250 - 1.45 %,Average value: 1.12 % Grade Count:69
+"Manganese, Mn ",0.400 - 1.10 %,0.400 - 1.10 %,Average value: 0.647 % Grade Count:90
+"Nickel, Ni ",0.250 - 3.55 %,0.250 - 3.55 %,Average value: 2.90 % Grade Count:68
+"Silicon, Si ",0.150 - 2.20 %,0.150 - 2.20 %,Average value: 0.669 % Grade Count:90
+"Hardness, Knoop ",204 - 405,204 - 405,Average value: 331 Grade Count:84
+"Hardness, Rockwell C ",15.0 - 41.0,15.0 - 41.0,Average value: 31.2 Grade Count:70
+"Tensile Strength, Ultimate ",770 - 1780 MPa,112000 - 258000 psi,Average value: 1060 MPa Grade Count:83
+Elongation at Break ,10.0 - 22.0 %,10.0 - 22.0 %,Average value: 17.3 % Grade Count:83
+Bulk Modulus ,160 - 170 GPa,23200 - 24700 ksi,Average value: 160 GPa Grade Count:87
+Machinability ,40.0 - 70.0 %,40.0 - 70.0 %,Average value: 49.5 % Grade Count:87
+Izod Impact ,9.00 - 119 J,6.64 - 87.8 ft-lb,Average value: 69.8 J Grade Count:6
+Specific Heat Capacity ,0.470 - 0.472 J/g-°C,0.112 - 0.113 BTU/lb-°F,Average value: 0.472 J/g-°C Grade Count:88
+"Carbon, C ",0.0700 - 0.650 %,0.0700 - 0.650 %,Average value: 0.230 % Grade Count:90
+"Iron, Fe ",93.7 - 98.4 %,93.7 - 98.4 %,Average value: 95.3 % Grade Count:90
+"Molybdenum, Mo ",0.0800 - 0.300 %,0.0800 - 0.300 %,Average value: 0.121 % Grade Count:68
+"Phosphorous, P ",0.0100 - 0.0350 %,0.0100 - 0.0350 %,Average value: 0.0298 % Grade Count:60
+"Sulfur, S ",0.0100 - 0.0500 %,0.0100 - 0.0500 %,Average value: 0.0380 % Grade Count:89

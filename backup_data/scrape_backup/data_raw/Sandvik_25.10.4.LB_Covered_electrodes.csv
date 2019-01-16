@@ -1,0 +1,19 @@
+,Metric,English,Comments
+"Hardness, Vickers ",298,298,
+"Tensile Strength, Yield ","765 MPa
+@Strain 0.200 %","111000 psi
+@Strain 0.200 %",
+Charpy Impact ,"55.0 J
+@Temperature -50.0 °C","40.6 ft-lb
+@Temperature -58.0 °F",
+"Carbon, C ",0.030 %,0.030 %,
+"Manganese, Mn ",0.80 %,0.80 %,
+"Nickel, Ni ",10 %,10 %,
+"Phosphorous, P ",<= 0.0300 %,<= 0.0300 %,
+"Sulfur, S ",<= 0.0250 %,<= 0.0250 %,
+"Tensile Strength, Ultimate ",913 MPa,132000 psi,
+Elongation at Break ,28 %,28 %,
+"Chromium, Cr ",25 %,25 %,
+"Molybdenum, Mo ",4.0 %,4.0 %,
+"Nitrogen, N ",0.25 %,0.25 %,
+"Silicon, Si ",0.60 %,0.60 %,

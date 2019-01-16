@@ -1,0 +1,43 @@
+,Metric,English,Comments
+"Tensile Strength, Ultimate ",800 MPa,116000 psi,"0% CW, 45 Silver CSA"
+ ,870 MPa,126000 psi,"0% CW, 40 Silver CSA"
+ ,940 MPa,136000 psi,"0% CW, 35 Silver CSA"
+ ,1010 MPa,146000 psi,"0% CW, 30 Silver CSA"
+ ,1055 MPa,153000 psi,"20% CW, 45 Silver CSA"
+ ,1080 MPa,157000 psi,"0% CW, 25 Silver CSA"
+ ,1130 MPa,164000 psi,"30% CW, 45 Silver CSA"
+ ,1130 MPa,164000 psi,"20% CW, 40 Silver CSA"
+ ,1185 MPa,171900 psi,"40% CW, 45 Silver CSA"
+ ,1205 MPa,174800 psi,"30% CW, 40 Silver CSA"
+ ,1215 MPa,176200 psi,"20% CW, 35 Silver CSA"
+ ,1225 MPa,177700 psi,"50% CW, 45 Silver CSA"
+ ,1260 MPa,183000 psi,"60% CW, 45 Silver CSA"
+ ,1275 MPa,184900 psi,"40% CW, 40 Silver CSA"
+ ,1300 MPa,189000 psi,"30% CW, 35 Silver CSA"
+ ,1320 MPa,191000 psi,"20% CW, 30 Silver CSA"
+ ,1335 MPa,193600 psi,"50% CW, 40 Silver CSA"
+ ,1380 MPa,200000 psi,"40% CW, 35 Silver CSA"
+ ,1380 MPa,200000 psi,"20% CW, 25 Silver CSA"
+ ,1385 MPa,200900 psi,"60% CW, 40 Silver CSA"
+ ,1405 MPa,203800 psi,"30% CW, 30 Silver CSA"
+ ,1450 MPa,210000 psi,"50% CW, 35 Silver CSA"
+ ,1485 MPa,215400 psi,"40% CW, 30 Silver CSA"
+ ,1495 MPa,216800 psi,"30% CW, 25 Silver CSA"
+ ,1500 MPa,218000 psi,"60% CW, 35 Silver CSA"
+ ,1560 MPa,226000 psi,"50% CW, 30 Silver CSA"
+ ,1570 MPa,228000 psi,"40% CW, 25 Silver CSA"
+ ,1615 MPa,234200 psi,"60% CW, 30 Silver CSA"
+ ,1635 MPa,237100 psi,"50% CW, 25 Silver CSA"
+ ,1695 MPa,245800 psi,"60% CW, 25 Silver CSA"
+"Boron, B ",<= 0.0150 %,<= 0.0150 %,
+"Chromium, Cr ",19.0 - 21.0 %,19.0 - 21.0 %,
+"Iron, Fe ",1.0 %,1.0 %,
+"Molybdenum, Mo ",9.00 - 10.5 %,9.00 - 10.5 %,
+"Phosphorous, P ",<= 0.0150 %,<= 0.0150 %,
+"Sulfur, S ",<= 0.0100 %,<= 0.0100 %,
+"Carbon, C ",<= 0.0250 %,<= 0.0250 %,
+"Cobalt, Co ",29.13 - 36.7 %,29.13 - 36.7 %,
+"Manganese, Mn ",0.15 %,0.15 %,
+"Nickel, Ni ",33.0 - 37.0 %,33.0 - 37.0 %,
+"Silicon, Si ",0.15 %,0.15 %,
+"Titanium, Ti ",1.0 %,1.0 %,

@@ -1,0 +1,20 @@
+,Metric,English,Comments
+Density ,7.85 g/cc,0.284 lb/in³,(AISI 4135)
+"Hardness, Brinell ",187 - 229,187 - 229,annealed and cold drawn (AISI 4135)
+Bulk Modulus ,160 GPa,23200 ksi,Typical for steel
+Shear Modulus ,80.0 GPa,11600 ksi,Typical for steel
+Electrical Resistivity ,0.0000223 ohm-cm,0.0000223 ohm-cm,(AISI 4135)
+Specific Heat Capacity ,0.477 J/g-°C,0.114 BTU/lb-°F,(AISI 4135)
+"Carbon, C ",0.33 - 0.38 %,0.33 - 0.38 %,
+"Copper, Cu ",<= 0.300 %,<= 0.300 %,
+"Manganese, Mn ",0.60 - 0.85 %,0.60 - 0.85 %,
+"Nickel, Ni ",<= 0.250 %,<= 0.250 %,
+"Silicon, Si ",0.15 - 0.35 %,0.15 - 0.35 %,
+Modulus of Elasticity ,205 GPa,29700 ksi,Typical for steel
+Poissons Ratio ,0.29,0.29,Typical for steel
+Thermal Conductivity ,42.7 W/m-K,296 BTU-in/hr-ft²-°F,(AISI 4135)
+"Chromium, Cr ",0.90 - 1.2 %,0.90 - 1.2 %,
+"Iron, Fe ",97.33 - 97.87 %,97.33 - 97.87 %,As remainder
+"Molybdenum, Mo ",0.15 - 0.30 %,0.15 - 0.30 %,
+"Phosphorous, P ",<= 0.030 %,<= 0.030 %,
+"Sulfur, S ",<= 0.030 %,<= 0.030 %,

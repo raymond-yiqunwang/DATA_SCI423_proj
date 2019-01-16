@@ -1,0 +1,21 @@
+,Metric,English,Comments
+"Carbon, C ",<= 0.0250 %,<= 0.0250 %,Filler metal
+ ,<= 0.0300 %,<= 0.0300 %,Overlay
+"Copper, Cu ",2.1 %,2.1 %,Overlay
+ ,2.3 %,2.3 %,Filler metal
+"Manganese, Mn ",0.80 %,0.80 %,Overlay
+ ,1.0 %,1.0 %,Filler metal
+"Nickel, Ni ",40 %,40 %,Overlay
+ ,>= 42.0 %,>= 42.0 %,Filler metal
+"Silicon, Si ",<= 0.300 %,<= 0.300 %,Filler metal
+ ,0.30 %,0.30 %,Overlay
+"Chromium, Cr ",21.5 %,21.5 %,Overlay
+ ,23 %,23 %,Filler metal
+"Iron, Fe ",>= 22.0 %,>= 22.0 %,Filler metal
+ ,30 %,30 %,Overlay
+"Molybdenum, Mo ",2.8 %,2.8 %,Overlay
+ ,3.0 %,3.0 %,Filler metal
+"Phosphorous, P ",<= 0.0200 %,<= 0.0200 %,Overlay
+ ,<= 0.0250 %,<= 0.0250 %,Filler metal
+"Sulfur, S ",<= 0.0100 %,<= 0.0100 %,Filler metal
+ ,<= 0.0100 %,<= 0.0100 %,Overlay

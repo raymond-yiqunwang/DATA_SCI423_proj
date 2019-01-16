@@ -1,0 +1,77 @@
+,Metric,English,Comments
+Density ,8.30 g/cc,0.300 lb/in³,
+"Tensile Strength, Ultimate ",800 MPa,116000 psi,Annealed
+ ,1210 MPa,175000 psi,"Annealed and tempered, 705°C (1300°F)/20 h"
+Elongation at Break ,27 %,27 %,"Annealed and tempered, 705°C (1300°F)/20 h"
+ ,52 %,52 %,Annealed
+Electrical Resistivity  ,"0.0000120 ohm-cm
+@Temperature 20.0 °C","0.0000120 ohm-cm
+@Temperature 68.0 °F",
+ ,"0.0000125 ohm-cm
+@Temperature 100 °C","0.0000125 ohm-cm
+@Temperature 212 °F",
+ ,"0.0000125 ohm-cm
+@Temperature 200 °C","0.0000125 ohm-cm
+@Temperature 392 °F",
+ ,"0.0000125 ohm-cm
+@Temperature 300 °C","0.0000125 ohm-cm
+@Temperature 572 °F",
+ ,"0.0000130 ohm-cm
+@Temperature 500 °C","0.0000130 ohm-cm
+@Temperature 932 °F",
+ ,"0.0000130 ohm-cm
+@Temperature 700 °C","0.0000130 ohm-cm
+@Temperature 1290 °F",
+"CTE, linear  ","12.2 µm/m-°C
+@Temperature 30.0 - 100 °C","6.78 µin/in-°F
+@Temperature 86.0 - 212 °F",
+ ,"13.4 µm/m-°C
+@Temperature 30.0 - 300 °C","7.44 µin/in-°F
+@Temperature 86.0 - 572 °F",
+ ,"13.8 µm/m-°C
+@Temperature 30.0 - 500 °C","7.67 µin/in-°F
+@Temperature 86.0 - 932 °F",
+ ,"14.9 µm/m-°C
+@Temperature 30.0 - 700 °C","8.28 µin/in-°F
+@Temperature 86.0 - 1290 °F",
+ ,"16.5 µm/m-°C
+@Temperature 30.0 - 900 °C","9.17 µin/in-°F
+@Temperature 86.0 - 1650 °F",
+Thermal Conductivity  ,"16.3 W/m-K
+@Temperature 100 °C","113 BTU-in/hr-ft²-°F
+@Temperature 212 °F",
+ ,"19.8 W/m-K
+@Temperature 300 °C","137 BTU-in/hr-ft²-°F
+@Temperature 572 °F",
+ ,"25.6 W/m-K
+@Temperature 500 °C","178 BTU-in/hr-ft²-°F
+@Temperature 932 °F",
+ ,"30.2 W/m-K
+@Temperature 700 °C","210 BTU-in/hr-ft²-°F
+@Temperature 1290 °F",
+ ,"37.2 W/m-K
+@Temperature 900 °C","258 BTU-in/hr-ft²-°F
+@Temperature 1650 °F",
+"Aluminum, Al ",0.70 %,0.70 %,
+"Chromium, Cr ",16 %,16 %,
+"Manganese, Mn ",0.60 %,0.60 %,
+"Niobium, Nb (Columbium, Cb) ",0.80 %,0.80 %,
+"Silicon, Si ",0.30 %,0.30 %,
+"Titanium, Ti ",2.5 %,2.5 %,
+"Tensile Strength, Yield  ","340 MPa
+@Strain 0.200 %","49300 psi
+@Strain 0.200 %",Annealed
+ ,"810 MPa
+@Strain 0.200 %","117000 psi
+@Strain 0.200 %","Annealed and tempered, 705°C (1300°F)/20 h"
+Specific Heat Capacity  ,"0.420 - 0.460 J/g-°C
+@Temperature 20.0 - 100 °C","0.100 - 0.110 BTU/lb-°F
+@Temperature 68.0 - 212 °F",
+ ,"0.540 J/g-°C
+@Temperature 50.0 - 900 °C","0.129 BTU/lb-°F
+@Temperature 122 - 1650 °F",
+"Carbon, C ",<= 0.0300 %,<= 0.0300 %,
+"Iron, Fe ",7.0 %,7.0 %,
+"Nickel, Ni ",72 %,72 %,
+"Phosphorous, P ",<= 0.0150 %,<= 0.0150 %,
+"Sulfur, S ",<= 0.0100 %,<= 0.0100 %,

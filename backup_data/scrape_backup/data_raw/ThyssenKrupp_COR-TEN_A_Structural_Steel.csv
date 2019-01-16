@@ -1,0 +1,25 @@
+,Metric,English,Comments
+Tensile Strength at Break  ,">= 410 MPa
+@Thickness 3.00 mm",">= 59500 psi
+@Thickness 0.118 in",
+ ,"470 - 630 MPa
+@Thickness >=3.00 mm","68200 - 91400 psi
+@Thickness >=0.118 in",
+Elongation at Break ,20 %,20 %,
+ ,25 %,25 %,
+"Carbon, C ",<= 0.12 %,<= 0.12 %,
+"Copper, Cu ",0.25 - 0.55 %,0.25 - 0.55 %,
+"Manganese, Mn ",0.20 - 0.50 %,0.20 - 0.50 %,
+"Phosphorous, P ",0.070 - 0.15 %,0.070 - 0.15 %,
+"Sulfur, S ",<= 0.030 %,<= 0.030 %,
+"Tensile Strength, Yield ",>= 275 MPa,>= 39900 psi,
+ ,>= 355 MPa,>= 51500 psi,
+Charpy Impact ,"27.0 J
+@Thickness 10.0 mm,
+Temperature -20.0 °C","19.9 ft-lb
+@Thickness 0.394 in,
+Temperature -4.00 °F",
+"Chromium, Cr ",0.50 - 1.25 %,0.50 - 1.25 %,
+"Iron, Fe ",96 - 98.7 %,96 - 98.7 %,As Balance
+"Nickel, Ni ",<= 0.65 %,<= 0.65 %,
+"Silicon, Si ",0.25 - 0.75 %,0.25 - 0.75 %,

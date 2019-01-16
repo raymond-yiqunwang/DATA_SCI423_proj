@@ -1,0 +1,49 @@
+,Metric,English,Comments
+Density ,7.80 g/cc,0.282 lb/in³,
+"Hardness, Vickers ",180,180,
+"Tensile Strength, Yield ","360 MPa
+@Strain 0.200 %","52200 psi
+@Strain 0.200 %",
+Rupture Strength  ,"5.00 MPa
+@Temperature 1000 °C,
+Time 1.80e+9 sec","725 psi
+@Temperature 1830 °F,
+Time 500000 hour",
+ ,"15.0 MPa
+@Temperature 800 °C,
+Time 1.80e+9 sec","2180 psi
+@Temperature 1470 °F,
+Time 500000 hour",
+ ,"100 MPa
+@Temperature 600 °C,
+Time 1.80e+9 sec","14500 psi
+@Temperature 1110 °F,
+Time 500000 hour",
+"CTE, linear ","17.6 µm/m-°C
+@Temperature 20.0 - 400 °C","9.78 µin/in-°F
+@Temperature 68.0 - 752 °F",
+"Carbon, C ",0.080 %,0.080 %,
+"Chromium, Cr ",21 %,21 %,
+"Molybdenum, Mo ",<= 0.300 %,<= 0.300 %,
+"Nitrogen, N ",0.17 %,0.17 %,
+"Silicon, Si ",1.6 %,1.6 %,
+"Tensile Strength, Ultimate ",580 MPa,84100 psi,
+Elongation at Break ,40 %,40 %,
+Charpy Impact ,120 J,88.5 ft-lb,
+Thermal Conductivity  ,"14.5 W/m-K
+@Temperature 20.0 °C","101 BTU-in/hr-ft²-°F
+@Temperature 68.0 °F",
+ ,"16.0 W/m-K
+@Temperature 100 °C","111 BTU-in/hr-ft²-°F
+@Temperature 212 °F",
+ ,"17.5 W/m-K
+@Temperature 300 °C","121 BTU-in/hr-ft²-°F
+@Temperature 572 °F",
+ ,"21.0 W/m-K
+@Temperature 500 °C","146 BTU-in/hr-ft²-°F
+@Temperature 932 °F",
+"Cerium, Ce ",0.060 %,0.060 %,
+"Manganese, Mn ",0.50 %,0.50 %,
+"Nickel, Ni ",10 %,10 %,
+"Phosphorous, P ",<= 0.0250 %,<= 0.0250 %,
+"Sulfur, S ",<= 0.0150 %,<= 0.0150 %,

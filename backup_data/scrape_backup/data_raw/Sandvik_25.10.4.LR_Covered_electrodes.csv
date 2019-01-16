@@ -1,0 +1,22 @@
+,Metric,English,Comments
+"Tensile Strength, Ultimate ",840 MPa,122000 psi,
+Elongation at Break ,25 %,25 %,
+Charpy Impact  ,"35.0 J
+@Temperature -40.0 °C","25.8 ft-lb
+@Temperature -40.0 °F",
+ ,"50.0 J
+@Temperature 20.0 °C","36.9 ft-lb
+@Temperature 68.0 °F",
+"Carbon, C ",0.030 %,0.030 %,
+"Manganese, Mn ",0.70 %,0.70 %,
+"Nickel, Ni ",9.5 %,9.5 %,
+"Phosphorous, P ",<= 0.0300 %,<= 0.0300 %,
+"Sulfur, S ",<= 0.0250 %,<= 0.0250 %,
+"Tensile Strength, Yield ","640 MPa
+@Strain 0.200 %","92800 psi
+@Strain 0.200 %",
+Reduction of Area ,50 %,50 %,
+"Chromium, Cr ",25 %,25 %,
+"Molybdenum, Mo ",4.0 %,4.0 %,
+"Nitrogen, N ",0.25 %,0.25 %,
+"Silicon, Si ",0.50 %,0.50 %,

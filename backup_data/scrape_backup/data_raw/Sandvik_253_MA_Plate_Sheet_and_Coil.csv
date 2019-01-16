@@ -1,0 +1,680 @@
+,Metric,English,Comments
+Density ,7.80 g/cc,0.282 lb/in³,
+"Hardness, Brinell ",217,217,
+"Tensile Strength, Yield  ",">= 310 MPa
+@Strain 0.200 %",">= 45000 psi
+@Strain 0.200 %",
+ ,">= 345 MPa
+@Strain 1.00 %",">= 50000 psi
+@Strain 1.00 %",
+ ,">= 140 MPa
+@Strain 0.200 %,
+Temperature 600 °C",">= 20300 psi
+@Strain 0.200 %,
+Temperature 1110 °F",
+ ,">= 150 MPa
+@Strain 0.200 %,
+Temperature 500 °C",">= 21800 psi
+@Strain 0.200 %,
+Temperature 932 °F",
+ ,">= 160 MPa
+@Strain 0.200 %,
+Temperature 400 °C",">= 23200 psi
+@Strain 0.200 %,
+Temperature 752 °F",
+ ,">= 165 MPa
+@Strain 1.00 %,
+Temperature 600 °C",">= 23900 psi
+@Strain 1.00 %,
+Temperature 1110 °F",
+ ,">= 170 MPa
+@Strain 0.200 %,
+Temperature 300 °C",">= 24700 psi
+@Strain 0.200 %,
+Temperature 572 °F",
+ ,">= 180 MPa
+@Strain 0.200 %,
+Temperature 200 °C",">= 26100 psi
+@Strain 0.200 %,
+Temperature 392 °F",
+ ,">= 180 MPa
+@Strain 1.00 %,
+Temperature 500 °C",">= 26100 psi
+@Strain 1.00 %,
+Temperature 932 °F",
+ ,">= 190 MPa
+@Strain 1.00 %,
+Temperature 400 °C",">= 27600 psi
+@Strain 1.00 %,
+Temperature 752 °F",
+ ,">= 200 MPa
+@Strain 1.00 %,
+Temperature 300 °C",">= 29000 psi
+@Strain 1.00 %,
+Temperature 572 °F",
+ ,">= 215 MPa
+@Strain 1.00 %,
+Temperature 200 °C",">= 31200 psi
+@Strain 1.00 %,
+Temperature 392 °F",
+ ,">= 225 MPa
+@Strain 0.200 %,
+Temperature 100 °C",">= 32600 psi
+@Strain 0.200 %,
+Temperature 212 °F",
+ ,">= 265 MPa
+@Strain 1.00 %,
+Temperature 100 °C",">= 38400 psi
+@Strain 1.00 %,
+Temperature 212 °F",
+Creep Strength  ,"3.00 MPa
+@Temperature 1000 °C,
+Time 3.60e+8 sec","435 psi
+@Temperature 1830 °F,
+Time 100000 hour",
+ ,"3.50 MPa
+@Temperature 975 °C,
+Time 3.60e+8 sec","508 psi
+@Temperature 1790 °F,
+Time 100000 hour",
+ ,"4.00 MPa
+@Temperature 950 °C,
+Time 3.60e+8 sec","580 psi
+@Temperature 1740 °F,
+Time 100000 hour",
+ ,"4.80 MPa
+@Temperature 925 °C,
+Time 3.60e+8 sec","696 psi
+@Temperature 1700 °F,
+Time 100000 hour",
+ ,"5.40 MPa
+@Temperature 1000 °C,
+Time 3.60e+7 sec","783 psi
+@Temperature 1830 °F,
+Time 10000 hour",1% elongation
+ ,"5.70 MPa
+@Temperature 900 °C,
+Time 3.60e+8 sec","827 psi
+@Temperature 1650 °F,
+Time 100000 hour",
+ ,"6.30 MPa
+@Temperature 975 °C,
+Time 3.60e+7 sec","914 psi
+@Temperature 1790 °F,
+Time 10000 hour",1% elongation
+ ,"6.70 MPa
+@Temperature 875 °C,
+Time 3.60e+8 sec","972 psi
+@Temperature 1610 °F,
+Time 100000 hour",
+ ,"7.30 MPa
+@Temperature 950 °C,
+Time 3.60e+7 sec","1060 psi
+@Temperature 1740 °F,
+Time 10000 hour",1% elongation
+ ,"8.00 MPa
+@Temperature 850 °C,
+Time 3.60e+8 sec","1160 psi
+@Temperature 1560 °F,
+Time 100000 hour",
+ ,"8.50 MPa
+@Temperature 925 °C,
+Time 3.60e+7 sec","1230 psi
+@Temperature 1700 °F,
+Time 10000 hour",1% elongation
+ ,"9.40 MPa
+@Temperature 825 °C,
+Time 3.60e+8 sec","1360 psi
+@Temperature 1520 °F,
+Time 100000 hour",
+ ,"10.0 MPa
+@Temperature 900 °C,
+Time 3.60e+7 sec","1450 psi
+@Temperature 1650 °F,
+Time 10000 hour",1% elongation
+ ,"11.0 MPa
+@Temperature 800 °C,
+Time 3.60e+8 sec","1600 psi
+@Temperature 1470 °F,
+Time 100000 hour",
+ ,"12.0 MPa
+@Temperature 875 °C,
+Time 3.60e+7 sec","1740 psi
+@Temperature 1610 °F,
+Time 10000 hour",1% elongation
+ ,"13.0 MPa
+@Temperature 775 °C,
+Time 3.60e+8 sec","1890 psi
+@Temperature 1430 °F,
+Time 100000 hour",
+ ,"14.0 MPa
+@Temperature 850 °C,
+Time 3.60e+7 sec","2030 psi
+@Temperature 1560 °F,
+Time 10000 hour",1% elongation
+ ,"16.0 MPa
+@Temperature 750 °C,
+Time 3.60e+8 sec","2320 psi
+@Temperature 1380 °F,
+Time 100000 hour",
+ ,"17.0 MPa
+@Temperature 825 °C,
+Time 3.60e+7 sec","2470 psi
+@Temperature 1520 °F,
+Time 10000 hour",1% elongation
+ ,"20.0 MPa
+@Temperature 725 °C,
+Time 3.60e+8 sec","2900 psi
+@Temperature 1340 °F,
+Time 100000 hour",
+ ,"20.0 MPa
+@Temperature 800 °C,
+Time 3.60e+7 sec","2900 psi
+@Temperature 1470 °F,
+Time 10000 hour",1% elongation
+ ,"25.0 MPa
+@Temperature 775 °C,
+Time 3.60e+7 sec","3630 psi
+@Temperature 1430 °F,
+Time 10000 hour",1% elongation
+ ,"25.0 MPa
+@Temperature 700 °C,
+Time 3.60e+8 sec","3630 psi
+@Temperature 1290 °F,
+Time 100000 hour",
+ ,"31.0 MPa
+@Temperature 750 °C,
+Time 3.60e+7 sec","4500 psi
+@Temperature 1380 °F,
+Time 10000 hour",1% elongation
+ ,"32.0 MPa
+@Temperature 675 °C,
+Time 3.60e+8 sec","4640 psi
+@Temperature 1250 °F,
+Time 100000 hour",
+ ,"37.0 MPa
+@Temperature 725 °C,
+Time 3.60e+7 sec","5370 psi
+@Temperature 1340 °F,
+Time 10000 hour",1% elongation
+ ,"42.0 MPa
+@Temperature 650 °C,
+Time 3.60e+8 sec","6090 psi
+@Temperature 1200 °F,
+Time 100000 hour",
+ ,"45.0 MPa
+@Temperature 700 °C,
+Time 3.60e+7 sec","6530 psi
+@Temperature 1290 °F,
+Time 10000 hour",1% elongation
+ ,"55.0 MPa
+@Temperature 625 °C,
+Time 3.60e+8 sec","7980 psi
+@Temperature 1160 °F,
+Time 100000 hour",
+ ,"59.0 MPa
+@Temperature 675 °C,
+Time 3.60e+7 sec","8560 psi
+@Temperature 1250 °F,
+Time 10000 hour",1% elongation
+ ,"70.0 MPa
+@Temperature 600 °C,
+Time 3.60e+8 sec","10200 psi
+@Temperature 1110 °F,
+Time 100000 hour",
+ ,"75.0 MPa
+@Temperature 650 °C,
+Time 3.60e+7 sec","10900 psi
+@Temperature 1200 °F,
+Time 10000 hour",1% elongation
+ ,"93.0 MPa
+@Temperature 625 °C,
+Time 3.60e+7 sec","13500 psi
+@Temperature 1160 °F,
+Time 10000 hour",1% elongation
+ ,"117 MPa
+@Temperature 600 °C,
+Time 3.60e+7 sec","17000 psi
+@Temperature 1110 °F,
+Time 10000 hour",1% elongation
+Modulus of Elasticity ,200 GPa,29000 ksi,
+ ,"120 GPa
+@Temperature 1000 °C","17400 ksi
+@Temperature 1830 °F",
+ ,"135 GPa
+@Temperature 800 °C","19600 ksi
+@Temperature 1470 °F",
+ ,"155 GPa
+@Temperature 600 °C","22500 ksi
+@Temperature 1110 °F",
+ ,"170 GPa
+@Temperature 400 °C","24700 ksi
+@Temperature 752 °F",
+ ,"185 GPa
+@Temperature 200 °C","26800 ksi
+@Temperature 392 °F",
+Electrical Resistivity  ,"0.0000840 ohm-cm
+@Temperature 20.0 °C","0.0000840 ohm-cm
+@Temperature 68.0 °F",
+ ,"0.0000910 ohm-cm
+@Temperature 100 °C","0.0000910 ohm-cm
+@Temperature 212 °F",
+ ,"0.0000970 ohm-cm
+@Temperature 200 °C","0.0000970 ohm-cm
+@Temperature 392 °F",
+ ,"0.000102 ohm-cm
+@Temperature 300 °C","0.000102 ohm-cm
+@Temperature 572 °F",
+ ,"0.000107 ohm-cm
+@Temperature 400 °C","0.000107 ohm-cm
+@Temperature 752 °F",
+ ,"0.000111 ohm-cm
+@Temperature 500 °C","0.000111 ohm-cm
+@Temperature 932 °F",
+ ,"0.000115 ohm-cm
+@Temperature 600 °C","0.000115 ohm-cm
+@Temperature 1110 °F",
+ ,"0.000118 ohm-cm
+@Temperature 700 °C","0.000118 ohm-cm
+@Temperature 1290 °F",
+ ,"0.000121 ohm-cm
+@Temperature 800 °C","0.000121 ohm-cm
+@Temperature 1470 °F",
+ ,"0.000123 ohm-cm
+@Temperature 900 °C","0.000123 ohm-cm
+@Temperature 1650 °F",
+ ,"0.000126 ohm-cm
+@Temperature 1000 °C","0.000126 ohm-cm
+@Temperature 1830 °F",
+ ,"0.000129 ohm-cm
+@Temperature 1100 °C","0.000129 ohm-cm
+@Temperature 2010 °F",
+"CTE, linear  ","16.5 µm/m-°C
+@Temperature 30.0 - 100 °C","9.17 µin/in-°F
+@Temperature 86.0 - 212 °F",
+ ,"17.0 µm/m-°C
+@Temperature 30.0 - 200 °C","9.44 µin/in-°F
+@Temperature 86.0 - 392 °F",
+ ,"17.0 µm/m-°C
+@Temperature 30.0 - 300 °C","9.44 µin/in-°F
+@Temperature 86.0 - 572 °F",
+ ,"17.5 µm/m-°C
+@Temperature 30.0 - 400 °C","9.72 µin/in-°F
+@Temperature 86.0 - 752 °F",
+ ,"18.0 µm/m-°C
+@Temperature 30.0 - 600 °C","10.0 µin/in-°F
+@Temperature 86.0 - 1110 °F",
+ ,"18.0 µm/m-°C
+@Temperature 30.0 - 500 °C","10.0 µin/in-°F
+@Temperature 86.0 - 932 °F",
+ ,"18.5 µm/m-°C
+@Temperature 30.0 - 700 °C","10.3 µin/in-°F
+@Temperature 86.0 - 1290 °F",
+ ,"19.0 µm/m-°C
+@Temperature 30.0 - 900 °C","10.6 µin/in-°F
+@Temperature 86.0 - 1650 °F",
+ ,"19.0 µm/m-°C
+@Temperature 30.0 - 800 °C","10.6 µin/in-°F
+@Temperature 86.0 - 1470 °F",
+ ,"19.5 µm/m-°C
+@Temperature 30.0 - 1000 °C","10.8 µin/in-°F
+@Temperature 86.0 - 1830 °F",
+Thermal Conductivity  ,"13.0 W/m-K
+@Temperature 20.0 °C","90.2 BTU-in/hr-ft²-°F
+@Temperature 68.0 °F",
+ ,"14.0 W/m-K
+@Temperature 100 °C","97.2 BTU-in/hr-ft²-°F
+@Temperature 212 °F",
+ ,"16.0 W/m-K
+@Temperature 200 °C","111 BTU-in/hr-ft²-°F
+@Temperature 392 °F",
+ ,"18.0 W/m-K
+@Temperature 300 °C","125 BTU-in/hr-ft²-°F
+@Temperature 572 °F",
+ ,"20.0 W/m-K
+@Temperature 400 °C","139 BTU-in/hr-ft²-°F
+@Temperature 752 °F",
+ ,"21.0 W/m-K
+@Temperature 500 °C","146 BTU-in/hr-ft²-°F
+@Temperature 932 °F",
+ ,"23.0 W/m-K
+@Temperature 600 °C","160 BTU-in/hr-ft²-°F
+@Temperature 1110 °F",
+ ,"24.0 W/m-K
+@Temperature 700 °C","167 BTU-in/hr-ft²-°F
+@Temperature 1290 °F",
+ ,"25.0 W/m-K
+@Temperature 800 °C","174 BTU-in/hr-ft²-°F
+@Temperature 1470 °F",
+ ,"26.0 W/m-K
+@Temperature 900 °C","180 BTU-in/hr-ft²-°F
+@Temperature 1650 °F",
+ ,"29.0 W/m-K
+@Temperature 1100 °C","201 BTU-in/hr-ft²-°F
+@Temperature 2010 °F",
+ ,"29.0 W/m-K
+@Temperature 1000 °C","201 BTU-in/hr-ft²-°F
+@Temperature 1830 °F",
+"Carbon, C ",0.080 %,0.080 %,
+"Chromium, Cr ",21 %,21 %,
+"Manganese, Mn ",<= 0.80 %,<= 0.80 %,
+"Nitrogen, N ",0.17 %,0.17 %,
+"Silicon, Si ",1.6 %,1.6 %,
+"Tensile Strength, Ultimate ",600 MPa,87000 psi,
+ ,">= 340 MPa
+@Temperature 500 °C",">= 49300 psi
+@Temperature 932 °F",
+ ,">= 340 MPa
+@Temperature 600 °C",">= 49300 psi
+@Temperature 1110 °F",
+ ,">= 425 MPa
+@Temperature 400 °C",">= 61600 psi
+@Temperature 752 °F",
+ ,">= 440 MPa
+@Temperature 300 °C",">= 63800 psi
+@Temperature 572 °F",
+ ,">= 475 MPa
+@Temperature 200 °C",">= 68900 psi
+@Temperature 392 °F",
+ ,">= 550 MPa
+@Temperature 100 °C",">= 79800 psi
+@Temperature 212 °F",
+Elongation at Break ,>= 40 %,>= 40 %,
+ ,">= 35 %
+@Thickness 50.8 mm",">= 35 %
+@Thickness 2.00 in",
+Rupture Strength  ,"2.60 MPa
+@Temperature 1100 °C,
+Time 3.60e+8 sec","377 psi
+@Temperature 2010 °F,
+Time 100000 hour",
+ ,"3.00 MPa
+@Temperature 1075 °C,
+Time 3.60e+8 sec","435 psi
+@Temperature 1967 °F,
+Time 100000 hour",
+ ,"3.30 MPa
+@Temperature 1050 °C,
+Time 3.60e+8 sec","479 psi
+@Temperature 1920 °F,
+Time 100000 hour",
+ ,"3.80 MPa
+@Temperature 1025 °C,
+Time 3.60e+8 sec","551 psi
+@Temperature 1877 °F,
+Time 100000 hour",
+ ,"4.30 MPa
+@Temperature 1000 °C,
+Time 3.60e+8 sec","624 psi
+@Temperature 1830 °F,
+Time 100000 hour",
+ ,"4.30 MPa
+@Temperature 1100 °C,
+Time 3.60e+7 sec","624 psi
+@Temperature 2010 °F,
+Time 10000 hour",
+ ,"4.90 MPa
+@Temperature 1075 °C,
+Time 3.60e+7 sec","711 psi
+@Temperature 1967 °F,
+Time 10000 hour",
+ ,"5.00 MPa
+@Temperature 975 °C,
+Time 3.60e+8 sec","725 psi
+@Temperature 1790 °F,
+Time 100000 hour",
+ ,"5.50 MPa
+@Temperature 1050 °C,
+Time 3.60e+7 sec","798 psi
+@Temperature 1920 °F,
+Time 10000 hour",
+ ,"5.70 MPa
+@Temperature 950 °C,
+Time 3.60e+8 sec","827 psi
+@Temperature 1740 °F,
+Time 100000 hour",
+ ,"6.20 MPa
+@Temperature 1025 °C,
+Time 3.60e+7 sec","899 psi
+@Temperature 1877 °F,
+Time 10000 hour",
+ ,"6.60 MPa
+@Temperature 925 °C,
+Time 3.60e+8 sec","957 psi
+@Temperature 1700 °F,
+Time 100000 hour",
+ ,"7.00 MPa
+@Temperature 1000 °C,
+Time 3.60e+7 sec","1020 psi
+@Temperature 1830 °F,
+Time 10000 hour",
+ ,"7.50 MPa
+@Temperature 900 °C,
+Time 3.60e+8 sec","1090 psi
+@Temperature 1650 °F,
+Time 100000 hour",
+ ,"8.20 MPa
+@Temperature 975 °C,
+Time 3.60e+7 sec","1190 psi
+@Temperature 1790 °F,
+Time 10000 hour",
+ ,"8.80 MPa
+@Temperature 875 °C,
+Time 3.60e+8 sec","1280 psi
+@Temperature 1610 °F,
+Time 100000 hour",
+ ,"9.60 MPa
+@Temperature 950 °C,
+Time 3.60e+7 sec","1390 psi
+@Temperature 1740 °F,
+Time 10000 hour",
+ ,"10.0 MPa
+@Temperature 850 °C,
+Time 3.60e+8 sec","1450 psi
+@Temperature 1560 °F,
+Time 100000 hour",
+ ,"11.0 MPa
+@Temperature 925 °C,
+Time 3.60e+7 sec","1600 psi
+@Temperature 1700 °F,
+Time 10000 hour",
+ ,"12.0 MPa
+@Temperature 825 °C,
+Time 3.60e+8 sec","1740 psi
+@Temperature 1520 °F,
+Time 100000 hour",
+ ,"13.0 MPa
+@Temperature 900 °C,
+Time 3.60e+7 sec","1890 psi
+@Temperature 1650 °F,
+Time 10000 hour",
+ ,"15.0 MPa
+@Temperature 800 °C,
+Time 3.60e+8 sec","2180 psi
+@Temperature 1470 °F,
+Time 100000 hour",
+ ,"15.0 MPa
+@Temperature 875 °C,
+Time 3.60e+7 sec","2180 psi
+@Temperature 1610 °F,
+Time 10000 hour",
+ ,"18.0 MPa
+@Temperature 850 °C,
+Time 3.60e+7 sec","2610 psi
+@Temperature 1560 °F,
+Time 10000 hour",
+ ,"18.0 MPa
+@Temperature 775 °C,
+Time 3.60e+8 sec","2610 psi
+@Temperature 1430 °F,
+Time 100000 hour",
+ ,"22.0 MPa
+@Temperature 750 °C,
+Time 3.60e+8 sec","3190 psi
+@Temperature 1380 °F,
+Time 100000 hour",
+ ,"22.0 MPa
+@Temperature 825 °C,
+Time 3.60e+7 sec","3190 psi
+@Temperature 1520 °F,
+Time 10000 hour",
+ ,"27.0 MPa
+@Temperature 800 °C,
+Time 3.60e+7 sec","3920 psi
+@Temperature 1470 °F,
+Time 10000 hour",
+ ,"27.0 MPa
+@Temperature 725 °C,
+Time 3.60e+8 sec","3920 psi
+@Temperature 1340 °F,
+Time 100000 hour",
+ ,"33.0 MPa
+@Temperature 700 °C,
+Time 3.60e+8 sec","4790 psi
+@Temperature 1290 °F,
+Time 100000 hour",
+ ,"33.0 MPa
+@Temperature 775 °C,
+Time 3.60e+7 sec","4790 psi
+@Temperature 1430 °F,
+Time 10000 hour",
+ ,"41.0 MPa
+@Temperature 750 °C,
+Time 3.60e+7 sec","5950 psi
+@Temperature 1380 °F,
+Time 10000 hour",
+ ,"43.0 MPa
+@Temperature 675 °C,
+Time 3.60e+8 sec","6240 psi
+@Temperature 1250 °F,
+Time 100000 hour",
+ ,"50.0 MPa
+@Temperature 725 °C,
+Time 3.60e+7 sec","7250 psi
+@Temperature 1340 °F,
+Time 10000 hour",
+ ,"52.0 MPa
+@Temperature 650 °C,
+Time 3.60e+8 sec","7540 psi
+@Temperature 1200 °F,
+Time 100000 hour",
+ ,"62.0 MPa
+@Temperature 700 °C,
+Time 3.60e+7 sec","8990 psi
+@Temperature 1290 °F,
+Time 10000 hour",
+ ,"64.0 MPa
+@Temperature 625 °C,
+Time 3.60e+8 sec","9280 psi
+@Temperature 1160 °F,
+Time 100000 hour",
+ ,"76.0 MPa
+@Temperature 675 °C,
+Time 3.60e+7 sec","11000 psi
+@Temperature 1250 °F,
+Time 10000 hour",
+ ,"82.0 MPa
+@Temperature 600 °C,
+Time 3.60e+8 sec","11900 psi
+@Temperature 1110 °F,
+Time 100000 hour",
+ ,"97.0 MPa
+@Temperature 650 °C,
+Time 3.60e+7 sec","14100 psi
+@Temperature 1200 °F,
+Time 10000 hour",
+ ,"102 MPa
+@Temperature 575 °C,
+Time 3.60e+8 sec","14800 psi
+@Temperature 1070 °F,
+Time 100000 hour",
+ ,"112 MPa
+@Temperature 625 °C,
+Time 3.60e+7 sec","16200 psi
+@Temperature 1160 °F,
+Time 10000 hour",
+ ,"128 MPa
+@Temperature 550 °C,
+Time 3.60e+8 sec","18600 psi
+@Temperature 1020 °F,
+Time 100000 hour",
+ ,"138 MPa
+@Temperature 600 °C,
+Time 3.60e+7 sec","20000 psi
+@Temperature 1110 °F,
+Time 10000 hour",
+ ,"138 MPa
+@Temperature 600 °C,
+Time 3.60e+7 sec","20000 psi
+@Temperature 1110 °F,
+Time 10000 hour",
+ ,"162 MPa
+@Temperature 525 °C,
+Time 3.60e+8 sec","23500 psi
+@Temperature 977 °F,
+Time 100000 hour",
+ ,"167 MPa
+@Temperature 575 °C,
+Time 3.60e+7 sec","24200 psi
+@Temperature 1070 °F,
+Time 10000 hour",
+Magnetic Permeability ,1.003,1.003,
+Specific Heat Capacity  ,"0.490 J/g-°C
+@Temperature 20.0 °C","0.117 BTU/lb-°F
+@Temperature 68.0 °F",
+ ,"0.515 J/g-°C
+@Temperature 100 °C","0.123 BTU/lb-°F
+@Temperature 212 °F",
+ ,"0.515 J/g-°C
+@Temperature 100 °C","0.123 BTU/lb-°F
+@Temperature 212 °F",
+ ,"0.540 J/g-°C
+@Temperature 200 °C","0.129 BTU/lb-°F
+@Temperature 392 °F",
+ ,"0.565 J/g-°C
+@Temperature 300 °C","0.135 BTU/lb-°F
+@Temperature 572 °F",
+ ,"0.565 J/g-°C
+@Temperature 300 °C","0.135 BTU/lb-°F
+@Temperature 572 °F",
+ ,"0.580 J/g-°C
+@Temperature 400 °C","0.139 BTU/lb-°F
+@Temperature 752 °F",
+ ,"0.600 J/g-°C
+@Temperature 500 °C","0.143 BTU/lb-°F
+@Temperature 932 °F",
+ ,"0.600 J/g-°C
+@Temperature 500 °C","0.143 BTU/lb-°F
+@Temperature 932 °F",
+ ,"0.615 J/g-°C
+@Temperature 600 °C","0.147 BTU/lb-°F
+@Temperature 1110 °F",
+ ,"0.630 J/g-°C
+@Temperature 700 °C","0.151 BTU/lb-°F
+@Temperature 1290 °F",
+ ,"0.630 J/g-°C
+@Temperature 700 °C","0.151 BTU/lb-°F
+@Temperature 1290 °F",
+ ,"0.645 J/g-°C
+@Temperature 800 °C","0.154 BTU/lb-°F
+@Temperature 1470 °F",
+ ,"0.655 J/g-°C
+@Temperature 900 °C","0.157 BTU/lb-°F
+@Temperature 1650 °F",
+ ,"0.655 J/g-°C
+@Temperature 900 °C","0.157 BTU/lb-°F
+@Temperature 1650 °F",
+ ,"0.665 J/g-°C
+@Temperature 1000 °C","0.159 BTU/lb-°F
+@Temperature 1830 °F",
+ ,"0.680 J/g-°C
+@Temperature 1100 °C","0.163 BTU/lb-°F
+@Temperature 2010 °F",
+ ,"0.680 J/g-°C
+@Temperature 1100 °C","0.163 BTU/lb-°F
+@Temperature 2010 °F",
+"Cerium, Ce ",0.050 %,0.050 %,
+"Iron, Fe ",65.2 %,65.2 %,As Balance
+"Nickel, Ni ",11 %,11 %,
+"Phosphorous, P ",<= 0.040 %,<= 0.040 %,
+"Sulfur, S ",<= 0.030 %,<= 0.030 %,

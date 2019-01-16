@@ -1,0 +1,25 @@
+,Metric,English,Comments
+Density ,7.80 g/cc,0.282 lb/in³,
+"Hardness, Brinell ",360,360,
+"Tensile Strength, Yield ",1075 MPa,155900 psi,
+Modulus of Elasticity ,210 GPa,30500 ksi,
+"CTE, linear  ","10.8 µm/m-°C
+@Temperature 20.0 - 100 °C","6.00 µin/in-°F
+@Temperature 68.0 - 212 °F",
+ ,"11.2 µm/m-°C
+@Temperature 20.0 - 200 °C","6.22 µin/in-°F
+@Temperature 68.0 - 392 °F",
+ ,"12.9 µm/m-°C
+@Temperature 20.0 - 300 °C","7.17 µin/in-°F
+@Temperature 68.0 - 572 °F",
+Thermal Conductivity ,38.0 W/m-K,264 BTU-in/hr-ft²-°F,
+"Carbon, C ",<= 0.30 %,<= 0.30 %,
+"Iron, Fe ",>= 94.9 %,>= 94.9 %,
+"Molybdenum, Mo ",0.65 %,0.65 %,
+"Sulfur, S ",<= 0.020 %,<= 0.020 %,
+"Tensile Strength, Ultimate ",1250 MPa,181000 psi,
+Elongation at Break ,>= 10 %,>= 10 %,
+Specific Heat Capacity ,0.460 J/g-°C,0.110 BTU/lb-°F,
+"Chromium, Cr ",2.0 %,2.0 %,
+"Manganese, Mn ",1.15 %,1.15 %,
+"Nickel, Ni ",1.0 %,1.0 %,

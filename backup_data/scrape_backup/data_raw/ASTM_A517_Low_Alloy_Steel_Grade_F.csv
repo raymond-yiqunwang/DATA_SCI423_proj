@@ -1,0 +1,23 @@
+,Metric,English,Comments
+Density ,7.75 g/cc,0.280 lb/in³,
+"Tensile Strength, Ultimate ",795 - 930 MPa,115000 - 135000 psi,
+Elongation at Break ,16 %,16 %,in 50mm
+Bulk Modulus ,160 GPa,23200 ksi,Typical for Steel
+Shear Modulus ,80.0 GPa,11600 ksi,Typical for Steel
+Electrical Resistivity ,0.0000170 ohm-cm,0.0000170 ohm-cm,Typical Carbon Steel
+"CTE, linear ",12.0 µm/m-°C,6.67 µin/in-°F,Typical Carbon Steel
+Thermal Conductivity ,52.0 W/m-K,361 BTU-in/hr-ft²-°F,Typical Carbon Steel
+"Boron, B ",0.00050 - 0.0060 %,0.00050 - 0.0060 %,
+"Chromium, Cr ",0.40 - 0.65 %,0.40 - 0.65 %,
+"Manganese, Mn ",0.60 - 1.0 %,0.60 - 1.0 %,
+"Nickel, Ni ",0.70 - 1.0 %,0.70 - 1.0 %,
+"Silicon, Si ",0.15 - 0.35 %,0.15 - 0.35 %,
+"Tensile Strength, Yield ",690 MPa,100000 psi,
+Modulus of Elasticity ,200 GPa,29000 ksi,Typical Carbon Steel
+Poissons Ratio ,0.29,0.29,Typical Carbon Steel
+Specific Heat Capacity ,0.470 J/g-°C,0.112 BTU/lb-°F,Typical Carbon Steel
+"Carbon, C ",0.10 - 0.20 %,0.10 - 0.20 %,
+"Iron, Fe ",96.8 %,96.8 %,as balance
+"Molybdenum, Mo ",0.40 - 0.60 %,0.40 - 0.60 %,
+"Phosphorous, P ",0.035 %,0.035 %,
+"Sulfur, S ",0.040 %,0.040 %,

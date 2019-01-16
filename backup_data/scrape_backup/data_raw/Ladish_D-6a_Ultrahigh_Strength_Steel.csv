@@ -1,0 +1,15 @@
+,Metric,English,Comments
+Density ,7.87 g/cc,0.284 lb/in³,Typical of steel
+Modulus of Elasticity ,205 GPa,29700 ksi,Typical of steel
+Shear Modulus ,80.0 GPa,11600 ksi,Typical of steel
+"Carbon, C ",0.42 - 0.48 %,0.42 - 0.48 %,
+"Iron, Fe ",95.1 - 96.6 %,95.1 - 96.6 %,As Balance
+"Molybdenum, Mo ",0.90 - 1.1 %,0.90 - 1.1 %,
+"Phosphorous, P ",<= 0.035 %,<= 0.035 %,
+"Sulfur, S ",<= 0.040 %,<= 0.040 %,
+Poissons Ratio ,0.28,0.28,Calculated
+"Chromium, Cr ",0.90 - 1.2 %,0.90 - 1.2 %,
+"Manganese, Mn ",0.60 - 0.90 %,0.60 - 0.90 %,
+"Nickel, Ni ",0.40 - 0.70 %,0.40 - 0.70 %,
+"Silicon, Si ",0.15 - 0.30 %,0.15 - 0.30 %,
+"Vanadium, V ",0.050 - 0.10 %,0.050 - 0.10 %,

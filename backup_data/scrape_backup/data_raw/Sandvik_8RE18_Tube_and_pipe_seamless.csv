@@ -1,0 +1,14 @@
+,Metric,English,Comments
+"Tensile Strength, Ultimate ",>= 515 MPa,>= 74700 psi,
+Elongation at Break ,>= 35.0 %,>= 35.0 %,
+"Carbon, C ",0.070 %,0.070 %,
+"Manganese, Mn ",1.7 %,1.7 %,
+"Phosphorous, P ",<= 0.0350 %,<= 0.0350 %,
+"Sulfur, S ",<= 0.0150 %,<= 0.0150 %,
+"Tensile Strength, Yield ",>= 1550 MPa,>= 225000 psi,
+ ,">= 205 MPa
+@Strain 0.200 %",">= 29700 psi
+@Strain 0.200 %",
+"Chromium, Cr ",22.5 %,22.5 %,
+"Nickel, Ni ",14 %,14 %,
+"Silicon, Si ",0.50 %,0.50 %,
