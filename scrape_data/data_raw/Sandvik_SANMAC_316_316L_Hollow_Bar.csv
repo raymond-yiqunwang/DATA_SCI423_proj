@@ -1,223 +1,115 @@
 ,Metric,English,Comments
 Density ,8.00 g/cc,0.289 lb/in³,
 "Hardness, Rockwell B ",<= 90,<= 90,
-"Tensile Strength, Yield  ",">= 220 MPa
-@Strain 0.200 %",">= 31900 psi
-@Strain 0.200 %",10 mm wall thickness
- ,">= 250 MPa
-@Strain 1.00 %",">= 36300 psi
-@Strain 1.00 %",10 mm wall thickness
- ,">= 110 MPa
-@Strain 0.200 %,
-Temperature 600 °C",">= 16000 psi
-@Strain 0.200 %,
+"Tensile Strength, Yield  ",">= 220 MPa @Strain 0.200 %",">= 31900 psi @Strain 0.200 %",10 mm wall thickness
+ ,">= 250 MPa @Strain 1.00 %",">= 36300 psi @Strain 1.00 %",10 mm wall thickness
+ ,">= 110 MPa @Strain 0.200 %,
+Temperature 600 °C",">= 16000 psi @Strain 0.200 %,
 Temperature 1110 °F",
- ,">= 115 MPa
-@Strain 0.200 %,
-Temperature 550 °C",">= 16700 psi
-@Strain 0.200 %,
+ ,">= 115 MPa @Strain 0.200 %,
+Temperature 550 °C",">= 16700 psi @Strain 0.200 %,
 Temperature 1020 °F",
- ,">= 120 MPa
-@Strain 0.200 %,
-Temperature 500 °C",">= 17400 psi
-@Strain 0.200 %,
+ ,">= 120 MPa @Strain 0.200 %,
+Temperature 500 °C",">= 17400 psi @Strain 0.200 %,
 Temperature 932 °F",
- ,">= 123 MPa
-@Strain 0.200 %,
-Temperature 450 °C",">= 17800 psi
-@Strain 0.200 %,
+ ,">= 123 MPa @Strain 0.200 %,
+Temperature 450 °C",">= 17800 psi @Strain 0.200 %,
 Temperature 842 °F",
- ,">= 125 MPa
-@Strain 0.200 %,
-Temperature 400 °C",">= 18100 psi
-@Strain 0.200 %,
+ ,">= 125 MPa @Strain 0.200 %,
+Temperature 400 °C",">= 18100 psi @Strain 0.200 %,
 Temperature 752 °F",
- ,">= 130 MPa
-@Strain 0.200 %,
-Temperature 350 °C",">= 18900 psi
-@Strain 0.200 %,
+ ,">= 130 MPa @Strain 0.200 %,
+Temperature 350 °C",">= 18900 psi @Strain 0.200 %,
 Temperature 662 °F",
- ,">= 135 MPa
-@Strain 0.200 %,
-Temperature 300 °C",">= 19600 psi
-@Strain 0.200 %,
+ ,">= 135 MPa @Strain 0.200 %,
+Temperature 300 °C",">= 19600 psi @Strain 0.200 %,
 Temperature 572 °F",
- ,">= 135 MPa
-@Strain 1.00 %,
-Temperature 500 °C",">= 19600 psi
-@Strain 1.00 %,
+ ,">= 135 MPa @Strain 1.00 %,
+Temperature 500 °C",">= 19600 psi @Strain 1.00 %,
 Temperature 932 °F",
- ,">= 135 MPa
-@Strain 1.00 %,
-Temperature 600 °C",">= 19600 psi
-@Strain 1.00 %,
+ ,">= 135 MPa @Strain 1.00 %,
+Temperature 600 °C",">= 19600 psi @Strain 1.00 %,
 Temperature 1110 °F",
- ,">= 140 MPa
-@Strain 1.00 %,
-Temperature 550 °C",">= 20300 psi
-@Strain 1.00 %,
+ ,">= 140 MPa @Strain 1.00 %,
+Temperature 550 °C",">= 20300 psi @Strain 1.00 %,
 Temperature 1020 °F",
- ,">= 140 MPa
-@Strain 0.200 %,
-Temperature 250 °C",">= 20300 psi
-@Strain 0.200 %,
+ ,">= 140 MPa @Strain 0.200 %,
+Temperature 250 °C",">= 20300 psi @Strain 0.200 %,
 Temperature 482 °F",
- ,">= 148 MPa
-@Strain 1.00 %,
-Temperature 450 °C",">= 21500 psi
-@Strain 1.00 %,
+ ,">= 148 MPa @Strain 1.00 %,
+Temperature 450 °C",">= 21500 psi @Strain 1.00 %,
 Temperature 842 °F",
- ,">= 150 MPa
-@Strain 1.00 %,
-Temperature 400 °C",">= 21800 psi
-@Strain 1.00 %,
+ ,">= 150 MPa @Strain 1.00 %,
+Temperature 400 °C",">= 21800 psi @Strain 1.00 %,
 Temperature 752 °F",
- ,">= 150 MPa
-@Strain 0.200 %,
-Temperature 200 °C",">= 21800 psi
-@Strain 0.200 %,
+ ,">= 150 MPa @Strain 0.200 %,
+Temperature 200 °C",">= 21800 psi @Strain 0.200 %,
 Temperature 392 °F",
- ,">= 155 MPa
-@Strain 1.00 %,
-Temperature 350 °C",">= 22500 psi
-@Strain 1.00 %,
+ ,">= 155 MPa @Strain 1.00 %,
+Temperature 350 °C",">= 22500 psi @Strain 1.00 %,
 Temperature 662 °F",
- ,">= 160 MPa
-@Strain 1.00 %,
-Temperature 300 °C",">= 23200 psi
-@Strain 1.00 %,
+ ,">= 160 MPa @Strain 1.00 %,
+Temperature 300 °C",">= 23200 psi @Strain 1.00 %,
 Temperature 572 °F",
- ,">= 165 MPa
-@Strain 0.200 %,
-Temperature 150 °C",">= 23900 psi
-@Strain 0.200 %,
+ ,">= 165 MPa @Strain 0.200 %,
+Temperature 150 °C",">= 23900 psi @Strain 0.200 %,
 Temperature 302 °F",
- ,">= 170 MPa
-@Strain 1.00 %,
-Temperature 250 °C",">= 24700 psi
-@Strain 1.00 %,
+ ,">= 170 MPa @Strain 1.00 %,
+Temperature 250 °C",">= 24700 psi @Strain 1.00 %,
 Temperature 482 °F",
- ,">= 180 MPa
-@Strain 1.00 %,
-Temperature 200 °C",">= 26100 psi
-@Strain 1.00 %,
+ ,">= 180 MPa @Strain 1.00 %,
+Temperature 200 °C",">= 26100 psi @Strain 1.00 %,
 Temperature 392 °F",
- ,">= 180 MPa
-@Strain 0.200 %,
-Temperature 100 °C",">= 26100 psi
-@Strain 0.200 %,
+ ,">= 180 MPa @Strain 0.200 %,
+Temperature 100 °C",">= 26100 psi @Strain 0.200 %,
 Temperature 212 °F",
- ,">= 195 MPa
-@Strain 1.00 %,
-Temperature 150 °C",">= 28300 psi
-@Strain 1.00 %,
+ ,">= 195 MPa @Strain 1.00 %,
+Temperature 150 °C",">= 28300 psi @Strain 1.00 %,
 Temperature 302 °F",
- ,">= 210 MPa
-@Strain 0.200 %,
-Temperature 50.0 °C",">= 30500 psi
-@Strain 0.200 %,
+ ,">= 210 MPa @Strain 0.200 %,
+Temperature 50.0 °C",">= 30500 psi @Strain 0.200 %,
 Temperature 122 °F",
- ,">= 215 MPa
-@Strain 1.00 %,
-Temperature 100 °C",">= 31200 psi
-@Strain 1.00 %,
+ ,">= 215 MPa @Strain 1.00 %,
+Temperature 100 °C",">= 31200 psi @Strain 1.00 %,
 Temperature 212 °F",
- ,">= 240 MPa
-@Strain 1.00 %,
-Temperature 50.0 °C",">= 34800 psi
-@Strain 1.00 %,
+ ,">= 240 MPa @Strain 1.00 %,
+Temperature 50.0 °C",">= 34800 psi @Strain 1.00 %,
 Temperature 122 °F",
 Modulus of Elasticity ,200 GPa,29000 ksi,
- ,"165 GPa
-@Temperature 500 °C","23900 ksi
-@Temperature 932 °F",
- ,"172 GPa
-@Temperature 400 °C","24900 ksi
-@Temperature 752 °F",
- ,"179 GPa
-@Temperature 300 °C","26000 ksi
-@Temperature 572 °F",
- ,"186 GPa
-@Temperature 200 °C","27000 ksi
-@Temperature 392 °F",
- ,"194 GPa
-@Temperature 100 °C","28100 ksi
-@Temperature 212 °F",
-"CTE, linear  ","16.5 µm/m-°C
-@Temperature 30.0 - 100 °C","9.17 µin/in-°F
-@Temperature 86.0 - 212 °F",
- ,"17.0 µm/m-°C
-@Temperature 30.0 - 200 °C","9.44 µin/in-°F
-@Temperature 86.0 - 392 °F",
- ,"17.5 µm/m-°C
-@Temperature 30.0 - 300 °C","9.72 µin/in-°F
-@Temperature 86.0 - 572 °F",
- ,"18.0 µm/m-°C
-@Temperature 30.0 - 500 °C","10.0 µin/in-°F
-@Temperature 86.0 - 932 °F",
- ,"18.0 µm/m-°C
-@Temperature 30.0 - 400 °C","10.0 µin/in-°F
-@Temperature 86.0 - 752 °F",
- ,"18.5 µm/m-°C
-@Temperature 30.0 - 600 °C","10.3 µin/in-°F
-@Temperature 86.0 - 1110 °F",
- ,"18.5 µm/m-°C
-@Temperature 30.0 - 700 °C","10.3 µin/in-°F
-@Temperature 86.0 - 1290 °F",
-Thermal Conductivity  ,"14.0 W/m-K
-@Temperature 20.0 °C","97.2 BTU-in/hr-ft²-°F
-@Temperature 68.0 °F",
- ,"15.0 W/m-K
-@Temperature 100 °C","104 BTU-in/hr-ft²-°F
-@Temperature 212 °F",
- ,"17.0 W/m-K
-@Temperature 200 °C","118 BTU-in/hr-ft²-°F
-@Temperature 392 °F",
- ,"18.0 W/m-K
-@Temperature 300 °C","125 BTU-in/hr-ft²-°F
-@Temperature 572 °F",
- ,"20.0 W/m-K
-@Temperature 400 °C","139 BTU-in/hr-ft²-°F
-@Temperature 752 °F",
- ,"21.0 W/m-K
-@Temperature 500 °C","146 BTU-in/hr-ft²-°F
-@Temperature 932 °F",
- ,"23.0 W/m-K
-@Temperature 600 °C","160 BTU-in/hr-ft²-°F
-@Temperature 1110 °F",
+ ,"165 GPa @Temperature 500 °C","23900 ksi @Temperature 932 °F",
+ ,"172 GPa @Temperature 400 °C","24900 ksi @Temperature 752 °F",
+ ,"179 GPa @Temperature 300 °C","26000 ksi @Temperature 572 °F",
+ ,"186 GPa @Temperature 200 °C","27000 ksi @Temperature 392 °F",
+ ,"194 GPa @Temperature 100 °C","28100 ksi @Temperature 212 °F",
+"CTE, linear  ","16.5 µm/m-°C @Temperature 30.0 - 100 °C","9.17 µin/in-°F @Temperature 86.0 - 212 °F",
+ ,"17.0 µm/m-°C @Temperature 30.0 - 200 °C","9.44 µin/in-°F @Temperature 86.0 - 392 °F",
+ ,"17.5 µm/m-°C @Temperature 30.0 - 300 °C","9.72 µin/in-°F @Temperature 86.0 - 572 °F",
+ ,"18.0 µm/m-°C @Temperature 30.0 - 500 °C","10.0 µin/in-°F @Temperature 86.0 - 932 °F",
+ ,"18.0 µm/m-°C @Temperature 30.0 - 400 °C","10.0 µin/in-°F @Temperature 86.0 - 752 °F",
+ ,"18.5 µm/m-°C @Temperature 30.0 - 600 °C","10.3 µin/in-°F @Temperature 86.0 - 1110 °F",
+ ,"18.5 µm/m-°C @Temperature 30.0 - 700 °C","10.3 µin/in-°F @Temperature 86.0 - 1290 °F",
+Thermal Conductivity  ,"14.0 W/m-K @Temperature 20.0 °C","97.2 BTU-in/hr-ft²-°F @Temperature 68.0 °F",
+ ,"15.0 W/m-K @Temperature 100 °C","104 BTU-in/hr-ft²-°F @Temperature 212 °F",
+ ,"17.0 W/m-K @Temperature 200 °C","118 BTU-in/hr-ft²-°F @Temperature 392 °F",
+ ,"18.0 W/m-K @Temperature 300 °C","125 BTU-in/hr-ft²-°F @Temperature 572 °F",
+ ,"20.0 W/m-K @Temperature 400 °C","139 BTU-in/hr-ft²-°F @Temperature 752 °F",
+ ,"21.0 W/m-K @Temperature 500 °C","146 BTU-in/hr-ft²-°F @Temperature 932 °F",
+ ,"23.0 W/m-K @Temperature 600 °C","160 BTU-in/hr-ft²-°F @Temperature 1110 °F",
 "Carbon, C ",<= 0.030 %,<= 0.030 %,
 "Iron, Fe ",67.6 %,67.6 %,As Balance
 "Molybdenum, Mo ",2.1 %,2.1 %,
 "Phosphorous, P ",<= 0.040 %,<= 0.040 %,
 "Sulfur, S ",<= 0.030 %,<= 0.030 %,
-"Tensile Strength, Ultimate ","515 - 690 MPa
-@Thickness 10.0 mm","74700 - 100000 psi
-@Thickness 0.394 in",wall thickness
+"Tensile Strength, Ultimate ","515 - 690 MPa @Thickness 10.0 mm","74700 - 100000 psi @Thickness 0.394 in",wall thickness
 Elongation at Break ,>= 35 %,>= 35 %,"2"", 10 mm wall thickness"
- ,">= 40 %
-@Thickness 10.0 mm",">= 40 %
-@Thickness 0.394 in",wall thickness
-Specific Heat Capacity  ,"0.485 J/g-°C
-@Temperature 20.0 °C","0.116 BTU/lb-°F
-@Temperature 68.0 °F",
- ,"0.500 J/g-°C
-@Temperature 100 °C","0.120 BTU/lb-°F
-@Temperature 212 °F",
- ,"0.515 J/g-°C
-@Temperature 200 °C","0.123 BTU/lb-°F
-@Temperature 392 °F",
- ,"0.525 J/g-°C
-@Temperature 300 °C","0.125 BTU/lb-°F
-@Temperature 572 °F",
- ,"0.540 J/g-°C
-@Temperature 400 °C","0.129 BTU/lb-°F
-@Temperature 752 °F",
- ,"0.555 J/g-°C
-@Temperature 600 °C","0.133 BTU/lb-°F
-@Temperature 1110 °F",
- ,"0.555 J/g-°C
-@Temperature 500 °C","0.133 BTU/lb-°F
-@Temperature 932 °F",
+ ,">= 40 % @Thickness 10.0 mm",">= 40 % @Thickness 0.394 in",wall thickness
+Specific Heat Capacity  ,"0.485 J/g-°C @Temperature 20.0 °C","0.116 BTU/lb-°F @Temperature 68.0 °F",
+ ,"0.500 J/g-°C @Temperature 100 °C","0.120 BTU/lb-°F @Temperature 212 °F",
+ ,"0.515 J/g-°C @Temperature 200 °C","0.123 BTU/lb-°F @Temperature 392 °F",
+ ,"0.525 J/g-°C @Temperature 300 °C","0.125 BTU/lb-°F @Temperature 572 °F",
+ ,"0.540 J/g-°C @Temperature 400 °C","0.129 BTU/lb-°F @Temperature 752 °F",
+ ,"0.555 J/g-°C @Temperature 600 °C","0.133 BTU/lb-°F @Temperature 1110 °F",
+ ,"0.555 J/g-°C @Temperature 500 °C","0.133 BTU/lb-°F @Temperature 932 °F",
 "Chromium, Cr ",16.5 %,16.5 %,
 "Manganese, Mn ",<= 2.0 %,<= 2.0 %,
 "Nickel, Ni ",11 %,11 %,

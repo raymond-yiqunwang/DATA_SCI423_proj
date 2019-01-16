@@ -1,27 +1,17 @@
 ,Metric,English,Comments
-Density ,8.30 g/cc,0.300 lb/in³,
+Density ,8.30 g/cc,0.300 lb/in,
 "Hardness, Vickers ",180,180,
-"Tensile Strength, Yield  ","240 MPa
-@Strain 0.200 %,
-Temperature 400 °C","34800 psi
-@Strain 0.200 %,
-Temperature 752 °F",
- ,"390 MPa
-@Strain 0.200 %,
-Temperature 20.0 °C","56600 psi
-@Strain 0.200 %,
-Temperature 68.0 °F",
+"Tensile Strength, Yield  ","240 MPa @Strain 0.200 %,
+Temperature 400 C","34800 psi @Strain 0.200 %,
+Temperature 752 F",
+ ,"390 MPa @Strain 0.200 %,
+Temperature 20.0 C","56600 psi @Strain 0.200 %,
+Temperature 68.0 F",
 Reduction of Area ,50 %,50 %,
-Charpy Impact  ,"150 J
-@Temperature -196 °C","111 ft-lb
-@Temperature -321 °F",
- ,"246 J
-@Temperature 20.0 °C","181 ft-lb
-@Temperature 68.0 °F",
-"CTE, linear ","12.0 µm/m-°C
-@Temperature 20.0 - 400 °C","6.67 µin/in-°F
-@Temperature 68.0 - 752 °F",
-"Maximum Service Temperature, Air ",1175 °C,2147 °F,
+Charpy Impact  ,"150 J @Temperature -196 C","111 ft-lb @Temperature -321 F",
+ ,"246 J @Temperature 20.0 C","181 ft-lb @Temperature 68.0 F",
+"CTE, linear ","12.0 m/m-C @Temperature 20.0 - 400 C","6.67 in/in-F @Temperature 68.0 - 752 F",
+"Maximum Service Temperature, Air ",1175 C,2147 F,
 "Carbon, C ",<= 0.0300 %,<= 0.0300 %,Filler metal
  ,<= 0.0300 %,<= 0.0300 %,All-weld metal
 "Cobalt, Co ",<= 0.100 %,<= 0.100 %,Filler metal
@@ -34,37 +24,17 @@ Charpy Impact  ,"150 J
  ,<= 0.0100 %,<= 0.0100 %,All-weld metal
 "Sulfur, S ",<= 0.0100 %,<= 0.0100 %,Filler metal
  ,<= 0.100 %,<= 0.100 %,All-weld metal
-"Tensile Strength, Ultimate  ","540 MPa
-@Temperature 400 °C","78300 psi
-@Temperature 752 °F",
- ,"660 MPa
-@Temperature 20.0 °C","95700 psi
-@Temperature 68.0 °F",
+"Tensile Strength, Ultimate  ","540 MPa @Temperature 400 C","78300 psi @Temperature 752 F",
+ ,"660 MPa @Temperature 20.0 C","95700 psi @Temperature 68.0 F",
 Elongation at Break ,45 %,45 %,
-Rupture Strength  ,"2.00e+6 MPa
-@Temperature 800 °C","2.90e+8 psi
-@Temperature 1470 °F",
- ,"5.30e+6 MPa
-@Temperature 700 °C","7.69e+8 psi
-@Temperature 1290 °F",
- ,"1.80e+7 MPa
-@Temperature 600 °C","2.61e+9 psi
-@Temperature 1110 °F",
-Thermal Conductivity  ,"15.0 W/m-K
-@Temperature 20.0 °C","104 BTU-in/hr-ft²-°F
-@Temperature 68.0 °F",
- ,"16.0 W/m-K
-@Temperature 100 °C","111 BTU-in/hr-ft²-°F
-@Temperature 212 °F",
- ,"18.0 W/m-K
-@Temperature 300 °C","125 BTU-in/hr-ft²-°F
-@Temperature 572 °F",
- ,"22.0 W/m-K
-@Temperature 500 °C","153 BTU-in/hr-ft²-°F
-@Temperature 932 °F",
- ,"25.5 W/m-K
-@Temperature 700 °C","177 BTU-in/hr-ft²-°F
-@Temperature 1290 °F",
+Rupture Strength  ,"2.00e+6 MPa @Temperature 800 C","2.90e+8 psi @Temperature 1470 F",
+ ,"5.30e+6 MPa @Temperature 700 C","7.69e+8 psi @Temperature 1290 F",
+ ,"1.80e+7 MPa @Temperature 600 C","2.61e+9 psi @Temperature 1110 F",
+Thermal Conductivity  ,"15.0 W/m-K @Temperature 20.0 C","104 BTU-in/hr-ft-F @Temperature 68.0 F",
+ ,"16.0 W/m-K @Temperature 100 C","111 BTU-in/hr-ft-F @Temperature 212 F",
+ ,"18.0 W/m-K @Temperature 300 C","125 BTU-in/hr-ft-F @Temperature 572 F",
+ ,"22.0 W/m-K @Temperature 500 C","153 BTU-in/hr-ft-F @Temperature 932 F",
+ ,"25.5 W/m-K @Temperature 700 C","177 BTU-in/hr-ft-F @Temperature 1290 F",
 "Chromium, Cr ",20 %,20 %,Filler metal
  ,20.5 %,20.5 %,All-weld metal
 "Copper, Cu ",<= 0.0500 %,<= 0.0500 %,Filler metal

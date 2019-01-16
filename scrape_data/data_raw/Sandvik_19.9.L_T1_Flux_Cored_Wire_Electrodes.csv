@@ -6,17 +6,9 @@ Elongation at Break ,44 %,44 %,Using Ar 75%/CO2 25%
 "Carbon, C ",0.028 %,0.028 %,
 "Manganese, Mn ",1.15 %,1.15 %,
 "Silicon, Si ",0.80 %,0.80 %,
-"Tensile Strength, Yield  ","372 MPa
-@Strain 0.200 %","54000 psi
-@Strain 0.200 %",Using CO 100%
- ,"410 MPa
-@Strain 0.200 %","59500 psi
-@Strain 0.200 %",Using Ar 75%/CO2 25%
-Charpy Impact  ,"55.0 J
-@Temperature -20.0 °C","40.6 ft-lb
-@Temperature -4.00 °F",Using Ar 75%/CO2 25%
- ,"55.0 J
-@Temperature -20.0 °C","40.6 ft-lb
-@Temperature -4.00 °F",Using CO 100%
+"Tensile Strength, Yield  ","372 MPa @Strain 0.200 %","54000 psi @Strain 0.200 %",Using CO 100%
+ ,"410 MPa @Strain 0.200 %","59500 psi @Strain 0.200 %",Using Ar 75%/CO2 25%
+Charpy Impact  ,"55.0 J @Temperature -20.0 °C","40.6 ft-lb @Temperature -4.00 °F",Using Ar 75%/CO2 25%
+ ,"55.0 J @Temperature -20.0 °C","40.6 ft-lb @Temperature -4.00 °F",Using CO 100%
 "Chromium, Cr ",19.2 %,19.2 %,
 "Nickel, Ni ",10.1 %,10.1 %,

@@ -6,9 +6,7 @@ Elongation at Break ,35 %,35 %,
 "Molybdenum, Mo ",3.5 %,3.5 %,
 "Phosphorous, P ",<= 0.0250 %,<= 0.0250 %,
 "Sulfur, S ",<= 0.0200 %,<= 0.0200 %,
-"Tensile Strength, Yield ","350 MPa
-@Strain 0.200 %","50800 psi
-@Strain 0.200 %",
+"Tensile Strength, Yield ","350 MPa @Strain 0.200 %","50800 psi @Strain 0.200 %",
 Charpy Impact ,90.0 J,66.4 ft-lb,
 "Chromium, Cr ",27 %,27 %,
 "Manganese, Mn ",1.0 %,1.0 %,

@@ -1,13 +1,9 @@
 ,Metric,English,Comments
-Density ,7.70 g/cc,0.278 lb/in³,
+Density ,7.70 g/cc,0.278 lb/in,
 "Hardness, Vickers ",200 - 250,200 - 250,
-"Tensile Strength, Yield ","520 MPa
-@Strain 0.200 %","75400 psi
-@Strain 0.200 %",
+"Tensile Strength, Yield ","520 MPa @Strain 0.200 %","75400 psi @Strain 0.200 %",
 Reduction of Area ,30 %,30 %,
-"CTE, linear ","15.0 µm/m-°C
-@Temperature 20.0 - 800 °C","8.33 µin/in-°F
-@Temperature 68.0 - 1470 °F",
+"CTE, linear ","15.0 m/m-C @Temperature 20.0 - 800 C","8.33 in/in-F @Temperature 68.0 - 1470 F",
 "Carbon, C ",0.10 %,0.10 %,AIM
  ,0.10 %,0.10 %,All-weld metal
 "Cobalt, Co ",<= 0.200 %,<= 0.200 %,AIM
@@ -22,15 +18,9 @@ Reduction of Area ,30 %,30 %,
 "Tensile Strength, Ultimate ",730 MPa,106000 psi,
 Elongation at Break ,25 %,25 %,
 Charpy Impact ,100 J,73.8 ft-lb,
-Thermal Conductivity  ,"21.0 W/m-K
-@Temperature 20.0 °C","146 BTU-in/hr-ft²-°F
-@Temperature 68.0 °F",
- ,"21.0 W/m-K
-@Temperature 100 °C","146 BTU-in/hr-ft²-°F
-@Temperature 212 °F",
- ,"26.0 W/m-K
-@Temperature 300 °C","180 BTU-in/hr-ft²-°F
-@Temperature 572 °F",
+Thermal Conductivity  ,"21.0 W/m-K @Temperature 20.0 C","146 BTU-in/hr-ft-F @Temperature 68.0 F",
+ ,"21.0 W/m-K @Temperature 100 C","146 BTU-in/hr-ft-F @Temperature 212 F",
+ ,"26.0 W/m-K @Temperature 300 C","180 BTU-in/hr-ft-F @Temperature 572 F",
 "Chromium, Cr ",29 %,29 %,All-weld metal
  ,30.5 %,30.5 %,AIM
 "Copper, Cu ",<= 0.200 %,<= 0.200 %,AIM

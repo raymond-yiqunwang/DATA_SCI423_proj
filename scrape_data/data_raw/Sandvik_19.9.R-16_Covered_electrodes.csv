@@ -1,8 +1,6 @@
 ,Metric,English,Comments
 "Hardness, Brinell ",200,200,
-"Tensile Strength, Yield ","441 MPa
-@Strain 0.200 %","64000 psi
-@Strain 0.200 %",
+"Tensile Strength, Yield ","441 MPa @Strain 0.200 %","64000 psi @Strain 0.200 %",
 Impact Test ,122 J,90.0 ft-lb,
 "Carbon, C ",0.060 %,0.060 %,
 "Manganese, Mn ",2.0 %,2.0 %,

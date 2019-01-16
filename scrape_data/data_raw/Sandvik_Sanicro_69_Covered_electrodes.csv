@@ -1,31 +1,19 @@
 ,Metric,English,Comments
-"Tensile Strength, Ultimate  ","520 MPa
-@Temperature 360 °C","75400 psi
-@Temperature 680 °F",
- ,"650 MPa
-@Temperature 20.0 °C","94300 psi
-@Temperature 68.0 °F",
-Elongation at Break  ,"39 %
-@Temperature 360 °C","39 %
-@Temperature 680 °F",
- ,"43 %
-@Temperature 20.0 °C","43 %
-@Temperature 68.0 °F",
-"Charpy Impact, Unnotched ",75.0 J,55.3 ft-lb,After PWHT1) at 610°C (1130 F) for 24 hours
+"Tensile Strength, Ultimate  ","520 MPa @Temperature 360 C","75400 psi @Temperature 680 F",
+ ,"650 MPa @Temperature 20.0 C","94300 psi @Temperature 68.0 F",
+Elongation at Break  ,"39 % @Temperature 360 C","39 % @Temperature 680 F",
+ ,"43 % @Temperature 20.0 C","43 % @Temperature 68.0 F",
+"Charpy Impact, Unnotched ",75.0 J,55.3 ft-lb,After PWHT1) at 610C (1130 F) for 24 hours
 "Carbon, C ",0.030 %,0.030 %,
 "Cobalt, Co ",<= 0.0500 %,<= 0.0500 %,
 "Iron, Fe ",9.0 %,9.0 %,
 "Molybdenum, Mo ",<= 0.300 %,<= 0.300 %,
 "Niobium, Nb (Columbium, Cb) ",1.5 %,1.5 %,
 "Silicon, Si ",0.40 %,0.40 %,
-"Tensile Strength, Yield ","330 MPa
-@Temperature 360 °C","47900 psi
-@Temperature 680 °F",
- ,"420 MPa
-@Strain 0.200 %,
-Temperature 20.0 °C","60900 psi
-@Strain 0.200 %,
-Temperature 68.0 °F",
+"Tensile Strength, Yield ","330 MPa @Temperature 360 C","47900 psi @Temperature 680 F",
+ ,"420 MPa @Strain 0.200 %,
+Temperature 20.0 C","60900 psi @Strain 0.200 %,
+Temperature 68.0 F",
 Charpy Impact ,115 J,84.8 ft-lb,
 "Chromium, Cr ",30 %,30 %,
 "Copper, Cu ",<= 0.200 %,<= 0.200 %,

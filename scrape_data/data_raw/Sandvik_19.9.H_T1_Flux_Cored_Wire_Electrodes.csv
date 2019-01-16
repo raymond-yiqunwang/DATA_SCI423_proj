@@ -6,11 +6,7 @@ Elongation at Break ,42 %,42 %,Using Ar 75%/CO2 25%
 "Carbon, C ",0.55 %,0.55 %,
 "Manganese, Mn ",1.15 %,1.15 %,
 "Silicon, Si ",0.85 %,0.85 %,
-"Tensile Strength, Yield  ","392 MPa
-@Strain 0.200 %","56900 psi
-@Strain 0.200 %",Using CO 100%
- ,"430 MPa
-@Strain 0.200 %","62400 psi
-@Strain 0.200 %",Using Ar 75%/CO2 25%
+"Tensile Strength, Yield  ","392 MPa @Strain 0.200 %","56900 psi @Strain 0.200 %",Using CO 100%
+ ,"430 MPa @Strain 0.200 %","62400 psi @Strain 0.200 %",Using Ar 75%/CO2 25%
 "Chromium, Cr ",19.4 %,19.4 %,
 "Nickel, Ni ",9.7 %,9.7 %,

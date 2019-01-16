@@ -1,8 +1,6 @@
 ,Metric,English,Comments
 "Hardness, Vickers ",220,220,
-"Tensile Strength, Yield ","600 MPa
-@Strain 0.200 %","87000 psi
-@Strain 0.200 %",
+"Tensile Strength, Yield ","600 MPa @Strain 0.200 %","87000 psi @Strain 0.200 %",
 Reduction of Area ,25 %,25 %,
 "Carbon, C ",<= 0.0100 %,<= 0.0100 %,
 "Manganese, Mn ",1.5 %,1.5 %,

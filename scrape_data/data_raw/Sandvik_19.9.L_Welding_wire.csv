@@ -1,22 +1,16 @@
 ,Metric,English,Comments
-Density ,7.90 g/cc,0.285 lb/in³,
+Density ,7.90 g/cc,0.285 lb/in,
 "Hardness, Vickers ",160,160,
 "Tensile Strength, Yield ",390 MPa,56600 psi,SAW typical for non heat treated weld metal using flux 15W
- ,"290 MPa
-@Strain 0.200 %,
-Temperature 400 °C","42100 psi
-@Strain 0.200 %,
-Temperature 752 °F",
- ,"390 MPa
-@Strain 0.200 %,
-Temperature 20.0 °C","56600 psi
-@Strain 0.200 %,
-Temperature 68.0 °F",
+ ,"290 MPa @Strain 0.200 %,
+Temperature 400 C","42100 psi @Strain 0.200 %,
+Temperature 752 F",
+ ,"390 MPa @Strain 0.200 %,
+Temperature 20.0 C","56600 psi @Strain 0.200 %,
+Temperature 68.0 F",
 Reduction of Area ,56 %,56 %,
-"CTE, linear ","18.0 µm/m-°C
-@Temperature 20.0 - 400 °C","10.0 µin/in-°F
-@Temperature 68.0 - 752 °F",
-"Maximum Service Temperature, Air ",350 °C,662 °F,
+"CTE, linear ","18.0 m/m-C @Temperature 20.0 - 400 C","10.0 in/in-F @Temperature 68.0 - 752 F",
+"Maximum Service Temperature, Air ",350 C,662 F,
 "Carbon, C ",0.020 %,0.020 %,MIG
  ,0.020 %,0.020 %,SAW
  ,<= 0.0250 %,<= 0.0250 %,Aim
@@ -34,38 +28,18 @@ Reduction of Area ,56 %,56 %,
  ,0.020 %,0.020 %,MIG
  ,0.025 %,0.025 %,SAW
 "Tensile Strength, Ultimate ",560 MPa,81200 psi,SAW typical for non heat treated weld metal using flux 15W
- ,"440 MPa
-@Temperature 400 °C","63800 psi
-@Temperature 752 °F",
- ,"600 MPa
-@Temperature 20.0 °C","87000 psi
-@Temperature 68.0 °F",
+ ,"440 MPa @Temperature 400 C","63800 psi @Temperature 752 F",
+ ,"600 MPa @Temperature 20.0 C","87000 psi @Temperature 68.0 F",
 Elongation at Break ,35 %,35 %,SAW typical for non heat treated weld metal using flux 15W
- ,"25 %
-@Temperature 400 °C","25 %
-@Temperature 752 °F",
- ,"35 %
-@Temperature 20.0 °C","35 %
-@Temperature 68.0 °F",
+ ,"25 % @Temperature 400 C","25 % @Temperature 752 F",
+ ,"35 % @Temperature 20.0 C","35 % @Temperature 68.0 F",
 Charpy Impact ,90.0 J,66.4 ft-lb,SAW typical for non heat treated weld metal using flux 15W
- ,"60.0 J
-@Temperature -196 °C","44.3 ft-lb
-@Temperature -321 °F",
- ,"135 J
-@Temperature 20.0 °C","99.6 ft-lb
-@Temperature 68.0 °F",
-Thermal Conductivity  ,"15.0 W/m-K
-@Temperature 20.0 °C","104 BTU-in/hr-ft²-°F
-@Temperature 68.0 °F",
- ,"16.0 W/m-K
-@Temperature 100 °C","111 BTU-in/hr-ft²-°F
-@Temperature 212 °F",
- ,"19.0 W/m-K
-@Temperature 300 °C","132 BTU-in/hr-ft²-°F
-@Temperature 572 °F",
- ,"21.0 W/m-K
-@Temperature 500 °C","146 BTU-in/hr-ft²-°F
-@Temperature 932 °F",
+ ,"60.0 J @Temperature -196 C","44.3 ft-lb @Temperature -321 F",
+ ,"135 J @Temperature 20.0 C","99.6 ft-lb @Temperature 68.0 F",
+Thermal Conductivity  ,"15.0 W/m-K @Temperature 20.0 C","104 BTU-in/hr-ft-F @Temperature 68.0 F",
+ ,"16.0 W/m-K @Temperature 100 C","111 BTU-in/hr-ft-F @Temperature 212 F",
+ ,"19.0 W/m-K @Temperature 300 C","132 BTU-in/hr-ft-F @Temperature 572 F",
+ ,"21.0 W/m-K @Temperature 500 C","146 BTU-in/hr-ft-F @Temperature 932 F",
 "Chromium, Cr ",19.5 %,19.5 %,SAW
  ,20 %,20 %,Aim
  ,20 %,20 %,MIG

@@ -1,21 +1,11 @@
 ,Metric,English,Comments
 "Hardness, Vickers ",160,160,
-"Tensile Strength, Yield ","400 MPa
-@Strain 0.200 %","58000 psi
-@Strain 0.200 %",
+"Tensile Strength, Yield ","400 MPa @Strain 0.200 %","58000 psi @Strain 0.200 %",
 Reduction of Area ,60 %,60 %,
-Thermal Conductivity  ,"14.0 W/m-K
-@Temperature 20.0 °C","97.2 BTU-in/hr-ft²-°F
-@Temperature 68.0 °F",
- ,"15.0 W/m-K
-@Temperature 100 °C","104 BTU-in/hr-ft²-°F
-@Temperature 212 °F",
- ,"17.0 W/m-K
-@Temperature 300 °C","118 BTU-in/hr-ft²-°F
-@Temperature 572 °F",
- ,"18.0 W/m-K
-@Temperature 500 °C","125 BTU-in/hr-ft²-°F
-@Temperature 932 °F",
+Thermal Conductivity  ,"14.0 W/m-K @Temperature 20.0 C","97.2 BTU-in/hr-ft-F @Temperature 68.0 F",
+ ,"15.0 W/m-K @Temperature 100 C","104 BTU-in/hr-ft-F @Temperature 212 F",
+ ,"17.0 W/m-K @Temperature 300 C","118 BTU-in/hr-ft-F @Temperature 572 F",
+ ,"18.0 W/m-K @Temperature 500 C","125 BTU-in/hr-ft-F @Temperature 932 F",
 "Carbon, C ",0.015 %,0.015 %,Weld metal
  ,<= 0.0200 %,<= 0.0200 %,AIM
 "Cobalt, Co ",<= 0.100 %,<= 0.100 %,AIM

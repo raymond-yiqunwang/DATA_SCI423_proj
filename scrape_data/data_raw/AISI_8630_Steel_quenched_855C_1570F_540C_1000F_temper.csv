@@ -4,31 +4,15 @@ Density ,7.85 g/cc,0.284 lb/in³,
 "Hardness, Vickers ",332,332,Converted from Rockwell C hardness.
 Bulk Modulus ,160 GPa,23200 ksi,Typical for steel.
 Machinability ,70 %,70 %,annealed and cold drawn. Based on AISI 1212 steel as 100% machinability.
-Charpy Impact  ,"15.0 J
-@Temperature -185 °C","11.1 ft-lb
-@Temperature -301 °F",
- ,"27.0 J
-@Temperature -130 °C","19.9 ft-lb
-@Temperature -202 °F",
- ,"58.0 J
-@Temperature -73.0 °C","42.8 ft-lb
-@Temperature -99.4 °F",
- ,"72.0 J
-@Temperature -18.0 °C","53.1 ft-lb
-@Temperature -0.400 °F",
- ,"73.0 J
-@Temperature 38.0 °C","53.8 ft-lb
-@Temperature 100 °F",
+Charpy Impact  ,"15.0 J @Temperature -185 °C","11.1 ft-lb @Temperature -301 °F",
+ ,"27.0 J @Temperature -130 °C","19.9 ft-lb @Temperature -202 °F",
+ ,"58.0 J @Temperature -73.0 °C","42.8 ft-lb @Temperature -99.4 °F",
+ ,"72.0 J @Temperature -18.0 °C","53.1 ft-lb @Temperature -0.400 °F",
+ ,"73.0 J @Temperature 38.0 °C","53.8 ft-lb @Temperature 100 °F",
 Electrical Resistivity ,0.0000234 ohm-cm,0.0000234 ohm-cm,Typical steel
-"CTE, linear  ","11.2 µm/m-°C
-@Temperature 21.0 - 100 °C","6.22 µin/in-°F
-@Temperature 69.8 - 212 °F",
- ,"12.2 µm/m-°C
-@Temperature 21.0 - 200 °C","6.78 µin/in-°F
-@Temperature 69.8 - 392 °F",
- ,"14.0 µm/m-°C
-@Temperature 21.0 - 500 °C","7.78 µin/in-°F
-@Temperature 69.8 - 932 °F",
+"CTE, linear  ","11.2 µm/m-°C @Temperature 21.0 - 100 °C","6.22 µin/in-°F @Temperature 69.8 - 212 °F",
+ ,"12.2 µm/m-°C @Temperature 21.0 - 200 °C","6.78 µin/in-°F @Temperature 69.8 - 392 °F",
+ ,"14.0 µm/m-°C @Temperature 21.0 - 500 °C","7.78 µin/in-°F @Temperature 69.8 - 932 °F",
 Thermal Conductivity ,46.6 W/m-K,323 BTU-in/hr-ft²-°F,Typical steel
 "Carbon, C ",0.28 - 0.33 %,0.28 - 0.33 %,
 "Iron, Fe ",96.745 - 98.02 %,96.745 - 98.02 %,As remainder

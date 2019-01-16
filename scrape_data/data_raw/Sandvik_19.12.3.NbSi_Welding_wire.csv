@@ -1,21 +1,15 @@
 ,Metric,English,Comments
-Density ,8.00 g/cc,0.289 lb/in³,
+Density ,8.00 g/cc,0.289 lb/in,
 "Hardness, Vickers ",160,160,
-"Tensile Strength, Yield  ","390 MPa
-@Strain 0.200 %,
-Temperature 400 °C","56600 psi
-@Strain 0.200 %,
-Temperature 752 °F",
- ,"400 MPa
-@Strain 0.200 %,
-Temperature 20.0 °C","58000 psi
-@Strain 0.200 %,
-Temperature 68.0 °F",
+"Tensile Strength, Yield  ","390 MPa @Strain 0.200 %,
+Temperature 400 C","56600 psi @Strain 0.200 %,
+Temperature 752 F",
+ ,"400 MPa @Strain 0.200 %,
+Temperature 20.0 C","58000 psi @Strain 0.200 %,
+Temperature 68.0 F",
 Reduction of Area ,60 %,60 %,
-"CTE, linear ","18.0 µm/m-°C
-@Temperature 20.0 - 400 °C","10.0 µin/in-°F
-@Temperature 68.0 - 752 °F",
-"Maximum Service Temperature, Air ",400 °C,752 °F,
+"CTE, linear ","18.0 m/m-C @Temperature 20.0 - 400 C","10.0 in/in-F @Temperature 68.0 - 752 F",
+"Maximum Service Temperature, Air ",400 C,752 F,
 "Carbon, C ",0.040 %,0.040 %,AIM
  ,0.040 %,0.040 %,All Weld Metal
 "Cobalt, Co ",<= 0.200 %,<= 0.200 %,AIM
@@ -27,36 +21,16 @@ Reduction of Area ,60 %,60 %,
  ,<= 0.0600 %,<= 0.0600 %,AIM
 "Silicon, Si ",0.80 %,0.80 %,All Weld Metal
  ,0.90 %,0.90 %,AIM
-"Tensile Strength, Ultimate  ","540 MPa
-@Temperature 400 °C","78300 psi
-@Temperature 752 °F",
- ,"610 MPa
-@Temperature 20.0 °C","88500 psi
-@Temperature 68.0 °F",
-Elongation at Break  ,"30 %
-@Temperature 400 °C","30 %
-@Temperature 752 °F",
- ,"35 %
-@Temperature 20.0 °C","35 %
-@Temperature 68.0 °F",
-Charpy Impact  ,"40.0 J
-@Temperature -196 °C","29.5 ft-lb
-@Temperature -321 °F",
- ,"110 J
-@Temperature 20.0 °C","81.1 ft-lb
-@Temperature 68.0 °F",
-Thermal Conductivity  ,"15.0 W/m-K
-@Temperature 20.0 °C","104 BTU-in/hr-ft²-°F
-@Temperature 68.0 °F",
- ,"16.0 W/m-K
-@Temperature 100 °C","111 BTU-in/hr-ft²-°F
-@Temperature 212 °F",
- ,"21.0 W/m-K
-@Temperature 300 °C","146 BTU-in/hr-ft²-°F
-@Temperature 572 °F",
- ,"23.0 W/m-K
-@Temperature 500 °C","160 BTU-in/hr-ft²-°F
-@Temperature 932 °F",
+"Tensile Strength, Ultimate  ","540 MPa @Temperature 400 C","78300 psi @Temperature 752 F",
+ ,"610 MPa @Temperature 20.0 C","88500 psi @Temperature 68.0 F",
+Elongation at Break  ,"30 % @Temperature 400 C","30 % @Temperature 752 F",
+ ,"35 % @Temperature 20.0 C","35 % @Temperature 68.0 F",
+Charpy Impact  ,"40.0 J @Temperature -196 C","29.5 ft-lb @Temperature -321 F",
+ ,"110 J @Temperature 20.0 C","81.1 ft-lb @Temperature 68.0 F",
+Thermal Conductivity  ,"15.0 W/m-K @Temperature 20.0 C","104 BTU-in/hr-ft-F @Temperature 68.0 F",
+ ,"16.0 W/m-K @Temperature 100 C","111 BTU-in/hr-ft-F @Temperature 212 F",
+ ,"21.0 W/m-K @Temperature 300 C","146 BTU-in/hr-ft-F @Temperature 572 F",
+ ,"23.0 W/m-K @Temperature 500 C","160 BTU-in/hr-ft-F @Temperature 932 F",
 "Chromium, Cr ",18 %,18 %,All Weld Metal
  ,18.5 %,18.5 %,AIM
 "Copper, Cu ",<= 0.200 %,<= 0.200 %,AIM

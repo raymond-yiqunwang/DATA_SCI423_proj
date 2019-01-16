@@ -1,12 +1,10 @@
 ,Metric,English,Comments
-Density ,7.90 g/cc,0.285 lb/in³,
+Density ,7.90 g/cc,0.285 lb/in,
 "Tensile Strength, Ultimate ",860 MPa,125000 psi,SAW
  ,880 MPa,128000 psi,TIG
 Elongation at Break ,25 %,25 %,TIG
  ,25 %,25 %,SAW
-"CTE, linear ","14.5 µm/m-°C
-@Temperature 20.0 - 400 °C","8.06 µin/in-°F
-@Temperature 68.0 - 752 °F",
+"CTE, linear ","14.5 m/m-C @Temperature 20.0 - 400 C","8.06 in/in-F @Temperature 68.0 - 752 F",
 "Carbon, C ",>= 0.0200 %,>= 0.0200 %,SAW
  ,<= 0.0250 %,<= 0.0250 %,Filler Metal
  ,<= 0.0250 %,<= 0.0250 %,TIG
@@ -22,15 +20,11 @@ Elongation at Break ,25 %,25 %,TIG
 "Sulfur, S ",<= 0.0150 %,<= 0.0150 %,Filler Metal
  ,<= 0.0150 %,<= 0.0150 %,TIG
  ,<= 0.0150 %,<= 0.0150 %,SAW
-"Tensile Strength, Yield  ","660 MPa
-@Strain 0.200 %","95700 psi
-@Strain 0.200 %",SAW
- ,"670 MPa
-@Strain 0.200 %","97200 psi
-@Strain 0.200 %",TIG
+"Tensile Strength, Yield  ","660 MPa @Strain 0.200 %","95700 psi @Strain 0.200 %",SAW
+ ,"670 MPa @Strain 0.200 %","97200 psi @Strain 0.200 %",TIG
 Charpy Impact ,115 J,84.8 ft-lb,SAW
  ,150 J,111 ft-lb,TIG
-Thermal Conductivity ,16.0 W/m-K,111 BTU-in/hr-ft²-°F,
+Thermal Conductivity ,16.0 W/m-K,111 BTU-in/hr-ft-F,
 "Chromium, Cr ",28.5 %,28.5 %,SAW
  ,29 %,29 %,Filler Metal
  ,29 %,29 %,TIG

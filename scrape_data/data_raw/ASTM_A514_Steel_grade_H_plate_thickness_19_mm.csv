@@ -1,13 +1,9 @@
 ,Metric,English,Comments
 Density ,7.80 g/cc,0.282 lb/in³,Typical of ASTM Steel
-"Hardness, Brinell ","235 - 293
-@Thickness 9.50 mm","235 - 293
-@Thickness 0.374 in",for plates
+"Hardness, Brinell ","235 - 293 @Thickness 9.50 mm","235 - 293 @Thickness 0.374 in",for plates
 "Hardness, Rockwell B ",98,98,Converted from Brinell
 "Hardness, Vickers ",278,278,Converted from Brinell
-"Tensile Strength, Yield ","690 MPa
-@Strain 0.200 %","100000 psi
-@Strain 0.200 %",
+"Tensile Strength, Yield ","690 MPa @Strain 0.200 %","100000 psi @Strain 0.200 %",
 Bulk Modulus ,160 GPa,23200 ksi,Typical for steel
 "Boron, B ",0.00050 - 0.0050 %,0.00050 - 0.0050 %,
 "Chromium, Cr ",0.40 - 0.65 %,0.40 - 0.65 %,

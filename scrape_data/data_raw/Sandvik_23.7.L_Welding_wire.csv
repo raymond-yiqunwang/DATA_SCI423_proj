@@ -1,27 +1,13 @@
 ,Metric,English,Comments
-Density ,7.90 g/cc,0.285 lb/in³,
+Density ,7.90 g/cc,0.285 lb/in,
 "Hardness, Vickers ",230,230,TIG
-"Tensile Strength, Yield  ","500 MPa
-@Strain 0.200 %","72500 psi
-@Strain 0.200 %","SAW, FLUX 15W"
- ,"525 MPa
-@Strain 0.200 %","76100 psi
-@Strain 0.200 %",TIG
-Charpy Impact  ,"90.0 J
-@Temperature -20.0 °C","66.4 ft-lb
-@Temperature -4.00 °F","SAW, FLUX 15W"
- ,"100 J
-@Temperature 20.0 °C","73.8 ft-lb
-@Temperature 68.0 °F","SAW, FLUX 15W"
- ,"150 J
-@Temperature -20.0 °C","111 ft-lb
-@Temperature -4.00 °F",TIG
- ,"170 J
-@Temperature 20.0 °C","125 ft-lb
-@Temperature 68.0 °F",TIG
-"CTE, linear ","14.5 µm/m-°C
-@Temperature 20.0 - 400 °C","8.06 µin/in-°F
-@Temperature 68.0 - 752 °F",
+"Tensile Strength, Yield  ","500 MPa @Strain 0.200 %","72500 psi @Strain 0.200 %","SAW, FLUX 15W"
+ ,"525 MPa @Strain 0.200 %","76100 psi @Strain 0.200 %",TIG
+Charpy Impact  ,"90.0 J @Temperature -20.0 C","66.4 ft-lb @Temperature -4.00 F","SAW, FLUX 15W"
+ ,"100 J @Temperature 20.0 C","73.8 ft-lb @Temperature 68.0 F","SAW, FLUX 15W"
+ ,"150 J @Temperature -20.0 C","111 ft-lb @Temperature -4.00 F",TIG
+ ,"170 J @Temperature 20.0 C","125 ft-lb @Temperature 68.0 F",TIG
+"CTE, linear ","14.5 m/m-C @Temperature 20.0 - 400 C","8.06 in/in-F @Temperature 68.0 - 752 F",
 "Carbon, C ",<= 0.0200 %,<= 0.0200 %,
 "Manganese, Mn ",1.7 %,1.7 %,
 "Nickel, Ni ",7.0 %,7.0 %,
@@ -31,7 +17,7 @@ Charpy Impact  ,"90.0 J
  ,710 MPa,103000 psi,TIG
 Elongation at Break ,25 %,25 %,TIG
  ,30 %,30 %,"SAW, FLUX 15W"
-Thermal Conductivity ,16.0 W/m-K,111 BTU-in/hr-ft²-°F,
+Thermal Conductivity ,16.0 W/m-K,111 BTU-in/hr-ft-F,
 "Chromium, Cr ",23 %,23 %,
 "Molybdenum, Mo ",0.30 %,0.30 %,
 "Nitrogen, N ",0.14 %,0.14 %,

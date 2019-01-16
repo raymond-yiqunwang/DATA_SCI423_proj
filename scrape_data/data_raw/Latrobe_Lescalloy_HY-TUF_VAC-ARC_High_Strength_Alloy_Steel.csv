@@ -5,9 +5,7 @@ Density ,7.78 g/cc,0.281 lb/in³,
  ,47,47,"1/8"" from quenched end; Jominy End Quench Hardenability"
 "Tensile Strength, Yield ",1276 MPa,185100 psi,
 Reduction of Area ,30 %,30 %,
-"CTE, linear ","11.3 µm/m-°C
-@Temperature 18.0 - 93.0 °C","6.28 µin/in-°F
-@Temperature 64.4 - 199 °F",
+"CTE, linear ","11.3 µm/m-°C @Temperature 18.0 - 93.0 °C","6.28 µin/in-°F @Temperature 64.4 - 199 °F",
 "Carbon, C ",0.25 %,0.25 %,
 "Iron, Fe ",94.4 %,94.4 %,
 "Molybdenum, Mo ",0.40 %,0.40 %,

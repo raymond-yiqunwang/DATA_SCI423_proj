@@ -7,9 +7,7 @@ Fracture Toughness ,80.94 - 87.83 MPa-m½,73.66 - 79.93 ksi-in½,L-T
 "Iron, Fe ",92.57 %,92.57 %,
 "Molybdenum, Mo ",0.45 %,0.45 %,
 "Silicon, Si ",0.30 %,0.30 %,
-"Tensile Strength, Yield ","1550 MPa
-@Strain 0.200 %","225000 psi
-@Strain 0.200 %",
+"Tensile Strength, Yield ","1550 MPa @Strain 0.200 %","225000 psi @Strain 0.200 %",
 Reduction of Area ,40 %,40 %,
 Charpy Impact ,21.69 J,16.00 ft-lb,U-Notch
 "Chromium, Cr ",1.8 %,1.8 %,

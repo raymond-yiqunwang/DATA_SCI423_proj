@@ -7,9 +7,7 @@ Density ,7.85 g/cc,0.284 lb/in³,
 Modulus of Elasticity ,205 GPa,29700 ksi,Typical for steel
 Poissons Ratio ,0.29,0.29,Calculated
 Shear Modulus ,80.0 GPa,11600 ksi,Typical for steel.
-Electrical Resistivity ,"0.0000300 ohm-cm
-@Temperature 50.0 °C","0.0000300 ohm-cm
-@Temperature 122 °F",condition of specimen unknown
+Electrical Resistivity ,"0.0000300 ohm-cm @Temperature 50.0 °C","0.0000300 ohm-cm @Temperature 122 °F",condition of specimen unknown
 Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical steel
 "Carbon, C ",0.13 - 0.18 %,0.13 - 0.18 %,
 "Iron, Fe ",96.995 - 98.07 %,96.995 - 98.07 %,As remainder

@@ -3,17 +3,11 @@ Density ,7.83 g/cc,0.283 lb/in³,
 "Hardness, Rockwell C ",56,56,"1"" from quench end; Jominy End Quench Hardenability"
  ,56.5,56.5,"1/2"" from quenched end; Jominy End Quench Hardenability"
  ,58,58,"1/8"" from quenched end; Jominy End Quench Hardenability"
-"Tensile Strength, Yield  ","1378 MPa
-@Strain 0.200 %","199900 psi
-@Strain 0.200 %",700°F Temper Temperature
- ,"1448 MPa
-@Strain 0.200 %","210000 psi
-@Strain 0.200 %",460°F Temper Temperature
+"Tensile Strength, Yield  ","1378 MPa @Strain 0.200 %","199900 psi @Strain 0.200 %",700°F Temper Temperature
+ ,"1448 MPa @Strain 0.200 %","210000 psi @Strain 0.200 %",460°F Temper Temperature
 Reduction of Area ,30 %,30 %,460°F Temper Temperature
  ,35 %,35 %,700°F Temper Temperature
-"CTE, linear ","11.34 µm/m-°C
-@Temperature -17.8 - 648 °C","6.300 µin/in-°F
-@Temperature -0.0400 - 1200 °F",
+"CTE, linear ","11.34 µm/m-°C @Temperature -17.8 - 648 °C","6.300 µin/in-°F @Temperature -0.0400 - 1200 °F",
 "Carbon, C ",0.35 %,0.35 %,
 "Iron, Fe ",95.2 %,95.2 %,
 "Molybdenum, Mo ",0.35 %,0.35 %,

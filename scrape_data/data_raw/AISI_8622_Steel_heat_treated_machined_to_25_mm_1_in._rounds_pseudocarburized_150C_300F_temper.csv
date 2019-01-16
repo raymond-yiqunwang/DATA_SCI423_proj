@@ -3,9 +3,7 @@ Density ,7.85 g/cc,0.284 lb/in³,
 "Hardness, Brinell ",388,388,
 "Hardness, Rockwell B ",101,101,Converted from Brinell
 "Hardness, Vickers ",411,411,Converted from Brinell
-"Tensile Strength, Yield ","928 MPa
-@Strain 0.200 %","135000 psi
-@Strain 0.200 %",
+"Tensile Strength, Yield ","928 MPa @Strain 0.200 %","135000 psi @Strain 0.200 %",
 Modulus of Elasticity ,205 GPa,29700 ksi,Typical for steel
 Poissons Ratio ,0.29,0.29,Calculated
 Shear Modulus ,80.0 GPa,11600 ksi,Typical for steel

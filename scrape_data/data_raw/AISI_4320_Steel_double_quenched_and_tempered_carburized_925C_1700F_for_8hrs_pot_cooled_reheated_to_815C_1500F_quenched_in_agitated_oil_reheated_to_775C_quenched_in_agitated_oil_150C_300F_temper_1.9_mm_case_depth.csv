@@ -10,9 +10,7 @@ Fracture Toughness ,33.0 - 49.4 MPa-m½,30.0 - 45.0 ksi-in½,cracks originating 
  ,71.4 - 115 MPa-m½,65.0 - 105 ksi-in½,cracks originating in core
 Shear Modulus ,80.0 GPa,11600 ksi,Typical for steels.
 Electrical Resistivity ,0.0000245 ohm-cm,0.0000245 ohm-cm,Typical 4000 series steel
-"CTE, linear ","11.3 µm/m-°C
-@Temperature -18.0 - 95.0 °C","6.28 µin/in-°F
-@Temperature -0.400 - 203 °F",condition of specimen unknown
+"CTE, linear ","11.3 µm/m-°C @Temperature -18.0 - 95.0 °C","6.28 µin/in-°F @Temperature -0.400 - 203 °F",condition of specimen unknown
 Thermal Conductivity ,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
 "Carbon, C ",0.17 - 0.22 %,0.17 - 0.22 %,
 "Iron, Fe ",95.855 - 96.98 %,95.855 - 96.98 %,As remainder

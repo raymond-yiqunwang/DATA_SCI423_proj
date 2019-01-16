@@ -9,9 +9,7 @@ Shear Modulus ,80.0 GPa,11600 ksi,Typical for steel
 "Nickel, Ni ",0.30 - 0.70 %,0.30 - 0.70 %,
 "Silicon, Si ",0.20 - 0.35 %,0.20 - 0.35 %,
 "Vanadium, V ",0.030 - 0.080 %,0.030 - 0.080 %,
-"Tensile Strength, Yield ","690 MPa
-@Strain 0.200 %","100000 psi
-@Strain 0.200 %",
+"Tensile Strength, Yield ","690 MPa @Strain 0.200 %","100000 psi @Strain 0.200 %",
 Bulk Modulus ,160 GPa,23200 ksi,Typical for steel
 "Carbon, C ",0.12 - 0.21 %,0.12 - 0.21 %,
 "Iron, Fe ",97 %,97 %,as balance

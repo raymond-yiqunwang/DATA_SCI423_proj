@@ -1,46 +1,24 @@
 ,Metric,English,Comments
-Density ,7.81 g/cc,0.282 lb/in³,hardness of 310 HB
- ,"7.75 g/cc
-@Temperature 199 °C","0.280 lb/in³
-@Temperature 390 °F",hardness of 310 HB
+Density ,7.81 g/cc,0.282 lb/in,hardness of 310 HB
+ ,"7.75 g/cc @Temperature 199 C","0.280 lb/in @Temperature 390 F",hardness of 310 HB
 "Hardness, Brinell ",290 - 341,290 - 341,Hardened and tempered (Delivery condition)
-"Tensile Strength, Yield  ","800 MPa
-@Strain 0.200 %","116000 psi
-@Strain 0.200 %",68°F (hardness of 325 HB)
- ,"896 MPa
-@Strain 0.200 %","130000 psi
-@Strain 0.200 %",68°F (hardness of 325 HB)
+"Tensile Strength, Yield  ","800 MPa @Strain 0.200 %","116000 psi @Strain 0.200 %",68F (hardness of 325 HB)
+ ,"896 MPa @Strain 0.200 %","130000 psi @Strain 0.200 %",68F (hardness of 325 HB)
 Compressive Yield Strength ,850 - 1000 MPa,123000 - 145000 psi,
-"CTE, linear ","12.6 µm/m-°C
-@Temperature 199 °C","7.00 µin/in-°F
-@Temperature 390 °F",hardness of 310 HB
-Thermal Conductivity  ,"29.0 W/m-K
-@Temperature 20.0 °C","201 BTU-in/hr-ft²-°F
-@Temperature 68.0 °F",hardness of 310 HB
- ,"30.0 W/m-K
-@Temperature 199 °C","208 BTU-in/hr-ft²-°F
-@Temperature 390 °F",hardness of 310 HB
+"CTE, linear ","12.6 m/m-C @Temperature 199 C","7.00 in/in-F @Temperature 390 F",hardness of 310 HB
+Thermal Conductivity  ,"29.0 W/m-K @Temperature 20.0 C","201 BTU-in/hr-ft-F @Temperature 68.0 F",hardness of 310 HB
+ ,"30.0 W/m-K @Temperature 199 C","208 BTU-in/hr-ft-F @Temperature 390 F",hardness of 310 HB
 "Carbon, C ",0.37 %,0.37 %,
 "Iron, Fe ",94.73 %,94.73 %,As Balance
 "Molybdenum, Mo ",0.20 %,0.20 %,
 "Silicon, Si ",0.30 %,0.30 %,
 "Tensile Strength, Ultimate ",1010 MPa,146000 psi,(hardness of 325 HB)
- ,"896 MPa
-@Temperature 199 °C","130000 psi
-@Temperature 390 °F",(hardness of 325 HB)
+ ,"896 MPa @Temperature 199 C","130000 psi @Temperature 390 F",(hardness of 325 HB)
 Modulus of Elasticity ,205 GPa,29700 ksi,(hardness of 310 HB)
- ,"200 GPa
-@Temperature 199 °C","29000 ksi
-@Temperature 390 °F",hardness of 310 HB
-Charpy Impact  ,"5.02 - 10.0 J
-@Temperature -100 °C","3.70 - 7.40 ft-lb
-@Temperature -148 °F",V-notch
- ,"40.7 - 67.8 J
-@Temperature 150 °C","30.0 - 50.0 ft-lb
-@Temperature 302 °F",V-notch
-Specific Heat Capacity ,"0.460 J/g-°C
-@Temperature 20.0 °C","0.110 BTU/lb-°F
-@Temperature 68.0 °F",hardness of 310 HB
+ ,"200 GPa @Temperature 199 C","29000 ksi @Temperature 390 F",hardness of 310 HB
+Charpy Impact  ,"5.02 - 10.0 J @Temperature -100 C","3.70 - 7.40 ft-lb @Temperature -148 F",V-notch
+ ,"40.7 - 67.8 J @Temperature 150 C","30.0 - 50.0 ft-lb @Temperature 302 F",V-notch
+Specific Heat Capacity ,"0.460 J/g-C @Temperature 20.0 C","0.110 BTU/lb-F @Temperature 68.0 F",hardness of 310 HB
 "Chromium, Cr ",2.0 %,2.0 %,
 "Manganese, Mn ",1.4 %,1.4 %,
 "Nickel, Ni ",1.0 %,1.0 %,

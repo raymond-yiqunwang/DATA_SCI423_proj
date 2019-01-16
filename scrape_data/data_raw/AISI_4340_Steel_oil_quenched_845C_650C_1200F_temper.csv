@@ -1,55 +1,25 @@
 ,Metric,English,Comments
 Density ,7.85 g/cc,0.284 lb/in³,
 "Tensile Strength, Ultimate ",1005 MPa,145800 psi,
- ,"1435 MPa
-@Temperature -195 °C","208100 psi
-@Temperature -319 °F",
+ ,"1435 MPa @Temperature -195 °C","208100 psi @Temperature -319 °F",
 Elongation at Break ,20 %,20 %,
- ,"20 %
-@Temperature -195 °C","20 %
-@Temperature -319 °F",
+ ,"20 % @Temperature -195 °C","20 % @Temperature -319 °F",
 Modulus of Elasticity ,213 GPa,30900 ksi,
- ,"219 GPa
-@Temperature -195 °C","31800 ksi
-@Temperature -319 °F",
+ ,"219 GPa @Temperature -195 °C","31800 ksi @Temperature -319 °F",
 Poissons Ratio ,0.29,0.29,Calculated
 Shear Modulus ,82.0 GPa,11900 ksi,Estimated from elastic modulus
-Electrical Resistivity  ,"0.0000248 ohm-cm
-@Temperature 20.0 °C","0.0000248 ohm-cm
-@Temperature 68.0 °F",
- ,"0.0000298 ohm-cm
-@Temperature 100 °C","0.0000298 ohm-cm
-@Temperature 212 °F",
- ,"0.0000552 ohm-cm
-@Temperature 400 °C","0.0000552 ohm-cm
-@Temperature 752 °F",
- ,"0.0000797 ohm-cm
-@Temperature 600 °C","0.0000797 ohm-cm
-@Temperature 1110 °F",
-"CTE, linear  ","10.4 µm/m-°C
-@Temperature 20.0 °C","5.78 µin/in-°F
-@Temperature 68.0 °F","specimen oil hardened, 630°C (1110°F) temper"
- ,"11.2 µm/m-°C
-@Temperature 20.0 °C","6.22 µin/in-°F
-@Temperature 68.0 °F","specimen oil hardened, 630°C (1110°F) temper"
- ,"12.4 µm/m-°C
-@Temperature 20.0 °C","6.89 µin/in-°F
-@Temperature 68.0 °F","specimen oil hardened, 630°C (1110°F) temper"
- ,"12.6 µm/m-°C
-@Temperature 21.0 - 260 °C","7.00 µin/in-°F
-@Temperature 69.8 - 500 °F","1.88% Ni, normalized and tempered"
- ,"13.6 µm/m-°C
-@Temperature 250 °C","7.56 µin/in-°F
-@Temperature 482 °F","specimen oil hardened, 630°C (1110°F) temper"
- ,"13.7 µm/m-°C
-@Temperature 21.0 - 540 °C","7.61 µin/in-°F
-@Temperature 69.8 - 1000 °F","1.88% Ni, normalized and tempered"
- ,"13.9 µm/m-°C
-@Temperature 21.0 - 540 °C","7.72 µin/in-°F
-@Temperature 69.8 - 1000 °F","1.90% Ni, quenched, tempered"
- ,"14.3 µm/m-°C
-@Temperature 500 °C","7.94 µin/in-°F
-@Temperature 932 °F","specimen oil hardened, 630°C (1110°F) temper"
+Electrical Resistivity  ,"0.0000248 ohm-cm @Temperature 20.0 °C","0.0000248 ohm-cm @Temperature 68.0 °F",
+ ,"0.0000298 ohm-cm @Temperature 100 °C","0.0000298 ohm-cm @Temperature 212 °F",
+ ,"0.0000552 ohm-cm @Temperature 400 °C","0.0000552 ohm-cm @Temperature 752 °F",
+ ,"0.0000797 ohm-cm @Temperature 600 °C","0.0000797 ohm-cm @Temperature 1110 °F",
+"CTE, linear  ","10.4 µm/m-°C @Temperature 20.0 °C","5.78 µin/in-°F @Temperature 68.0 °F","specimen oil hardened, 630°C (1110°F) temper"
+ ,"11.2 µm/m-°C @Temperature 20.0 °C","6.22 µin/in-°F @Temperature 68.0 °F","specimen oil hardened, 630°C (1110°F) temper"
+ ,"12.4 µm/m-°C @Temperature 20.0 °C","6.89 µin/in-°F @Temperature 68.0 °F","specimen oil hardened, 630°C (1110°F) temper"
+ ,"12.6 µm/m-°C @Temperature 21.0 - 260 °C","7.00 µin/in-°F @Temperature 69.8 - 500 °F","1.88% Ni, normalized and tempered"
+ ,"13.6 µm/m-°C @Temperature 250 °C","7.56 µin/in-°F @Temperature 482 °F","specimen oil hardened, 630°C (1110°F) temper"
+ ,"13.7 µm/m-°C @Temperature 21.0 - 540 °C","7.61 µin/in-°F @Temperature 69.8 - 1000 °F","1.88% Ni, normalized and tempered"
+ ,"13.9 µm/m-°C @Temperature 21.0 - 540 °C","7.72 µin/in-°F @Temperature 69.8 - 1000 °F","1.90% Ni, quenched, tempered"
+ ,"14.3 µm/m-°C @Temperature 500 °C","7.94 µin/in-°F @Temperature 932 °F","specimen oil hardened, 630°C (1110°F) temper"
 Thermal Conductivity ,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
 "Carbon, C ",0.37 - 0.43 %,0.37 - 0.43 %,
 "Iron, Fe ",95.195 - 96.33 %,95.195 - 96.33 %,As remainder
@@ -57,13 +27,9 @@ Thermal Conductivity ,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
 "Phosphorous, P ",<= 0.035 %,<= 0.035 %,
 "Sulfur, S ",<= 0.040 %,<= 0.040 %,
 "Tensile Strength, Yield ",938 MPa,136000 psi,
- ,"1380 MPa
-@Temperature -195 °C","200000 psi
-@Temperature -319 °F",
+ ,"1380 MPa @Temperature -195 °C","200000 psi @Temperature -319 °F",
 Reduction of Area ,60 %,60 %,
- ,"44 %
-@Temperature -195 °C","44 %
-@Temperature -319 °F",
+ ,"44 % @Temperature -195 °C","44 % @Temperature -319 °F",
 Bulk Modulus ,160 GPa,23200 ksi,Typical for steel.
 Machinability ,50 %,50 %,annealed and cold drawn. Based on 100% machinability for AISI 1212 steel.
 Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical 4000 series steel

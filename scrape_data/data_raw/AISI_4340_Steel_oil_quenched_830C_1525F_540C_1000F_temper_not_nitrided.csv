@@ -3,46 +3,20 @@ Density ,7.85 g/cc,0.284 lb/in³,
 "Hardness, Knoop ",371,371,Converted from Rockwell C hardness.
 "Hardness, Vickers ",358,358,Converted from Rockwell C hardness.
 Bulk Modulus ,159 GPa,23100 ksi,Estimated from elastic modulus
-Fatigue Strength  ,"205 MPa
-@# of Cycles >=1.00e+7","29700 psi
-@# of Cycles >=1.00e+7","Limit; Notched; R.R. Moore rotating beam fatigue specimens with min. diameter of 5.84 mm; 45°, 0.25 mm root-radius notch 0.51 mm deep."
- ,"505 MPa
-@# of Cycles >=1.00e+7","73200 psi
-@# of Cycles >=1.00e+7",Limit; Smooth; R.R. Moore rotating beam specimens with min. diameter of 5.84 mm.
+Fatigue Strength  ,"205 MPa @# of Cycles >=1.00e+7","29700 psi @# of Cycles >=1.00e+7","Limit; Notched; R.R. Moore rotating beam fatigue specimens with min. diameter of 5.84 mm; 45°, 0.25 mm root-radius notch 0.51 mm deep."
+ ,"505 MPa @# of Cycles >=1.00e+7","73200 psi @# of Cycles >=1.00e+7",Limit; Smooth; R.R. Moore rotating beam specimens with min. diameter of 5.84 mm.
 Shear Modulus ,78.0 GPa,11300 ksi,Estimated from elastic modulus
-Electrical Resistivity  ,"0.0000248 ohm-cm
-@Temperature 20.0 °C","0.0000248 ohm-cm
-@Temperature 68.0 °F",
- ,"0.0000298 ohm-cm
-@Temperature 100 °C","0.0000298 ohm-cm
-@Temperature 212 °F",
- ,"0.0000552 ohm-cm
-@Temperature 400 °C","0.0000552 ohm-cm
-@Temperature 752 °F",
- ,"0.0000797 ohm-cm
-@Temperature 600 °C","0.0000797 ohm-cm
-@Temperature 1110 °F",
-"CTE, linear  ","12.3 µm/m-°C
-@Temperature 20.0 °C","6.83 µin/in-°F
-@Temperature 68.0 °F","specimen oil hardened, 600°C (1110°F) temper"
- ,"12.6 µm/m-°C
-@Temperature 21.0 - 260 °C","7.00 µin/in-°F
-@Temperature 69.8 - 500 °F","1.88% Ni, normalized and tempered"
- ,"12.7 µm/m-°C
-@Temperature 20.0 °C","7.06 µin/in-°F
-@Temperature 68.0 °F","specimen oil hardened, 600°C (1110°F) temper"
- ,"13.7 µm/m-°C
-@Temperature 250 °C","7.61 µin/in-°F
-@Temperature 482 °F","specimen oil hardened, 600°C (1110°F) temper"
- ,"13.7 µm/m-°C
-@Temperature 21.0 - 540 °C","7.61 µin/in-°F
-@Temperature 69.8 - 1000 °F","1.88% Ni, normalized and tempered"
- ,"13.9 µm/m-°C
-@Temperature 21.0 - 540 °C","7.72 µin/in-°F
-@Temperature 69.8 - 1000 °F","1.90% Ni, quenched, tempered"
- ,"14.5 µm/m-°C
-@Temperature 500 °C","8.06 µin/in-°F
-@Temperature 932 °F","specimen oil hardened, 600°C (1110°F) temper"
+Electrical Resistivity  ,"0.0000248 ohm-cm @Temperature 20.0 °C","0.0000248 ohm-cm @Temperature 68.0 °F",
+ ,"0.0000298 ohm-cm @Temperature 100 °C","0.0000298 ohm-cm @Temperature 212 °F",
+ ,"0.0000552 ohm-cm @Temperature 400 °C","0.0000552 ohm-cm @Temperature 752 °F",
+ ,"0.0000797 ohm-cm @Temperature 600 °C","0.0000797 ohm-cm @Temperature 1110 °F",
+"CTE, linear  ","12.3 µm/m-°C @Temperature 20.0 °C","6.83 µin/in-°F @Temperature 68.0 °F","specimen oil hardened, 600°C (1110°F) temper"
+ ,"12.6 µm/m-°C @Temperature 21.0 - 260 °C","7.00 µin/in-°F @Temperature 69.8 - 500 °F","1.88% Ni, normalized and tempered"
+ ,"12.7 µm/m-°C @Temperature 20.0 °C","7.06 µin/in-°F @Temperature 68.0 °F","specimen oil hardened, 600°C (1110°F) temper"
+ ,"13.7 µm/m-°C @Temperature 250 °C","7.61 µin/in-°F @Temperature 482 °F","specimen oil hardened, 600°C (1110°F) temper"
+ ,"13.7 µm/m-°C @Temperature 21.0 - 540 °C","7.61 µin/in-°F @Temperature 69.8 - 1000 °F","1.88% Ni, normalized and tempered"
+ ,"13.9 µm/m-°C @Temperature 21.0 - 540 °C","7.72 µin/in-°F @Temperature 69.8 - 1000 °F","1.90% Ni, quenched, tempered"
+ ,"14.5 µm/m-°C @Temperature 500 °C","8.06 µin/in-°F @Temperature 932 °F","specimen oil hardened, 600°C (1110°F) temper"
 Thermal Conductivity ,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
 "Carbon, C ",0.37 - 0.43 %,0.37 - 0.43 %,
 "Iron, Fe ",95.195 - 96.33 %,95.195 - 96.33 %,As remainder

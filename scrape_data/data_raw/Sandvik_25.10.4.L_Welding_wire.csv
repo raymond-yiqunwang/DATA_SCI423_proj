@@ -1,12 +1,10 @@
 ,Metric,English,Comments
-Density ,7.90 g/cc,0.285 lb/in³,
+Density ,7.90 g/cc,0.285 lb/in,
 "Tensile Strength, Ultimate ",850 MPa,123000 psi,All-weld metal
  ,880 MPa,128000 psi,SAW
 Elongation at Break ,25 %,25 %,All-weld metal
  ,25 %,25 %,SAW
-"CTE, linear ","14.5 µm/m-°C
-@Temperature 20.0 - 400 °C","8.06 µin/in-°F
-@Temperature 68.0 - 752 °F",
+"CTE, linear ","14.5 m/m-C @Temperature 20.0 - 400 C","8.06 in/in-F @Temperature 68.0 - 752 F",
 "Carbon, C ",<= 0.0200 %,<= 0.0200 %,Filler metal
  ,<= 0.0200 %,<= 0.0200 %,MIG or TIG
  ,<= 0.0200 %,<= 0.0200 %,SAW
@@ -22,31 +20,15 @@ Elongation at Break ,25 %,25 %,All-weld metal
 "Sulfur, S ",<= 0.0150 %,<= 0.0150 %,Filler metal
  ,<= 0.0150 %,<= 0.0150 %,MIG or TIG
  ,<= 0.0150 %,<= 0.0150 %,SAW
-"Tensile Strength, Yield  ","650 MPa
-@Strain 0.200 %","94300 psi
-@Strain 0.200 %",All-weld metal
- ,"690 MPa
-@Strain 0.200 %","100000 psi
-@Strain 0.200 %",SAW
-Charpy Impact  ,"60.0 J
-@Temperature -40.0 °C","44.3 ft-lb
-@Temperature -40.0 °F",SAW
- ,"90.0 J
-@Temperature 20.0 °C","66.4 ft-lb
-@Temperature 68.0 °F",SAW
- ,"140 J
-@Temperature -50.0 °C","103 ft-lb
-@Temperature -58.0 °F",All-weld metal
- ,"150 J
-@Temperature -46.0 °C","111 ft-lb
-@Temperature -50.8 °F",All-weld metal
- ,"170 J
-@Temperature -40.0 °C","125 ft-lb
-@Temperature -40.0 °F",All-weld metal
- ,"210 J
-@Temperature 20.0 °C","155 ft-lb
-@Temperature 68.0 °F",All-weld metal
-Thermal Conductivity ,16.0 W/m-K,111 BTU-in/hr-ft²-°F,
+"Tensile Strength, Yield  ","650 MPa @Strain 0.200 %","94300 psi @Strain 0.200 %",All-weld metal
+ ,"690 MPa @Strain 0.200 %","100000 psi @Strain 0.200 %",SAW
+Charpy Impact  ,"60.0 J @Temperature -40.0 C","44.3 ft-lb @Temperature -40.0 F",SAW
+ ,"90.0 J @Temperature 20.0 C","66.4 ft-lb @Temperature 68.0 F",SAW
+ ,"140 J @Temperature -50.0 C","103 ft-lb @Temperature -58.0 F",All-weld metal
+ ,"150 J @Temperature -46.0 C","111 ft-lb @Temperature -50.8 F",All-weld metal
+ ,"170 J @Temperature -40.0 C","125 ft-lb @Temperature -40.0 F",All-weld metal
+ ,"210 J @Temperature 20.0 C","155 ft-lb @Temperature 68.0 F",All-weld metal
+Thermal Conductivity ,16.0 W/m-K,111 BTU-in/hr-ft-F,
 "Chromium, Cr ",24.5 %,24.5 %,SAW
  ,25 %,25 %,Filler metal
  ,25 %,25 %,MIG or TIG

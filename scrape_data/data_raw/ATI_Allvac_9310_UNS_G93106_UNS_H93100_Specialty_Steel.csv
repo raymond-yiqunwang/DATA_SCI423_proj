@@ -1,9 +1,7 @@
 ,Metric,English,Comments
 Density ,7.86 g/cc,0.284 lb/in³,
 "Hardness, Rockwell C ",27,27,
-"Tensile Strength, Yield ","571 MPa
-@Strain 0.200 %","82800 psi
-@Strain 0.200 %",
+"Tensile Strength, Yield ","571 MPa @Strain 0.200 %","82800 psi @Strain 0.200 %",
 Reduction of Area ,58 %,58 %,
 "Carbon, C ",0.10 %,0.10 %,
 "Iron, Fe ",94 %,94 %,as balance

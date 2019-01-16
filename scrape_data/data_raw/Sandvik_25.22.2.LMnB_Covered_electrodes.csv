@@ -6,9 +6,7 @@ Elongation at Break ,30 %,30 %,
 "Nickel, Ni ",22 %,22 %,
 "Phosphorous, P ",<= 0.0200 %,<= 0.0200 %,
 "Sulfur, S ",<= 0.0200 %,<= 0.0200 %,
-"Tensile Strength, Yield ","420 MPa
-@Strain 0.200 %","60900 psi
-@Strain 0.200 %",
+"Tensile Strength, Yield ","420 MPa @Strain 0.200 %","60900 psi @Strain 0.200 %",
 Charpy Impact ,70.0 J,51.6 ft-lb,
 "Chromium, Cr ",25 %,25 %,
 "Molybdenum, Mo ",2.1 %,2.1 %,

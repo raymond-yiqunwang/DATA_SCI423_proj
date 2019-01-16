@@ -13,9 +13,7 @@ Processing Temperature ,166 °C,331 °F,Critical Temperaure Mf
 "Nickel, Ni ",10 %,10 %,
 "Tensile Strength, Yield ",1207 MPa,175100 psi,
 Reduction of Area ,60 %,60 %,
-Charpy Impact ,"68.0 J
-@Temperature -17.8 °C","50.2 ft-lb
-@Temperature 0.000 °F",V-notch
+Charpy Impact ,"68.0 J @Temperature -17.8 °C","50.2 ft-lb @Temperature 0.000 °F",V-notch
 "Chromium, Cr ",2.0 %,2.0 %,
 "Iron, Fe ",78.72 %,78.72 %,
 "Molybdenum, Mo ",1.0 %,1.0 %,

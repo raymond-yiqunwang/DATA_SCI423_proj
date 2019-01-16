@@ -1,11 +1,7 @@
 ,Metric,English,Comments
 "Hardness, Vickers ",298,298,
-"Tensile Strength, Yield ","765 MPa
-@Strain 0.200 %","111000 psi
-@Strain 0.200 %",
-Charpy Impact ,"55.0 J
-@Temperature -50.0 °C","40.6 ft-lb
-@Temperature -58.0 °F",
+"Tensile Strength, Yield ","765 MPa @Strain 0.200 %","111000 psi @Strain 0.200 %",
+Charpy Impact ,"55.0 J @Temperature -50.0 C","40.6 ft-lb @Temperature -58.0 F",
 "Carbon, C ",0.030 %,0.030 %,
 "Manganese, Mn ",0.80 %,0.80 %,
 "Nickel, Ni ",10 %,10 %,

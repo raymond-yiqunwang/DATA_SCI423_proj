@@ -3,16 +3,10 @@ Density ,7.75 g/cc,0.280 lb/in³,
 "Hardness, Rockwell C ",51,51,"1"" from quench end; Jominy End Quench Hardenability"
  ,51,51,"1/2"" from quenched end; Jominy End Quench Hardenability"
  ,52,52,"1/8"" from quenched end; Jominy End Quench Hardenability"
-"Tensile Strength, Yield ","1310 - 1340 MPa
-@Strain 0.200 %","190000 - 194000 psi
-@Strain 0.200 %",
+"Tensile Strength, Yield ","1310 - 1340 MPa @Strain 0.200 %","190000 - 194000 psi @Strain 0.200 %",
 Reduction of Area ,51.7 - 52.5 %,51.7 - 52.5 %,
-Charpy Impact ,"27.0 J
-@Temperature -54.0 °C","19.9 ft-lb
-@Temperature -65.2 °F",V-notch
-"CTE, linear ","11.3 µm/m-°C
-@Temperature 20.0 - 427 °C","6.28 µin/in-°F
-@Temperature 68.0 - 801 °F",
+Charpy Impact ,"27.0 J @Temperature -54.0 °C","19.9 ft-lb @Temperature -65.2 °F",V-notch
+"CTE, linear ","11.3 µm/m-°C @Temperature 20.0 - 427 °C","6.28 µin/in-°F @Temperature 68.0 - 801 °F",
 "Carbon, C ",0.30 %,0.30 %,
 "Cobalt, Co ",4.5 %,4.5 %,
 "Manganese, Mn ",0.30 %,0.30 %,

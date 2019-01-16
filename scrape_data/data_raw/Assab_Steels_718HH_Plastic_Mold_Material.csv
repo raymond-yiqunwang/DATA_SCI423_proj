@@ -1,56 +1,32 @@
 ,Metric,English,Comments
 Density ,7.81 g/cc,0.282 lb/in³,
- ,"7.75 g/cc
-@Temperature 200 °C","0.280 lb/in³
-@Temperature 392 °F",
+ ,"7.75 g/cc @Temperature 200 °C","0.280 lb/in³ @Temperature 392 °F",
 "Hardness, Brinell ",325,325,tempering at 600°C
  ,340 - 380,340 - 380,hardness supplied.
  ,450,450,tempering at 400°C
  ,500,500,tempering at 200°C
-"Tensile Strength, Yield  ","827 MPa
-@Diameter 25.4 mm","120000 psi
-@Diameter 1.00 in",Rp0.2. bar. Hardness: 310 HB
- ,"986 MPa
-@Diameter 25.4 mm","143000 psi
-@Diameter 1.00 in",Rp0.2. bar. 310 HB
-Impact Test  ,"30.0 J
-@Diameter 25.4 mm,
-Temperature 20.0 °C","22.1 ft-lb
-@Diameter 1.00 in,
+"Tensile Strength, Yield  ","827 MPa @Diameter 25.4 mm","120000 psi @Diameter 1.00 in",Rp0.2. bar. Hardness: 310 HB
+ ,"986 MPa @Diameter 25.4 mm","143000 psi @Diameter 1.00 in",Rp0.2. bar. 310 HB
+Impact Test  ,"30.0 J @Diameter 25.4 mm,
+Temperature 20.0 °C","22.1 ft-lb @Diameter 1.00 in,
 Temperature 68.0 °F",310 HB
- ,"130 J
-@Diameter 25.4 mm,
-Temperature 200 °C","95.9 ft-lb
-@Diameter 1.00 in,
+ ,"130 J @Diameter 25.4 mm,
+Temperature 200 °C","95.9 ft-lb @Diameter 1.00 in,
 Temperature 392 °F",310 HB
-"CTE, linear ","12.7 µm/m-°C
-@Temperature 20.0 - 200 °C","7.06 µin/in-°F
-@Temperature 68.0 - 392 °F",
-Thermal Conductivity  ,"29.1 W/m-K
-@Temperature 20.0 °C","202 BTU-in/hr-ft²-°F
-@Temperature 68.0 °F",
- ,"29.5 W/m-K
-@Temperature 200 °C","205 BTU-in/hr-ft²-°F
-@Temperature 392 °F",
+"CTE, linear ","12.7 µm/m-°C @Temperature 20.0 - 200 °C","7.06 µin/in-°F @Temperature 68.0 - 392 °F",
+Thermal Conductivity  ,"29.1 W/m-K @Temperature 20.0 °C","202 BTU-in/hr-ft²-°F @Temperature 68.0 °F",
+ ,"29.5 W/m-K @Temperature 200 °C","205 BTU-in/hr-ft²-°F @Temperature 392 °F",
 "Carbon, C ",0.37 %,0.37 %,
 "Iron, Fe ",94.722 %,94.722 %,
 "Molybdenum, Mo ",0.20 %,0.20 %,
 "Silicon, Si ",0.30 %,0.30 %,
-"Tensile Strength, Ultimate ","979 MPa
-@Thickness 25.4 mm,
-Temperature 200 °C","142000 psi
-@Thickness 1.00 in,
+"Tensile Strength, Ultimate ","979 MPa @Thickness 25.4 mm,
+Temperature 200 °C","142000 psi @Thickness 1.00 in,
 Temperature 392 °F",Rm. Bar. 310 HB
- ,"1080 MPa
-@Diameter 25.4 mm","156000 psi
-@Diameter 1.00 in",Rm. Bar. 310 HB
+ ,"1080 MPa @Diameter 25.4 mm","156000 psi @Diameter 1.00 in",Rm. Bar. 310 HB
 Modulus of Elasticity ,205 GPa,29700 ksi,
- ,"200 GPa
-@Temperature 200 °C","29000 ksi
-@Temperature 392 °F",
-Specific Heat Capacity ,"0.460 J/g-°C
-@Temperature 20.0 °C","0.110 BTU/lb-°F
-@Temperature 68.0 °F",
+ ,"200 GPa @Temperature 200 °C","29000 ksi @Temperature 392 °F",
+Specific Heat Capacity ,"0.460 J/g-°C @Temperature 20.0 °C","0.110 BTU/lb-°F @Temperature 68.0 °F",
 "Chromium, Cr ",2.0 %,2.0 %,
 "Manganese, Mn ",1.4 %,1.4 %,
 "Nickel, Ni ",1.0 %,1.0 %,

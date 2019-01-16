@@ -1,53 +1,21 @@
 ,Metric,English,Comments
 Density ,7.85 g/cc,0.284 lb/in³,
-"Hardness, Brinell  ","235
-@Diameter 102 mm","235
-@Diameter 4.00 in",
- ,"248
-@Diameter 76.2 mm","248
-@Diameter 3.00 in",
- ,"269
-@Diameter 50.8 mm","269
-@Diameter 2.00 in",
- ,"385
-@Diameter 25.4 mm","385
-@Diameter 1.00 in",
-"Hardness, Rockwell B  ","97
-@Diameter 102 mm","97
-@Diameter 4.00 in",Converted from Brinell
- ,"98
-@Diameter 76.2 mm","98
-@Diameter 3.00 in",Converted from Brinell
- ,"99
-@Diameter 50.8 mm","99
-@Diameter 2.00 in",Converted from Brinell
- ,"101
-@Diameter 25.4 mm","101
-@Diameter 1.00 in",Converted from Brinell
-"Hardness, Vickers  ","247
-@Diameter 102 mm","247
-@Diameter 4.00 in",Converted from Brinell
- ,"261
-@Diameter 76.2 mm","261
-@Diameter 3.00 in",Converted from Brinell
- ,"284
-@Diameter 50.8 mm","284
-@Diameter 2.00 in",Converted from Brinell
- ,"408
-@Diameter 25.4 mm","408
-@Diameter 1.00 in",Converted from Brinell
-"Tensile Strength, Yield  ","625 MPa
-@Diameter 102 mm","90600 psi
-@Diameter 4.00 in",
- ,"685 MPa
-@Diameter 76.2 mm","99400 psi
-@Diameter 3.00 in",
- ,"738 MPa
-@Diameter 50.8 mm","107000 psi
-@Diameter 2.00 in",
- ,"814 MPa
-@Diameter 25.4 mm","118000 psi
-@Diameter 1.00 in",
+"Hardness, Brinell  ","235 @Diameter 102 mm","235 @Diameter 4.00 in",
+ ,"248 @Diameter 76.2 mm","248 @Diameter 3.00 in",
+ ,"269 @Diameter 50.8 mm","269 @Diameter 2.00 in",
+ ,"385 @Diameter 25.4 mm","385 @Diameter 1.00 in",
+"Hardness, Rockwell B  ","97 @Diameter 102 mm","97 @Diameter 4.00 in",Converted from Brinell
+ ,"98 @Diameter 76.2 mm","98 @Diameter 3.00 in",Converted from Brinell
+ ,"99 @Diameter 50.8 mm","99 @Diameter 2.00 in",Converted from Brinell
+ ,"101 @Diameter 25.4 mm","101 @Diameter 1.00 in",Converted from Brinell
+"Hardness, Vickers  ","247 @Diameter 102 mm","247 @Diameter 4.00 in",Converted from Brinell
+ ,"261 @Diameter 76.2 mm","261 @Diameter 3.00 in",Converted from Brinell
+ ,"284 @Diameter 50.8 mm","284 @Diameter 2.00 in",Converted from Brinell
+ ,"408 @Diameter 25.4 mm","408 @Diameter 1.00 in",Converted from Brinell
+"Tensile Strength, Yield  ","625 MPa @Diameter 102 mm","90600 psi @Diameter 4.00 in",
+ ,"685 MPa @Diameter 76.2 mm","99400 psi @Diameter 3.00 in",
+ ,"738 MPa @Diameter 50.8 mm","107000 psi @Diameter 2.00 in",
+ ,"814 MPa @Diameter 25.4 mm","118000 psi @Diameter 1.00 in",
 Modulus of Elasticity ,205 GPa,29700 ksi,Typical for steel
 Poissons Ratio ,0.29,0.29,Calculated
 Shear Modulus ,80.0 GPa,11600 ksi,Typical for steel.
@@ -58,54 +26,22 @@ Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical steel
 "Molybdenum, Mo ",0.15 - 0.25 %,0.15 - 0.25 %,
 "Phosphorous, P ",<= 0.035 %,<= 0.035 %,
 "Sulfur, S ",<= 0.040 %,<= 0.040 %,
-"Hardness, Knoop  ","259
-@Diameter 102 mm","259
-@Diameter 4.00 in",Converted from Brinell
- ,"272
-@Diameter 76.2 mm","272
-@Diameter 3.00 in",Converted from Brinell
- ,"294
-@Diameter 50.8 mm","294
-@Diameter 2.00 in",Converted from Brinell
- ,"415
-@Diameter 25.4 mm","415
-@Diameter 1.00 in",Converted from Brinell
-"Hardness, Rockwell C  ","21
-@Diameter 102 mm","21
-@Diameter 4.00 in",Converted from Brinell
- ,"23
-@Diameter 76.2 mm","23
-@Diameter 3.00 in",Converted from Brinell
- ,"27
-@Diameter 50.8 mm","27
-@Diameter 2.00 in",Converted from Brinell
- ,"42
-@Diameter 25.4 mm","42
-@Diameter 1.00 in",Converted from Brinell
-"Tensile Strength, Ultimate  ","807 MPa
-@Diameter 102 mm","117000 psi
-@Diameter 4.00 in",
- ,"855 MPa
-@Diameter 76.2 mm","124000 psi
-@Diameter 3.00 in",
- ,"903 MPa
-@Diameter 50.8 mm","131000 psi
-@Diameter 2.00 in",
- ,"972 MPa
-@Diameter 25.4 mm","141000 psi
-@Diameter 1.00 in",
-Elongation at Break  ,"19.2 %
-@Diameter 25.4 mm","19.2 %
-@Diameter 1.00 in",in 50 mm
- ,"20.4 %
-@Diameter 50.8 mm","20.4 %
-@Diameter 2.00 in",in 50 mm
- ,"21.5 %
-@Diameter 76.2 mm","21.5 %
-@Diameter 3.00 in",in 50 mm
- ,"22 %
-@Diameter 102 mm","22 %
-@Diameter 4.00 in",in 50 mm
+"Hardness, Knoop  ","259 @Diameter 102 mm","259 @Diameter 4.00 in",Converted from Brinell
+ ,"272 @Diameter 76.2 mm","272 @Diameter 3.00 in",Converted from Brinell
+ ,"294 @Diameter 50.8 mm","294 @Diameter 2.00 in",Converted from Brinell
+ ,"415 @Diameter 25.4 mm","415 @Diameter 1.00 in",Converted from Brinell
+"Hardness, Rockwell C  ","21 @Diameter 102 mm","21 @Diameter 4.00 in",Converted from Brinell
+ ,"23 @Diameter 76.2 mm","23 @Diameter 3.00 in",Converted from Brinell
+ ,"27 @Diameter 50.8 mm","27 @Diameter 2.00 in",Converted from Brinell
+ ,"42 @Diameter 25.4 mm","42 @Diameter 1.00 in",Converted from Brinell
+"Tensile Strength, Ultimate  ","807 MPa @Diameter 102 mm","117000 psi @Diameter 4.00 in",
+ ,"855 MPa @Diameter 76.2 mm","124000 psi @Diameter 3.00 in",
+ ,"903 MPa @Diameter 50.8 mm","131000 psi @Diameter 2.00 in",
+ ,"972 MPa @Diameter 25.4 mm","141000 psi @Diameter 1.00 in",
+Elongation at Break  ,"19.2 % @Diameter 25.4 mm","19.2 % @Diameter 1.00 in",in 50 mm
+ ,"20.4 % @Diameter 50.8 mm","20.4 % @Diameter 2.00 in",in 50 mm
+ ,"21.5 % @Diameter 76.2 mm","21.5 % @Diameter 3.00 in",in 50 mm
+ ,"22 % @Diameter 102 mm","22 % @Diameter 4.00 in",in 50 mm
 Bulk Modulus ,160 GPa,23200 ksi,Typical for steel.
 Machinability ,65 %,65 %,annealed and cold drawn. Based on AISI 1212 steel as 100% machinability.
 Thermal Conductivity ,46.6 W/m-K,323 BTU-in/hr-ft²-°F,Typical steel

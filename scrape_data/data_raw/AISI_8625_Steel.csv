@@ -5,9 +5,7 @@ Density ,7.85 g/cc,0.284 lb/in³,
 "Hardness, Vickers ",211,211,Converted from Brinell
 Bulk Modulus ,160 GPa,23200 ksi,Typical for steel.
 Machinability ,60 %,60 %,annealed and cold drawn. Based on AISI 1212 steel as 100% machinability.
-Electrical Resistivity ,"0.0000300 ohm-cm
-@Temperature 50.0 °C","0.0000300 ohm-cm
-@Temperature 122 °F",condition of specimen unknown
+Electrical Resistivity ,"0.0000300 ohm-cm @Temperature 50.0 °C","0.0000300 ohm-cm @Temperature 122 °F",condition of specimen unknown
 Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical steel
 "Carbon, C ",0.23 - 0.28 %,0.23 - 0.28 %,
 "Iron, Fe ",96.895 - 97.97 %,96.895 - 97.97 %,As remainder

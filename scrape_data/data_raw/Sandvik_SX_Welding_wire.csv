@@ -5,9 +5,7 @@ Elongation at Break ,55 %,55 %,
 "Copper, Cu ",2.0 %,2.0 %,
 "Nickel, Ni ",13.5 %,13.5 %,
 "Silicon, Si ",5.0 %,5.0 %,
-"Tensile Strength, Yield ","327 MPa
-@Strain 2.00 %","47400 psi
-@Strain 2.00 %",
+"Tensile Strength, Yield ","327 MPa @Strain 2.00 %","47400 psi @Strain 2.00 %",
 "Chromium, Cr ",18.5 %,18.5 %,
 "Manganese, Mn ",1.7 %,1.7 %,
 "Phosphorous, P ",<= 0.0150 %,<= 0.0150 %,

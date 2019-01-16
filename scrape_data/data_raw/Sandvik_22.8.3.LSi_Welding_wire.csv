@@ -1,18 +1,10 @@
 ,Metric,English,Comments
-Density ,7.90 g/cc,0.285 lb/in³,
+Density ,7.90 g/cc,0.285 lb/in,
 "Hardness, Vickers ",240,240,
-"Tensile Strength, Yield ","60.0 MPa
-@Strain 0.200 %","8700 psi
-@Strain 0.200 %",
-Charpy Impact  ,"110 J
-@Temperature -40.0 °C","81.1 ft-lb
-@Temperature -40.0 °F",
- ,"130 J
-@Temperature 20.0 °C","95.9 ft-lb
-@Temperature 68.0 °F",
-"CTE, linear ","14.5 µm/m-°C
-@Temperature 20.0 - 400 °C","8.06 µin/in-°F
-@Temperature 68.0 - 752 °F",
+"Tensile Strength, Yield ","60.0 MPa @Strain 0.200 %","8700 psi @Strain 0.200 %",
+Charpy Impact  ,"110 J @Temperature -40.0 C","81.1 ft-lb @Temperature -40.0 F",
+ ,"130 J @Temperature 20.0 C","95.9 ft-lb @Temperature 68.0 F",
+"CTE, linear ","14.5 m/m-C @Temperature 20.0 - 400 C","8.06 in/in-F @Temperature 68.0 - 752 F",
 "Carbon, C ",<= 0.0200 %,<= 0.0200 %,Filler metal
  ,<= 0.0200 %,<= 0.0200 %,All-weld metal
 "Manganese, Mn ",1.2 %,1.2 %,All-weld metal
@@ -25,7 +17,7 @@ Charpy Impact  ,"110 J
  ,<= 0.0150 %,<= 0.0150 %,All-weld metal
 "Tensile Strength, Ultimate ",750 MPa,109000 psi,
 Elongation at Break ,25 %,25 %,
-Thermal Conductivity ,16.0 W/m-K,111 BTU-in/hr-ft²-°F,
+Thermal Conductivity ,16.0 W/m-K,111 BTU-in/hr-ft-F,
 "Chromium, Cr ",22.5 %,22.5 %,All-weld metal
  ,23 %,23 %,Filler metal
 "Molybdenum, Mo ",3.0 %,3.0 %,All-weld metal

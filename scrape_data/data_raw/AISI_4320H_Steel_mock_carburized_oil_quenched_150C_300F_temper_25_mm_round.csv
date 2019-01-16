@@ -9,9 +9,7 @@ Bulk Modulus ,160 GPa,23200 ksi,Typical for steel.
 Machinability ,60 %,60 %,annealed and cold drawn. Based on 100% machinability for AISI 1212 steel.
 Izod Impact ,60.0 J,44.3 ft-lb,
 Electrical Resistivity ,0.0000245 ohm-cm,0.0000245 ohm-cm,Typical 4000 series steel
-"CTE, linear ","11.3 µm/m-°C
-@Temperature -18.0 - 95.0 °C","6.28 µin/in-°F
-@Temperature -0.400 - 203 °F",condition of specimen unknown
+"CTE, linear ","11.3 µm/m-°C @Temperature -18.0 - 95.0 °C","6.28 µin/in-°F @Temperature -0.400 - 203 °F",condition of specimen unknown
 Thermal Conductivity ,44.5 W/m-K,309 BTU-in/hr-ft²-°F,Typical steel
 "Carbon, C ",0.17 - 0.23 %,0.17 - 0.23 %,
 "Iron, Fe ",95.745 - 97.18 %,95.745 - 97.18 %,As remainder

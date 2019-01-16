@@ -1,12 +1,8 @@
 ,Metric,English,Comments
 Bulk Density ,8.94 g/cc,0.323 lb/in³,Value supplied by MatWeb
 "Hardness, Vickers ",55,55,
-"Tensile Strength, Yield ","520 MPa
-@Strain 0.200 %","75400 psi
-@Strain 0.200 %",
-Impact Test ,"55.0 J
-@Temperature -196 °C","40.6 ft-lb
-@Temperature -321 °F",
+"Tensile Strength, Yield ","520 MPa @Strain 0.200 %","75400 psi @Strain 0.200 %",
+Impact Test ,"55.0 J @Temperature -196 °C","40.6 ft-lb @Temperature -321 °F",
 "Carbon, C ",<= 0.0200 %,<= 0.0200 %,
 "Cobalt, Co ",0.050 %,0.050 %,
 "Manganese, Mn ",0.30 %,0.30 %,

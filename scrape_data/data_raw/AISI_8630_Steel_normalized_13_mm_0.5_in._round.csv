@@ -8,15 +8,9 @@ Modulus of Elasticity ,205 GPa,29700 ksi,Typical for steel
 Poissons Ratio ,0.29,0.29,Calculated
 Shear Modulus ,80.0 GPa,11600 ksi,Typical for steel.
 Electrical Resistivity ,0.0000234 ohm-cm,0.0000234 ohm-cm,Typical steel
-"CTE, linear  ","11.2 µm/m-°C
-@Temperature 21.0 - 100 °C","6.22 µin/in-°F
-@Temperature 69.8 - 212 °F",
- ,"12.2 µm/m-°C
-@Temperature 21.0 - 200 °C","6.78 µin/in-°F
-@Temperature 69.8 - 392 °F",
- ,"14.0 µm/m-°C
-@Temperature 21.0 - 500 °C","7.78 µin/in-°F
-@Temperature 69.8 - 932 °F",
+"CTE, linear  ","11.2 µm/m-°C @Temperature 21.0 - 100 °C","6.22 µin/in-°F @Temperature 69.8 - 212 °F",
+ ,"12.2 µm/m-°C @Temperature 21.0 - 200 °C","6.78 µin/in-°F @Temperature 69.8 - 392 °F",
+ ,"14.0 µm/m-°C @Temperature 21.0 - 500 °C","7.78 µin/in-°F @Temperature 69.8 - 932 °F",
 Thermal Conductivity ,46.6 W/m-K,323 BTU-in/hr-ft²-°F,Typical steel
 "Carbon, C ",0.28 - 0.33 %,0.28 - 0.33 %,
 "Iron, Fe ",96.745 - 98.02 %,96.745 - 98.02 %,As remainder

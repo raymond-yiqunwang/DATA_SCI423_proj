@@ -1,29 +1,13 @@
 ,Metric,English,Comments
-Density ,7.75 g/cc,0.280 lb/in³,
-"Tensile Strength, Ultimate  ","1050 MPa
-@Temperature 20.0 °C","152000 psi
-@Temperature 68.0 °F",Annealed
- ,"1500 MPa
-@Temperature 538 °C","218000 psi
-@Temperature 1000 °F",Annealed and aged for 4h
- ,"1750 MPa
-@Temperature 510 °C","254000 psi
-@Temperature 950 °F",Annealed and aged for 4h
- ,"1850 MPa
-@Temperature 480 °C","268000 psi
-@Temperature 896 °F",Annealed and aged for 4h
-Elongation at Break  ,"4.0 %
-@Temperature 480 °C","4.0 %
-@Temperature 896 °F",Annealed and aged for 4h
- ,"4.0 %
-@Temperature 510 °C","4.0 %
-@Temperature 950 °F",Annealed and aged for 4h
- ,"8.0 %
-@Temperature 538 °C","8.0 %
-@Temperature 1000 °F",Annealed and aged for 4h
- ,"10 %
-@Temperature 20.0 °C","10 %
-@Temperature 68.0 °F",Annealed
+Density ,7.75 g/cc,0.280 lb/in,
+"Tensile Strength, Ultimate  ","1050 MPa @Temperature 20.0 C","152000 psi @Temperature 68.0 F",Annealed
+ ,"1500 MPa @Temperature 538 C","218000 psi @Temperature 1000 F",Annealed and aged for 4h
+ ,"1750 MPa @Temperature 510 C","254000 psi @Temperature 950 F",Annealed and aged for 4h
+ ,"1850 MPa @Temperature 480 C","268000 psi @Temperature 896 F",Annealed and aged for 4h
+Elongation at Break  ,"4.0 % @Temperature 480 C","4.0 % @Temperature 896 F",Annealed and aged for 4h
+ ,"4.0 % @Temperature 510 C","4.0 % @Temperature 950 F",Annealed and aged for 4h
+ ,"8.0 % @Temperature 538 C","8.0 % @Temperature 1000 F",Annealed and aged for 4h
+ ,"10 % @Temperature 20.0 C","10 % @Temperature 68.0 F",Annealed
 Shear Modulus ,70.0 GPa,10200 ksi,Tempered
  ,75.0 GPa,10900 ksi,Annealed
 "Carbon, C ",0.010 %,0.010 %,
@@ -31,26 +15,18 @@ Shear Modulus ,70.0 GPa,10200 ksi,Tempered
 "Nickel, Ni ",8.5 %,8.5 %,
 "Phosphorous, P ",<= 0.0300 %,<= 0.0300 %,
 "Sulfur, S ",<= 0.0150 %,<= 0.0150 %,
-"Tensile Strength, Yield  ","800 MPa
-@Strain 0.200 %,
-Temperature 20.0 °C","116000 psi
-@Strain 0.200 %,
-Temperature 68.0 °F",Annealed
- ,"1400 MPa
-@Strain 0.200 %,
-Temperature 538 °C","203000 psi
-@Strain 0.200 %,
-Temperature 1000 °F",Annealed and aged for 4h
- ,"1700 MPa
-@Strain 0.200 %,
-Temperature 510 °C","247000 psi
-@Strain 0.200 %,
-Temperature 950 °F",Annealed and aged for 4h
- ,"1800 MPa
-@Strain 0.200 %,
-Temperature 480 °C","261000 psi
-@Strain 0.200 %,
-Temperature 896 °F",Annealed and aged for 4h
+"Tensile Strength, Yield  ","800 MPa @Strain 0.200 %,
+Temperature 20.0 C","116000 psi @Strain 0.200 %,
+Temperature 68.0 F",Annealed
+ ,"1400 MPa @Strain 0.200 %,
+Temperature 538 C","203000 psi @Strain 0.200 %,
+Temperature 1000 F",Annealed and aged for 4h
+ ,"1700 MPa @Strain 0.200 %,
+Temperature 510 C","247000 psi @Strain 0.200 %,
+Temperature 950 F",Annealed and aged for 4h
+ ,"1800 MPa @Strain 0.200 %,
+Temperature 480 C","261000 psi @Strain 0.200 %,
+Temperature 896 F",Annealed and aged for 4h
 Modulus of Elasticity ,180 GPa,26100 ksi,Annealed
  ,200 GPa,29000 ksi,Tempered
 "Chromium, Cr ",11.5 %,11.5 %,

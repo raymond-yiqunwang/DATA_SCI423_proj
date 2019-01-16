@@ -3,62 +3,32 @@ Density ,7.70 g/cc,0.278 lb/in³,
 "Hardness, Vickers ",150 - 170,150 - 170,
 "Tensile Strength, Yield ",>= 300 MPa,>= 43500 psi,Longitudinal
  ,>= 340 MPa,>= 49300 psi,Transverse
- ,">= 215 MPa
-@Strain 0.200 %,
-Temperature 300 °C",">= 31200 psi
-@Strain 0.200 %,
+ ,">= 215 MPa @Strain 0.200 %,
+Temperature 300 °C",">= 31200 psi @Strain 0.200 %,
 Temperature 572 °F",
- ,">= 220 MPa
-@Strain 0.200 %,
-Temperature 250 °C",">= 31900 psi
-@Strain 0.200 %,
+ ,">= 220 MPa @Strain 0.200 %,
+Temperature 250 °C",">= 31900 psi @Strain 0.200 %,
 Temperature 482 °F",
- ,">= 230 MPa
-@Strain 0.200 %,
-Temperature 200 °C",">= 33400 psi
-@Strain 0.200 %,
+ ,">= 230 MPa @Strain 0.200 %,
+Temperature 200 °C",">= 33400 psi @Strain 0.200 %,
 Temperature 392 °F",
- ,">= 235 MPa
-@Strain 0.200 %,
-Temperature 150 °C",">= 34100 psi
-@Strain 0.200 %,
+ ,">= 235 MPa @Strain 0.200 %,
+Temperature 150 °C",">= 34100 psi @Strain 0.200 %,
 Temperature 302 °F",
- ,">= 240 MPa
-@Strain 0.200 %,
-Temperature 100 °C",">= 34800 psi
-@Strain 0.200 %,
+ ,">= 240 MPa @Strain 0.200 %,
+Temperature 100 °C",">= 34800 psi @Strain 0.200 %,
 Temperature 212 °F",
 Modulus of Elasticity ,220 GPa,31900 ksi,
- ,"200 GPa
-@Temperature 400 °C","29000 ksi
-@Temperature 752 °F",
- ,"205 GPa
-@Temperature 300 °C","29700 ksi
-@Temperature 572 °F",
- ,"210 GPa
-@Temperature 200 °C","30500 ksi
-@Temperature 392 °F",
- ,"215 GPa
-@Temperature 100 °C","31200 ksi
-@Temperature 212 °F",
-"CTE, linear  ","10.5 µm/m-°C
-@Temperature 20.0 - 100 °C","5.83 µin/in-°F
-@Temperature 68.0 - 212 °F",
- ,"11.0 µm/m-°C
-@Temperature 20.0 - 200 °C","6.11 µin/in-°F
-@Temperature 68.0 - 392 °F",
- ,"11.5 µm/m-°C
-@Temperature 20.0 - 300 °C","6.39 µin/in-°F
-@Temperature 68.0 - 572 °F",
- ,"12.0 µm/m-°C
-@Temperature 20.0 - 500 °C","6.67 µin/in-°F
-@Temperature 68.0 - 932 °F",
- ,"12.0 µm/m-°C
-@Temperature 20.0 - 400 °C","6.67 µin/in-°F
-@Temperature 68.0 - 752 °F",
-Thermal Conductivity ,"25.0 W/m-K
-@Temperature 20.0 °C","174 BTU-in/hr-ft²-°F
-@Temperature 68.0 °F",
+ ,"200 GPa @Temperature 400 °C","29000 ksi @Temperature 752 °F",
+ ,"205 GPa @Temperature 300 °C","29700 ksi @Temperature 572 °F",
+ ,"210 GPa @Temperature 200 °C","30500 ksi @Temperature 392 °F",
+ ,"215 GPa @Temperature 100 °C","31200 ksi @Temperature 212 °F",
+"CTE, linear  ","10.5 µm/m-°C @Temperature 20.0 - 100 °C","5.83 µin/in-°F @Temperature 68.0 - 212 °F",
+ ,"11.0 µm/m-°C @Temperature 20.0 - 200 °C","6.11 µin/in-°F @Temperature 68.0 - 392 °F",
+ ,"11.5 µm/m-°C @Temperature 20.0 - 300 °C","6.39 µin/in-°F @Temperature 68.0 - 572 °F",
+ ,"12.0 µm/m-°C @Temperature 20.0 - 500 °C","6.67 µin/in-°F @Temperature 68.0 - 932 °F",
+ ,"12.0 µm/m-°C @Temperature 20.0 - 400 °C","6.67 µin/in-°F @Temperature 68.0 - 752 °F",
+Thermal Conductivity ,"25.0 W/m-K @Temperature 20.0 °C","174 BTU-in/hr-ft²-°F @Temperature 68.0 °F",
 "Carbon, C ",<= 0.030 %,<= 0.030 %,
 "Copper, Cu ",<= 1.0 %,<= 1.0 %,
 "Manganese, Mn ",1.0 - 2.5 %,1.0 - 2.5 %,
@@ -66,16 +36,10 @@ Thermal Conductivity ,"25.0 W/m-K
 "Silicon, Si ",<= 1.0 %,<= 1.0 %,
 "Titanium, Ti ",<= 0.35 %,<= 0.35 %,
 "Tensile Strength, Ultimate ",460 - 650 MPa,66700 - 94300 psi,
-Elongation at Break  ,">= 20 %
-@Diameter <=3.00 mm",">= 20 %
-@Diameter <=0.118 in",
- ,">= 20 %
-@Diameter >=3.00 mm",">= 20 %
-@Diameter >=0.118 in",
+Elongation at Break  ,">= 20 % @Diameter <=3.00 mm",">= 20 % @Diameter <=0.118 in",
+ ,">= 20 % @Diameter >=3.00 mm",">= 20 % @Diameter >=0.118 in",
 "Charpy Impact, Notched ",>= 60.0 J/cm²,>= 286 ft-lb/in²,
-Specific Heat Capacity ,"0.460 J/g-°C
-@Temperature 20.0 °C","0.110 BTU/lb-°F
-@Temperature 68.0 °F",
+Specific Heat Capacity ,"0.460 J/g-°C @Temperature 20.0 °C","0.110 BTU/lb-°F @Temperature 68.0 °F",
 "Chromium, Cr ",11 - 13 %,11 - 13 %,
 "Iron, Fe ",81 - 87.7 %,81 - 87.7 %,As Balance
 "Nickel, Ni ",0.30 - 1.0 %,0.30 - 1.0 %,

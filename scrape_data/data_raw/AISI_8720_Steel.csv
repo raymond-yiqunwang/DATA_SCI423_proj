@@ -7,12 +7,8 @@ Bulk Modulus ,160 GPa,23200 ksi,Typical for steel.
 Fracture Toughness ,33.0 - 49.4 MPa-m½,30.0 - 45.0 ksi-in½,cracks originating in case; case depth 0.30 to 0.35 in.
  ,71.4 - 115 MPa-m½,65.0 - 105 ksi-in½,cracks originating in core
 Shear Modulus ,80.0 GPa,11600 ksi,Typical for steel
-Electrical Resistivity  ,"0.0000300 ohm-cm
-@Temperature 50.0 °C","0.0000300 ohm-cm
-@Temperature 122 °F",condition of specimen unknown
- ,"0.0000480 ohm-cm
-@Temperature 300 °C","0.0000480 ohm-cm
-@Temperature 572 °F",condition of specimen unknown
+Electrical Resistivity  ,"0.0000300 ohm-cm @Temperature 50.0 °C","0.0000300 ohm-cm @Temperature 122 °F",condition of specimen unknown
+ ,"0.0000480 ohm-cm @Temperature 300 °C","0.0000480 ohm-cm @Temperature 572 °F",condition of specimen unknown
 Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical steel
 "Carbon, C ",0.18 - 0.23 %,0.18 - 0.23 %,
 "Iron, Fe ",96.895 - 97.97 %,96.895 - 97.97 %,As remainder

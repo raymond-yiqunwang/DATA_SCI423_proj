@@ -1,51 +1,27 @@
 ,Metric,English,Comments
 Density ,7.85 g/cc,0.284 lb/in³,
 "Hardness, Knoop ",230,230,Converted from Vickers hardness.
- ,"266
-@Temperature -79.0 °C","266
-@Temperature -110 °F",Converted from Vickers hardness
- ,"305
-@Temperature -195 °C","305
-@Temperature -319 °F",Converted from Vickers hardness
+ ,"266 @Temperature -79.0 °C","266 @Temperature -110 °F",Converted from Vickers hardness
+ ,"305 @Temperature -195 °C","305 @Temperature -319 °F",Converted from Vickers hardness
 "Hardness, Vickers ",217,217,
- ,"252
-@Temperature -79.0 °C","252
-@Temperature -110 °F",
- ,"289
-@Temperature -195 °C","289
-@Temperature -319 °F",
-"Tensile Strength, Yield ","550 MPa
-@Strain 0.200 %","79800 psi
-@Strain 0.200 %",
- ,"635 MPa
-@Strain 0.200 %,
-Temperature -79.0 °C","92100 psi
-@Strain 0.200 %,
+ ,"252 @Temperature -79.0 °C","252 @Temperature -110 °F",
+ ,"289 @Temperature -195 °C","289 @Temperature -319 °F",
+"Tensile Strength, Yield ","550 MPa @Strain 0.200 %","79800 psi @Strain 0.200 %",
+ ,"635 MPa @Strain 0.200 %,
+Temperature -79.0 °C","92100 psi @Strain 0.200 %,
 Temperature -110 °F",
- ,"924 MPa
-@Strain 0.200 %,
-Temperature -195 °C","134000 psi
-@Strain 0.200 %,
+ ,"924 MPa @Strain 0.200 %,
+Temperature -195 °C","134000 psi @Strain 0.200 %,
 Temperature -319 °F",
 Modulus of Elasticity ,187 GPa,27100 ksi,
- ,"199 GPa
-@Temperature -79.0 °C","28900 ksi
-@Temperature -110 °F",
- ,"220 GPa
-@Temperature -195 °C","31900 ksi
-@Temperature -319 °F",
+ ,"199 GPa @Temperature -79.0 °C","28900 ksi @Temperature -110 °F",
+ ,"220 GPa @Temperature -195 °C","31900 ksi @Temperature -319 °F",
 Poissons Ratio ,0.30,0.30,Calculated
 Machinability ,70 %,70 %,annealed and cold drawn. Based on AISI 1212 steel as 100% machinability.
 Electrical Resistivity ,0.0000234 ohm-cm,0.0000234 ohm-cm,Typical steel
-"CTE, linear  ","11.2 µm/m-°C
-@Temperature 21.0 - 100 °C","6.22 µin/in-°F
-@Temperature 69.8 - 212 °F",
- ,"12.2 µm/m-°C
-@Temperature 21.0 - 200 °C","6.78 µin/in-°F
-@Temperature 69.8 - 392 °F",
- ,"14.0 µm/m-°C
-@Temperature 21.0 - 500 °C","7.78 µin/in-°F
-@Temperature 69.8 - 932 °F",
+"CTE, linear  ","11.2 µm/m-°C @Temperature 21.0 - 100 °C","6.22 µin/in-°F @Temperature 69.8 - 212 °F",
+ ,"12.2 µm/m-°C @Temperature 21.0 - 200 °C","6.78 µin/in-°F @Temperature 69.8 - 392 °F",
+ ,"14.0 µm/m-°C @Temperature 21.0 - 500 °C","7.78 µin/in-°F @Temperature 69.8 - 932 °F",
 Thermal Conductivity ,46.6 W/m-K,323 BTU-in/hr-ft²-°F,Typical steel
 "Boron, B ",0.00050 - 0.0030 %,0.00050 - 0.0030 %,
 "Chromium, Cr ",0.35 - 0.65 %,0.35 - 0.65 %,
@@ -53,41 +29,21 @@ Thermal Conductivity ,46.6 W/m-K,323 BTU-in/hr-ft²-°F,Typical steel
 "Nickel, Ni ",0.35 - 0.75 %,0.35 - 0.75 %,
 "Silicon, Si ",0.15 - 0.30 %,0.15 - 0.30 %,
 "Hardness, Rockwell C ",15,15,"Converted from Vickers hardness. Value below normal HRC range, for comparison only."
- ,"22
-@Temperature -79.0 °C","22
-@Temperature -110 °F",Converted from Vickers hardness
- ,"28
-@Temperature -195 °C","28
-@Temperature -319 °F",Converted from Vickers hardness
+ ,"22 @Temperature -79.0 °C","22 @Temperature -110 °F",Converted from Vickers hardness
+ ,"28 @Temperature -195 °C","28 @Temperature -319 °F",Converted from Vickers hardness
 "Tensile Strength, Ultimate ",620 MPa,89900 psi,
- ,"717 MPa
-@Temperature -79.0 °C","104000 psi
-@Temperature -110 °F",
- ,"1035 MPa
-@Temperature -195 °C","150100 psi
-@Temperature -319 °F",
+ ,"717 MPa @Temperature -79.0 °C","104000 psi @Temperature -110 °F",
+ ,"1035 MPa @Temperature -195 °C","150100 psi @Temperature -319 °F",
 Elongation at Break ,16 %,16 %,in 50 mm
- ,"12 %
-@Temperature -195 °C","12 %
-@Temperature -319 °F",in 50 mm
- ,"18 %
-@Temperature -79.0 °C","18 %
-@Temperature -110 °F",in 50 mm
+ ,"12 % @Temperature -195 °C","12 % @Temperature -319 °F",in 50 mm
+ ,"18 % @Temperature -79.0 °C","18 % @Temperature -110 °F",in 50 mm
 Bulk Modulus ,160 GPa,23200 ksi,Typical for steel.
 Fatigue Strength ,315 MPa,45700 psi,Unnotched Limit
- ,"400 MPa
-@Temperature -79.0 °C","58000 psi
-@Temperature -110 °F",Unnotched Limit
- ,"640 MPa
-@Temperature -195 °C","92800 psi
-@Temperature -319 °F",Unnotched Limit
+ ,"400 MPa @Temperature -79.0 °C","58000 psi @Temperature -110 °F",Unnotched Limit
+ ,"640 MPa @Temperature -195 °C","92800 psi @Temperature -319 °F",Unnotched Limit
 Shear Modulus ,72.0 GPa,10400 ksi,Estimated from elastic modulus
- ,"76.5 GPa
-@Temperature -79.0 °C","11100 ksi
-@Temperature -110 °F",Estimated from elastic modulus
- ,"84.6 GPa
-@Temperature -195 °C","12300 ksi
-@Temperature -319 °F",Estimated from elastic modulus
+ ,"76.5 GPa @Temperature -79.0 °C","11100 ksi @Temperature -110 °F",Estimated from elastic modulus
+ ,"84.6 GPa @Temperature -195 °C","12300 ksi @Temperature -319 °F",Estimated from elastic modulus
 Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical steel
 "Carbon, C ",0.27 - 0.33 %,0.27 - 0.33 %,
 "Iron, Fe ",96.692 - 98.0795 %,96.692 - 98.0795 %,As remainder

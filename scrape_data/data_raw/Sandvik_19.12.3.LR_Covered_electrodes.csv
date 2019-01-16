@@ -1,17 +1,9 @@
 ,Metric,English,Comments
 "Hardness, Brinell ",210,210,
-"Tensile Strength, Yield ","590 MPa
-@Strain 0.200 %","85600 psi
-@Strain 0.200 %",
-Charpy Impact  ,"40.0 J
-@Temperature -105 °C","29.5 ft-lb
-@Temperature -157 °F",
- ,"60.0 J
-@Temperature -20.0 °C","44.3 ft-lb
-@Temperature -4.00 °F",
- ,"70.0 J
-@Temperature 20.0 °C","51.6 ft-lb
-@Temperature 68.0 °F",
+"Tensile Strength, Yield ","590 MPa @Strain 0.200 %","85600 psi @Strain 0.200 %",
+Charpy Impact  ,"40.0 J @Temperature -105 °C","29.5 ft-lb @Temperature -157 °F",
+ ,"60.0 J @Temperature -20.0 °C","44.3 ft-lb @Temperature -4.00 °F",
+ ,"70.0 J @Temperature 20.0 °C","51.6 ft-lb @Temperature 68.0 °F",
 "Carbon, C ",<= 0.0200 %,<= 0.0200 %,
 "Manganese, Mn ",0.80 %,0.80 %,
 "Nickel, Ni ",12 %,12 %,

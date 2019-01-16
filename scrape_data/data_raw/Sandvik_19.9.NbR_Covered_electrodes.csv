@@ -1,22 +1,14 @@
 ,Metric,English,Comments
 "Tensile Strength, Ultimate ",620 MPa,89900 psi,
 Elongation at Break ,35 %,35 %,
-"Maximum Service Temperature, Air ",400 °C,752 °F,
+"Maximum Service Temperature, Air ",400 C,752 F,
 "Carbon, C ",0.030 %,0.030 %,
 "Manganese, Mn ",0.80 %,0.80 %,
 "Niobium, Nb (Columbium, Cb) ",>= 10.0 %,>= 10.0 %,
-"Tensile Strength, Yield ","490 MPa
-@Strain 0.200 %","71100 psi
-@Strain 0.200 %",
-Charpy Impact  ,"35.0 J
-@Temperature -60.0 °C","25.8 ft-lb
-@Temperature -76.0 °F",
- ,"50.0 J
-@Temperature -20.0 °C","36.9 ft-lb
-@Temperature -4.00 °F",
- ,"55.0 J
-@Temperature 20.0 °C","40.6 ft-lb
-@Temperature 68.0 °F",
+"Tensile Strength, Yield ","490 MPa @Strain 0.200 %","71100 psi @Strain 0.200 %",
+Charpy Impact  ,"35.0 J @Temperature -60.0 C","25.8 ft-lb @Temperature -76.0 F",
+ ,"50.0 J @Temperature -20.0 C","36.9 ft-lb @Temperature -4.00 F",
+ ,"55.0 J @Temperature 20.0 C","40.6 ft-lb @Temperature 68.0 F",
 "Chromium, Cr ",20 %,20 %,
 "Nickel, Ni ",10 %,10 %,
 "Silicon, Si ",0.90 %,0.90 %,

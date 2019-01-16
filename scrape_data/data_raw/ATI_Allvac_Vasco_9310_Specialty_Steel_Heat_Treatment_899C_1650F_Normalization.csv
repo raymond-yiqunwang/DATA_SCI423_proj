@@ -11,9 +11,7 @@ Elongation at Break ,15 %,15 %,
 "Sulfur, S ",0.013 %,0.013 %,
 "Hardness, Knoop ",363,363,Estimated from Rockwell C value.
 "Hardness, Vickers ",349,349,Estimated from Rockwell C value.
-"Tensile Strength, Yield ","897 MPa
-@Strain 0.200 %","130000 psi
-@Strain 0.200 %",
+"Tensile Strength, Yield ","897 MPa @Strain 0.200 %","130000 psi @Strain 0.200 %",
 Reduction of Area ,40 %,40 %,
 "Chromium, Cr ",1.2 %,1.2 %,
 "Manganese, Mn ",0.55 %,0.55 %,

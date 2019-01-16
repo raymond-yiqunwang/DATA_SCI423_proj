@@ -4,21 +4,11 @@ Density ,7.85 g/cc,0.284 lb/in³,
 "Hardness, Vickers ",349,349,Converted from Rockwell C hardness.
 Bulk Modulus ,160 GPa,23200 ksi,Typical for steels
 Machinability ,65 %,65 %,hot rolled and cold drawn. Based on 100% machinability for AISI 1212 steel.
-Izod Impact  ,"11.0 J
-@Temperature -185 °C","8.11 ft-lb
-@Temperature -301 °F",
- ,">= 18.0 J
-@Temperature -130 °C",">= 13.3 ft-lb
-@Temperature -202 °F",
- ,">= 27.0 J
-@Temperature -73.0 °C",">= 19.9 ft-lb
-@Temperature -99.4 °F",
- ,">= 47.0 J
-@Temperature -18.0 °C",">= 34.7 ft-lb
-@Temperature -0.400 °F",
- ,">= 61.0 J
-@Temperature 38.0 °C",">= 45.0 ft-lb
-@Temperature 100 °F",
+Izod Impact  ,"11.0 J @Temperature -185 °C","8.11 ft-lb @Temperature -301 °F",
+ ,">= 18.0 J @Temperature -130 °C",">= 13.3 ft-lb @Temperature -202 °F",
+ ,">= 27.0 J @Temperature -73.0 °C",">= 19.9 ft-lb @Temperature -99.4 °F",
+ ,">= 47.0 J @Temperature -18.0 °C",">= 34.7 ft-lb @Temperature -0.400 °F",
+ ,">= 61.0 J @Temperature 38.0 °C",">= 45.0 ft-lb @Temperature 100 °F",
 Electrical Resistivity ,0.0000234 ohm-cm,0.0000234 ohm-cm,Typical steel
 Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical steel
 "Carbon, C ",0.18 - 0.23 %,0.18 - 0.23 %,

@@ -15,12 +15,8 @@ Elongation at Break ,20 %,20 %,SAW after post weld heat treatment at 590°C for 
 "Silicon, Si ",0.40 %,0.40 %,All-Weld metal
  ,0.40 %,0.40 %,AIM
  ,0.70 %,0.70 %,Note 1
-"Tensile Strength, Yield  ","470 MPa
-@Strain 0.200 %","68200 psi
-@Strain 0.200 %",TIG after post weld heat treatment at 590°C for 4 hrs
- ,"490 MPa
-@Strain 0.200 %","71100 psi
-@Strain 0.200 %",SAW after post weld heat treatment at 590°C for 4 hrs
+"Tensile Strength, Yield  ","470 MPa @Strain 0.200 %","68200 psi @Strain 0.200 %",TIG after post weld heat treatment at 590°C for 4 hrs
+ ,"490 MPa @Strain 0.200 %","71100 psi @Strain 0.200 %",SAW after post weld heat treatment at 590°C for 4 hrs
 Charpy Impact ,40.0 J,29.5 ft-lb,SAW after post weld heat treatment at 590°C for 4 hrs
  ,80.0 J,59.0 ft-lb,TIG after post weld heat treatment at 590°C for 4 hrs
 "Chromium, Cr ",16 %,16 %,Note 1

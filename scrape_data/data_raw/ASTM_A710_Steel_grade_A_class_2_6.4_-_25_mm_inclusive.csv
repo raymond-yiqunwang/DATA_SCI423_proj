@@ -15,9 +15,7 @@ Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical steel
 "Tensile Strength, Yield ",450 MPa,65300 psi,
 Modulus of Elasticity ,205 GPa,29700 ksi,Typical for steel
 Poissons Ratio ,0.29,0.29,Calculated
-Charpy Impact ,"68.0 J
-@Temperature -45.0 °C","50.2 ft-lb
-@Temperature -49.0 °F",
+Charpy Impact ,"68.0 J @Temperature -45.0 °C","50.2 ft-lb @Temperature -49.0 °F",
 Thermal Conductivity ,46.6 W/m-K,323 BTU-in/hr-ft²-°F,Typical steel
 "Chromium, Cr ",0.60 - 0.90 %,0.60 - 0.90 %,
 "Iron, Fe ",95.33 - 97.13 %,95.33 - 97.13 %,As remainder

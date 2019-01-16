@@ -1,54 +1,30 @@
 ,Metric,English,Comments
 Density ,7.85 g/cc,0.284 lb/in³,
 "Hardness, Brinell ",370,370,
-"Tensile Strength, Yield ","900 MPa
-@Strain 0.200 %","131000 psi
-@Strain 0.200 %",
- ,"820 MPa
-@Strain 0.200 %,
-Temperature 500 °C","119000 psi
-@Strain 0.200 %,
+"Tensile Strength, Yield ","900 MPa @Strain 0.200 %","131000 psi @Strain 0.200 %",
+ ,"820 MPa @Strain 0.200 %,
+Temperature 500 °C","119000 psi @Strain 0.200 %,
 Temperature 932 °F",
- ,"920 MPa
-@Strain 0.200 %,
-Temperature 400 °C","133000 psi
-@Strain 0.200 %,
+ ,"920 MPa @Strain 0.200 %,
+Temperature 400 °C","133000 psi @Strain 0.200 %,
 Temperature 752 °F",
- ,"940 MPa
-@Strain 0.200 %,
-Temperature 200 °C","136000 psi
-@Strain 0.200 %,
+ ,"940 MPa @Strain 0.200 %,
+Temperature 200 °C","136000 psi @Strain 0.200 %,
 Temperature 392 °F",
 Modulus of Elasticity ,205 GPa,29700 ksi,
-"CTE, linear  ","12.5 µm/m-°C
-@Temperature 20.0 - 100 °C","6.94 µin/in-°F
-@Temperature 68.0 - 212 °F",
- ,"13.0 µm/m-°C
-@Temperature 20.0 - 200 °C","7.22 µin/in-°F
-@Temperature 68.0 - 392 °F",
- ,"14.0 µm/m-°C
-@Temperature 20.0 - 300 °C","7.78 µin/in-°F
-@Temperature 68.0 - 572 °F",
- ,"14.5 µm/m-°C
-@Temperature 20.0 - 400 °C","8.06 µin/in-°F
-@Temperature 68.0 - 752 °F",
- ,"14.5 µm/m-°C
-@Temperature 20.0 - 500 °C","8.06 µin/in-°F
-@Temperature 68.0 - 932 °F",
+"CTE, linear  ","12.5 µm/m-°C @Temperature 20.0 - 100 °C","6.94 µin/in-°F @Temperature 68.0 - 212 °F",
+ ,"13.0 µm/m-°C @Temperature 20.0 - 200 °C","7.22 µin/in-°F @Temperature 68.0 - 392 °F",
+ ,"14.0 µm/m-°C @Temperature 20.0 - 300 °C","7.78 µin/in-°F @Temperature 68.0 - 572 °F",
+ ,"14.5 µm/m-°C @Temperature 20.0 - 400 °C","8.06 µin/in-°F @Temperature 68.0 - 752 °F",
+ ,"14.5 µm/m-°C @Temperature 20.0 - 500 °C","8.06 µin/in-°F @Temperature 68.0 - 932 °F",
 "Carbon, C ",<= 0.200 %,<= 0.200 %,
 "Manganese, Mn ",<= 1.60 %,<= 1.60 %,
 "Nickel, Ni ",0.20 %,0.20 %,
 "Titanium, Ti ",<= 0.200 %,<= 0.200 %,
 "Tensile Strength, Ultimate ",1200 MPa,174000 psi,
- ,"900 MPa
-@Temperature 500 °C","131000 psi
-@Temperature 932 °F",
- ,"1120 MPa
-@Temperature 400 °C","162000 psi
-@Temperature 752 °F",
- ,"1220 MPa
-@Temperature 200 °C","177000 psi
-@Temperature 392 °F",
+ ,"900 MPa @Temperature 500 °C","131000 psi @Temperature 932 °F",
+ ,"1120 MPa @Temperature 400 °C","162000 psi @Temperature 752 °F",
+ ,"1220 MPa @Temperature 200 °C","177000 psi @Temperature 392 °F",
 Elongation at Break ,12 %,12 %,
 "Chromium, Cr ",<= 1.90 %,<= 1.90 %,
 "Molybdenum, Mo ",<= 0.400 %,<= 0.400 %,

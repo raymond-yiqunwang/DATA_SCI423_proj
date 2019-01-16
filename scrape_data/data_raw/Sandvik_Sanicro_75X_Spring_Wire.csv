@@ -1,5 +1,5 @@
 ,Metric,English,Comments
-Density ,8.30 g/cc,0.300 lb/in³,
+Density ,8.30 g/cc,0.300 lb/in,
 Tensile Strength ,800 MPa,116000 psi,Annealed
  ,1000 MPa,145000 psi,"Soft drawn, final reduction 15% (No 1 temper)"
  ,1100 MPa,160000 psi,"Hard drawn, final reduction 65% (Spring temper), after heat treatment"
@@ -17,79 +17,33 @@ Shear Modulus ,70.0 GPa,10200 ksi,"Hard drawn, final reduction 65% (Spring tempe
  ,81.5 GPa,11800 ksi,"Hard drawn, final reduction 65% (Spring temper), after heat treatment"
  ,83.0 GPa,12000 ksi,"Annealed, after heat treatment"
  ,85.0 GPa,12300 ksi,"Soft drawn, final reduction 15% (No 1 temper), after heat treatment"
-Electrical Resistivity  ,"0.0000120 ohm-cm
-@Temperature 20.0 °C","0.0000120 ohm-cm
-@Temperature 68.0 °F",
- ,"0.0000125 ohm-cm
-@Temperature 100 °C","0.0000125 ohm-cm
-@Temperature 212 °F",
- ,"0.0000125 ohm-cm
-@Temperature 200 °C","0.0000125 ohm-cm
-@Temperature 392 °F",
- ,"0.0000125 ohm-cm
-@Temperature 300 °C","0.0000125 ohm-cm
-@Temperature 572 °F",
- ,"0.0000130 ohm-cm
-@Temperature 500 °C","0.0000130 ohm-cm
-@Temperature 932 °F",
- ,"0.0000130 ohm-cm
-@Temperature 700 °C","0.0000130 ohm-cm
-@Temperature 1290 °F",
-"CTE, linear  ","12.2 µm/m-°C
-@Temperature 30.0 - 100 °C","6.78 µin/in-°F
-@Temperature 86.0 - 212 °F",
- ,"13.4 µm/m-°C
-@Temperature 30.0 - 300 °C","7.44 µin/in-°F
-@Temperature 86.0 - 572 °F",
- ,"13.8 µm/m-°C
-@Temperature 30.0 - 500 °C","7.67 µin/in-°F
-@Temperature 86.0 - 932 °F",
- ,"14.9 µm/m-°C
-@Temperature 30.0 - 700 °C","8.28 µin/in-°F
-@Temperature 86.0 - 1290 °F",
- ,"16.5 µm/m-°C
-@Temperature 30.0 - 900 °C","9.17 µin/in-°F
-@Temperature 86.0 - 1650 °F",
-Thermal Conductivity  ,"16.3 W/m-K
-@Temperature 100 °C","113 BTU-in/hr-ft²-°F
-@Temperature 212 °F",
- ,"19.8 W/m-K
-@Temperature 300 °C","137 BTU-in/hr-ft²-°F
-@Temperature 572 °F",
- ,"25.6 W/m-K
-@Temperature 500 °C","178 BTU-in/hr-ft²-°F
-@Temperature 932 °F",
- ,"30.2 W/m-K
-@Temperature 700 °C","210 BTU-in/hr-ft²-°F
-@Temperature 1290 °F",
- ,"37.2 W/m-K
-@Temperature 900 °C","258 BTU-in/hr-ft²-°F
-@Temperature 1650 °F",
+Electrical Resistivity  ,"0.0000120 ohm-cm @Temperature 20.0 C","0.0000120 ohm-cm @Temperature 68.0 F",
+ ,"0.0000125 ohm-cm @Temperature 100 C","0.0000125 ohm-cm @Temperature 212 F",
+ ,"0.0000125 ohm-cm @Temperature 200 C","0.0000125 ohm-cm @Temperature 392 F",
+ ,"0.0000125 ohm-cm @Temperature 300 C","0.0000125 ohm-cm @Temperature 572 F",
+ ,"0.0000130 ohm-cm @Temperature 500 C","0.0000130 ohm-cm @Temperature 932 F",
+ ,"0.0000130 ohm-cm @Temperature 700 C","0.0000130 ohm-cm @Temperature 1290 F",
+"CTE, linear  ","12.2 m/m-C @Temperature 30.0 - 100 C","6.78 in/in-F @Temperature 86.0 - 212 F",
+ ,"13.4 m/m-C @Temperature 30.0 - 300 C","7.44 in/in-F @Temperature 86.0 - 572 F",
+ ,"13.8 m/m-C @Temperature 30.0 - 500 C","7.67 in/in-F @Temperature 86.0 - 932 F",
+ ,"14.9 m/m-C @Temperature 30.0 - 700 C","8.28 in/in-F @Temperature 86.0 - 1290 F",
+ ,"16.5 m/m-C @Temperature 30.0 - 900 C","9.17 in/in-F @Temperature 86.0 - 1650 F",
+Thermal Conductivity  ,"16.3 W/m-K @Temperature 100 C","113 BTU-in/hr-ft-F @Temperature 212 F",
+ ,"19.8 W/m-K @Temperature 300 C","137 BTU-in/hr-ft-F @Temperature 572 F",
+ ,"25.6 W/m-K @Temperature 500 C","178 BTU-in/hr-ft-F @Temperature 932 F",
+ ,"30.2 W/m-K @Temperature 700 C","210 BTU-in/hr-ft-F @Temperature 1290 F",
+ ,"37.2 W/m-K @Temperature 900 C","258 BTU-in/hr-ft-F @Temperature 1650 F",
 "Carbon, C ",<= 0.0300 %,<= 0.0300 %,
 "Manganese, Mn ",0.50 %,0.50 %,
 "Phosphorous, P ",<= 0.0150 %,<= 0.0150 %,
 "Sulfur, S ",<= 0.0150 %,<= 0.0150 %,
-"Tensile Strength, Yield  ","400 MPa
-@Strain 0.200 %","58000 psi
-@Strain 0.200 %",Annealed
- ,"650 MPa
-@Strain 0.200 %","94300 psi
-@Strain 0.200 %","Hard drawn, final reduction 65% (Spring temper), after heat treatment"
- ,"800 MPa
-@Strain 0.200 %","116000 psi
-@Strain 0.200 %","Soft drawn, final reduction 15% (No 1 temper)"
- ,"800 MPa
-@Strain 0.200 %","116000 psi
-@Strain 0.200 %","Annealed, after heat treatment"
- ,"1150 MPa
-@Strain 0.200 %","167000 psi
-@Strain 0.200 %","Soft drawn, final reduction 15% (No 1 temper), after heat treatment"
- ,"1500 MPa
-@Strain 0.200 %","218000 psi
-@Strain 0.200 %","Hard drawn, final reduction 65% (Spring temper)"
- ,"1750 MPa
-@Strain 0.200 %","254000 psi
-@Strain 0.200 %","Hard drawn, final reduction 65% (Spring temper), after heat treatment"
+"Tensile Strength, Yield  ","400 MPa @Strain 0.200 %","58000 psi @Strain 0.200 %",Annealed
+ ,"650 MPa @Strain 0.200 %","94300 psi @Strain 0.200 %","Hard drawn, final reduction 65% (Spring temper), after heat treatment"
+ ,"800 MPa @Strain 0.200 %","116000 psi @Strain 0.200 %","Soft drawn, final reduction 15% (No 1 temper)"
+ ,"800 MPa @Strain 0.200 %","116000 psi @Strain 0.200 %","Annealed, after heat treatment"
+ ,"1150 MPa @Strain 0.200 %","167000 psi @Strain 0.200 %","Soft drawn, final reduction 15% (No 1 temper), after heat treatment"
+ ,"1500 MPa @Strain 0.200 %","218000 psi @Strain 0.200 %","Hard drawn, final reduction 65% (Spring temper)"
+ ,"1750 MPa @Strain 0.200 %","254000 psi @Strain 0.200 %","Hard drawn, final reduction 65% (Spring temper), after heat treatment"
 Modulus of Elasticity ,180 GPa,26100 ksi,"Hard drawn, final reduction 65% (Spring temper)"
  ,193 GPa,28000 ksi,"Soft drawn, final reduction 15% (No 1 temper)"
  ,193 GPa,28000 ksi,Annealed
@@ -97,52 +51,22 @@ Modulus of Elasticity ,180 GPa,26100 ksi,"Hard drawn, final reduction 65% (Sprin
  ,216 GPa,31300 ksi,"Annealed, after heat treatment"
  ,220 GPa,31900 ksi,"Soft drawn, final reduction 15% (No 1 temper), after heat treatment"
  ,221 GPa,32100 ksi,"Hard drawn, final reduction 65% (Spring temper), after heat treatment"
-Shear Strength  ,"170 MPa
-@Temperature 540 - 570 °C","24700 psi
-@Temperature 1000 - 1060 °F","Classification A, B"
- ,"205 MPa
-@Temperature 620 - 650 °C","29700 psi
-@Temperature 1150 - 1200 °F",Classification C
- ,"275 MPa
-@Temperature 590 - 620 °C","39900 psi
-@Temperature 1090 - 1150 °F",Classification C
- ,"275 MPa
-@Temperature 510 - 540 °C","39900 psi
-@Temperature 950 - 1000 °F","Classification A, B"
- ,"310 MPa
-@Temperature 480 - 510 °C","45000 psi
-@Temperature 896 - 950 °F","Classification A, B"
- ,"345 MPa
-@Temperature 450 - 480 °C","50000 psi
-@Temperature 842 - 896 °F","Classification A, B"
- ,"345 MPa
-@Temperature 540 - 590 °C","50000 psi
-@Temperature 1000 - 1090 °F",Classification C
- ,"380 MPa
-@Temperature -260 - 540 °C","55100 psi
-@Temperature -436 - 1000 °F",Classification C
- ,"415 MPa
-@Temperature 430 - 450 °C","60200 psi
-@Temperature 806 - 842 °F","Classification A, B"
- ,"480 MPa
-@Temperature -260 - 430 °C","69600 psi
-@Temperature -436 - 806 °F","Classification A, B"
- ,"585 MPa
-@Temperature 320 - 370 °C","84800 psi
-@Temperature 608 - 698 °F",Classification D
- ,"620 MPa
-@Temperature 260 - 320 °C","89900 psi
-@Temperature 500 - 608 °F",Classification D
- ,"690 MPa
-@Temperature <=260 °C","100000 psi
-@Temperature <=500 °F",Classification D
-Specific Heat Capacity  ,"0.420 - 0.460 J/g-°C
-@Temperature 20.0 - 100 °C","0.100 - 0.110 BTU/lb-°F
-@Temperature 68.0 - 212 °F",
- ,"0.540 J/g-°C
-@Temperature 50.0 - 900 °C","0.129 BTU/lb-°F
-@Temperature 122 - 1650 °F",
-"Maximum Service Temperature, Air ",600 °C,1110 °F,
+Shear Strength  ,"170 MPa @Temperature 540 - 570 C","24700 psi @Temperature 1000 - 1060 F","Classification A, B"
+ ,"205 MPa @Temperature 620 - 650 C","29700 psi @Temperature 1150 - 1200 F",Classification C
+ ,"275 MPa @Temperature 590 - 620 C","39900 psi @Temperature 1090 - 1150 F",Classification C
+ ,"275 MPa @Temperature 510 - 540 C","39900 psi @Temperature 950 - 1000 F","Classification A, B"
+ ,"310 MPa @Temperature 480 - 510 C","45000 psi @Temperature 896 - 950 F","Classification A, B"
+ ,"345 MPa @Temperature 450 - 480 C","50000 psi @Temperature 842 - 896 F","Classification A, B"
+ ,"345 MPa @Temperature 540 - 590 C","50000 psi @Temperature 1000 - 1090 F",Classification C
+ ,"380 MPa @Temperature -260 - 540 C","55100 psi @Temperature -436 - 1000 F",Classification C
+ ,"415 MPa @Temperature 430 - 450 C","60200 psi @Temperature 806 - 842 F","Classification A, B"
+ ,"480 MPa @Temperature -260 - 430 C","69600 psi @Temperature -436 - 806 F","Classification A, B"
+ ,"585 MPa @Temperature 320 - 370 C","84800 psi @Temperature 608 - 698 F",Classification D
+ ,"620 MPa @Temperature 260 - 320 C","89900 psi @Temperature 500 - 608 F",Classification D
+ ,"690 MPa @Temperature <=260 C","100000 psi @Temperature <=500 F",Classification D
+Specific Heat Capacity  ,"0.420 - 0.460 J/g-C @Temperature 20.0 - 100 C","0.100 - 0.110 BTU/lb-F @Temperature 68.0 - 212 F",
+ ,"0.540 J/g-C @Temperature 50.0 - 900 C","0.129 BTU/lb-F @Temperature 122 - 1650 F",
+"Maximum Service Temperature, Air ",600 C,1110 F,
 "Chromium, Cr ",16 %,16 %,
 "Nickel, Ni ",72 %,72 %,
 "Silicon, Si ",>= 0.300 %,>= 0.300 %,

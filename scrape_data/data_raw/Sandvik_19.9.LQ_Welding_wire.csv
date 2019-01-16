@@ -1,25 +1,17 @@
 ,Metric,English,Comments
 "Hardness, Vickers ",160,160,TIG typical for non heat treated weld metal
-"Tensile Strength, Yield  ","250 MPa
-@Strain 0.200 %,
-Temperature 350 °C","36300 psi
-@Strain 0.200 %,
-Temperature 662 °F",SAW typical for non heat treated weld metal using flux 15W
- ,"270 MPa
-@Strain 0.200 %,
-Temperature 350 °C","39200 psi
-@Strain 0.200 %,
-Temperature 662 °F",TIG typical for non heat treated weld metal
- ,"350 MPa
-@Strain 0.200 %,
-Temperature 20.0 °C","50800 psi
-@Strain 0.200 %,
-Temperature 68.0 °F",SAW typical for non heat treated weld metal using flux 15W
- ,"420 MPa
-@Strain 0.200 %,
-Temperature 20.0 °C","60900 psi
-@Strain 0.200 %,
-Temperature 68.0 °F",TIG typical for non heat treated weld metal
+"Tensile Strength, Yield  ","250 MPa @Strain 0.200 %,
+Temperature 350 C","36300 psi @Strain 0.200 %,
+Temperature 662 F",SAW typical for non heat treated weld metal using flux 15W
+ ,"270 MPa @Strain 0.200 %,
+Temperature 350 C","39200 psi @Strain 0.200 %,
+Temperature 662 F",TIG typical for non heat treated weld metal
+ ,"350 MPa @Strain 0.200 %,
+Temperature 20.0 C","50800 psi @Strain 0.200 %,
+Temperature 68.0 F",SAW typical for non heat treated weld metal using flux 15W
+ ,"420 MPa @Strain 0.200 %,
+Temperature 20.0 C","60900 psi @Strain 0.200 %,
+Temperature 68.0 F",TIG typical for non heat treated weld metal
 Reduction of Area ,40 %,40 %,SAW typical for non heat treated weld metal using flux 15W
  ,60 %,60 %,TIG typical for non heat treated weld metal
 "Carbon, C ",0.020 %,0.020 %,MIG
@@ -37,30 +29,14 @@ Reduction of Area ,40 %,40 %,SAW typical for non heat treated weld metal using f
 "Silicon, Si ",0.30 %,0.30 %,MIG
  ,0.40 %,0.40 %,Aim
  ,0.60 %,0.60 %,SAW
-"Tensile Strength, Ultimate  ","360 MPa
-@Temperature 350 °C","52200 psi
-@Temperature 662 °F",SAW typical for non heat treated weld metal using flux 15W
- ,"390 MPa
-@Temperature 350 °C","56600 psi
-@Temperature 662 °F",TIG typical for non heat treated weld metal
- ,"540 MPa
-@Temperature 20.0 °C","78300 psi
-@Temperature 68.0 °F",SAW typical for non heat treated weld metal using flux 15W
- ,"630 MPa
-@Temperature 20.0 °C","91400 psi
-@Temperature 68.0 °F",TIG typical for non heat treated weld metal
-Elongation at Break  ,"33 %
-@Temperature 350 °C","33 %
-@Temperature 662 °F",SAW typical for non heat treated weld metal using flux 15W
- ,"33 %
-@Temperature 350 °C","33 %
-@Temperature 662 °F",TIG typical for non heat treated weld metal
- ,"38 %
-@Temperature 20.0 °C","38 %
-@Temperature 68.0 °F",TIG typical for non heat treated weld metal
- ,"40 %
-@Temperature 20.0 °C","40 %
-@Temperature 68.0 °F",SAW typical for non heat treated weld metal using flux 15W
+"Tensile Strength, Ultimate  ","360 MPa @Temperature 350 C","52200 psi @Temperature 662 F",SAW typical for non heat treated weld metal using flux 15W
+ ,"390 MPa @Temperature 350 C","56600 psi @Temperature 662 F",TIG typical for non heat treated weld metal
+ ,"540 MPa @Temperature 20.0 C","78300 psi @Temperature 68.0 F",SAW typical for non heat treated weld metal using flux 15W
+ ,"630 MPa @Temperature 20.0 C","91400 psi @Temperature 68.0 F",TIG typical for non heat treated weld metal
+Elongation at Break  ,"33 % @Temperature 350 C","33 % @Temperature 662 F",SAW typical for non heat treated weld metal using flux 15W
+ ,"33 % @Temperature 350 C","33 % @Temperature 662 F",TIG typical for non heat treated weld metal
+ ,"38 % @Temperature 20.0 C","38 % @Temperature 68.0 F",TIG typical for non heat treated weld metal
+ ,"40 % @Temperature 20.0 C","40 % @Temperature 68.0 F",SAW typical for non heat treated weld metal using flux 15W
 Charpy Impact ,140 J,103 ft-lb,TIG typical for non heat treated weld metal
  ,885 J,653 ft-lb,SAW typical for non heat treated weld metal using flux 15W
 "Chromium, Cr ",19.5 %,19.5 %,Aim

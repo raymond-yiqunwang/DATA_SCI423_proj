@@ -4,21 +4,11 @@ Density ,7.85 g/cc,0.284 lb/in³,
 "Hardness, Vickers ",301,301,Converted from Rockwell C hardness.
 Bulk Modulus ,160 GPa,23200 ksi,Typical for steel.
 Machinability ,65 %,65 %,annealed and cold drawn. Based on AISI 1212 steel as 100% machinability.
-Charpy Impact  ,"24.0 J
-@Temperature -185 °C","17.7 ft-lb
-@Temperature -301 °F",
- ,"30.0 J
-@Temperature -130 °C","22.1 ft-lb
-@Temperature -202 °F",
- ,"66.0 J
-@Temperature -73.0 °C","48.7 ft-lb
-@Temperature -99.4 °F",
- ,"85.0 J
-@Temperature -18.0 °C","62.7 ft-lb
-@Temperature -0.400 °F",
- ,"89.0 J
-@Temperature 38.0 °C","65.6 ft-lb
-@Temperature 100 °F",
+Charpy Impact  ,"24.0 J @Temperature -185 °C","17.7 ft-lb @Temperature -301 °F",
+ ,"30.0 J @Temperature -130 °C","22.1 ft-lb @Temperature -202 °F",
+ ,"66.0 J @Temperature -73.0 °C","48.7 ft-lb @Temperature -99.4 °F",
+ ,"85.0 J @Temperature -18.0 °C","62.7 ft-lb @Temperature -0.400 °F",
+ ,"89.0 J @Temperature 38.0 °C","65.6 ft-lb @Temperature 100 °F",
 Electrical Resistivity ,0.0000234 ohm-cm,0.0000234 ohm-cm,Typical steel
 Specific Heat Capacity ,0.475 J/g-°C,0.114 BTU/lb-°F,Typical steel
 "Carbon, C ",0.37 - 0.44 %,0.37 - 0.44 %,

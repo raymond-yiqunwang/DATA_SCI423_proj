@@ -1,8 +1,6 @@
 ,Metric,English,Comments
 "Hardness, Vickers ",250,250,
-"Tensile Strength, Yield ","500 MPa
-@Strain 0.200 %","72500 psi
-@Strain 0.200 %",
+"Tensile Strength, Yield ","500 MPa @Strain 0.200 %","72500 psi @Strain 0.200 %",
 Reduction of Area ,45 %,45 %,
 "Carbon, C ",0.0080 %,0.0080 %,All-weld metal
  ,<= 0.0150 %,<= 0.0150 %,Filler metal
@@ -17,12 +15,8 @@ Reduction of Area ,45 %,45 %,
  ,3.0 %,3.0 %,All-weld metal
 "Tensile Strength, Ultimate ",780 MPa,113000 psi,
 Elongation at Break ,40 %,40 %,
-Charpy Impact  ,"80.0 J
-@Temperature -196 °C","59.0 ft-lb
-@Temperature -321 °F",
- ,"110 J
-@Temperature 20.0 °C","81.1 ft-lb
-@Temperature 68.0 °F",
+Charpy Impact  ,"80.0 J @Temperature -196 C","59.0 ft-lb @Temperature -321 F",
+ ,"110 J @Temperature 20.0 C","81.1 ft-lb @Temperature 68.0 F",
 "Chromium, Cr ",21.5 %,21.5 %,Filler metal
  ,22 %,22 %,All-weld metal
 "Iron, Fe ",3.0 %,3.0 %,All-weld metal
