@@ -2,6 +2,8 @@ from collections import defaultdict
 import pandas as pd
 import os
 
+## select features and convert from strings to floating point numbers
+
 features_dict = defaultdict(int)
 
 ddir = "./scrape_data/data_raw/"
@@ -10,13 +12,11 @@ for filename in os.listdir(ddir):
     for ind in data.index:
         features_dict[ind] += 1
 
-"""
 print(' These are the potential features:')
 for ii in sorted(features_dict.items(), key=lambda tup: tup[-1], reverse=True):
     if (ii[-1] > 100) and (ii[0] is not ' '):
         print(ii)
 print('')
-"""
 
 elem_list = ['Iron, Fe', 'Carbon, C', 'Sulfur, S', 'Silicon, Si', 'Phosphorous, P', 'Manganese, Mn', 'Chromium, Cr', 'Nickel, Ni', 'Molybdenum, Mo', 'Copper, Cu']
 
@@ -99,6 +99,6 @@ for ii in data_all_float.index:
         drop_list.append(ii)
 data_all_float = data_all_float.drop(drop_list)
 
-print(data_all_float.shape)
+print('Shape of data: ', data_all_float.shape)
 data_all_float.to_csv("./data/data_all_float.csv", sep=';', index=False)
 
