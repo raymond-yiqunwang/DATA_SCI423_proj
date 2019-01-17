@@ -6,7 +6,7 @@ import os
 
 features_dict = defaultdict(int)
 
-ddir = "./scrape_data/data_raw/"
+ddir = "../scrape_data/data_raw/"
 for filename in os.listdir(ddir):
     data = pd.read_csv(ddir+filename, header=0, index_col=0)
     for ind in data.index:
@@ -39,7 +39,7 @@ for filename in os.listdir(ddir):
 
 # convert to DataFrame and save to file
 data_all_string = pd.DataFrame(data_all_string, index=None, columns=feature_list)
-data_all_string.to_csv(path_or_buf="./data/data_all_string.csv", sep=';', index=False)
+data_all_string.to_csv(path_or_buf="../data/data_all_string.csv", sep=';', index=False)
 
 # define util function
 def extract_float(string):
@@ -100,5 +100,5 @@ for ii in data_all_float.index:
 data_all_float = data_all_float.drop(drop_list)
 
 print('Shape of data: ', data_all_float.shape)
-data_all_float.to_csv("./data/data_all_float.csv", sep=';', index=False)
+data_all_float.to_csv("../data/data_all_float.csv", sep=';', index=False)
 
