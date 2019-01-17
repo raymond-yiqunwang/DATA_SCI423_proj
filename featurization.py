@@ -92,4 +92,13 @@ for ii in range(data_all_float.shape[0]):
     for jj in range(data_all_float.shape[1]):
         data_all_float.iloc[ii, jj] = extract_float(data_all_float.iloc[ii, jj])
 
+# drop instances whose Fe weight is less than 50%
+drop_list = []
+for ii in data_all_float.index:
+    if data_all_float.loc[ii, 'Iron, Fe'] < 80.:
+        drop_list.append(ii)
+data_all_float = data_all_float.drop(drop_list)
+
+print(data_all_float.shape)
 data_all_float.to_csv("./data/data_all_float.csv", sep=';', index=False)
+
