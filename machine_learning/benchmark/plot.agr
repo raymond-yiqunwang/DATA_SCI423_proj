@@ -1,0 +1,1438 @@
+# Grace project file
+#
+@version 50125
+@page size 520, 520
+@page scroll 10%
+@page inout 5%
+@link page off
+@map font 8 to "Courier", "Courier"
+@map font 10 to "Courier-Bold", "Courier-Bold"
+@map font 11 to "Courier-BoldOblique", "Courier-BoldOblique"
+@map font 9 to "Courier-Oblique", "Courier-Oblique"
+@map font 14 to "Courier-Regular", "Courier-Regular"
+@map font 15 to "Dingbats-Regular", "Dingbats-Regular"
+@map font 4 to "Helvetica", "Helvetica"
+@map font 6 to "Helvetica-Bold", "Helvetica-Bold"
+@map font 7 to "Helvetica-BoldOblique", "Helvetica-BoldOblique"
+@map font 5 to "Helvetica-Oblique", "Helvetica-Oblique"
+@map font 20 to "NimbusMonoL-Bold", "NimbusMonoL-Bold"
+@map font 21 to "NimbusMonoL-BoldOblique", "NimbusMonoL-BoldOblique"
+@map font 22 to "NimbusMonoL-Regular", "NimbusMonoL-Regular"
+@map font 23 to "NimbusMonoL-RegularOblique", "NimbusMonoL-RegularOblique"
+@map font 24 to "NimbusRomanNo9L-Medium", "NimbusRomanNo9L-Medium"
+@map font 25 to "NimbusRomanNo9L-MediumItalic", "NimbusRomanNo9L-MediumItalic"
+@map font 26 to "NimbusRomanNo9L-Regular", "NimbusRomanNo9L-Regular"
+@map font 27 to "NimbusRomanNo9L-RegularItalic", "NimbusRomanNo9L-RegularItalic"
+@map font 28 to "NimbusSansL-Bold", "NimbusSansL-Bold"
+@map font 29 to "NimbusSansL-BoldCondensed", "NimbusSansL-BoldCondensed"
+@map font 30 to "NimbusSansL-BoldCondensedItalic", "NimbusSansL-BoldCondensedItalic"
+@map font 31 to "NimbusSansL-BoldItalic", "NimbusSansL-BoldItalic"
+@map font 32 to "NimbusSansL-Regular", "NimbusSansL-Regular"
+@map font 33 to "NimbusSansL-RegularCondensed", "NimbusSansL-RegularCondensed"
+@map font 34 to "NimbusSansL-RegularCondensedItalic", "NimbusSansL-RegularCondensedItalic"
+@map font 35 to "NimbusSansL-RegularItalic", "NimbusSansL-RegularItalic"
+@map font 36 to "StandardSymbolsL-Regular", "StandardSymbolsL-Regular"
+@map font 12 to "Symbol", "Symbol"
+@map font 2 to "Times-Bold", "Times-Bold"
+@map font 3 to "Times-BoldItalic", "Times-BoldItalic"
+@map font 1 to "Times-Italic", "Times-Italic"
+@map font 0 to "Times-Roman", "Times-Roman"
+@map font 42 to "URWBookmanL-DemiBold", "URWBookmanL-DemiBold"
+@map font 43 to "URWBookmanL-DemiBoldItalic", "URWBookmanL-DemiBoldItalic"
+@map font 44 to "URWBookmanL-Light", "URWBookmanL-Light"
+@map font 45 to "URWBookmanL-LightItalic", "URWBookmanL-LightItalic"
+@map font 46 to "URWChanceryL-MediumItalic", "URWChanceryL-MediumItalic"
+@map font 47 to "URWGothicL-Book", "URWGothicL-Book"
+@map font 48 to "URWGothicL-BookOblique", "URWGothicL-BookOblique"
+@map font 49 to "URWGothicL-Demi", "URWGothicL-Demi"
+@map font 50 to "URWGothicL-DemiOblique", "URWGothicL-DemiOblique"
+@map font 51 to "URWPalladioL-Bold", "URWPalladioL-Bold"
+@map font 52 to "URWPalladioL-BoldItalic", "URWPalladioL-BoldItalic"
+@map font 53 to "URWPalladioL-Italic", "URWPalladioL-Italic"
+@map font 54 to "URWPalladioL-Roman", "URWPalladioL-Roman"
+@map font 55 to "Utopia-Bold", "Utopia-Bold"
+@map font 56 to "Utopia-BoldItalic", "Utopia-BoldItalic"
+@map font 57 to "Utopia-Italic", "Utopia-Italic"
+@map font 58 to "Utopia-Regular", "Utopia-Regular"
+@map font 13 to "ZapfDingbats", "ZapfDingbats"
+@map color 0 to (255, 255, 255), "white"
+@map color 1 to (0, 0, 0), "black"
+@map color 2 to (0, 157, 255), "Azure"
+@map color 3 to (253, 0, 52), "Strawberry"
+@map color 4 to (120, 210, 120), "Mint"
+@map color 5 to (253, 148, 0), "Burnt Orange"
+@map color 6 to (140, 0, 255), "Lavender"
+@map color 7 to (255, 55, 0), "Coral"
+@map color 8 to (50, 92, 95), "Steel"
+@map color 9 to (133, 77, 98), "Wine"
+@map color 10 to (224, 162, 96), "Peach"
+@map color 11 to (183, 0, 41), "Burgandy"
+@map color 12 to (230, 141, 230), "Lilac"
+@map color 13 to (103, 7, 72), "Maroon"
+@map color 14 to (64, 224, 208), "Turquoise"
+@map color 15 to (255, 175, 0), "Mustard"
+@map color 16 to (206, 0, 69), "Merlot"
+@map color 17 to (25, 25, 131), "Navy"
+@map color 18 to (127, 253, 0), "Lime"
+@map color 19 to (114, 33, 188), "Indigo"
+@map color 20 to (164, 109, 28), "Umber"
+@map color 21 to (25, 97, 25), "Kelp"
+@map color 22 to (0, 255, 0), "Green"
+@map color 23 to (195, 18, 30), "sangre"
+@map color 24 to (3, 72, 161), "neptune"
+@map color 25 to (255, 176, 28), "pumpkin"
+@map color 26 to (2, 118, 8), "clover"
+@map color 27 to (1, 147, 176), "denim"
+@map color 28 to (156, 83, 0), "cocoa"
+@map color 29 to (148, 156, 1), "cumin"
+@map color 30 to (113, 4, 181), "berry"
+@map color 31 to (255, 210, 210), "     reds"
+@map color 32 to (255, 206, 206), "Red19"
+@map color 33 to (255, 170, 170), "Red20"
+@map color 34 to (255, 135, 135), "Red21"
+@map color 35 to (255, 74, 74), "Red22"
+@map color 36 to (255, 0, 0), "Red23"
+@map color 37 to (225, 0, 0), "Red24"
+@map color 38 to (197, 0, 0), "Red25"
+@map color 39 to (142, 0, 0), "Red26"
+@map color 40 to (255, 236, 182), "   oranges"
+@map color 41 to (255, 223, 135), "Or28"
+@map color 42 to (255, 209, 84), "Or29"
+@map color 43 to (255, 200, 49), "Or30"
+@map color 44 to (255, 187, 0), "Or31"
+@map color 45 to (223, 164, 0), "Or32"
+@map color 46 to (155, 114, 0), "Or33"
+@map color 47 to (110, 81, 0), "Or34"
+@map color 48 to (66, 48, 0), "Or35"
+@map color 49 to (255, 255, 160), "   yellows"
+@map color 50 to (255, 255, 40), "Ye37"
+@map color 51 to (233, 233, 0), "Ye38"
+@map color 52 to (203, 203, 0), "Ye39"
+@map color 53 to (171, 171, 0), "Ye40"
+@map color 54 to (131, 131, 0), "Ye41"
+@map color 55 to (96, 96, 0), "Ye42"
+@map color 56 to (66, 66, 0), "Ye43"
+@map color 57 to (41, 41, 0), "Ye44"
+@map color 58 to (232, 255, 177), "    neons"
+@map color 59 to (206, 255, 90), "Ne46"
+@map color 60 to (179, 255, 0), "Ne47"
+@map color 61 to (163, 233, 0), "Ne48"
+@map color 62 to (137, 196, 0), "Ne49"
+@map color 63 to (109, 156, 0), "Ne50"
+@map color 64 to (81, 116, 0), "Ne51"
+@map color 65 to (55, 78, 0), "Ne52"
+@map color 66 to (25, 36, 0), "Ne53"
+@map color 67 to (195, 255, 195), "   greens"
+@map color 68 to (117, 255, 117), "Grn55"
+@map color 69 to (0, 255, 0), "Grn56"
+@map color 70 to (0, 228, 0), "Grn57"
+@map color 71 to (0, 193, 0), "Grn58"
+@map color 72 to (0, 161, 0), "Grn59"
+@map color 73 to (0, 128, 0), "Grn60"
+@map color 74 to (0, 85, 0), "Grn61"
+@map color 75 to (0, 40, 0), "Grn62"
+@map color 76 to (172, 255, 218), " turquoises"
+@map color 77 to (105, 255, 188), "Trq64"
+@map color 78 to (17, 255, 148), "Trq65"
+@map color 79 to (3, 241, 134), "Trq66"
+@map color 80 to (2, 208, 116), "Trq67"
+@map color 81 to (2, 165, 92), "Trq68"
+@map color 82 to (1, 126, 70), "Trq69"
+@map color 83 to (1, 90, 50), "Trq70"
+@map color 84 to (1, 48, 27), "Trq71"
+@map color 85 to (210, 249, 255), "   azures"
+@map color 86 to (150, 241, 255), "Az73"
+@map color 87 to (102, 235, 255), "Az74"
+@map color 88 to (4, 222, 255), "Az75"
+@map color 89 to (0, 202, 233), "Az76"
+@map color 90 to (0, 159, 183), "Az77"
+@map color 91 to (0, 122, 141), "Az78"
+@map color 92 to (0, 83, 96), "Az79"
+@map color 93 to (0, 61, 70), "Az80"
+@map color 94 to (177, 177, 255), "    blues"
+@map color 95 to (134, 134, 255), "Blu82"
+@map color 96 to (107, 107, 255), "Blu83"
+@map color 97 to (59, 59, 255), "Blu84"
+@map color 98 to (0, 0, 255), "Blu85"
+@map color 99 to (0, 0, 203), "Blu86"
+@map color 100 to (0, 0, 146), "Blu87"
+@map color 101 to (0, 0, 100), "Blu88"
+@map color 102 to (0, 0, 63), "Blu89"
+@map color 103 to (213, 192, 255), "   violets"
+@map color 104 to (180, 142, 255), "Vi91"
+@map color 105 to (155, 105, 255), "Vi92"
+@map color 106 to (120, 52, 255), "Vi93"
+@map color 107 to (85, 0, 255), "Vi94"
+@map color 108 to (73, 0, 218), "Vi95"
+@map color 109 to (53, 0, 158), "Vi96"
+@map color 110 to (37, 0, 110), "Vi97"
+@map color 111 to (21, 0, 63), "Vi98"
+@map color 112 to (255, 192, 233), "    pinks"
+@map color 113 to (255, 135, 213), "Pnk100"
+@map color 114 to (255, 89, 197), "Pnk101"
+@map color 115 to (255, 0, 166), "Pnk102"
+@map color 116 to (223, 0, 145), "Pnk103"
+@map color 117 to (176, 0, 114), "Pnk104"
+@map color 118 to (140, 0, 91), "Pnk105"
+@map color 119 to (103, 0, 67), "Pnk106"
+@map color 120 to (60, 0, 39), "Pnk107"
+@map color 121 to (255, 255, 255), "    grays"
+@map color 122 to (236, 236, 236), "Gry109"
+@map color 123 to (219, 219, 219), "Gry110"
+@map color 124 to (186, 186, 186), "Gry111"
+@map color 125 to (145, 145, 145), "Gry112"
+@map color 126 to (101, 101, 101), "Gry113"
+@map color 127 to (65, 65, 65), "Gry114"
+@map color 128 to (32, 32, 32), "-by dshoe"
+@reference date 0
+@date wrap off
+@date wrap year 1950
+@default linewidth 1.0
+@default linestyle 1
+@default color 1
+@default pattern 1
+@default font 4
+@default char size 1.000000
+@default symbol size 1.000000
+@default sformat "%.8g"
+@background color 0
+@page background fill on
+@timestamp off
+@timestamp 0.03, 0.03
+@timestamp color 1
+@timestamp rot 0
+@timestamp font 4
+@timestamp char size 1.000000
+@timestamp def "Fri Jan 18 12:04:39 2019"
+@r0 off
+@link r0 to g0
+@r0 type above
+@r0 linestyle 1
+@r0 linewidth 1.0
+@r0 color 1
+@r0 line 0, 0, 0, 0
+@r1 off
+@link r1 to g0
+@r1 type above
+@r1 linestyle 1
+@r1 linewidth 1.0
+@r1 color 1
+@r1 line 0, 0, 0, 0
+@r2 off
+@link r2 to g0
+@r2 type above
+@r2 linestyle 1
+@r2 linewidth 1.0
+@r2 color 1
+@r2 line 0, 0, 0, 0
+@r3 off
+@link r3 to g0
+@r3 type above
+@r3 linestyle 1
+@r3 linewidth 1.0
+@r3 color 1
+@r3 line 0, 0, 0, 0
+@r4 off
+@link r4 to g0
+@r4 type above
+@r4 linestyle 1
+@r4 linewidth 1.0
+@r4 color 1
+@r4 line 0, 0, 0, 0
+@g0 on
+@g0 hidden false
+@g0 type XY
+@g0 stacked false
+@g0 bar hgap 0.000000
+@g0 fixedpoint off
+@g0 fixedpoint type 0
+@g0 fixedpoint xy 0.000000, 0.000000
+@g0 fixedpoint format general general
+@g0 fixedpoint prec 6, 6
+@with g0
+@    world -0.2, 0, 9.2, 22
+@    stack world 0, 0, 0, 0
+@    znorm 1
+@    view 0.113997, 0.502165, 0.699856, 0.832612
+@    title ""
+@    title font 4
+@    title size 1.500000
+@    title color 1
+@    subtitle ""
+@    subtitle font 4
+@    subtitle size 1.000000
+@    subtitle color 1
+@    xaxes scale Normal
+@    yaxes scale Normal
+@    xaxes invert off
+@    yaxes invert off
+@    xaxis  on
+@    xaxis  type zero false
+@    xaxis  offset 0.000000 , 0.000000
+@    xaxis  bar on
+@    xaxis  bar color 1
+@    xaxis  bar linestyle 1
+@    xaxis  bar linewidth 1.0
+@    xaxis  label ""
+@    xaxis  label layout para
+@    xaxis  label place auto
+@    xaxis  label char size 1.000000
+@    xaxis  label font 4
+@    xaxis  label color 1
+@    xaxis  label place normal
+@    xaxis  tick off
+@    xaxis  tick major 2
+@    xaxis  tick minor ticks 1
+@    xaxis  tick default 6
+@    xaxis  tick place rounded true
+@    xaxis  tick in
+@    xaxis  tick major size 1.000000
+@    xaxis  tick major color 1
+@    xaxis  tick major linewidth 1.0
+@    xaxis  tick major linestyle 1
+@    xaxis  tick major grid off
+@    xaxis  tick minor color 1
+@    xaxis  tick minor linewidth 1.0
+@    xaxis  tick minor linestyle 1
+@    xaxis  tick minor grid off
+@    xaxis  tick minor size 0.500000
+@    xaxis  ticklabel off
+@    xaxis  ticklabel format general
+@    xaxis  ticklabel prec 5
+@    xaxis  ticklabel formula ""
+@    xaxis  ticklabel append ""
+@    xaxis  ticklabel prepend ""
+@    xaxis  ticklabel angle 0
+@    xaxis  ticklabel skip 0
+@    xaxis  ticklabel stagger 0
+@    xaxis  ticklabel place normal
+@    xaxis  ticklabel offset auto
+@    xaxis  ticklabel offset 0.000000 , 0.010000
+@    xaxis  ticklabel start type auto
+@    xaxis  ticklabel start 0.000000
+@    xaxis  ticklabel stop type auto
+@    xaxis  ticklabel stop 0.000000
+@    xaxis  ticklabel char size 1.000000
+@    xaxis  ticklabel font 4
+@    xaxis  ticklabel color 1
+@    xaxis  tick place both
+@    xaxis  tick spec type none
+@    yaxis  on
+@    yaxis  type zero false
+@    yaxis  offset 0.000000 , 0.000000
+@    yaxis  bar on
+@    yaxis  bar color 1
+@    yaxis  bar linestyle 1
+@    yaxis  bar linewidth 1.0
+@    yaxis  label "Normalized RMSE"
+@    yaxis  label layout para
+@    yaxis  label place auto
+@    yaxis  label char size 1.000000
+@    yaxis  label font 4
+@    yaxis  label color 1
+@    yaxis  label place normal
+@    yaxis  tick on
+@    yaxis  tick major 10
+@    yaxis  tick minor ticks 1
+@    yaxis  tick default 6
+@    yaxis  tick place rounded true
+@    yaxis  tick in
+@    yaxis  tick major size 0.500000
+@    yaxis  tick major color 1
+@    yaxis  tick major linewidth 1.0
+@    yaxis  tick major linestyle 1
+@    yaxis  tick major grid off
+@    yaxis  tick minor color 1
+@    yaxis  tick minor linewidth 1.0
+@    yaxis  tick minor linestyle 1
+@    yaxis  tick minor grid off
+@    yaxis  tick minor size 0.250000
+@    yaxis  ticklabel on
+@    yaxis  ticklabel format general
+@    yaxis  ticklabel prec 5
+@    yaxis  ticklabel formula ""
+@    yaxis  ticklabel append ""
+@    yaxis  ticklabel prepend ""
+@    yaxis  ticklabel angle 0
+@    yaxis  ticklabel skip 0
+@    yaxis  ticklabel stagger 0
+@    yaxis  ticklabel place normal
+@    yaxis  ticklabel offset auto
+@    yaxis  ticklabel offset 0.000000 , 0.010000
+@    yaxis  ticklabel start type auto
+@    yaxis  ticklabel start 0.000000
+@    yaxis  ticklabel stop type auto
+@    yaxis  ticklabel stop 0.000000
+@    yaxis  ticklabel char size 1.000000
+@    yaxis  ticklabel font 4
+@    yaxis  ticklabel color 1
+@    yaxis  tick place normal
+@    yaxis  tick spec type none
+@    altxaxis  off
+@    altyaxis  off
+@    legend on
+@    legend loctype view
+@    legend 0.705699855697, 0.843290042873
+@    legend box color 0
+@    legend box pattern 0
+@    legend box linewidth 1.0
+@    legend box linestyle 1
+@    legend box fill color 0
+@    legend box fill pattern 1
+@    legend font 4
+@    legend char size 0.800000
+@    legend color 1
+@    legend length 3
+@    legend vgap 1
+@    legend hgap 1
+@    legend invert false
+@    frame type 0
+@    frame linestyle 1
+@    frame linewidth 1.0
+@    frame color 1
+@    frame pattern 1
+@    frame background color 0
+@    frame background pattern 0
+@    s0 hidden false
+@    s0 type xy
+@    s0 symbol 1
+@    s0 symbol size 1.000000
+@    s0 symbol color 52
+@    s0 symbol pattern 1
+@    s0 symbol fill color 52
+@    s0 symbol fill pattern 1
+@    s0 symbol linewidth 1.0
+@    s0 symbol linestyle 1
+@    s0 symbol char 65
+@    s0 symbol char font 4
+@    s0 symbol skip 0
+@    s0 line type 1
+@    s0 line linestyle 1
+@    s0 line linewidth 1.5
+@    s0 line color 52
+@    s0 line pattern 1
+@    s0 baseline type 0
+@    s0 baseline off
+@    s0 dropline off
+@    s0 fill type 0
+@    s0 fill rule 0
+@    s0 fill color 1
+@    s0 fill pattern 1
+@    s0 avalue off
+@    s0 avalue type 2
+@    s0 avalue char size 1.000000
+@    s0 avalue font 4
+@    s0 avalue color 1
+@    s0 avalue rot 0
+@    s0 avalue format general
+@    s0 avalue prec 3
+@    s0 avalue prepend ""
+@    s0 avalue append ""
+@    s0 avalue offset 0.000000 , 0.000000
+@    s0 errorbar on
+@    s0 errorbar place both
+@    s0 errorbar color 52
+@    s0 errorbar pattern 1
+@    s0 errorbar size 1.000000
+@    s0 errorbar linewidth 1.0
+@    s0 errorbar linestyle 1
+@    s0 errorbar riser linewidth 1.0
+@    s0 errorbar riser linestyle 1
+@    s0 errorbar riser clip off
+@    s0 errorbar riser clip length 0.100000
+@    s0 comment "/home/raymond/Desktop/Citrine_Challenge/machine_learning/data.dat"
+@    s0 legend  "Hardness"
+@    s1 hidden false
+@    s1 type xy
+@    s1 symbol 2
+@    s1 symbol size 1.000000
+@    s1 symbol color 52
+@    s1 symbol pattern 1
+@    s1 symbol fill color 52
+@    s1 symbol fill pattern 1
+@    s1 symbol linewidth 1.0
+@    s1 symbol linestyle 1
+@    s1 symbol char 65
+@    s1 symbol char font 4
+@    s1 symbol skip 0
+@    s1 line type 1
+@    s1 line linestyle 3
+@    s1 line linewidth 1.5
+@    s1 line color 52
+@    s1 line pattern 1
+@    s1 baseline type 0
+@    s1 baseline off
+@    s1 dropline off
+@    s1 fill type 0
+@    s1 fill rule 0
+@    s1 fill color 1
+@    s1 fill pattern 1
+@    s1 avalue off
+@    s1 avalue type 2
+@    s1 avalue char size 1.000000
+@    s1 avalue font 4
+@    s1 avalue color 1
+@    s1 avalue rot 0
+@    s1 avalue format general
+@    s1 avalue prec 3
+@    s1 avalue prepend ""
+@    s1 avalue append ""
+@    s1 avalue offset 0.000000 , 0.000000
+@    s1 errorbar on
+@    s1 errorbar place both
+@    s1 errorbar color 52
+@    s1 errorbar pattern 1
+@    s1 errorbar size 1.000000
+@    s1 errorbar linewidth 1.0
+@    s1 errorbar linestyle 1
+@    s1 errorbar riser linewidth 1.0
+@    s1 errorbar riser linestyle 1
+@    s1 errorbar riser clip off
+@    s1 errorbar riser clip length 0.100000
+@    s1 comment "/home/raymond/Desktop/Citrine_Challenge/machine_learning/data.dat"
+@    s1 legend  ""
+@    s18 hidden false
+@    s18 type xy
+@    s18 symbol 1
+@    s18 symbol size 1.000000
+@    s18 symbol color 98
+@    s18 symbol pattern 1
+@    s18 symbol fill color 98
+@    s18 symbol fill pattern 1
+@    s18 symbol linewidth 1.0
+@    s18 symbol linestyle 1
+@    s18 symbol char 65
+@    s18 symbol char font 4
+@    s18 symbol skip 0
+@    s18 line type 1
+@    s18 line linestyle 1
+@    s18 line linewidth 1.5
+@    s18 line color 98
+@    s18 line pattern 1
+@    s18 baseline type 0
+@    s18 baseline off
+@    s18 dropline off
+@    s18 fill type 0
+@    s18 fill rule 0
+@    s18 fill color 1
+@    s18 fill pattern 1
+@    s18 avalue off
+@    s18 avalue type 2
+@    s18 avalue char size 1.000000
+@    s18 avalue font 4
+@    s18 avalue color 1
+@    s18 avalue rot 0
+@    s18 avalue format general
+@    s18 avalue prec 3
+@    s18 avalue prepend ""
+@    s18 avalue append ""
+@    s18 avalue offset 0.000000 , 0.000000
+@    s18 errorbar on
+@    s18 errorbar place both
+@    s18 errorbar color 98
+@    s18 errorbar pattern 1
+@    s18 errorbar size 1.000000
+@    s18 errorbar linewidth 1.0
+@    s18 errorbar linestyle 1
+@    s18 errorbar riser linewidth 1.0
+@    s18 errorbar riser linestyle 1
+@    s18 errorbar riser clip off
+@    s18 errorbar riser clip length 0.100000
+@    s18 comment "/home/raymond/Desktop/Citrine_Challenge/machine_learning/data.dat"
+@    s18 legend  "Tensile at yield"
+@    s19 hidden false
+@    s19 type xy
+@    s19 symbol 2
+@    s19 symbol size 1.000000
+@    s19 symbol color 98
+@    s19 symbol pattern 1
+@    s19 symbol fill color 98
+@    s19 symbol fill pattern 1
+@    s19 symbol linewidth 1.0
+@    s19 symbol linestyle 1
+@    s19 symbol char 65
+@    s19 symbol char font 4
+@    s19 symbol skip 0
+@    s19 line type 1
+@    s19 line linestyle 3
+@    s19 line linewidth 1.5
+@    s19 line color 98
+@    s19 line pattern 1
+@    s19 baseline type 0
+@    s19 baseline off
+@    s19 dropline off
+@    s19 fill type 0
+@    s19 fill rule 0
+@    s19 fill color 1
+@    s19 fill pattern 1
+@    s19 avalue off
+@    s19 avalue type 2
+@    s19 avalue char size 1.000000
+@    s19 avalue font 4
+@    s19 avalue color 1
+@    s19 avalue rot 0
+@    s19 avalue format general
+@    s19 avalue prec 3
+@    s19 avalue prepend ""
+@    s19 avalue append ""
+@    s19 avalue offset 0.000000 , 0.000000
+@    s19 errorbar on
+@    s19 errorbar place both
+@    s19 errorbar color 98
+@    s19 errorbar pattern 1
+@    s19 errorbar size 1.000000
+@    s19 errorbar linewidth 1.0
+@    s19 errorbar linestyle 1
+@    s19 errorbar riser linewidth 1.0
+@    s19 errorbar riser linestyle 1
+@    s19 errorbar riser clip off
+@    s19 errorbar riser clip length 0.100000
+@    s19 comment "/home/raymond/Desktop/Citrine_Challenge/machine_learning/data.dat"
+@    s19 legend  ""
+@    s20 hidden false
+@    s20 type xy
+@    s20 symbol 1
+@    s20 symbol size 1.000000
+@    s20 symbol color 115
+@    s20 symbol pattern 1
+@    s20 symbol fill color 115
+@    s20 symbol fill pattern 1
+@    s20 symbol linewidth 1.0
+@    s20 symbol linestyle 1
+@    s20 symbol char 65
+@    s20 symbol char font 4
+@    s20 symbol skip 0
+@    s20 line type 1
+@    s20 line linestyle 1
+@    s20 line linewidth 1.5
+@    s20 line color 115
+@    s20 line pattern 1
+@    s20 baseline type 0
+@    s20 baseline off
+@    s20 dropline off
+@    s20 fill type 0
+@    s20 fill rule 0
+@    s20 fill color 1
+@    s20 fill pattern 1
+@    s20 avalue off
+@    s20 avalue type 2
+@    s20 avalue char size 1.000000
+@    s20 avalue font 4
+@    s20 avalue color 1
+@    s20 avalue rot 0
+@    s20 avalue format general
+@    s20 avalue prec 3
+@    s20 avalue prepend ""
+@    s20 avalue append ""
+@    s20 avalue offset 0.000000 , 0.000000
+@    s20 errorbar on
+@    s20 errorbar place both
+@    s20 errorbar color 115
+@    s20 errorbar pattern 1
+@    s20 errorbar size 1.000000
+@    s20 errorbar linewidth 1.0
+@    s20 errorbar linestyle 1
+@    s20 errorbar riser linewidth 1.0
+@    s20 errorbar riser linestyle 1
+@    s20 errorbar riser clip off
+@    s20 errorbar riser clip length 0.100000
+@    s20 comment "/home/raymond/Desktop/Citrine_Challenge/machine_learning/data.dat"
+@    s20 legend  "Tensile at ultimate"
+@    s21 hidden false
+@    s21 type xy
+@    s21 symbol 2
+@    s21 symbol size 1.000000
+@    s21 symbol color 115
+@    s21 symbol pattern 1
+@    s21 symbol fill color 115
+@    s21 symbol fill pattern 1
+@    s21 symbol linewidth 1.0
+@    s21 symbol linestyle 1
+@    s21 symbol char 65
+@    s21 symbol char font 4
+@    s21 symbol skip 0
+@    s21 line type 1
+@    s21 line linestyle 3
+@    s21 line linewidth 1.5
+@    s21 line color 115
+@    s21 line pattern 1
+@    s21 baseline type 0
+@    s21 baseline off
+@    s21 dropline off
+@    s21 fill type 0
+@    s21 fill rule 0
+@    s21 fill color 1
+@    s21 fill pattern 1
+@    s21 avalue off
+@    s21 avalue type 2
+@    s21 avalue char size 1.000000
+@    s21 avalue font 4
+@    s21 avalue color 1
+@    s21 avalue rot 0
+@    s21 avalue format general
+@    s21 avalue prec 3
+@    s21 avalue prepend ""
+@    s21 avalue append ""
+@    s21 avalue offset 0.000000 , 0.000000
+@    s21 errorbar on
+@    s21 errorbar place both
+@    s21 errorbar color 115
+@    s21 errorbar pattern 1
+@    s21 errorbar size 1.000000
+@    s21 errorbar linewidth 1.0
+@    s21 errorbar linestyle 1
+@    s21 errorbar riser linewidth 1.0
+@    s21 errorbar riser linestyle 1
+@    s21 errorbar riser clip off
+@    s21 errorbar riser clip length 0.100000
+@    s21 comment "/home/raymond/Desktop/Citrine_Challenge/machine_learning/data.dat"
+@    s21 legend  ""
+@g1 on
+@g1 hidden false
+@g1 type XY
+@g1 stacked false
+@g1 bar hgap 0.000000
+@g1 fixedpoint off
+@g1 fixedpoint type 0
+@g1 fixedpoint xy 0.000000, 0.000000
+@g1 fixedpoint format general general
+@g1 fixedpoint prec 6, 6
+@with g1
+@    world -0.2, 0, 9.2, 0.7
+@    stack world 0, 0, 0, 0
+@    znorm 1
+@    view 0.113997, 0.129870, 0.699856, 0.457431
+@    title ""
+@    title font 4
+@    title size 1.500000
+@    title color 1
+@    subtitle ""
+@    subtitle font 4
+@    subtitle size 1.000000
+@    subtitle color 1
+@    xaxes scale Normal
+@    yaxes scale Normal
+@    xaxes invert off
+@    yaxes invert off
+@    xaxis  on
+@    xaxis  type zero false
+@    xaxis  offset 0.000000 , 0.000000
+@    xaxis  bar on
+@    xaxis  bar color 1
+@    xaxis  bar linestyle 1
+@    xaxis  bar linewidth 1.0
+@    xaxis  label ""
+@    xaxis  label layout para
+@    xaxis  label place auto
+@    xaxis  label char size 1.000000
+@    xaxis  label font 4
+@    xaxis  label color 1
+@    xaxis  label place normal
+@    xaxis  tick off
+@    xaxis  tick major 2
+@    xaxis  tick minor ticks 1
+@    xaxis  tick default 6
+@    xaxis  tick place rounded true
+@    xaxis  tick in
+@    xaxis  tick major size 1.000000
+@    xaxis  tick major color 1
+@    xaxis  tick major linewidth 1.0
+@    xaxis  tick major linestyle 1
+@    xaxis  tick major grid off
+@    xaxis  tick minor color 1
+@    xaxis  tick minor linewidth 1.0
+@    xaxis  tick minor linestyle 1
+@    xaxis  tick minor grid off
+@    xaxis  tick minor size 0.500000
+@    xaxis  ticklabel on
+@    xaxis  ticklabel format general
+@    xaxis  ticklabel prec 5
+@    xaxis  ticklabel formula ""
+@    xaxis  ticklabel append ""
+@    xaxis  ticklabel prepend ""
+@    xaxis  ticklabel angle 75
+@    xaxis  ticklabel skip 0
+@    xaxis  ticklabel stagger 0
+@    xaxis  ticklabel place normal
+@    xaxis  ticklabel offset auto
+@    xaxis  ticklabel offset 0.000000 , 0.010000
+@    xaxis  ticklabel start type auto
+@    xaxis  ticklabel start 0.000000
+@    xaxis  ticklabel stop type auto
+@    xaxis  ticklabel stop 0.000000
+@    xaxis  ticklabel char size 0.800000
+@    xaxis  ticklabel font 4
+@    xaxis  ticklabel color 1
+@    xaxis  tick place normal
+@    xaxis  tick spec type both
+@    xaxis  tick spec 10
+@    xaxis  tick major 0, 0
+@    xaxis  ticklabel 0, "Linear"
+@    xaxis  tick major 1, 1
+@    xaxis  ticklabel 1, "Lasso"
+@    xaxis  tick major 2, 2
+@    xaxis  ticklabel 2, "Kernel ridge"
+@    xaxis  tick major 3, 3
+@    xaxis  ticklabel 3, "Linear SVR"
+@    xaxis  tick major 4, 4
+@    xaxis  ticklabel 4, "SGD"
+@    xaxis  tick major 5, 5
+@    xaxis  ticklabel 5, "MLP"
+@    xaxis  tick major 6, 6
+@    xaxis  ticklabel 6, "Adaboost"
+@    xaxis  tick major 7, 7
+@    xaxis  ticklabel 7, "RandForest"
+@    xaxis  tick major 8, 8
+@    xaxis  ticklabel 8, "GradBoost"
+@    xaxis  tick major 9, 9
+@    xaxis  ticklabel 9, "XGBoost"
+@    yaxis  on
+@    yaxis  type zero false
+@    yaxis  offset 0.000000 , 0.000000
+@    yaxis  bar on
+@    yaxis  bar color 1
+@    yaxis  bar linestyle 1
+@    yaxis  bar linewidth 1.0
+@    yaxis  label "Normalized RMSE"
+@    yaxis  label layout para
+@    yaxis  label place auto
+@    yaxis  label char size 1.000000
+@    yaxis  label font 4
+@    yaxis  label color 1
+@    yaxis  label place normal
+@    yaxis  tick on
+@    yaxis  tick major 0.3
+@    yaxis  tick minor ticks 1
+@    yaxis  tick default 6
+@    yaxis  tick place rounded true
+@    yaxis  tick in
+@    yaxis  tick major size 0.500000
+@    yaxis  tick major color 1
+@    yaxis  tick major linewidth 1.0
+@    yaxis  tick major linestyle 1
+@    yaxis  tick major grid off
+@    yaxis  tick minor color 1
+@    yaxis  tick minor linewidth 1.0
+@    yaxis  tick minor linestyle 1
+@    yaxis  tick minor grid off
+@    yaxis  tick minor size 0.250000
+@    yaxis  ticklabel on
+@    yaxis  ticklabel format general
+@    yaxis  ticklabel prec 5
+@    yaxis  ticklabel formula ""
+@    yaxis  ticklabel append ""
+@    yaxis  ticklabel prepend ""
+@    yaxis  ticklabel angle 0
+@    yaxis  ticklabel skip 0
+@    yaxis  ticklabel stagger 0
+@    yaxis  ticklabel place normal
+@    yaxis  ticklabel offset auto
+@    yaxis  ticklabel offset 0.000000 , 0.010000
+@    yaxis  ticklabel start type auto
+@    yaxis  ticklabel start 0.000000
+@    yaxis  ticklabel stop type auto
+@    yaxis  ticklabel stop 0.000000
+@    yaxis  ticklabel char size 1.000000
+@    yaxis  ticklabel font 4
+@    yaxis  ticklabel color 1
+@    yaxis  tick place normal
+@    yaxis  tick spec type none
+@    altxaxis  off
+@    altyaxis  off
+@    legend on
+@    legend loctype view
+@    legend 0.707792207785, 0.463780663355
+@    legend box color 1
+@    legend box pattern 0
+@    legend box linewidth 1.0
+@    legend box linestyle 1
+@    legend box fill color 0
+@    legend box fill pattern 1
+@    legend font 4
+@    legend char size 0.800000
+@    legend color 1
+@    legend length 3
+@    legend vgap 1
+@    legend hgap 1
+@    legend invert false
+@    frame type 0
+@    frame linestyle 1
+@    frame linewidth 1.0
+@    frame color 1
+@    frame pattern 1
+@    frame background color 0
+@    frame background pattern 0
+@    s2 hidden false
+@    s2 type xy
+@    s2 symbol 1
+@    s2 symbol size 1.000000
+@    s2 symbol color 36
+@    s2 symbol pattern 1
+@    s2 symbol fill color 36
+@    s2 symbol fill pattern 1
+@    s2 symbol linewidth 1.0
+@    s2 symbol linestyle 1
+@    s2 symbol char 65
+@    s2 symbol char font 4
+@    s2 symbol skip 0
+@    s2 line type 1
+@    s2 line linestyle 1
+@    s2 line linewidth 1.5
+@    s2 line color 36
+@    s2 line pattern 1
+@    s2 baseline type 0
+@    s2 baseline off
+@    s2 dropline off
+@    s2 fill type 0
+@    s2 fill rule 0
+@    s2 fill color 1
+@    s2 fill pattern 1
+@    s2 avalue off
+@    s2 avalue type 2
+@    s2 avalue char size 1.000000
+@    s2 avalue font 4
+@    s2 avalue color 1
+@    s2 avalue rot 0
+@    s2 avalue format general
+@    s2 avalue prec 3
+@    s2 avalue prepend ""
+@    s2 avalue append ""
+@    s2 avalue offset 0.000000 , 0.000000
+@    s2 errorbar on
+@    s2 errorbar place both
+@    s2 errorbar color 36
+@    s2 errorbar pattern 1
+@    s2 errorbar size 1.000000
+@    s2 errorbar linewidth 1.0
+@    s2 errorbar linestyle 1
+@    s2 errorbar riser linewidth 1.0
+@    s2 errorbar riser linestyle 1
+@    s2 errorbar riser clip off
+@    s2 errorbar riser clip length 0.100000
+@    s2 comment "/home/raymond/Desktop/Citrine_Challenge/machine_learning/data.dat"
+@    s2 legend  "Thermal conductivity"
+@    s3 hidden false
+@    s3 type xy
+@    s3 symbol 2
+@    s3 symbol size 1.000000
+@    s3 symbol color 36
+@    s3 symbol pattern 1
+@    s3 symbol fill color 36
+@    s3 symbol fill pattern 1
+@    s3 symbol linewidth 1.0
+@    s3 symbol linestyle 1
+@    s3 symbol char 65
+@    s3 symbol char font 4
+@    s3 symbol skip 0
+@    s3 line type 1
+@    s3 line linestyle 3
+@    s3 line linewidth 1.5
+@    s3 line color 36
+@    s3 line pattern 1
+@    s3 baseline type 0
+@    s3 baseline off
+@    s3 dropline off
+@    s3 fill type 0
+@    s3 fill rule 0
+@    s3 fill color 1
+@    s3 fill pattern 1
+@    s3 avalue off
+@    s3 avalue type 2
+@    s3 avalue char size 1.000000
+@    s3 avalue font 4
+@    s3 avalue color 1
+@    s3 avalue rot 0
+@    s3 avalue format general
+@    s3 avalue prec 3
+@    s3 avalue prepend ""
+@    s3 avalue append ""
+@    s3 avalue offset 0.000000 , 0.000000
+@    s3 errorbar on
+@    s3 errorbar place both
+@    s3 errorbar color 36
+@    s3 errorbar pattern 1
+@    s3 errorbar size 1.000000
+@    s3 errorbar linewidth 1.0
+@    s3 errorbar linestyle 1
+@    s3 errorbar riser linewidth 1.0
+@    s3 errorbar riser linestyle 1
+@    s3 errorbar riser clip off
+@    s3 errorbar riser clip length 0.100000
+@    s3 comment "/home/raymond/Desktop/Citrine_Challenge/machine_learning/data.dat"
+@    s3 legend  ""
+@    s6 hidden false
+@    s6 type xy
+@    s6 symbol 1
+@    s6 symbol size 1.000000
+@    s6 symbol color 88
+@    s6 symbol pattern 1
+@    s6 symbol fill color 88
+@    s6 symbol fill pattern 1
+@    s6 symbol linewidth 1.0
+@    s6 symbol linestyle 1
+@    s6 symbol char 65
+@    s6 symbol char font 4
+@    s6 symbol skip 0
+@    s6 line type 1
+@    s6 line linestyle 1
+@    s6 line linewidth 1.5
+@    s6 line color 88
+@    s6 line pattern 1
+@    s6 baseline type 0
+@    s6 baseline off
+@    s6 dropline off
+@    s6 fill type 0
+@    s6 fill rule 0
+@    s6 fill color 1
+@    s6 fill pattern 1
+@    s6 avalue off
+@    s6 avalue type 2
+@    s6 avalue char size 1.000000
+@    s6 avalue font 4
+@    s6 avalue color 1
+@    s6 avalue rot 0
+@    s6 avalue format general
+@    s6 avalue prec 3
+@    s6 avalue prepend ""
+@    s6 avalue append ""
+@    s6 avalue offset 0.000000 , 0.000000
+@    s6 errorbar on
+@    s6 errorbar place both
+@    s6 errorbar color 88
+@    s6 errorbar pattern 1
+@    s6 errorbar size 1.000000
+@    s6 errorbar linewidth 1.0
+@    s6 errorbar linestyle 1
+@    s6 errorbar riser linewidth 1.0
+@    s6 errorbar riser linestyle 1
+@    s6 errorbar riser clip off
+@    s6 errorbar riser clip length 0.100000
+@    s6 comment "/home/raymond/Desktop/Citrine_Challenge/machine_learning/data.dat"
+@    s6 legend  "Electrical resistivity"
+@    s7 hidden false
+@    s7 type xy
+@    s7 symbol 2
+@    s7 symbol size 1.000000
+@    s7 symbol color 88
+@    s7 symbol pattern 1
+@    s7 symbol fill color 88
+@    s7 symbol fill pattern 1
+@    s7 symbol linewidth 1.0
+@    s7 symbol linestyle 1
+@    s7 symbol char 65
+@    s7 symbol char font 4
+@    s7 symbol skip 0
+@    s7 line type 1
+@    s7 line linestyle 3
+@    s7 line linewidth 1.5
+@    s7 line color 88
+@    s7 line pattern 1
+@    s7 baseline type 0
+@    s7 baseline off
+@    s7 dropline off
+@    s7 fill type 0
+@    s7 fill rule 0
+@    s7 fill color 1
+@    s7 fill pattern 1
+@    s7 avalue off
+@    s7 avalue type 2
+@    s7 avalue char size 1.000000
+@    s7 avalue font 4
+@    s7 avalue color 1
+@    s7 avalue rot 0
+@    s7 avalue format general
+@    s7 avalue prec 3
+@    s7 avalue prepend ""
+@    s7 avalue append ""
+@    s7 avalue offset 0.000000 , 0.000000
+@    s7 errorbar on
+@    s7 errorbar place both
+@    s7 errorbar color 88
+@    s7 errorbar pattern 1
+@    s7 errorbar size 1.000000
+@    s7 errorbar linewidth 1.0
+@    s7 errorbar linestyle 1
+@    s7 errorbar riser linewidth 1.0
+@    s7 errorbar riser linestyle 1
+@    s7 errorbar riser clip off
+@    s7 errorbar riser clip length 0.100000
+@    s7 comment "/home/raymond/Desktop/Citrine_Challenge/machine_learning/data.dat"
+@    s7 legend  ""
+@    s8 hidden false
+@    s8 type xy
+@    s8 symbol 1
+@    s8 symbol size 1.000000
+@    s8 symbol color 70
+@    s8 symbol pattern 1
+@    s8 symbol fill color 70
+@    s8 symbol fill pattern 1
+@    s8 symbol linewidth 1.0
+@    s8 symbol linestyle 1
+@    s8 symbol char 65
+@    s8 symbol char font 4
+@    s8 symbol skip 0
+@    s8 line type 1
+@    s8 line linestyle 1
+@    s8 line linewidth 1.5
+@    s8 line color 70
+@    s8 line pattern 1
+@    s8 baseline type 0
+@    s8 baseline off
+@    s8 dropline off
+@    s8 fill type 0
+@    s8 fill rule 0
+@    s8 fill color 1
+@    s8 fill pattern 1
+@    s8 avalue off
+@    s8 avalue type 2
+@    s8 avalue char size 1.000000
+@    s8 avalue font 4
+@    s8 avalue color 1
+@    s8 avalue rot 0
+@    s8 avalue format general
+@    s8 avalue prec 3
+@    s8 avalue prepend ""
+@    s8 avalue append ""
+@    s8 avalue offset 0.000000 , 0.000000
+@    s8 errorbar on
+@    s8 errorbar place both
+@    s8 errorbar color 70
+@    s8 errorbar pattern 1
+@    s8 errorbar size 1.000000
+@    s8 errorbar linewidth 1.0
+@    s8 errorbar linestyle 1
+@    s8 errorbar riser linewidth 1.0
+@    s8 errorbar riser linestyle 1
+@    s8 errorbar riser clip off
+@    s8 errorbar riser clip length 0.100000
+@    s8 comment "/home/raymond/Desktop/Citrine_Challenge/machine_learning/data.dat"
+@    s8 legend  "Elongation at break"
+@    s9 hidden false
+@    s9 type xy
+@    s9 symbol 2
+@    s9 symbol size 1.000000
+@    s9 symbol color 70
+@    s9 symbol pattern 1
+@    s9 symbol fill color 70
+@    s9 symbol fill pattern 1
+@    s9 symbol linewidth 1.0
+@    s9 symbol linestyle 1
+@    s9 symbol char 65
+@    s9 symbol char font 4
+@    s9 symbol skip 0
+@    s9 line type 1
+@    s9 line linestyle 3
+@    s9 line linewidth 1.5
+@    s9 line color 70
+@    s9 line pattern 1
+@    s9 baseline type 0
+@    s9 baseline off
+@    s9 dropline off
+@    s9 fill type 0
+@    s9 fill rule 0
+@    s9 fill color 1
+@    s9 fill pattern 1
+@    s9 avalue off
+@    s9 avalue type 2
+@    s9 avalue char size 1.000000
+@    s9 avalue font 4
+@    s9 avalue color 1
+@    s9 avalue rot 0
+@    s9 avalue format general
+@    s9 avalue prec 3
+@    s9 avalue prepend ""
+@    s9 avalue append ""
+@    s9 avalue offset 0.000000 , 0.000000
+@    s9 errorbar on
+@    s9 errorbar place both
+@    s9 errorbar color 70
+@    s9 errorbar pattern 1
+@    s9 errorbar size 1.000000
+@    s9 errorbar linewidth 1.0
+@    s9 errorbar linestyle 1
+@    s9 errorbar riser linewidth 1.0
+@    s9 errorbar riser linestyle 1
+@    s9 errorbar riser clip off
+@    s9 errorbar riser clip length 0.100000
+@    s9 comment "/home/raymond/Desktop/Citrine_Challenge/machine_learning/data.dat"
+@    s9 legend  ""
+@    s14 hidden false
+@    s14 type xy
+@    s14 symbol 1
+@    s14 symbol size 1.000000
+@    s14 symbol color 106
+@    s14 symbol pattern 1
+@    s14 symbol fill color 106
+@    s14 symbol fill pattern 1
+@    s14 symbol linewidth 1.0
+@    s14 symbol linestyle 1
+@    s14 symbol char 65
+@    s14 symbol char font 4
+@    s14 symbol skip 0
+@    s14 line type 1
+@    s14 line linestyle 1
+@    s14 line linewidth 1.5
+@    s14 line color 106
+@    s14 line pattern 1
+@    s14 baseline type 0
+@    s14 baseline off
+@    s14 dropline off
+@    s14 fill type 0
+@    s14 fill rule 0
+@    s14 fill color 1
+@    s14 fill pattern 1
+@    s14 avalue off
+@    s14 avalue type 2
+@    s14 avalue char size 1.000000
+@    s14 avalue font 4
+@    s14 avalue color 1
+@    s14 avalue rot 0
+@    s14 avalue format general
+@    s14 avalue prec 3
+@    s14 avalue prepend ""
+@    s14 avalue append ""
+@    s14 avalue offset 0.000000 , 0.000000
+@    s14 errorbar on
+@    s14 errorbar place both
+@    s14 errorbar color 106
+@    s14 errorbar pattern 1
+@    s14 errorbar size 1.000000
+@    s14 errorbar linewidth 1.0
+@    s14 errorbar linestyle 1
+@    s14 errorbar riser linewidth 1.0
+@    s14 errorbar riser linestyle 1
+@    s14 errorbar riser clip off
+@    s14 errorbar riser clip length 0.100000
+@    s14 comment "/home/raymond/Desktop/Citrine_Challenge/machine_learning/data.dat"
+@    s14 legend  "Shear Modulus"
+@    s15 hidden false
+@    s15 type xy
+@    s15 symbol 2
+@    s15 symbol size 1.000000
+@    s15 symbol color 106
+@    s15 symbol pattern 1
+@    s15 symbol fill color 106
+@    s15 symbol fill pattern 1
+@    s15 symbol linewidth 1.0
+@    s15 symbol linestyle 1
+@    s15 symbol char 65
+@    s15 symbol char font 4
+@    s15 symbol skip 0
+@    s15 line type 1
+@    s15 line linestyle 3
+@    s15 line linewidth 1.5
+@    s15 line color 106
+@    s15 line pattern 1
+@    s15 baseline type 0
+@    s15 baseline off
+@    s15 dropline off
+@    s15 fill type 0
+@    s15 fill rule 0
+@    s15 fill color 1
+@    s15 fill pattern 1
+@    s15 avalue off
+@    s15 avalue type 2
+@    s15 avalue char size 1.000000
+@    s15 avalue font 4
+@    s15 avalue color 1
+@    s15 avalue rot 0
+@    s15 avalue format general
+@    s15 avalue prec 3
+@    s15 avalue prepend ""
+@    s15 avalue append ""
+@    s15 avalue offset 0.000000 , 0.000000
+@    s15 errorbar on
+@    s15 errorbar place both
+@    s15 errorbar color 106
+@    s15 errorbar pattern 1
+@    s15 errorbar size 1.000000
+@    s15 errorbar linewidth 1.0
+@    s15 errorbar linestyle 1
+@    s15 errorbar riser linewidth 1.0
+@    s15 errorbar riser linestyle 1
+@    s15 errorbar riser clip off
+@    s15 errorbar riser clip length 0.100000
+@    s15 comment "/home/raymond/Desktop/Citrine_Challenge/machine_learning/data.dat"
+@    s15 legend  ""
+@target G0.S0
+@type xy
+0 1.4464517
+1 1.6124882
+2 0.24265569
+3 1.7131131
+4 3.5835352
+5 1.3518139
+6 0.91348271
+7 0.26485352
+8 0.000138548
+9 8.17353e-05
+&
+@target G0.S1
+@type xy
+0 7.1693685
+1 0.79468891
+2 1.9036218
+3 1.4118409
+4 2.4931545
+5 0.61948598
+6 1.2596811
+7 0.3697158
+8 0.56343101
+9 1.0930717
+&
+@target G0.S18
+@type xy
+0 7.5863121
+1 8.2733718
+2 0.14019094
+3 7.6920342
+4 20.243135
+5 2.0764612
+6 3.7995677
+7 0.17955071
+8 0.003576763
+9 0.001463732
+&
+@target G0.S19
+@type xy
+0 46.970899
+1 10.015952
+2 9.3535822
+3 9.1154677
+4 16.559124
+5 5.1161851
+6 4.6697188
+7 1.8247066
+8 1.444851
+9 1.3161201
+&
+@target G0.S20
+@type xy
+0 3.2979856
+1 3.8180318
+2 0.58463843
+3 3.4934569
+4 11.318473
+5 0.47035564
+6 1.547687
+7 0.35540422
+8 0.011391422
+9 1.95254e-05
+&
+@target G0.S21
+@type xy
+0 26.985388
+1 2.6388124
+2 1.8809537
+3 2.5408601
+4 6.6119368
+5 7.1780798
+6 2.0975476
+7 1.4442046
+8 0.66887342
+9 1.2748749
+&
+@target G1.S2
+@type xy
+0 0.00125787
+1 0.44241799
+2 0.000289831
+3 0.35865736
+4 0.23702564
+5 0.010322933
+6 6.01085e-31
+7 0.002934737
+8 8.89546e-06
+9 0.001645905
+&
+@target G1.S3
+@type xy
+0 0.16114245
+1 0.39144211
+2 0.030278706
+3 0.32749904
+4 0.24247342
+5 0.039755171
+6 0.045777712
+7 0.022516471
+8 0.013729033
+9 0.029736958
+&
+@target G1.S6
+@type xy
+0 -7.07288e-14
+1 -8.77305e-14
+2 -7.1793e-14
+3 -7.47348e-14
+4 -1.32575e-12
+5 -1.68086e-13
+6 -1.98317e-14
+7 -1.15924e-12
+8 -9.75844e-17
+9 -4.87936e-13
+&
+@target G1.S7
+@type xy
+0 -3.97907e-12
+1 -3.14484e-12
+2 -2.37451e-12
+3 -2.34694e-12
+4 -2.7806e-12
+5 -1.6566e-12
+6 -3.31832e-12
+7 -1.50486e-12
+8 -9.01198e-13
+9 -3.14338e-12
+&
+@target G1.S8
+@type xy
+0 0.19738199
+1 0.28428587
+2 0.007780174
+3 0.23459209
+4 0.4792393
+5 0.12566533
+6 0.1184167
+7 0.011173829
+8 6.02933e-05
+9 7.14424e-06
+&
+@target G1.S9
+@type xy
+0 1.2166691
+1 0.33761305
+2 0.08185786
+3 0.24883126
+4 0.37789766
+5 0.11398716
+6 0.13566818
+7 0.052740011
+8 0.064531246
+9 0.052150818
+&
+@target G1.S14
+@type xy
+0 0.000179698
+1 0.031430613
+2 0.000398254
+3 0.000349051
+4 0.035413211
+5 4.22863e-06
+6 0
+7 0.001608576
+8 1.96228e-08
+9 1.37033e-08
+&
+@target G1.S15
+@type xy
+0 0.024292077
+1 0.063165702
+2 0.005023318
+3 0.003658523
+4 0.088329278
+5 0.033180057
+6 0.014130435
+7 0.01751913
+8 0.002863275
+9 0.003890165
+&
