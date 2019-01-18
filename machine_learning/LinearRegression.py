@@ -2,49 +2,55 @@ import numpy as np
 import pandas as pd
 import sys
 import operator
-
+import math
 from sklearn import linear_model
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import GridSearchCV, train_test_split
 from sklearn.metrics import *
-
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 warnings.filterwarnings("ignore", category=UserWarning)
 
-#dataset = sys.argv[1]
 
-#input_data = pd.read_csv(dataset, compression='gzip', sep='\t')
+data = pd.read_csv("../data/data_all_float.csv", header=0, index_col=None, sep=';')
 
-dataset = []
+# drop 'CTE, linear' for more instances to study
+drop_feature = ['CTE, linear'] 
+data = data.drop(labels=drop_feature, axis=1)
 
-cnt = 0
-for reg_data in regression_dataset_names:
-    X, y = fetch_data(reg_data, return_X_y=True, local_cache_dir='../dataset')
-    if (X.shape[0] > 100 or X.shape[1] > 10): continue
-    dataset.append(reg_data)
-    cnt += 1
-
-print('There are in total %d datasets' %cnt)
+# drop instances with NaN
+drop_instance = []
+for idx in data.index:
+    if True in [math.isnan(x) for x in data.loc[idx, data.columns.values]]:
+        drop_instance.append(idx)
+data = data.drop(drop_instance)
+print('The shape of data after modification: ', data.shape)
 
 hyper_params = [{
-    'fit_intercept': (True,),
+    'fit_intercept': (False, True),
 }]
 
-for data_name in dataset:
-    X, y = fetch_data(data_name, return_X_y=True, local_cache_dir='../dataset')
-    stdscal = StandardScaler()
-    X = stdscal.fit_transform(X)
-    y = stdscal.fit_transform(y.reshape(-1, 1))
+stdscale = StandardScaler()
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.75, test_size=0.25, random_state=5)
+target = 'Tensile Strength, Yield'
+X = data.drop(target, axis=1).values
+y = data[target].values
 
-    regressor = linear_model.LinearRegression()
+# standardize features
+X = stdscale.fit_transform(X)
+y = stdscale.fit_transform(y.reshape(-1, 1))
 
-    grid_clf = GridSearchCV(regressor,cv=5,param_grid=hyper_params,
-                            verbose=0,n_jobs=8,scoring='r2')
+X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.75, test_size=0.25, random_state=0)
 
-    grid_clf.fit(X_train,y_train.ravel())
+regressor = linear_model.LinearRegression()
+
+grid_clf = GridSearchCV(regressor, cv=5, param_grid=hyper_params,
+                        verbose=0, n_jobs=8, scoring='r2')
+
+grid_clf.fit(X_train, y_train.ravel())
+
+
+"""
 
     train_score_mse = mean_squared_error(stdscal.inverse_transform(y_train),stdscal.inverse_transform(grid_clf.predict(X_train)))
     test_score_mse = mean_squared_error(stdscal.inverse_transform(y_test),stdscal.inverse_transform(grid_clf.predict(X_test)))
@@ -57,3 +63,4 @@ for data_name in dataset:
 
     print(out_text)
     sys.stdout.flush()
+"""
