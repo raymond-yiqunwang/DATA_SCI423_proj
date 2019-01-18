@@ -1,0 +1,170 @@
+%! TeX encoding = UTF-8 unicode
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[10pt,aps,prb,amsmath,amssymb,twocolumn,letterpaper,nobalancelastpage,final,citeautoscript,floatfix,raggedbottom,superscriptaddress]{revtex4-1}
+
+%%%%%%%%%%%%%%%
+% MY SETTINGS
+%%%%%%%%%%%%%%%v
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{graphicx}
+\usepackage{microtype}
+\usepackage[bookmarks=false,colorlinks]{hyperref}
+\usepackage{xfrac}
+\hypersetup{
+    linkcolor=RubineRed,          % color of internal links
+    citecolor=ForestGreen,        % color of links to bibliography
+    filecolor=Mulberry,      % color of file links
+    urlcolor=RoyalBlue           % color of external links
+}
+\usepackage{natbib}
+%additional commands
+\newcommand{\textapprox}{\raisebox{0.5ex}{\texttildelow}}
+\newcommand{\gvs}{GaV$_4$S$_8$}
+\newcommand{\gvse}{GaV$_4$Se$_8$}
+\newcommand{\gms}{GaMo$_4$S$_8$}
+\newcommand{\gmse}{GaMo$_4$Se$_8$}
+\newcommand{\gns}{GaNb$_4$S$_8$}
+\newcommand{\gnse}{GaNb$_4$Se$_8$}
+\newcommand{\gts}{GaTa$_4$S$_8$}
+\newcommand{\gtse}{GaTa$_4$Se$_8$}
+
+\newcommand{\dpg}[1]{\textcolor{red}{#1}}
+
+
+%%%%%%%%%%%%%
+% MAIN TEXT
+%%%%%%%%%%%%%
+
+\begin{document}
+
+\title{Analysis of alloy steel composition-property relationship \\ using machine learning:  beyond human physical intuition}
+
+\author{Raymond Wang}
+  \affiliation{Department of Materials Science and Engineering, Northwestern University, Evanston, Illinois  60208, USA}
+
+  
+%%%%%%%%%%%%%
+% ABSTRACT
+%%%%%%%%%%%%%
+
+\begin{abstract}
+This is the abstract, write it at last.
+\end{abstract}
+
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% MOTIVATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Motivation}
+why are you doing this?
+flowchart
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DATA ACQUISITION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{data acquisition}
+how and where did you get it. how did you deal with blocking problems.
+
+portable code
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FEATURIZATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{featurization}
+
+What is the format of raw data, how did you collect them to one dataframe, how to convert them to float64, why pick these elements and properties (number count).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DATA ANALYSIS WITH HUMAN INTELLIGENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{data analysis with human intelligence}
+
+% experience
+
+Carbon: increase tensile strength and hardness; decrease ductility, toughness.
+
+Sulfur: improve machinability; decrease weldability; impact toughness and ductility.
+
+
+Silicon: increase tensile/yield strength, hardness, forgeability and magnetic permeability; deoxidier and degasifier.
+
+Phosphorous: increase strength and hardness; improve machinability and corrosion resistance.
+
+Manganese: increase tensile strength, hardness and reduce brittleness; deoxider and degasifier.
+
+Chromium: increase tensile strength, hardness and corrosion resistance.
+
+Nickel: increase strength, hardness, toughness and resistance to corrosion.
+
+Molybdenum: increase toughness, strength, hardness, machinability, resistance to corrosion.
+
+Copper: increase corrosion resistance.
+
+Density
+Hardness, Vickers:
+Thermal conductivity:
+Specific heat capacity:
+CTE, linear:
+Electrical resistivity:
+Elongation at break:
+Bulk modulus:
+Modulus of elasticity:
+Shear modulus:
+Poissons ratio:
+Tensile strength, yield:
+Tensile strength, break:
+
+
+% analysis
+Iron: decrease thermal conductivity, decrease specific heat capacity, slightly increase modulus of elasticity, slightly decrease CTE
+
+Carbon: decrease thermal conductivity, slightly increase specific heat capacity, increase electrical resistivity, decrease shear modulus
+
+Sulfur: increase specific heat capacity, slightly increase electrical resistivity
+
+Silicon: decrease density, slightly increase specific heat capacity and CTE, slightly increase electrical resistivity
+
+Phosphorous: decrease thermal conductivity, slightly increase specific heat capacity, increase electrical resistivity, slightly increase modulus of elasticity
+
+Manganese: slightly increase specific heat capacity, slightly increase electrical resistivity, slightly decrease shear modulus
+
+Chromium: decrease density, increase thermal conductivity, slightly increase CTE, slightly decrease modulus of elasticity
+
+Nickel: increase thermal conductivity, slightly increase specific heat capacity and CTE, slightly decrease modulus of elasticity, slightly increase tensile strength
+
+Molybdenum: increase specific heat capacity, increase electrical resistivity
+
+Copper: increase specific heat capacity, increase electrical resistivity
+
+Discuss influence of element to properties, discuss their correlation, whether it is expected/intuitive, find some weakly correlated target props
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DATA ANALYSIS WITH ARTIFICIAL INTELLIGENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{data analysis with artificial intelligence}
+
+CTE linear is dropped for more instances to learn.
+\subsection{NEED NEW NAME}
+benchmark (x-axis: algo, y-axis: log(r2+1), dataset: predict x from the rest dataset)
+
+table of hyper-parameters
+
+\subsection{predicting composition-property relationship}
+plot (single algo, x-axis: element, y-axis: log(r2+1))
+Overfitting, plot learning curve
+
+use XGBoost
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CONCLUSIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{conclusions}
+
+%\bibliography{reference.bib}
+
+\end{document}
+
+
+
