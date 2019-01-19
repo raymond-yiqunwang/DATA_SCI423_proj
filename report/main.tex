@@ -50,7 +50,7 @@
 %%%%%%%%%%%%%
 
 \begin{abstract}
-This challenge project obtains digital alloy steel data from online resources and then converts them into machine-readable format. Data analysis using correlation heatmap shows degree of correlation within alloy steel composition and properties. Several strongly correlated quantities (e.g. hardness and tensile strength) are identified. Machine learning algorithm performance on predicting composition-property relationship is benchmarked using grid search. XGBoost outperforms the other methods in this case. Further analysis shows predicting thermal conductivity from chemical composition using XGBoost has satisfying accuracy and the model performance can be improved by having more training data. Our findings suggest that machine learning methods could provide more insights of alloy steel composition-property relationship than using human intuition or experience.
+This challenge project scrapes digital alloy steel data from online resources and converts them into machine-readable format. Data analysis using correlation heatmap shows degree of correlation within alloy steel composition and properties. Several strongly correlated quantities (e.g. hardness and tensile strength) are identified. Machine learning algorithm performance on predicting composition-property relationship is benchmarked using grid search. XGBoost outperforms the other methods in the alloy steel case. Further analysis shows predicting thermal conductivity from chemical composition using XGBoost has satisfying accuracy and the model performance can be improved by having more training data. Our findings suggest that machine learning methods could provide more insights of alloy steel composition-property relationship than using human physical intuition or experience.
 \end{abstract}
 
 \maketitle
@@ -61,7 +61,7 @@ This challenge project obtains digital alloy steel data from online resources an
 
 \section{Workflow}
 
-This challenge project mainly consists of five sections, i.e. data acquisition, featurization, human interpretation, machine learning model training, and results analysis. The flowchart and specific outcomes in each step are shown in Figure \ref{fig:flowchart}. The rest of this report will span these five sections into details of implementation and obtained results. Data is available at the author's \href{https://github.com/raymond931118/scraping}{GitHub}, the code can be found in supporting information (SI).
+The challenge project mainly consists of five sections, i.e. data acquisition, featurization, human interpretation, machine learning model training, and result analysis. The flowchart and specific outcomes in each step are shown in Figure \ref{fig:flowchart}. The rest of this report will span these five sections into details of implementation and obtained results. Data is available at the author's \href{https://github.com/raymond931118/scraping}{GitHub}, the code can be found in supporting information (SI).
 
 \begin{figure}[h]
   \center
@@ -79,7 +79,7 @@ This challenge project mainly consists of five sections, i.e. data acquisition, 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{data acquisition}
 
-The challenge project starts from acquiring materials data from online resources. Automated scraping code is developed by the author in Python, which automatically collects materials information that meets the searching criteria and saves to local CSV files.d by the author. 
+The challenge project starts from acquiring materials data from online resources. Automated scraping code is developed by the author in Python, which automatically collects materials information that meets the searching criteria and saves to local CSV files. 
 
 Materials data is collected from \href{http://www.matweb.com/index.aspx}{MatWeb}, where alloy steels containing Manganese, Chromium, and Nickel are set as the target materials for scraping. Each entry of material data spans four columns and multiple rows, as shown in Table \ref{tab:web_data}. Data under `English' has different unit from `Metric', this project only processes data with metric unit.
 
@@ -97,22 +97,22 @@ $\cdots$ & $\cdots$ & $\cdots$ & $\cdots$
 \end{ruledtabular}
 \end{table}
 
-Both physical properties (e.g. Bulk modulus, thermal conductivity) and chemical compositions (e.g. weight of Mn, Ni, Cr) in different units, as well as the potentially helpful comments, are saved to local files with the same format. Since there is no data-editing related in this step, the local data is guaranteed to be the same as its online version.
+Physical properties (e.g. bulk modulus, thermal conductivity) in different units, chemical compositions (e.g. weight of Mn, Ni, Cr), and the potentially helpful comments, are saved to local files with unchanged format. Since there is no data-editing involved in this step, the local data is guaranteed to be the same as its online version.
 
-One of the technical challenges during data acquisition is IP-blocking from the server. MatWeb will block the IP (possibly permanently) once it detects over access within a short period of time. From the author's experience, one IP address gives access to 100$\sim$200 materials information per day. One of the advantage of the developed code is its high portability. The only two dependencies are \texttt{selenium} and \texttt{pandas} packages, which can be installed easily. In order to accelerate the project, the author used six machines with Unix-like systems for development and production. Eventually the program extracted 855 alloy steels that meet the criteria. The code (\texttt{scrape.py}) is available in SI \ref{code:scrape} .
+One of the technical challenges during data acquisition is IP-blocking from the web server. MatWeb will block the IP (possibly permanently) once it detects over-access within a short period of time. From the author's experience, one IP address gives access to 100$\sim$200 materials information per day. One of the advantage of the developed code is its high portability. The only two dependencies are \texttt{selenium} and \texttt{pandas} Python packages, which can be installed easily. In order to accelerate the project, the author used six machines with Unix-like systems for development and production. Eventually the program extracted 855 alloy steels that meet the criteria. The code (\hyperlink{scrape}{\texttt{scrape.py}}) is available in SI.
 
-Simple post-processing is performed right after all the data has been saved locally. This step modifies the file names and contents containing non-utf-8 encoding and fixes unwanted line breaks. The process file is still string-based, relevant code (\texttt{post\_processing.py}) is available is SI \ref{code:postprocess}.
+Simple post-processing is performed right after all the data has been saved locally. This step modifies the file names and contents containing non-utf-8 encoding and fixes unwanted line breaks. Relevant code (\hyperlink{pprocess}{\texttt{post\_processing.py}}) is available in SI.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % FEATURIZATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{featurization}
 
-The data collected from the last step is still string-based, e.g. ``97\%'' is interpreted as a combination of characters instead of a floating point number. Therefore, it is necessary to convert these strings to machine-readable form before any further data analysis.
+The data collected from the last step is still string-based, e.g. ``97\%'' is interpreted as a sequence of characters instead of a floating point number. Therefore, it is necessary to convert these strings to machine-readable form before any further data analysis.
 
-Since there are multiple materials properties and not all of them are available for each materials, dataset with missing values will be dropped. In order to keep a relatively large number of training set, we only converted physical properties with more than 100 available measured data points. These physical variables are: density, hardness (Vickers), thermal conductivity, specific heat capacity, CTE-linear, electrical resistivity, elongation at break, bulk modulus, modulus of elasticity, shear modulus, poisson's ratio, tensile strength at yield, and tensile strength at ultimate. Ten element types including Fe, Mn, Cr, Ni, Mo, Cu, C, S, Si, P are considered.
+Since there are multiple materials properties and not all of them are available for each materials, dataset with missing values will be dropped. In order to keep a relatively large number of training set (e.g. several hundred), we only convert and keep physical properties with more than 100 available measured data points. These physical variables are: density, hardness (Vickers), thermal conductivity, specific heat capacity, CTE-linear, electrical resistivity, elongation at break, bulk modulus, modulus of elasticity, shear modulus, poisson's ratio, tensile strength at yield, and tensile strength at ultimate. Ten element types including Fe, Mn, Cr, Ni, Mo, Cu, C, S, Si, P are considered.
 
-Floating point numbers are extracted from string data and converted to \texttt{pandas.DataFrame} format. The converted dataset is shown in Table \ref{tab:featurization}. Non-available data points are converted to \texttt{nan} instead of `N/A'. The `\%' and other units are dropped, only the floating point numbers are extracted. Since data will be standardized before numerical processing, the only thing to make sure is that all data in the same column share the same unit/percentage sign. The code (\texttt{featurize.py}) is available in SI \ref{code:featurize} .
+Floating point numbers are extracted from string data and converted to \texttt{pandas.DataFrame} format. The converted dataset is shown in Table \ref{tab:featurization}. Non-available data points are converted to \texttt{nan} instead of `N/A'. The `\%' and other units are dropped, only the floating point numbers are extracted. Since data will be standardized before numerical processing, the only thing to make sure is that all data in the same column share the same unit/percentage sign. The code (\hyperlink{featurize}{\texttt{featurize.py}}) is available in SI.
 
 \vspace{-10pt}
 \begin{table}[h]
@@ -136,7 +136,7 @@ $\cdots$ & $\cdots$ & $\cdots$ & $\cdots$ & $\cdots$ & $\cdots$ & $\cdots$
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{data analysis with human intelligence}
 
-The size of the dataset after featurization is 726$\times$23 (with 726 instances and 23 features). It is impractical for humans (at least for the author) to directly learn patterns from such large amount of data. Based on basic statistical knowledge, the author decides to start from learning correlation patten of these variables. The instances with \texttt{nan} entries are dropped from the dataset, and eventually 254 materials are used to generate the heatmap, which is shown in Figure \ref{fig:heatmap}. The code (\texttt{correlation.py}) can be found in SI \ref{code:correlation}.
+The size of the dataset after featurization is 726$\times$23 (with 726 instances and 23 features). It is impractical for humans (at least for the author) to directly learn patterns from such large amount of data. Based on basic statistical knowledge, the author decides to start from learning correlation patten of these variables. The instances with \texttt{nan} entries are dropped from the dataset, and eventually 254 materials are used to generate the heatmap, as shown in Figure \ref{fig:heatmap}. The code (\hyperlink{correlation}{\texttt{correlation.py}}) can be found in SI.
 
 \begin{figure*}[t]
   \center
@@ -158,7 +158,7 @@ Some of the discoveries from the heatmap include:
 \end{enumerate}
 
 
-Some of the findings agree well with the way elements contribute to alloy steel properties as reported online, e.g. carbon decreases ductility of steel, possibly could lead to a small shear modulus. However, the information from correlation analysis is more qualitative than quantitative. If we want more quantitative descriptions of the materials composition-property relationship, more sophisticated methods are needed. In the next section we discuss alloy steel data analysis using machine learning models.
+Some of the findings agree well with the way elements contribute to alloy steel properties as reported online, e.g. carbon decreases ductility of steel, and could lead to a small shear modulus. However, the information from correlation analysis is more qualitative than quantitative. If we want more quantitative descriptions of the materials composition-property relationship, more sophisticated methods are needed. In the next section we discuss alloy steel data analysis using machine learning models.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -168,7 +168,7 @@ Some of the findings agree well with the way elements contribute to alloy steel 
 
 \subsection{benchmark machine learning algorithm performance on dataset}
 
-The author perform systematic benchmark of different machine learning algorithm performance on various physical property predictions.
+The author performs systematic benchmark of different machine learning algorithm performance on various physical property predictions.
 
 Each training takes one physical property as the target, while treats the rest 12 properties plus aforementioned 10 element types as input features. Dataset instances with \texttt{nan} are dropped from the dataset. Numerical data (both X and y) are standardized as implemented in \texttt{StandardScaler} in \texttt{sklearn}.
 
@@ -189,7 +189,7 @@ Each training takes one physical property as the target, while treats the rest 1
 \end{enumerate}
 
 
-The dataset is divided into training (75\%) and testing (25\%) parts. Grid search method is used for hyper-parameter tuning. The set of hyper-parameters are shown in Table \ref{tab:hyperparam} . The optimal setting of the parameters is determined based on 5-fold cross-validation performed on training data only. R2 score is used as error metric. Relevant code can be found in SI (\texttt{benchmark.py}). Results are shown in Figure \ref{fig:benchmark}.
+The dataset is divided into training (75\%) and testing (25\%) parts. Grid search method is used for hyper-parameter tuning. The set of hyper-parameters are shown in Table \ref{tab:hyperparam} . The optimal setting of the parameters is determined based on 5-fold cross-validation performed on training data only. R2 score is used as error metric. Relevant code (\hyperlink{ml}{\texttt{benchmark.py}})can be found in SI. Results are shown in Figure \ref{fig:benchmark}.
 
 
 \begin{figure}[h]
@@ -201,18 +201,18 @@ The dataset is divided into training (75\%) and testing (25\%) parts. Grid searc
 \end{figure}
 
 
-The y-axis is the calculated root mean square error (RMSE) value divided by the difference in the target data. This normalization step is essential so as to directly compare the performance of different machine learning algorithms in predicting quantities at various scales. The \texttt{sklearn} built-in performance score is not used here.
+The y-axis is the calculated root mean square error (RMSE) value divided by the difference of maximum and minimum value in the target data. This normalization step is essential so as to directly compare the performance of different machine learning algorithms in predicting quantities at various scales. The \texttt{sklearn} built-in performance scores (e.g. R2-score) are not used here.
 
-Interestingly, some trends can be identified across different algorithms as well as physical properties. In general, linear regression, Lasso, linear SVR and SGD algorithms lead to larger variance in normalized RMSE, while the rest have relatively better performance. XGBoost algorithm exhibits the best performance among the 10 benchmarked methods.
+Interestingly, some trends can be identified across different algorithms as well as physical properties. In general, linear regression, Lasso, linear SVR and SGD algorithms lead to larger variance in normalized RMSE, while the rest have relatively better performance. XGBoost algorithm achieves the best performance among the 10 benchmarked methods.
 
-The physical properties are divided into two panels due to different scales of RMSE. We find it hard to have a good prediction in hardness and tensile strength, but this is no coincidence. It is exciting to notice that from the correlation heatmap analysis, it is clear that hardness is strongly and positively correlated to tensile strengths. This may suggest that these quantities are related to some other factors not considered here, such as processing and microscopic structures. And we need to include the other important features in order to build better machine learning models.
+The physical properties are divided into two panels due to different scales of RMSE. We find it hard to have a good prediction in hardness and tensile strength, but it may not be a coincidence. It is exciting to notice that from the correlation heatmap analysis, it is clear that hardness is strongly and positively correlated to tensile strengths. This may suggest that these quantities are related to some other factors not considered here, such as processing and microscopic structures. And we need to include the other important features in order to build better machine learning models.
 
 
 \subsection{predict composition-property relationship}
 
 We further investigate machine learning model performance on more challenging problems. In the previous section single property is targeted using both alloy chemical composition and other known physical properties. However in practical situations, sometimes other properties are also unknown (e.g. a new family of alloy steel), would machine learning be able to distill the composition-property relationship to facilitate alloy steel design?
 
-We choose to use Extreme Gradient Boosting (XGBoost) algorithm for further analysis on alloy steel composition-relationship. This time the features only include composition information, i.e. weight percentage of each element. The performance of XGBoost in independently predicting 11 different physical properties is shown in Figure \ref{fig:compo-prop}. R2-score is used as error metric in this case.
+We choose to use Extreme Gradient Boosting (XGBoost) algorithm for further analysis on alloy steel composition-relationship. This time the features only include composition information, i.e. weight percentage of each element. The performance of XGBoost in independently predicting 11 different physical properties is shown in Figure \ref{fig:compo-prop}. R2-score is used as error metric in this case. The implementation of this part is very similar to that in \hyperlink{ml}{\texttt{benchmark.py}} with some small tweaks, the code is not attached in SI but can be found on the author's \href{https://github.com/raymond931118/scraping}{GitHub}.
 
 \begin{figure}[h]
   \center
@@ -224,7 +224,7 @@ We choose to use Extreme Gradient Boosting (XGBoost) algorithm for further analy
 
 Among the 11 tested properties, 8 of them do not show a strong relationship to composition, both training score and test score are below 0.5. Specific heat capacity and electrical resistivity get a high score in training but score poorly in test. This probably means XGBoost cannot correctly capture the relationship from the training set, but only numerically fit the data. In other words, the model suffers from overfitting. One thing to notice here is that R2-score can be negative, which means the model is even worse than a horizontal line through the mean feature value.
 
-XGBoost performs well in predicting thermal conductivity using composition information, where the test score is even higher than training score. In order to validate our findings, the learning curve of predicting thermal conductivity is shown in Figure \ref{fig:learning_curve}. As the number of training samples increase, cross-validation score monotonically increase and converge to the high training score. This clearly means add more training samples can further improve the performance of XGBoost model.
+XGBoost performs well in predicting thermal conductivity using composition information, where the test score is even higher than training score. In order to validate our findings, the learning curve of predicting thermal conductivity is shown in Figure \ref{fig:learning_curve}. As the number of training samples increase, cross-validation scores quickly increase and converge to the high training score. This clearly means adding more training samples can further improve the performance of XGBoost model in predicting thermal conductivity.
 
 \begin{figure}[h]
   \center
@@ -240,7 +240,7 @@ XGBoost performs well in predicting thermal conductivity using composition infor
 % CONCLUSIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{conclusions}
-We find that machine learning algorithm can provide both qualitative and quantitative insights of alloy steel composition-property relationship. Gradient boost-based algorithms outperform the other machine learning algorithms in our benchmark. XGBoost is particularly successful in predicting thermal conductivity using alloy chemical composition, and the performance can be improved by adding more training samples.
+We find that machine learning could provide both qualitative and quantitative insights of alloy steel composition-property relationship. Gradient boost-based algorithms outperform the other machine learning algorithms in our benchmark. XGBoost is particularly successful in predicting thermal conductivity using alloy chemical composition, and the performance can be improved by adding more training samples.
 
 \begin{table*}[t]
 \begin{ruledtabular}
@@ -291,7 +291,7 @@ XGBoost & `gamma' &  \{0, 0.1, 0.2, 0.3, 0.4\}\\
 
 \section{Supporting information}
 
-\noindent \texttt{\Large{scrape.py}\label{code:scrape}}
+\noindent \hypertarget{scrape}{\texttt{\Large{scrape.py}}}
 \begin{lstlisting}
   1 #! /home/raymond/.conda/envs/scrape/bin/python
   2 # Author: Raymond Wang <raymondwang@u.northwestern.edu>
@@ -437,7 +437,7 @@ XGBoost & `gamma' &  \{0, 0.1, 0.2, 0.3, 0.4\}\\
 \end{lstlisting}
 
 \clearpage
-\noindent \texttt{\Large{post\_processing.py}\label{code:postprocess}}
+\noindent \hypertarget{pprocess}{\texttt{\Large{post\_processing.py}}\label{code:postprocess}}
 \begin{lstlisting}
   1 import os
   2 
@@ -474,7 +474,7 @@ XGBoost & `gamma' &  \{0, 0.1, 0.2, 0.3, 0.4\}\\
 
 
 \clearpage
-\noindent \texttt{\Large{featurize.py}\label{code:featurize}}
+\noindent \hypertarget{featurize}{\texttt{\Large{featurize.py}}}
 \begin{lstlisting}
   1 from collections import defaultdict
   2 import pandas as pd
@@ -595,7 +595,7 @@ XGBoost & `gamma' &  \{0, 0.1, 0.2, 0.3, 0.4\}\\
 
 
 \clearpage
-\noindent \texttt{\Large{correlation.py}\label{code:correlation}}\
+\noindent \hypertarget{correlation}{\texttt{\Large{correlation.py}}}\
 \begin{lstlisting}
   1 import pandas as pd
   2 import seaborn as sns; sns.set()
@@ -634,7 +634,7 @@ XGBoost & `gamma' &  \{0, 0.1, 0.2, 0.3, 0.4\}\\
 \end{lstlisting}
 
 \clearpage
-\noindent \texttt{\Large{benchmark.py}\label{code:ml}}
+\noindent \hypertarget{ml}{\texttt{\Large{benchmark.py}}}
 \begin{lstlisting}
   1 import numpy as np
   2 import pandas as pd
