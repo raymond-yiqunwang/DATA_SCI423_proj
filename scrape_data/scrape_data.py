@@ -1,7 +1,7 @@
 #! /home/raymond/.conda/envs/scrape/bin/python
 # Author: Raymond Wang <raymondwang@u.northwestern.edu>
 # Challenge project from Citrine Informatics
-# Functionality: Scrape alloy steel data from MatWeb and save to csv files
+# Functionality: scrape alloy steel data from MatWeb and save to csv files
 
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
