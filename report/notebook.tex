@@ -280,44 +280,440 @@
     
 
     
-    \hypertarget{data-sci-423-final-project}{%
-\section{DATA SCI 423 \textbar{} Final
-Project}\label{data-sci-423-final-project}}
+    \#
 
-    \hypertarget{analysis-of-alloy-steel-composition-property-relationships-using-machine-learning}{%
-\subsection{Analysis of Alloy Steel Composition-Property Relationships
-Using Machine
-Learning}\label{analysis-of-alloy-steel-composition-property-relationships-using-machine-learning}}
+DATA\_SCI 423 \textbar{} Final Project
 
-    \hypertarget{raymond-wang-yangdongling-liu}{%
-\subsubsection{Raymond Wang, Yangdongling
-Liu}\label{raymond-wang-yangdongling-liu}}
+    \#
+
+Understanding Alloy Steel Composition-Property Relationships Using
+Machine Learning
+
+    \#\#
+
+Raymond Wang, Yangdongling Liu
 
     \hypertarget{i.-introduction}{%
-\subsubsection{I. Introduction}\label{i.-introduction}}
+\subsection{I. Introduction}\label{i.-introduction}}
 
-    \hypertarget{ii.-data-acquisition}{%
-\subsubsection{II. Data Acquisition}\label{ii.-data-acquisition}}
+    We investigate the composition-property relationships in alloy steels
+using machine learning models. Alloys that consist of multi-elemental
+composition exhibit a large variety of physical properties, and have
+been widely used in modern industry. For instance, copper alloys are
+commonly used in the manufacture of electrical equipment, titanium
+alloys are most often seem in biomaterial applications. However, the
+high dimensional composition space makes it challenging to understand
+how elemental composition govern alloy properties. Existing theoretical
+models such as finite element model (FEM) are in general computationally
+expensive. In this work, we present a reliable and efficient way to
+directly predict alloy steel properties from their elemental composition
+using machine learning.
 
-    \hypertarget{iii.-featurization}{%
-\subsubsection{III. Featurization}\label{iii.-featurization}}
+The workflow of this project is shown in the figure below. We obtain 855
+alloy steel data from unstructured online resources. After data
+preprocessing, we first analyze correlation within the dataset, where
+several strongly correlated quantities are identified (e.g.~hardness and
+tensile strength). Then we benchmark the performance of 10 machine
+learning algorithms. Extreme gradient boosting (XGBoost) outperforms the
+other models in our case. Further analysis shows that predicting thermal
+conductivity from chemical composition using XGBoost has satisfying
+accuracy and the model performance could be improved by having more
+training data.
 
-    \hypertarget{iv.-correlation-analysis}{%
-\subsubsection{IV. Correlation
-Analysis}\label{iv.-correlation-analysis}}
+Our findings suggest that machine learning is a powerful tool that could
+provide more insights of alloy steel composition-property relationship
+than using human physical intuition or experience, and that data-driven
+research is a thriving division in physical science community.
 
     
 
-    \hypertarget{v.-machine-learning}{%
-\subsubsection{V. Machine Learning}\label{v.-machine-learning}}
+    \hypertarget{ii.-data-acquisition-and-preprocessing}{%
+\subsection{II. Data Acquisition and
+Preprocessing}\label{ii.-data-acquisition-and-preprocessing}}
+
+    Alloy steel data is collected froma
+\href{http://www.matweb.com/index.aspx}{Matweb}, where alloy steels
+containing Manganese, Chromium, and Nickel are set as the target
+materials for scraping. The scraping code automatically collects
+materials information that meets the searching criteria and saves to
+local CSV files. Physical properties (e.g.~hardness, thermal
+conductivity) in different units, chemical compositions (e.g.~per
+centage weight of Mn, Ni, Cr), and the potentially helpful comments, are
+saved to local files with unchanged format. Since there is no
+data-editing involved in this step, the local data is guaranteed to be
+the same as its online version. Eventually the program extracted 855
+alloy steels that meet the criteria.
+
+Simple data-processing is performed right after all the data has been
+saved locally. This step modifies the file names and contents containing
+non-utf-8 encoding and fixes unwanted line breaks. The data collected
+from the last step is still string-based, e.g. `97\%' is interpreted as
+a sequence of characters instead of a floating point number. Therefore,
+it is necessary to convert these strings to machine-readable format
+(i.e.~floating point numbers) before any further data analysis.
+
+These physical variables include:
+
+\begin{longtable}[]{@{}cccccc@{}}
+\toprule
+\endhead
+\begin{minipage}[t]{0.18\columnwidth}\centering
+density\strut
+\end{minipage} & \begin{minipage}[t]{0.13\columnwidth}\centering
+hardness (Vickers)\strut
+\end{minipage} & \begin{minipage}[t]{0.13\columnwidth}\centering
+thermal conductivity\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\centering
+specific heat capacity\strut
+\end{minipage} & \begin{minipage}[t]{0.09\columnwidth}\centering
+CTE-linear\strut
+\end{minipage} & \begin{minipage}[t]{0.16\columnwidth}\centering
+poisson's ratio\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.18\columnwidth}\centering
+electrical resistivity\strut
+\end{minipage} & \begin{minipage}[t]{0.13\columnwidth}\centering
+elongation at break\strut
+\end{minipage} & \begin{minipage}[t]{0.13\columnwidth}\centering
+bulk modulus\strut
+\end{minipage} & \begin{minipage}[t]{0.14\columnwidth}\centering
+modulus of elasticity\strut
+\end{minipage} & \begin{minipage}[t]{0.09\columnwidth}\centering
+shear modulus\strut
+\end{minipage} & \begin{minipage}[t]{0.16\columnwidth}\centering
+tensile strength at yield\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+Ten element types including are considered, including:
+
+\begin{longtable}[]{@{}crrrrrrrrr@{}}
+\toprule
+\endhead
+Fe & Mn & Cr & Ni & Mo & Cu & C & S & Si & P\tabularnewline
+\bottomrule
+\end{longtable}
+
+Some of the most significant code implemented in this section is shown
+below.
+
+    \begin{Shaded}
+\begin{Highlighting}[]
+\ImportTok{from}\NormalTok{ selenium }\ImportTok{import}\NormalTok{ webdriver}
+\ImportTok{from}\NormalTok{ selenium.webdriver.support.ui }\ImportTok{import}\NormalTok{ Select}
+
+\CommentTok{# navigate to target website}
+\NormalTok{options }\OperatorTok{=}\NormalTok{ webdriver.ChromeOptions()}
+\NormalTok{driver_path }\OperatorTok{=}\NormalTok{ os.getcwd() }\OperatorTok{+} \StringTok{"/chromedriver-linux"}
+\NormalTok{driver }\OperatorTok{=}\NormalTok{ webdriver.Chrome(executable_path}\OperatorTok{=}\NormalTok{driver_path, chrome_options}\OperatorTok{=}\NormalTok{options)}
+\NormalTok{driver.get(}\StringTok{"http://www.matweb.com/index.aspx"}\NormalTok{)}
+\NormalTok{...}
+\CommentTok{# navigate into each alloy page}
+\NormalTok{driver.find_element_by_link_text(name).click()}
+\NormalTok{table }\OperatorTok{=}\NormalTok{ driver.find_element_by_xpath(}\StringTok{"//table[@class='tabledataformat']"}\NormalTok{)}
+\NormalTok{attrib }\OperatorTok{=}\NormalTok{ []}
+\ControlFlowTok{for}\NormalTok{ row }\KeywordTok{in}\NormalTok{ table.find_elements_by_xpath(}\StringTok{"//tr[@class='altrow datarowSeparator']"}\NormalTok{):}
+\NormalTok{    attrib.append([d.text }\ControlFlowTok{for}\NormalTok{ d }\KeywordTok{in}\NormalTok{ row.find_elements_by_css_selector(}\StringTok{'td'}\NormalTok{)])}
+    \ControlFlowTok{for}\NormalTok{ row }\KeywordTok{in}\NormalTok{ table.find_elements_by_xpath(}\StringTok{"//tr[@class=' datarowSeparator']"}\NormalTok{):}
+\NormalTok{        attrib.append([d.text }\ControlFlowTok{for}\NormalTok{ d }\KeywordTok{in}\NormalTok{ row.find_elements_by_css_selector(}\StringTok{'td'}\NormalTok{)])}
+\NormalTok{attrib }\OperatorTok{=}\NormalTok{ np.array(attrib)}
+\NormalTok{...}
+\CommentTok{# collect features from files}
+\NormalTok{data_all_string }\OperatorTok{=}\NormalTok{ []}
+\ControlFlowTok{for}\NormalTok{ filename }\KeywordTok{in}\NormalTok{ os.listdir(ddir):}
+\NormalTok{    instance }\OperatorTok{=}\NormalTok{ [}\StringTok{'0%'}\NormalTok{]}\OperatorTok{*}\BuiltInTok{len}\NormalTok{(elem_list) }\OperatorTok{+}\NormalTok{ [}\StringTok{'NA'}\NormalTok{]}\OperatorTok{*}\BuiltInTok{len}\NormalTok{(prop_list) }\CommentTok{# initialize instance row}
+\NormalTok{    data }\OperatorTok{=}\NormalTok{ pd.read_csv(ddir}\OperatorTok{+}\NormalTok{filename, header}\OperatorTok{=}\DecValTok{0}\NormalTok{, index_col}\OperatorTok{=}\DecValTok{0}\NormalTok{)}
+    \ControlFlowTok{for}\NormalTok{ ii }\KeywordTok{in} \BuiltInTok{range}\NormalTok{(nfeature):}
+        \ControlFlowTok{if}\NormalTok{ feature_list[ii] }\KeywordTok{in}\NormalTok{ data.index:}
+\NormalTok{            instance[ii] }\OperatorTok{=}\NormalTok{ data.loc[feature_list[ii], }\StringTok{'Metric'}\NormalTok{]}
+            \CommentTok{# get rid of some unexpected '\textbackslash{}n' in dataset}
+            \ControlFlowTok{if} \StringTok{'}\CharTok{\textbackslash{}n}\StringTok{'} \KeywordTok{in}\NormalTok{ instance[ii]: instance[ii] }\OperatorTok{=}\NormalTok{ instance[ii].replace(}\StringTok{'}\CharTok{\textbackslash{}n}\StringTok{'}\NormalTok{, }\StringTok{' '}\NormalTok{) }
+    \ControlFlowTok{if}\NormalTok{ instance[}\DecValTok{0}\NormalTok{] }\KeywordTok{is} \KeywordTok{not} \DecValTok{0}\NormalTok{: data_all_string.append(instance) }\CommentTok{# steel only}
+\NormalTok{...     }
+\CommentTok{# convert string to float}
+\NormalTok{data_all_float }\OperatorTok{=}\NormalTok{ pd.DataFrame(data}\OperatorTok{=}\NormalTok{data_all_string, copy}\OperatorTok{=}\VariableTok{True}\NormalTok{)}
+\ControlFlowTok{for}\NormalTok{ ii }\KeywordTok{in} \BuiltInTok{range}\NormalTok{(data_all_float.shape[}\DecValTok{0}\NormalTok{]):}
+    \ControlFlowTok{for}\NormalTok{ jj }\KeywordTok{in} \BuiltInTok{range}\NormalTok{(data_all_float.shape[}\DecValTok{1}\NormalTok{]):}
+\NormalTok{        data_all_float.iloc[ii, jj] }\OperatorTok{=}\NormalTok{ extract_float(data_all_float.iloc[ii, jj])}
+\end{Highlighting}
+\end{Shaded}
+
+    \hypertarget{iii.-data-analysis}{%
+\subsection{III. Data Analysis}\label{iii.-data-analysis}}
+
+    The size of the dataset after featurization is 855\$\times\$23 (with 855
+instances and 23 features). It is quite impractical for humans to
+directly learn patterns from such a large amount of data. Let's take a
+look at what we have.
+
+    \begin{Shaded}
+\begin{Highlighting}[]
+\ImportTok{import}\NormalTok{ pandas }\ImportTok{as}\NormalTok{ pd}
+\NormalTok{data }\OperatorTok{=}\NormalTok{ pd.read_csv(}\StringTok{'./data_all_float.csv'}\NormalTok{, sep}\OperatorTok{=}\StringTok{';'}\NormalTok{, header}\OperatorTok{=}\DecValTok{0}\NormalTok{)}
+\NormalTok{data.head()}
+
+\NormalTok{   Iron, Fe  Carbon, C  Sulfur, S     ...     Shear Modulus  Poissons Ratio  Tensile Strength}
+\DecValTok{0}  \FloatTok{97.38575}      \FloatTok{0.300}       \FloatTok{0.04}\NormalTok{     ...              }\FloatTok{80.0}            \FloatTok{0.29}           \FloatTok{850.0}          
+\DecValTok{1}  \FloatTok{95.72250}      \FloatTok{0.405}       \FloatTok{0.02}\NormalTok{     ...              }\FloatTok{78.0}            \FloatTok{0.20}           \FloatTok{786.0}           
+\DecValTok{2}  \FloatTok{96.46250}      \FloatTok{0.200}       \FloatTok{0.04}\NormalTok{     ...              }\FloatTok{80.0}            \FloatTok{0.11}           \FloatTok{958.0}           
+\DecValTok{3}  \FloatTok{96.46250}      \FloatTok{0.200}       \FloatTok{0.04}\NormalTok{     ...              }\FloatTok{80.0}            \FloatTok{0.45}           \FloatTok{1125.0}         
+\DecValTok{4}  \FloatTok{97.38750}      \FloatTok{0.300}       \FloatTok{0.04}\NormalTok{     ...              }\FloatTok{80.0}            \FloatTok{0.10}           \FloatTok{425.0}           
+\NormalTok{...}
+\NormalTok{[}\DecValTok{855}\NormalTok{ rows x }\DecValTok{23}\NormalTok{ columns]}
+\end{Highlighting}
+\end{Shaded}
+
+    Using basic statistical knowledge, we decide to start from learning the
+correlation patten of these properties. The instances with `NaN' entries
+are dropped from the dataset, and eventually 254 materials are used to
+generate the heatmap, as shown below. The upper left corner could be
+safely ignored since it does not contain useful composition-property
+information. The lower left part reveals the relationship between
+elements and different physical properties. The more `read shift' the
+block is, the more positive correlation the element has to the property,
+and vice versa. The lower right region reflects how these physical
+properties themselves are correlated. This could potentially be
+interesting as well, but is out of the scope of this study.
+
+Some of the findings agree well with the way elements contribute to
+alloy steel properties as reported online, e.g.~carbon decreases
+ductility of steel, and could lead to a small shear modulus. However,
+the information from correlation analysis is more qualitative than
+quantitative. If we want more quantitative descriptions of the materials
+composition-property relationship, more sophisticated methods are
+needed. In the next section we discuss alloy steel data analysis using
+machine learning models.
+
+    \begin{Shaded}
+\begin{Highlighting}[]
+\ImportTok{import}\NormalTok{ seaborn }\ImportTok{as}\NormalTok{ sns}\OperatorTok{;}\NormalTok{ sns.}\BuiltInTok{set}\NormalTok{()}
+
+\NormalTok{data }\OperatorTok{=}\NormalTok{ pd.read_csv(}\StringTok{"data_all_float.csv"}\NormalTok{, header}\OperatorTok{=}\DecValTok{0}\NormalTok{, index_col}\OperatorTok{=}\VariableTok{None}\NormalTok{, sep}\OperatorTok{=}\StringTok{';'}\NormalTok{)}
+\CommentTok{# compute correlation}
+\NormalTok{corr }\OperatorTok{=}\NormalTok{ data.corr()}
+
+\CommentTok{# plot correlation heatmap}
+\NormalTok{fig }\OperatorTok{=}\NormalTok{ plt.figure(num}\OperatorTok{=}\VariableTok{None}\NormalTok{, figsize}\OperatorTok{=}\NormalTok{(}\DecValTok{40}\NormalTok{, }\DecValTok{40}\NormalTok{), dpi}\OperatorTok{=}\DecValTok{80}\NormalTok{, facecolor}\OperatorTok{=}\StringTok{'w'}\NormalTok{, edgecolor}\OperatorTok{=}\StringTok{'w'}\NormalTok{)}
+\NormalTok{colormap }\OperatorTok{=}\NormalTok{ sns.diverging_palette(}\DecValTok{220}\NormalTok{, }\DecValTok{10}\NormalTok{, as_cmap}\OperatorTok{=}\VariableTok{True}\NormalTok{)}
+\NormalTok{mask }\OperatorTok{=}\NormalTok{ np.zeros_like(corr)}
+\NormalTok{mask[np.triu_indices_from(mask)] }\OperatorTok{=} \VariableTok{True}
+\NormalTok{ylabel }\OperatorTok{=} \BuiltInTok{list}\NormalTok{(corr.columns)}
+\NormalTok{ax }\OperatorTok{=}\NormalTok{ sns.heatmap(corr, cmap}\OperatorTok{=}\NormalTok{colormap, mask}\OperatorTok{=}\NormalTok{mask, annot}\OperatorTok{=}\VariableTok{True}\NormalTok{, fmt}\OperatorTok{=}\StringTok{".2f"}\NormalTok{, }
+\NormalTok{                 xticklabels}\OperatorTok{=}\NormalTok{corr.columns[:}\OperatorTok{-}\DecValTok{1}\NormalTok{], yticklabels}\OperatorTok{=}\NormalTok{ylabel)}
+\NormalTok{plt.title(label}\OperatorTok{=}\StringTok{"Correlation Heatmap of All Features"}\NormalTok{, loc}\OperatorTok{=}\StringTok{'center'}\NormalTok{, }
+\NormalTok{          fontdict}\OperatorTok{=}\NormalTok{\{}\StringTok{'fontname'}\NormalTok{:}\StringTok{'DejaVu Sans'}\NormalTok{, }\StringTok{'size'}\NormalTok{:}\StringTok{'24'}\NormalTok{, }\StringTok{'color'}\NormalTok{:}\StringTok{'black'}\NormalTok{, }
+                    \StringTok{'weight'}\NormalTok{:}\StringTok{'bold'}\NormalTok{, }\StringTok{'verticalalignment'}\NormalTok{:}\StringTok{'bottom'}\NormalTok{\})}
+\NormalTok{plt.show()}
+\end{Highlighting}
+\end{Shaded}
 
     
 
-    \(\Gamma\)
+    \hypertarget{iv.-benchmarking-machine-learning-model-performance}{%
+\subsection{IV. Benchmarking Machine Learning Model
+Performance}\label{iv.-benchmarking-machine-learning-model-performance}}
+
+    We perform systematic benchmark of different machine learning algorithm
+performance on various physical property predictions.
+
+Each training takes one physical property (e.g.~hardness) as the target,
+while the other 12 properties plus aforementioned 10 element types are
+used as input features. Instances with `NaN' are dropped from the
+dataset. Both X and y are standardized (i.e.~centered to zero and scaled
+to unit variance) as implemented in StandardScaler() from sklearn.
+
+10 machine learning algorithms are benchmarked here, including: - Linear
+Regression - Least-angle regression with Lasso (LassoLars) - Kernel
+Ridge - Linear Support Vector Regression (Linear SVR) - Stochastic
+Gradient Descent Regression (SGD) - Multi-layer Perceptron Regressor
+(MLP) - AdaBoost Regression - Random Forest Regression - Gradient
+Boosting Regression - Extreme Gradient Boosting (XGBoost)
+
+The dataset is divided into training (75\%) and testing (25\%) parts.
+Grid search method is used for hyper-parameter tuning. The set of
+hyper-parameters are shown in Supporting Information. The optimal
+setting of the parameters is determined based on 5-fold cross-validation
+performed on training data only. R2 score is used as error metric.
+
+The key part of our implementation is attached below (using XGBoost as
+an example):
+
+    \begin{Shaded}
+\begin{Highlighting}[]
+\ImportTok{import}\NormalTok{ sys}
+\ImportTok{import}\NormalTok{ xgboost}
+\ImportTok{from}\NormalTok{ sklearn.preprocessing }\ImportTok{import}\NormalTok{ StandardScaler}
+\ImportTok{from}\NormalTok{ sklearn.model_selection }\ImportTok{import}\NormalTok{ GridSearchCV, train_test_split}
+\ImportTok{from}\NormalTok{ sklearn.metrics }\ImportTok{import} \OperatorTok{*}
+
+\CommentTok{# set hyper-parameters}
+\NormalTok{hyper_params }\OperatorTok{=}\NormalTok{ [\{}
+    \StringTok{'n_estimators'}\NormalTok{ : (}\DecValTok{10}\NormalTok{, }\DecValTok{50}\NormalTok{, }\DecValTok{100}\NormalTok{, }\DecValTok{250}\NormalTok{, }\DecValTok{500}\NormalTok{, }\DecValTok{1000}\NormalTok{,),}
+    \StringTok{'learning_rate'}\NormalTok{ : (}\FloatTok{0.0001}\NormalTok{,}\FloatTok{0.01}\NormalTok{, }\FloatTok{0.05}\NormalTok{, }\FloatTok{0.1}\NormalTok{, }\FloatTok{0.2}\NormalTok{,),}
+    \StringTok{'gamma'}\NormalTok{ : (}\DecValTok{0}\NormalTok{,}\FloatTok{0.1}\NormalTok{,}\FloatTok{0.2}\NormalTok{,}\FloatTok{0.3}\NormalTok{,}\FloatTok{0.4}\NormalTok{,),}
+    \StringTok{'max_depth'}\NormalTok{ : (}\DecValTok{6}\NormalTok{,),}
+    \StringTok{'subsample'}\NormalTok{ : (}\FloatTok{0.5}\NormalTok{, }\FloatTok{0.75}\NormalTok{, }\DecValTok{1}\NormalTok{,),}
+\NormalTok{\}]}
+
+\NormalTok{stdscale }\OperatorTok{=}\NormalTok{ StandardScaler()}
+
+\NormalTok{properties }\OperatorTok{=}\NormalTok{ [ }\StringTok{'Thermal Conductivity'}\NormalTok{, }\StringTok{'Specific Heat Capacity'}\NormalTok{, }\StringTok{'Hardness, Vickers'}\NormalTok{, }
+              \StringTok{'Electrical Resistivity'}\NormalTok{, }\StringTok{'Elongation at Break'}\NormalTok{, }\StringTok{'Bulk Modulus'}\NormalTok{, }
+              \StringTok{'Modulus of Elasticity'}\NormalTok{, }\StringTok{'Shear Modulus'}\NormalTok{, }\StringTok{'Poissons Ratio'}\NormalTok{, }
+              \StringTok{'Tensile Strength, Yield'}\NormalTok{, }\StringTok{'Tensile Strength, Ultimate'}\NormalTok{]}
+
+\ControlFlowTok{for}\NormalTok{ target }\KeywordTok{in}\NormalTok{ properties:}
+\NormalTok{    X }\OperatorTok{=}\NormalTok{ data.drop(target, axis}\OperatorTok{=}\DecValTok{1}\NormalTok{).values}
+\NormalTok{    y }\OperatorTok{=}\NormalTok{ data[target].values}
+    
+    \CommentTok{# standardize features}
+\NormalTok{    X }\OperatorTok{=}\NormalTok{ stdscale.fit_transform(X)}
+\NormalTok{    y }\OperatorTok{=}\NormalTok{ stdscale.fit_transform(y.reshape(}\OperatorTok{-}\DecValTok{1}\NormalTok{, }\DecValTok{1}\NormalTok{)) }
+    
+\NormalTok{    X_train, X_test, y_train, y_test }\OperatorTok{=}\NormalTok{ train_test_split(X, y, train_size}\OperatorTok{=}\FloatTok{0.75}\NormalTok{, }
+\NormalTok{                                                        test_size}\OperatorTok{=}\FloatTok{0.25}\NormalTok{, random_state}\OperatorTok{=}\DecValTok{0}\NormalTok{)}
+    
+\NormalTok{    regressor }\OperatorTok{=}\NormalTok{ xgboost.XGBRegressor()}
+
+\NormalTok{    grid_clf }\OperatorTok{=}\NormalTok{ GridSearchCV(regressor, cv}\OperatorTok{=}\DecValTok{5}\NormalTok{, param_grid}\OperatorTok{=}\NormalTok{hyper_params,}
+\NormalTok{                            verbose}\OperatorTok{=}\DecValTok{1}\NormalTok{, n_jobs}\OperatorTok{=}\DecValTok{8}\NormalTok{, scoring}\OperatorTok{=}\StringTok{'r2'}\NormalTok{)}
+
+\NormalTok{    grid_clf.fit(X_train, y_train.ravel())}
+
+\NormalTok{    train_score_mse }\OperatorTok{=}\NormalTok{ mean_squared_error(stdscale.inverse_transform(y_train),}
+\NormalTok{                                         stdscale.inverse_transform(grid_clf.predict(X_train)))}
+\NormalTok{    test_score_mse }\OperatorTok{=}\NormalTok{ mean_squared_error(stdscale.inverse_transform(y_test),}
+\NormalTok{                                        stdscale.inverse_transform(grid_clf.predict(X_test)))}
+
+\NormalTok{    sorted_grid_params }\OperatorTok{=} \BuiltInTok{sorted}\NormalTok{(grid_clf.best_params_.items(), key}\OperatorTok{=}\NormalTok{operator.itemgetter(}\DecValTok{0}\NormalTok{))}
+
+    \CommentTok{# print results}
+\NormalTok{    out_txt }\OperatorTok{=} \StringTok{'}\CharTok{\textbackslash{}t}\StringTok{'}\NormalTok{.join([}\StringTok{'algorithm: '}\NormalTok{, }\BuiltInTok{str}\NormalTok{(sorted_grid_params).replace(}\StringTok{'}\CharTok{\textbackslash{}n}\StringTok{'}\NormalTok{, }\StringTok{','}\NormalTok{), }
+                         \BuiltInTok{str}\NormalTok{(train_score_mse), }\BuiltInTok{str}\NormalTok{(test_score_mse)])}
+
+    \BuiltInTok{print}\NormalTok{(out_txt)}
+\NormalTok{    sys.stdout.flush()}
+\end{Highlighting}
+\end{Shaded}
+
+    The results are plotted below. Training errors are shown in circles and
+solid lines, test errors are in squares and dashed lines. The y-axis is
+the calculated root mean square error (RMSE) value divided by the
+difference of maximum and minimum value in the target data. This
+normalization step is essential so as to directly compare the
+performance of different machine learning algorithms in predicting
+quantities at various scales. The sklearn built-in performance scores
+(e.g.~R2-score) are not used here.
+
+    
+
+    Interestingly, some trends can be identified across different algorithms
+as well as physical properties. In general, linear regression, Lasso,
+linear SVR and SGD algorithms lead to larger variance in normalized
+RMSE, while the rest have relatively better performance. XGBoost
+algorithm achieves the best performance among the 10 benchmarked
+methods.
+
+The physical properties are divided into two panels due to different
+scales of RMSE. We find it hard to have a good prediction in hardness
+and tensile strength, but it may not be a coincidence. It is exciting to
+notice that from the correlation heatmap analysis, it is clear that
+hardness is strongly and positively correlated to tensile strengths.
+This may suggest that these quantities are related to some other factors
+not considered here, such as processing and microscopic structures. And
+we need to include the other important features in order to build better
+machine learning models.
+
+    \hypertarget{v.-learning-thermal-properties-with-xgboost}{%
+\subsection{V. Learning Thermal Properties with
+XGBoost}\label{v.-learning-thermal-properties-with-xgboost}}
+
+    We further investigate machine learning model performance on more
+challenging problems. In the previous section a single property is
+targeted using both alloy chemical composition and other known physical
+properties. However, in practical situations, sometimes other properties
+are also unknown (e.g.~a new family of alloy steel). Therefore, our aim
+here is to further understand the composition-property relationship in
+alloy steel, i.e.~we will only use elemental composition information as
+input features to predict physical properties. We choose to use Extreme
+Gradient Boosting (XGBoost) algorithm for further analysis on alloy
+steel composition-relationship since it outperforms the other algorithms
+from our benchmark results.
+
+The implementation is essentailly the same as shown previously in the
+benchmark section and is therefore not presented here. The performance
+of XGBoost in predicting 11 different physical properties independently
+below. R2-score is used as error metric in this case.
+
+    
+
+    Among the 11 tested properties, 8 of them do not show a strong
+relationship to composition, both training score and test score are
+below 0.5. Specific heat capacity and electrical resistivity get a high
+score in training but score poorly in test. This probably means XGBoost
+cannot correctly capture the relationship from the training set, but
+only numerically fit the data. In other words, the model suffers from
+overfitting. One thing to notice here is that R2-score can be negative,
+which means the model is even worse than a horizontal line through the
+mean feature value.
+
+XGBoost performs well in predicting thermal conductivity using
+composition information, where the test score is even higher than
+training score. In order to validate our findings, we check the learning
+curve of our model.
+
+    \begin{Shaded}
+\begin{Highlighting}[]
+\ImportTok{import}\NormalTok{ xgboost}
+\ImportTok{from}\NormalTok{ sklearn.model_selection }\ImportTok{import}\NormalTok{ learning_curve}
+\ImportTok{from}\NormalTok{ sklearn.preprocessing }\ImportTok{import}\NormalTok{ StandardScaler}
+
+\NormalTok{stdscale }\OperatorTok{=}\NormalTok{ StandardScaler()}
+\NormalTok{X }\OperatorTok{=}\NormalTok{ stdscale.fit_transform(X)}
+\NormalTok{y }\OperatorTok{=}\NormalTok{ stdscale.fit_transform(y.reshape(}\OperatorTok{-}\DecValTok{1}\NormalTok{, }\DecValTok{1}\NormalTok{)) }
+
+\NormalTok{train_sizes, train_scores, valid_scores }\OperatorTok{=}\NormalTok{ learning_curve(xgboost.XGBRegressor(), X, y, }
+\NormalTok{                                                         train_sizes}\OperatorTok{=}\BuiltInTok{list}\NormalTok{(}\BuiltInTok{range}\NormalTok{(}\DecValTok{20}\NormalTok{, }\DecValTok{490}\NormalTok{, }\DecValTok{10}\NormalTok{)), cv}\OperatorTok{=}\DecValTok{5}\NormalTok{)}
+\NormalTok{out }\OperatorTok{=}\NormalTok{ []}
+\ControlFlowTok{for}\NormalTok{ ii }\KeywordTok{in} \BuiltInTok{range}\NormalTok{(}\BuiltInTok{len}\NormalTok{(train_sizes)):}
+\NormalTok{    out.append([train_sizes[ii], np.mean(train_scores[ii]), np.mean(valid_scores[ii])])}
+\end{Highlighting}
+\end{Shaded}
+
+    The learning curve of predicting thermal conductivity is shown below. As
+the number of training samples increase, cross-validation scores quickly
+increase and converge to the high training score. This clearly means
+adding more training samples can further improve the performance of
+XGBoost model in predicting thermal conductivity.
+
+    
+
+    \hypertarget{vi.-conclusions}{%
+\subsection{VI. Conclusions}\label{vi.-conclusions}}
+
+    We find that machine learning could provide both qualitative and
+quantitative insights of alloy steel composition-property relationship.
+Gradient boost-based algorithms outperform the other machine learning
+algorithms in our benchmark. XGBoost is particularly successful in
+predicting thermal conductivity using alloy chemical composition, and
+the performance can be improved by adding more training samples.
+
+    \hypertarget{supporting-information}{%
+\subsection{Supporting Information}\label{supporting-information}}
+
+    Table: Hyper-parameters used in different machine learning algorithms
+for grid search.
 
     
 
     
+
+    P.S. Open to collaboration on data-driven research in materials science
+and engineering. Please contact
+\href{mailto:raymondwang@u.northwestern.edu}{\nolinkurl{raymondwang@u.northwestern.edu}}
+if interested, or visit us at our
+\href{https://mtd.mccormick.northwestern.edu/research/}{group website}!
 
 
     % Add a bibliography block to the postdoc
