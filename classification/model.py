@@ -63,10 +63,10 @@ hyper_params = [{
 fig = plt.figure()
 # plot data
 axes2 = fig.add_subplot(111, projection = '3d')
-ind = np.nonzero(y >= 1)[0]
-axes2.scatter(X[ind, 0], X[ind, 1], y[ind], depthshade = True)
-ind = np.nonzero(y < 1)[0]
-axes2.scatter(X[ind, 0], X[ind, 1], y[ind], depthshade = True)
+#ind = np.nonzero(y >= 1)[0]
+axes2.scatter(X[:, 0], X[:, 1], y, depthshade = True)
+#ind = np.nonzero(y < 1)[0]
+#axes2.scatter(X[ind, 0], X[ind, 1], y[ind], depthshade = True)
 # separating hyperplane
 #x1 = X[:, 0].reshape(-1, 1)
 #x2 = X[:, 1].reshape(-1, 1)
